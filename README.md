@@ -4,7 +4,7 @@ This repository contains all coding projects and assignments completed during th
 
 ## Course Assignments
 
-Here is a chronological list of assignments, detailing their purpose and the key skills acquired.
+Here is a chronological list of assignments, detailing their purpose and the key skills acquired. **For a more granular breakdown of each assignment tied to specific course steps, please refer to the [Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md).**
 
 ### Section 1: Getting Started
 

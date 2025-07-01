@@ -64,7 +64,7 @@ Here is a chronological list of assignments, detailing their purpose and the key
 
 #### 8. Basic Webpage Assignment
 
-* **Objective:** Develop a basic HTML webpage incorporating specific structural elements.
+* **Objective:** Update the existing `Assignment.html` template by incorporating basic structural elements (`p`, `h1`, `h3`, `h6`) into its body and giving the page a title.
 * **Core Course Concepts**: The foundational understanding of **Document Structure (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`)**, **Headings (`<h1>`, `<h3>`, `<h6>`)**, and **Paragraphs (`<p>`)** was acquired directly through course materials and exercises. This included mastering their proper placement and hierarchical use to structure webpage content semantically.
     * **`<head>` Element**: Used to contain metadata about the HTML document, such as the page's title and character encoding.
         * **`<title>` Element**: Set the browser tab/window title for the page (e.g., "BASIC WEBPAGE ASSIGNMENT").
@@ -76,4 +76,4 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * **Controlling Visual Spacing in HTML-Only Environments**: Investigated methods for adding vertical space between elements without CSS. This led to the intentional use of multiple `<br>` tags (`<br><br>`) for visual separation between list items. This research included understanding that while effective for immediate visual spacing, this method is generally superseded by CSS for best practices in production environments.
     * **HTML Comments (``) for Developer Notes**: Researched the standard and best practices for incorporating developer-facing notes directly into the HTML source code. This included learning the precise syntax (``) and optimal placement (e.g., within `<head>` for overall document notes, or preceding specific code blocks) to ensure comments are invisible to the user but provide valuable context and documentation for code maintainability. This also involved understanding the distinction between HTML comments and metadata tags.
 * **Project Outcome & Learning:** The assignment was successfully completed, demonstrating a solid grasp of fundamental HTML5 elements and their structural application. The independent research significantly deepened my understanding of practical HTML challenges and the importance of choosing appropriate techniques, even when adhering to specific constraints like an HTML-only environment.
-* **Relevant Files:** [BASIC_WEBPAGE_ASSIGNMENT](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/BASIC_WEBPAGE_ASSIGNMENT.html)
+* **Relevant Files:** [Assignment.html](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/Assignment.html)

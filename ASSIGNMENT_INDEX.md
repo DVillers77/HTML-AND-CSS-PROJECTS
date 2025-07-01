@@ -43,6 +43,10 @@ This file serves as a detailed index of assignments from the HTML & CSS Course, 
 * **Relevant Files:** [Assignment.html](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/Assignment.html)
 * **Reflection/Learning Note:** This assignment was key for reinforcing basic HTML structure. I initially misunderstood the instruction and created a new file, which highlighted the importance of carefully re-reading assignment instructions and how Git tracks file changes (deletion and modification) within a single commit. This was a valuable lesson in attention to detail and version control.
 
+#### Step 67: FOOTER, MAIN AND IMAGE ASSIGNMENT
+* **Objective:** Add `<footer>`, `<main>`, and `<img>` tags to `Assignment.html`.
+* **Relevant Files:** [Assignment.html](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/Assignment.html)
+
 ---
 
 *Note: This index is primarily for internal course tracking and direct navigation within the repository. For a high-level overview of project outcomes and learned skills, please refer to the main [README.md](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/README.md) file.*

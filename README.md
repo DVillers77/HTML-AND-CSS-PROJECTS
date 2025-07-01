@@ -77,3 +77,19 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * **HTML Comments (``) for Developer Notes**: Researched the standard and best practices for incorporating developer-facing notes directly into the HTML source code. This included learning the precise syntax (``) and optimal placement (e.g., within `<head>` for overall document notes, or preceding specific code blocks) to ensure comments are invisible to the user but provide valuable context and documentation for code maintainability. This also involved understanding the distinction between HTML comments and metadata tags.
 * **Project Outcome & Learning:** The assignment was successfully completed, demonstrating a solid grasp of fundamental HTML5 elements and their structural application. The independent research significantly deepened my understanding of practical HTML challenges and the importance of choosing appropriate techniques, even when adhering to specific constraints like an HTML-only environment.
 * **Relevant Files:** [Assignment.html](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/Assignment.html)
+
+#### 9. Footer, Main, and Image Assignment (Section 2 Subsection C step 67)
+
+* **Objective:** Integrate `<footer>`, `<main>`, and `<img>` tags into the `Assignment.html` document.
+* **Core Course Concepts:**
+    * Understanding the basic syntax and general purpose of the `<footer>` tag for document footers.
+    * Understanding the basic syntax and general purpose of the `<main>` tag for primary content.
+    * Understanding the basic syntax of the `<img>` tag for embedding images.
+    * Initial exposure to `src` (source) and `alt` (alternative text) attributes for the `<img>` tag.
+* **Independent Research & Best Practices:**
+    * **Semantic Indentation:** Applied principles of code readability and hierarchy by consistently indenting child elements relative to their parent tags. This was done even though formal indentation rules had not yet been covered, demonstrating proactive learning and a commitment to clean code.
+    * **Semantic Placement of `<main>` and `<footer>`:** Researched and applied best practices for the logical and semantic placement of these tags. This involved understanding that `<main>` should encompass all primary, unique page content, and `<footer>` should contain document-level footer information, typically placed after the main content, for better document outline and structure.
+    * **Image Placeholders:** Utilized an online image placeholder (`https://via.placeholder.com/150`) for the `src` attribute during development, showcasing a practical approach to displaying images for testing when local assets are not yet available.
+    * **Structuring Footer Content:** Ensured that text content within the `<footer>` was properly wrapped in a `<p>` tag, adhering to HTML's block-level element requirements for text, even when the course had not explicitly covered this nuance.
+* **Outcome:** Successfully incorporated the new HTML5 semantic tags, structuring the webpage content more logically and enhancing its readability through consistent indentation. The page now includes a clear main content area, a footer, and a visible image.
+* **Relevant Files:** [Assignment.html](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/Assignment.html)

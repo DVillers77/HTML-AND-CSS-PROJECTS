@@ -54,6 +54,11 @@ This file serves as a detailed index of assignments from the HTML & CSS Course, 
     * [pages/dog.html](pages/dog.html)
     * [images/xolo_art_01.png](images/xolo_art_01.png)
 
+#### Step 75: EXPLICIT LINK ASSIGNMENT
+* **Objective:** Create an explicit link in `assignment.html` that navigates directly to an online image URL.
+* **Relevant Files:**
+    * [assignment.html](assignment.html)
+
 ---
 
 *Note: This index is primarily for internal course tracking and direct navigation within the repository. For a high-level overview of project outcomes and learned skills, please refer to the main [README.md](README.md) file.*

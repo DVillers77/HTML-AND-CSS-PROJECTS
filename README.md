@@ -110,3 +110,15 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * [assignment.html](assignment.html) (Modified)
     * [pages/dog.html](pages/dog.html) (New)
     * [images/xolo_art_01.png](images/xolo_art_01.png) (New)
+
+#### 11. Explicit Link Assignment (Section 2 Subsection C Step 75)
+
+* **Objective:** Create an explicit link (`<a>` tag) in `assignment.html` that navigates directly to an online image URL.
+* **Core Course Concepts:**
+    * Distinguishing between embedding an image (`<img>` tag) and linking to an image (`<a>` tag with image URL as `href`).
+    * Using the `<a>` (anchor) element with an absolute URL in the `href` attribute to link to external resources.
+* **Independent Research & Best Practices:**
+    * **External Link Etiquette:** Employed `target="_blank"` on the explicit link to open the external image in a new browser tab, ensuring the user's original `assignment.html` page remains open, enhancing user experience.
+* **Outcome:** Successfully added a functional explicit link to an external image URL in `assignment.html`, demonstrating the ability to integrate external web content navigation.
+* **Relevant Files:**
+    * [assignment.html](assignment.html) (Modified)

@@ -59,6 +59,13 @@ This file serves as a detailed index of assignments from the HTML & CSS Course, 
 * **Relevant Files:**
     * [assignment.html](assignment.html)
 
+#### Step 76: DOG WEBPAGE ASSIGNMENT
+* **Objective:** Create a new HTML page (`dog_video.html`) with a YouTube video link, and integrate consistent navigation across `assignment.html`, `dog.html`, and `dog_video.html`.
+* **Relevant Files:**
+    * [assignment.html](assignment.html)
+    * [pages/dog.html](pages/dog.html)
+    * [pages/dog_video.html](pages/dog_video.html)
+
 ---
 
 *Note: This index is primarily for internal course tracking and direct navigation within the repository. For a high-level overview of project outcomes and learned skills, please refer to the main [README.md](README.md) file.*

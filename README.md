@@ -122,3 +122,22 @@ Here is a chronological list of assignments, detailing their purpose and the key
 * **Outcome:** Successfully added a functional explicit link to an external image URL in `assignment.html`, demonstrating the ability to integrate external web content navigation.
 * **Relevant Files:**
     * [assignment.html](assignment.html) (Modified)
+
+#### 12. Dog Webpage Assignment (Section 2 Subsection C Step 76)
+
+* **Objective:** Create a new HTML page (`dog_video.html`) featuring a YouTube video link, and integrate a comprehensive navigation bar across `assignment.html`, `dog.html`, and `dog_video.html`.
+* **Core Course Concepts:**
+    * Creating new HTML documents with proper boilerplate.
+    * Embedding external content via explicit links (`<a>` tag with YouTube URL).
+    * Understanding and implementing the `<nav>` semantic element for site navigation.
+    * Mastering **implicit (relative) linking** from different directory depths (`pages/` vs. root) to ensure seamless navigation across all pages.
+* **Independent Research & Best Practices:**
+    * **Consistent Navigation:** Applied the principle of consistent navigation by including the same `<nav>` bar on all three primary HTML pages for a uniform user experience.
+    * **Relative Path Precision:** Demonstrated careful attention to relative pathing (`assignment.html`, `pages/dog.html`, `pages/dog_video.html`, `../assignment.html`) to ensure all links function correctly regardless of the source file's location.
+    * **External Link Etiquette:** Continued using `target="_blank"` for the YouTube video link.
+    * **Code Cleanliness:** Removed redundant old "Back to Home" links after implementing the central navigation bar.
+* **Outcome:** Successfully created a new `dog_video.html` page and implemented a robust, site-wide navigation system that allows users to easily move between `assignment.html`, `dog.html`, and `dog_video.html`, demonstrating proficiency in multi-page website structuring and navigation.
+* **Relevant Files:**
+    * [assignment.html](assignment.html) (Modified)
+    * [pages/dog.html](pages/dog.html) (Modified)
+    * [pages/dog_video.html](pages/dog_video.html) (New)

@@ -4,7 +4,7 @@ This repository contains all coding projects and assignments completed during th
 
 ## Course Assignments
 
-Here is a chronological list of assignments, detailing their purpose and the key skills acquired. **For a more granular breakdown of each assignment tied to specific course steps, please refer to the [Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md).**
+Here is a chronological list of assignments, detailing their purpose and the key skills acquired. **For a more granular breakdown of each assignment tied to specific course steps, please refer to the [Assignment Index](ASSIGNMENT_INDEX.md).**
 
 ### Section 1: Getting Started
 
@@ -34,7 +34,7 @@ Here is a chronological list of assignments, detailing their purpose and the key
 
 #### 5. Notepad++ Setup & First HTML Page
 
-* **Objective:** Install Notepad++ (or equivalent) and create/run a basic "Hello, world!" HTML page.
+* **Objective:** Install Notepad++ (or equivalent) and create/run a basic "hello, world!" HTML page.
 * **Core Course Concepts:**
     * Writing `<!DOCTYPE html>` declaration.
     * Basic `<html>` structure with `lang="en"`.
@@ -42,8 +42,8 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * Creating a paragraph with the `<p>` element.
     * Saving files with `.html` extension for browser execution.
     * Opening HTML files in Google Chrome.
-* **Outcome:** Successfully configured a Notepad++ for HTML development and created a functional "Hello, world!" HTML page, confirming the workflow for saving and running code in a browser.
-* **Relevant Files:** [hello_world.html](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/Hello_world.html)
+* **Outcome:** Successfully configured a Notepad++ for HTML development and created a functional "hello, world!" HTML page, confirming the workflow for saving and running code in a browser.
+* **Relevant Files:** [hello_world.html](hello_world.html)
 
 #### 6. File Extension Visibility
 
@@ -59,12 +59,12 @@ Here is a chronological list of assignments, detailing their purpose and the key
 * **Core Course Concepts:**
     * Reinforcement of basic HTML document structure (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`, `<meta charset>`).
     * Understanding the importance of a consistent template for new HTML files.
-* **Outcome:** Created `Assignment.html` with a standard HTML template, ready for content addition in subsequent assignments.
-* **Relevant Files:** [Assignment.html](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/Assignment.html)
+* **Outcome:** Created `assignment.html` with a standard HTML template, ready for content addition in subsequent assignments.
+* **Relevant Files:** [assignment.html](assignment.html)
 
 #### 8. Basic Webpage Assignment
 
-* **Objective:** Update the existing `Assignment.html` template by incorporating basic structural elements (`p`, `h1`, `h3`, `h6`) into its body and giving the page a title.
+* **Objective:** Update the existing `assignment.html` template by incorporating basic structural elements (`p`, `h1`, `h3`, `h6`) into its body and giving the page a title.
 * **Core Course Concepts**: The foundational understanding of **Document Structure (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`)**, **Headings (`<h1>`, `<h3>`, `<h6>`)**, and **Paragraphs (`<p>`)** was acquired directly through course materials and exercises. This included mastering their proper placement and hierarchical use to structure webpage content semantically.
     * **`<head>` Element**: Used to contain metadata about the HTML document, such as the page's title and character encoding.
         * **`<title>` Element**: Set the browser tab/window title for the page (e.g., "BASIC WEBPAGE ASSIGNMENT").
@@ -76,11 +76,11 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * **Controlling Visual Spacing in HTML-Only Environments**: Investigated methods for adding vertical space between elements without CSS. This led to the intentional use of multiple `<br>` tags (`<br><br>`) for visual separation between list items. This research included understanding that while effective for immediate visual spacing, this method is generally superseded by CSS for best practices in production environments.
     * **HTML Comments (``) for Developer Notes**: Researched the standard and best practices for incorporating developer-facing notes directly into the HTML source code. This included learning the precise syntax (``) and optimal placement (e.g., within `<head>` for overall document notes, or preceding specific code blocks) to ensure comments are invisible to the user but provide valuable context and documentation for code maintainability. This also involved understanding the distinction between HTML comments and metadata tags.
 * **Project Outcome & Learning:** The assignment was successfully completed, demonstrating a solid grasp of fundamental HTML5 elements and their structural application. The independent research significantly deepened my understanding of practical HTML challenges and the importance of choosing appropriate techniques, even when adhering to specific constraints like an HTML-only environment.
-* **Relevant Files:** [Assignment.html](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/Assignment.html)
+* **Relevant Files:** [assignment.html](assignment.html)
 
 #### 9. Footer, Main, and Image Assignment (Section 2 Subsection C step 67)
 
-* **Objective:** Integrate `<footer>`, `<main>`, and `<img>` tags into the `Assignment.html` document.
+* **Objective:** Integrate `<footer>`, `<main>`, and `<img>` tags into the `assignment.html` document.
 * **Core Course Concepts:**
     * Understanding the basic syntax and general purpose of the `<footer>` tag for document footers.
     * Understanding the basic syntax and general purpose of the `<main>` tag for primary content.
@@ -92,4 +92,21 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * **Image Placeholders:** Utilized an online image placeholder (`https://via.placeholder.com/150`) for the `src` attribute during development, showcasing a practical approach to displaying images for testing when local assets are not yet available.
     * **Structuring Footer Content:** Ensured that text content within the `<footer>` was properly wrapped in a `<p>` tag, adhering to HTML's block-level element requirements for text, even when the course had not explicitly covered this nuance.
 * **Outcome:** Successfully incorporated the new HTML5 semantic tags, structuring the webpage content more logically and enhancing its readability through consistent indentation. The page now includes a clear main content area, a footer, and a visible image.
-* **Relevant Files:** [Assignment.html](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/Assignment.html)
+* **Relevant Files:** [assignment.html](assignment.html)
+
+#### 10. Implicit Link Assignment (Section 2 Subsection C Step 74)
+
+* **Objective:** Create a new webpage (`dog.html`) with an image, and establish two-way implicit (relative) links between `assignment.html` and `dog.html`.
+* **Core Course Concepts:**
+    * Understanding and creating **implicit (relative) links** using the `<a>` (anchor) element and `href` attribute to navigate between pages within the same local directory structure.
+    * Creating a **new, complete HTML file** (`dog.html`) with proper boilerplate structure.
+    * Embedding **local images** using the `<img>` tag with a relative `src` path.
+    * Ensuring `alt` attributes provide descriptive alternative text for images.
+* **Independent Research & Best Practices:**
+    * **Repository File Organization:** Implemented a best practice by organizing new HTML files into a `pages/` subfolder and image assets into an `images/` subfolder, enhancing project structure and scalability beyond simple root-level placement.
+    * **Relative Path Mastery:** Confirmed understanding that for internal links and local image sources, relative paths (e.g., `pages/dog.html`, `../images/dog.jpg`) are essential, rather than absolute URLs from GitHub's website, to ensure functionality both locally and when hosted.
+* **Outcome:** Successfully created `dog.html` containing a locally sourced image, and established seamless navigation between `assignment.html` and `dog.html` using implicit links, demonstrating foundational understanding of multi-page websites.
+* **Relevant Files:**
+    * [assignment.html](assignment.html) (Modified)
+    * [pages/dog.html](pages/dog.html) (New)
+    * [images/xolo_art_01.png](images/xolo_art_01.png) (New)

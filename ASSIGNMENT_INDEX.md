@@ -23,8 +23,8 @@ This file serves as a detailed index of assignments from the HTML & CSS Course, 
 * **Relevant Files:** N/A
 
 #### Step 24: Notepad++ Assignment
-* **Objective:** Set up Notepad++ and create a basic "Hello, world!" HTML page.
-* **Relevant Files:** [hello_world.html](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/Hello_world.html)
+* **Objective:** Set up Notepad++ and create a basic "hello, world!" HTML page.
+* **Relevant Files:** [hello_world.html](hello_world.html)
 
 #### Step 27: File Extension View Assignment
 * **Objective:** Configure OS to display file extensions.
@@ -35,18 +35,25 @@ This file serves as a detailed index of assignments from the HTML & CSS Course, 
 ### Subsection B: Your First HTML Files
 
 #### Step 53: HTML Template Assignment
-* **Objective:** Create a reusable HTML boilerplate file (`Assignment.html`).
-* **Relevant Files:** [Assignment.html](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/Assignment.html)
+* **Objective:** Create a reusable HTML boilerplate file (`assignment.html`).
+* **Relevant Files:** [assignment.html](assignment.html)
 
 #### Step 56: Basic Webpage Assignment
-* **Objective:** Update the existing `Assignment.html` template by incorporating basic structural elements (`p`, `h1`, `h3`, `h6`) into its body and giving the page a title.
-* **Relevant Files:** [Assignment.html](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/Assignment.html)
+* **Objective:** Update the existing `assignment.html` template by incorporating basic structural elements (`p`, `h1`, `h3`, `h6`) into its body and giving the page a title.
+* **Relevant Files:** [assignment.html](assignment.html)
 * **Reflection/Learning Note:** This assignment was key for reinforcing basic HTML structure. I initially misunderstood the instruction and created a new file, which highlighted the importance of carefully re-reading assignment instructions and how Git tracks file changes (deletion and modification) within a single commit. This was a valuable lesson in attention to detail and version control.
 
 #### Step 67: FOOTER, MAIN AND IMAGE ASSIGNMENT
-* **Objective:** Add `<footer>`, `<main>`, and `<img>` tags to `Assignment.html`.
-* **Relevant Files:** [Assignment.html](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/Assignment.html)
+* **Objective:** Add `<footer>`, `<main>`, and `<img>` tags to `assignment.html`.
+* **Relevant Files:** [assignment.html](assignment.html)
+
+#### Step 74: IMPLICIT LINK ASSIGNMENT
+* **Objective:** Create a new `dog.html` with an image, and link it two-way with `assignment.html` using implicit links.
+* **Relevant Files:**
+    * [assignment.html](assignment.html)
+    * [pages/dog.html](pages/dog.html)
+    * [images/xolo_art_01.png](images/xolo_art_01.png)
 
 ---
 
-*Note: This index is primarily for internal course tracking and direct navigation within the repository. For a high-level overview of project outcomes and learned skills, please refer to the main [README.md](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/README.md) file.*
+*Note: This index is primarily for internal course tracking and direct navigation within the repository. For a high-level overview of project outcomes and learned skills, please refer to the main [README.md](README.md) file.*

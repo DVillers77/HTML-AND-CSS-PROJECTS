@@ -154,26 +154,16 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * **Code Readability:** Continuously refined and applied HTML indentation best practices across all modified files, ensuring clear hierarchical structure.
 * **Outcome:** Enhanced `assignment.html` with a relevant `<blockquote>` and visibly embedded a YouTube video directly into `dog_video.html`, demonstrating proficiency in independent learning and HTML integration.
 * **Relevant Files:**
-    * [assignment.html](HTML%20documents/assignment.html) (Modified)
-    * [dog.html](HTML%20documents/dog.html) (Modified)
-    * [README.md](README.md) (Modified)
-    * [ASSIGNMENT_INDEX.md](ASSIGNMENT_INDEX.md) (Modified)
+    * [HTML documents/assignment.html](HTML%20documents/assignment.html) (Modified)
+    * [HTML documents/dog.html](HTML%20documents/dog.html) (Modified)
+    * [HTML documents/dog_video.html](HTML%20documents/dog_video.html) (New)
 
-#### 14. File Reorganization for Submission (Follow-up to Step 80 - Post-Submission Correction)
-
-* **Objective:** Reorganize the project's HTML files into a dedicated "HTML documents" folder at the repository root and update all internal and documentation links to comply with specific instructor submission requirements.
-* **Core Course Concepts:**
-    * Understanding relative file paths in HTML (`<a href="...">`, `<img src="...">`).
-    * Understanding relative file paths in Markdown documentation (`[text](path/to/file)`).
-    * Correct use of URL encoding for spaces in file paths (`%20`).
-* **Independent Research & Best Practices:**
-    * **Adaptability:** Learned to adapt project file structure to specific external requirements (e.g., instructor's grading guidelines) even when they diverge from general industry best practices (e.g., preference for no spaces in folder names).
-    * **Link Management:** Meticulously updated all affected internal HTML links (`href` attributes) and documentation links (`README.md`, `ASSIGNMENT_INDEX.md`) to maintain site integrity and navigability after file relocation.
-    * **Debugging:** Practiced debugging by identifying and correcting broken links resulting from file movement.
-* **Outcome:** The project's HTML files are now correctly organized within the `HTML documents` folder, and all navigation and documentation links function properly, addressing instructor feedback for proper submission.
-* **Relevant Files:**
-    * [HTML documents/assignment.html](HTML%20documents/assignment.html) (Path Updated)
-    * [HTML documents/dog.html](HTML%20documents/dog.html) (Path Updated)
-    * [HTML documents/dog_video.html](HTML%20documents/dog_video.html) (Path Updated)
-    * [README.md](README%2md) (Modified, including link updates)
+**Post-Submission Correction / File Reorganization Note:**
+* **Reason:** Following initial submission, instructor feedback required reorganization of all HTML files into a dedicated `HTML documents/` folder for standardized project structure.
+* **Action Taken:** Moved `assignment.html`, `dog.html`, and `dog_video.html` into `HTML documents/`. All internal HTML links (`<nav>`) and documentation links (`README.md`, `ASSIGNMENT_INDEX.md`) were updated to reflect these new relative paths, ensuring continued navigability and accuracy.
+* **Relevant Files (affected by correction):**
+    * [HTML documents/assignment.html](HTML%20documents/assignment.html) (Path Updated & Link Changes)
+    * [HTML documents/dog.html](HTML%20documents/dog.html) (Path Updated & Link Changes)
+    * [HTML documents/dog_video.html](HTML%20documents/dog_video.html) (Path Updated & Link Changes)
+    * [README.md](README.md) (Modified, including link updates)
     * [ASSIGNMENT_INDEX.md](ASSIGNMENT_INDEX.md) (Modified, including link updates)

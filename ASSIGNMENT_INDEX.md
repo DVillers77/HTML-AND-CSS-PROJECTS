@@ -36,7 +36,7 @@ This file serves as a detailed index of assignments from the HTML & CSS Course, 
 
 #### Step 53: HTML Template Assignment
 * **Objective:** Create a reusable HTML boilerplate file (`assignment.html`).
-* **Relevant Files:** [assignment.html](assignment.html)
+* **Relevant Files:** [assignment.html](HTML%20documents/assignment.html)
 
 #### Step 56: Basic Webpage Assignment
 * **Objective:** Update the existing `assignment.html` template by incorporating basic structural elements (`p`, `h1`, `h3`, `h6`) into its body and giving the page a title.
@@ -45,32 +45,34 @@ This file serves as a detailed index of assignments from the HTML & CSS Course, 
 
 #### Step 67: FOOTER, MAIN AND IMAGE ASSIGNMENT
 * **Objective:** Add `<footer>`, `<main>`, and `<img>` tags to `assignment.html`.
-* **Relevant Files:** [assignment.html](assignment.html)
+* **Relevant Files:** [assignment.html](HTML%20documents/assignment.html)
 
 #### Step 74: IMPLICIT LINK ASSIGNMENT
 * **Objective:** Create a new `dog.html` with an image, and link it two-way with `assignment.html` using implicit links.
 * **Relevant Files:**
-    * [assignment.html](assignment.html)
-    * [pages/dog.html](pages/dog.html)
+    * [assignment.html](HTML%20documents/assignment.html)
+    * [dog.html](HTML%20documents/dog.html)
     * [images/xolo_art_01.png](images/xolo_art_01.png)
 
 #### Step 75: EXPLICIT LINK ASSIGNMENT
 * **Objective:** Create an explicit link in `assignment.html` that navigates directly to an online image URL.
 * **Relevant Files:**
-    * [assignment.html](assignment.html)
+    * [assignment.html](HTML%20documents/assignment.html)
 
 #### Step 76: DOG WEBPAGE ASSIGNMENT
 * **Objective:** Create a new HTML page (`dog_video.html`) with a YouTube video link, and integrate consistent navigation across `assignment.html`, `dog.html`, and `dog_video.html`.
 * **Relevant Files:**
-    * [assignment.html](assignment.html)
-    * [pages/dog.html](pages/dog.html)
-    * [pages/dog_video.html](pages/dog_video.html)
+    * [assignment.html](HTML%20documents/assignment.html)
+    * [dog.html](HTML%20documents/dog.html)
+    * [dog_video.html](HTML%20documents/dog_video.html)
 
 #### Step 80: DOG WEBPAGE CHALLENGE
 * **Objective:** Learn and implement the `<blockquote>` element in `assignment.html` and embed a YouTube video using `<iframe>` in `dog_video.html`.
 * **Relevant Files:**
-    * [assignment.html](assignment.html)
-    * [pages/dog_video.html](pages/dog_video.html)
+    * [HTML documents/assignment.html](HTML%20documents/assignment.html)
+    * [HTML documents/dog.html](HTML%20documents/dog.html)
+    * [HTML documents/dog_video.html](HTML%20documents/dog_video.html)
+* **Note on File Reorganization:** Following initial submission, all HTML files were moved into the `HTML documents/` folder, and all internal and documentation links were updated to reflect this change, addressing instructor feedback on file organization.
 
 ---
 

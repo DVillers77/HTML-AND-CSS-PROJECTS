@@ -60,7 +60,7 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * Reinforcement of basic HTML document structure (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`, `<meta charset>`).
     * Understanding the importance of a consistent template for new HTML files.
 * **Outcome:** Created `assignment.html` with a standard HTML template, ready for content addition in subsequent assignments.
-* **Relevant Files:** [assignment.html](assignment.html)
+* **Relevant Files:** [assignment.html](HTML%20documents/assignment.html)
 
 #### 8. Basic Webpage Assignment (Section 2 Subsection B Step 56)
 
@@ -76,7 +76,7 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * **Controlling Visual Spacing in HTML-Only Environments**: Investigated methods for adding vertical space between elements without CSS. This led to the intentional use of multiple `<br>` tags (`<br><br>`) for visual separation between list items. This research included understanding that while effective for immediate visual spacing, this method is generally superseded by CSS for best practices in production environments.
     * **HTML Comments (``) for Developer Notes**: Researched the standard and best practices for incorporating developer-facing notes directly into the HTML source code. This included learning the precise syntax (``) and optimal placement (e.g., within `<head>` for overall document notes, or preceding specific code blocks) to ensure comments are invisible to the user but provide valuable context and documentation for code maintainability. This also involved understanding the distinction between HTML comments and metadata tags.
 * **Project Outcome & Learning:** The assignment was successfully completed, demonstrating a solid grasp of fundamental HTML5 elements and their structural application. The independent research significantly deepened my understanding of practical HTML challenges and the importance of choosing appropriate techniques, even when adhering to specific constraints like an HTML-only environment.
-* **Relevant Files:** [assignment.html](assignment.html)
+* **Relevant Files:** [assignment.html](HTML%20documents/assignment.html)
 
 #### 9. Footer, Main, and Image Assignment (Section 2 Subsection C step 67)
 
@@ -92,7 +92,7 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * **Image Placeholders:** Utilized an online image placeholder (`https://via.placeholder.com/150`) for the `src` attribute during development, showcasing a practical approach to displaying images for testing when local assets are not yet available.
     * **Structuring Footer Content:** Ensured that text content within the `<footer>` was properly wrapped in a `<p>` tag, adhering to HTML's block-level element requirements for text, even when the course had not explicitly covered this nuance.
 * **Outcome:** Successfully incorporated the new HTML5 semantic tags, structuring the webpage content more logically and enhancing its readability through consistent indentation. The page now includes a clear main content area, a footer, and a visible image.
-* **Relevant Files:** [assignment.html](assignment.html)
+* **Relevant Files:** [assignment.html](HTML%20documents/assignment.html)
 
 #### 10. Implicit Link Assignment (Section 2 Subsection C Step 74)
 
@@ -107,8 +107,8 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * **Relative Path Mastery:** Confirmed understanding that for internal links and local image sources, relative paths (e.g., `pages/dog.html`, `../images/dog.jpg`) are essential, rather than absolute URLs from GitHub's website, to ensure functionality both locally and when hosted.
 * **Outcome:** Successfully created `dog.html` containing a locally sourced image, and established seamless navigation between `assignment.html` and `dog.html` using implicit links, demonstrating foundational understanding of multi-page websites.
 * **Relevant Files:**
-    * [assignment.html](assignment.html) (Modified)
-    * [pages/dog.html](pages/dog.html) (New)
+    * [assignment.html](HTML%20documents/assignment.html) (Modified)
+    * [dog.html](HTML%20documents/dog.html) (New)
     * [images/xolo_art_01.png](images/xolo_art_01.png) (New)
 
 #### 11. Explicit Link Assignment (Section 2 Subsection C Step 75)
@@ -121,7 +121,7 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * **External Link Etiquette:** Employed `target="_blank"` on the explicit link to open the external image in a new browser tab, ensuring the user's original `assignment.html` page remains open, enhancing user experience.
 * **Outcome:** Successfully added a functional explicit link to an external image URL in `assignment.html`, demonstrating the ability to integrate external web content navigation.
 * **Relevant Files:**
-    * [assignment.html](assignment.html) (Modified)
+    * [assignment.html](HTML%20documents/assignment.html) (Modified)
 
 #### 12. Dog Webpage Assignment (Section 2 Subsection C Step 76)
 
@@ -138,9 +138,9 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * **Code Cleanliness:** Removed redundant old "Back to Home" links after implementing the central navigation bar.
 * **Outcome:** Successfully created a new `dog_video.html` page and implemented a robust, site-wide navigation system that allows users to easily move between `assignment.html`, `dog.html`, and `dog_video.html`, demonstrating proficiency in multi-page website structuring and navigation.
 * **Relevant Files:**
-    * [assignment.html](assignment.html) (Modified)
-    * [pages/dog.html](pages/dog.html) (Modified)
-    * [pages/dog_video.html](pages/dog_video.html) (New)
+    * [assignment.html](HTML%20documents/assignment.html) (Modified)
+    * [dog.html](HTML%20documents/dog.html) (Modified)
+    * [dog_video.html](HTML%20documents/dog_video.html) (New)
 
 #### 13. Dog Webpage Challenge (Section 2 Subsection C Step 80)
 
@@ -154,7 +154,26 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * **Code Readability:** Continuously refined and applied HTML indentation best practices across all modified files, ensuring clear hierarchical structure.
 * **Outcome:** Enhanced `assignment.html` with a relevant `<blockquote>` and visibly embedded a YouTube video directly into `dog_video.html`, demonstrating proficiency in independent learning and HTML integration.
 * **Relevant Files:**
-    * [assignment.html](assignment.html) (Modified)
-    * [pages/dog_video.html](pages/dog_video.html) (Modified)
+    * [assignment.html](HTML%20documents/assignment.html) (Modified)
+    * [dog.html](HTML%20documents/dog.html) (Modified)
     * [README.md](README.md) (Modified)
     * [ASSIGNMENT_INDEX.md](ASSIGNMENT_INDEX.md) (Modified)
+
+#### 14. File Reorganization for Submission (Follow-up to Step 80 - Post-Submission Correction)
+
+* **Objective:** Reorganize the project's HTML files into a dedicated "HTML documents" folder at the repository root and update all internal and documentation links to comply with specific instructor submission requirements.
+* **Core Course Concepts:**
+    * Understanding relative file paths in HTML (`<a href="...">`, `<img src="...">`).
+    * Understanding relative file paths in Markdown documentation (`[text](path/to/file)`).
+    * Correct use of URL encoding for spaces in file paths (`%20`).
+* **Independent Research & Best Practices:**
+    * **Adaptability:** Learned to adapt project file structure to specific external requirements (e.g., instructor's grading guidelines) even when they diverge from general industry best practices (e.g., preference for no spaces in folder names).
+    * **Link Management:** Meticulously updated all affected internal HTML links (`href` attributes) and documentation links (`README.md`, `ASSIGNMENT_INDEX.md`) to maintain site integrity and navigability after file relocation.
+    * **Debugging:** Practiced debugging by identifying and correcting broken links resulting from file movement.
+* **Outcome:** The project's HTML files are now correctly organized within the `HTML documents` folder, and all navigation and documentation links function properly, addressing instructor feedback for proper submission.
+* **Relevant Files:**
+    * [HTML documents/assignment.html](HTML%20documents/assignment.html) (Path Updated)
+    * [HTML documents/dog.html](HTML%20documents/dog.html) (Path Updated)
+    * [HTML documents/dog_video.html](HTML%20documents/dog_video.html) (Path Updated)
+    * [README.md](README%2md) (Modified, including link updates)
+    * [ASSIGNMENT_INDEX.md](ASSIGNMENT_INDEX.md) (Modified, including link updates)

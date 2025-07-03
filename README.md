@@ -8,31 +8,31 @@ Here is a chronological list of assignments, detailing their purpose and the key
 
 ### Section 1: Getting Started
 
-#### 1. Google Chrome Setup
+#### 1. Google Chrome Setup (Section 1 Subsection B Step 20)
 
 * **Objective:** Install Google Chrome as the primary web browser for course development.
 * **Outcome:** Successfully installed and configured Google Chrome for development use, ensuring compatibility with programming and markup languages.
 * **Relevant Files:** N/A (Setup task)
 
-#### 2. Online Resources Familiarization
+#### 2. Online Resources Familiarization (Section 1 Subsection B Step 21)
 
 * **Objective:** Become familiar with key online developer resources.
 * **Outcome:** Explored W3Schools and Stack Overflow to understand their layout and utility as essential tools for coding assistance and debugging.
 * **Relevant Files:** N/A (Exploration task)
 
-#### 3. GitHub Repository Setup
+#### 3. GitHub Repository Setup (Section 1 Subsection B Step 22)
 
 * **Objective:** Establish a GitHub repository for course projects and configure local cloning.
 * **Outcome:** Created `HTML-AND-CSS-PROJECTS` repository on GitHub, initialized with a README, and successfully cloned it locally using GitHub Desktop, establishing the central location for all course work.
 * **Relevant Files:** N/A (Setup task - affects entire repo)
 
-#### 4. Public GitHub Submission
+#### 4. Public GitHub Submission (Section 1 Subsection B Step 23)
 
 * **Objective:** Ensure repository visibility is public for course submission.
 * **Outcome:** Verified and adjusted repository settings to public visibility, preparing for assignment submission.
 * **Relevant Files:** N/A (Configuration task)
 
-#### 5. Notepad++ Setup & First HTML Page
+#### 5. Notepad++ Setup & First HTML Page (Section 1 Subsection B Step 24)
 
 * **Objective:** Install Notepad++ (or equivalent) and create/run a basic "hello, world!" HTML page.
 * **Core Course Concepts:**
@@ -45,7 +45,7 @@ Here is a chronological list of assignments, detailing their purpose and the key
 * **Outcome:** Successfully configured a Notepad++ for HTML development and created a functional "hello, world!" HTML page, confirming the workflow for saving and running code in a browser.
 * **Relevant Files:** [hello_world.html](hello_world.html)
 
-#### 6. File Extension Visibility
+#### 6. File Extension Visibility (Section 1 Subsection B Step 27)
 
 * **Objective:** Configure operating system settings to display file extensions.
 * **Outcome:** Enabled file name extensions visibility in the OS, preventing common issues with incorrect file saving and ensuring proper code execution.
@@ -53,7 +53,7 @@ Here is a chronological list of assignments, detailing their purpose and the key
 
 ### Section 2: Building Basic Webpages
 
-#### 7. HTML Template Creation
+#### 7. HTML Template Creation (Section 2 Subsection B Step 53)
 
 * **Objective:** Create a reusable HTML template for future assignments.
 * **Core Course Concepts:**
@@ -62,7 +62,7 @@ Here is a chronological list of assignments, detailing their purpose and the key
 * **Outcome:** Created `assignment.html` with a standard HTML template, ready for content addition in subsequent assignments.
 * **Relevant Files:** [assignment.html](assignment.html)
 
-#### 8. Basic Webpage Assignment
+#### 8. Basic Webpage Assignment (Section 2 Subsection B Step 56)
 
 * **Objective:** Update the existing `assignment.html` template by incorporating basic structural elements (`p`, `h1`, `h3`, `h6`) into its body and giving the page a title.
 * **Core Course Concepts**: The foundational understanding of **Document Structure (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`)**, **Headings (`<h1>`, `<h3>`, `<h6>`)**, and **Paragraphs (`<p>`)** was acquired directly through course materials and exercises. This included mastering their proper placement and hierarchical use to structure webpage content semantically.

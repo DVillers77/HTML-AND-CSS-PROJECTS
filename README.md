@@ -141,3 +141,20 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * [assignment.html](assignment.html) (Modified)
     * [pages/dog.html](pages/dog.html) (Modified)
     * [pages/dog_video.html](pages/dog_video.html) (New)
+
+#### 13. Dog Webpage Challenge (Section 2 Subsection C Step 80)
+
+* **Objective:** Successfully learn and utilize previously untaught HTML elements to enhance existing webpages, specifically implementing an extended quotation and embedding external video content, emphasizing self-teaching and problem-solving skills.
+* **Core Course Concepts:**
+    * Utilizing the `<blockquote>` element for semantic block-level quotations, including visible attribution and the `cite` attribute.
+    * Embedding external media (YouTube video) using the `<iframe>` element and its attributes.
+* **Independent Research & Best Practices:**
+    * **Self-Teaching & Problem Solving:** Researched and identified correct methods for embedding external content. Successfully debugged and adapted to variations in YouTube's "Share" interface (e.g., lack of "Embed" option for Shorts, leading to finding it on regular videos).
+    * **Semantic HTML:** Applied `<blockquote>` for its semantic meaning, not just visual indentation.
+    * **Code Readability:** Continuously refined and applied HTML indentation best practices across all modified files, ensuring clear hierarchical structure.
+* **Outcome:** Enhanced `assignment.html` with a relevant `<blockquote>` and visibly embedded a YouTube video directly into `dog_video.html`, demonstrating proficiency in independent learning and HTML integration.
+* **Relevant Files:**
+    * [assignment.html](assignment.html) (Modified)
+    * [pages/dog_video.html](pages/dog_video.html) (Modified)
+    * [README.md](README.md) (Modified)
+    * [ASSIGNMENT_INDEX.md](ASSIGNMENT_INDEX.md) (Modified)

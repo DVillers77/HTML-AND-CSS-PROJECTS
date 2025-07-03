@@ -66,6 +66,12 @@ This file serves as a detailed index of assignments from the HTML & CSS Course, 
     * [pages/dog.html](pages/dog.html)
     * [pages/dog_video.html](pages/dog_video.html)
 
+#### Step 80: DOG WEBPAGE CHALLENGE
+* **Objective:** Learn and implement the `<blockquote>` element in `assignment.html` and embed a YouTube video using `<iframe>` in `dog_video.html`.
+* **Relevant Files:**
+    * [assignment.html](assignment.html)
+    * [pages/dog_video.html](pages/dog_video.html)
+
 ---
 
 *Note: This index is primarily for internal course tracking and direct navigation within the repository. For a high-level overview of project outcomes and learned skills, please refer to the main [README.md](README.md) file.*

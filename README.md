@@ -179,3 +179,21 @@ Here is a chronological list of assignments, detailing their purpose and the key
 * **Outcome:** Successfully created an HTML file that triggers a JavaScript alert box when opened in a browser.
 * **Relevant Files:**
     * [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html)
+
+---
+
+#### 16. Source Attribute Assignment (Section 3 Subsection B Step 109)
+
+* **Objective:** Refactor previously inline JavaScript code into an external `.js` file and link it to the HTML document using the `<script>` tag's `src` attribute, demonstrating proper external script integration.
+* **Core Course Concepts:**
+    * Creating and saving external JavaScript files (e.g., `.js` extension).
+    * Utilizing the `src` attribute within the `<script>` tag to establish a link between an HTML document and an external JavaScript file.
+    * Understanding the basic structure and execution of JavaScript from an external source.
+* **Independent Research & Best Practices:**
+    * **Separation of Concerns:** Applied the principle of separating HTML (structure) from JavaScript (behavior) by moving the `alert()` function to an external file, leading to cleaner, more organized, and maintainable code.
+    * **Benefits of External Scripts:** Understood that external scripts can be cached by browsers, potentially leading to faster page loads for repeat visitors, and simplify code management across multiple HTML pages.
+    * **Script Placement:** Ensured the `<script>` tag referencing the external file was appropriately placed (typically before the closing `</body>` tag) to avoid blocking HTML rendering while the JavaScript loads, enhancing perceived performance.
+* **Outcome:** Successfully moved the JavaScript `alert()` function to `basic-javascript-1.js` and linked it to `basic-html-1.html`. This demonstrates proficiency in integrating external scripts and adheres to modern web development practices, with the JavaScript alert now executing from the linked external file.
+* **Relevant Files:**
+    * [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html) (Modified)
+    * [basic-html-and-javascript-1/basic-javascript-1.js](basic-html-and-javascript-1/basic-javascript-1.js) (New)

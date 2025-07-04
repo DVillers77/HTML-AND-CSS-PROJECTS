@@ -180,8 +180,6 @@ Here is a chronological list of assignments, detailing their purpose and the key
 * **Relevant Files:**
     * [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html)
 
----
-
 #### 16. Source Attribute Assignment (Section 3 Subsection B Step 109)
 
 * **Objective:** Refactor previously inline JavaScript code into an external `.js` file and link it to the HTML document using the `<script>` tag's `src` attribute, demonstrating proper external script integration.

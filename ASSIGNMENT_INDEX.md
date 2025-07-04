@@ -74,6 +74,11 @@ This file serves as a detailed index of assignments from the HTML & CSS Course, 
     * [HTML documents/dog_video.html](HTML%20documents/dog_video.html)
 * **Note on File Reorganization:** Following initial submission, all HTML files were moved into the `HTML documents/` folder, and all internal and documentation links were updated to reflect this change, addressing instructor feedback on file organization.
 
+#### Step 107: BASIC HTML AND JAVASCRIPT ASSIGNMENT
+* **Objective:** Create an HTML file that uses JavaScript to display an alert box.
+* **Relevant Files:**
+    * [Basic_HTML_and_JavaScript_1/Basic_HTML_1.html](Basic_HTML_and_JavaScript_1/Basic_HTML_1.html)
+
 ---
 
 *Note: This index is primarily for internal course tracking and direct navigation within the repository. For a high-level overview of project outcomes and learned skills, please refer to the main [README.md](README.md) file.*

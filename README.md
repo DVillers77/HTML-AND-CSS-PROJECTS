@@ -167,3 +167,15 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * [HTML documents/dog_video.html](HTML%20documents/dog_video.html) (Path Updated & Link Changes)
     * [README.md](README.md) (Modified, including link updates)
     * [ASSIGNMENT_INDEX.md](ASSIGNMENT_INDEX.md) (Modified, including link updates)
+
+#### 15. Basic HTML and JavaScript Assignment (Section 3 Subsection B Step 107)
+
+* **Objective:** Create a new folder and HTML file to execute a basic JavaScript `alert()` pop-up, demonstrating the integration of JavaScript within an HTML document.
+* **Core Course Concepts:**
+    * Introduction to JavaScript as a scripting language for web interactivity.
+    * Using the `<script>` tag to embed JavaScript code directly in HTML.
+    * Understanding the `alert()` method for displaying pop-up messages.
+    * Reinforcement of file organization for project management.
+* **Outcome:** Successfully created an HTML file that triggers a JavaScript alert box when opened in a browser.
+* **Relevant Files:**
+    * [Basic_HTML_and_JavaScript_1/Basic_HTML_1.html](Basic_HTML_and_JavaScript_1/Basic_HTML_1.html)

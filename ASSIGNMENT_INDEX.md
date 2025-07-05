@@ -1,34 +1,14 @@
 # Course Assignment Index - HTML & CSS Projects
 
-This file serves as a detailed index of assignments from the HTML & CSS Course, mapping specific course steps to the corresponding files and folders within this repository.
+This file serves as a detailed index of **coding assignments** from the HTML & CSS Course, mapping specific course steps to the corresponding files and folders within this repository.
 
 ## Section 1: Setting Up Your Environment
 
 ### Subsection B: Tools & Workspace Setup
 
-#### Step 20: Google Chrome Assignment
-* **Objective:** Install Google Chrome browser.
-* **Relevant Files:** N/A
-
-#### Step 21: Online Resources Assignment
-* **Objective:** Familiarize with W3Schools and Stack Overflow.
-* **Relevant Files:** N/A
-
-#### Step 22: GitHub Assignment
-* **Objective:** Create and clone the HTML-AND-CSS-PROJECTS repository.
-* **Relevant Files:** `.` (Repository Root)
-
-#### Step 23: Public GitHub Submission Assignment
-* **Objective:** Ensure repository is publicly accessible.
-* **Relevant Files:** N/A
-
 #### Step 24: Notepad++ Assignment
 * **Objective:** Set up Notepad++ and create a basic "hello, world!" HTML page.
 * **Relevant Files:** [hello-world.html](hello-world.html)
-
-#### Step 27: File Extension View Assignment
-* **Objective:** Configure OS to display file extensions.
-* **Relevant Files:** N/A
 
 ## Section 2: Building Basic Webpages
 

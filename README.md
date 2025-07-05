@@ -8,31 +8,7 @@ Here is a chronological list of assignments, detailing their purpose and the key
 
 ### Section 1: Getting Started
 
-#### 1. Google Chrome Setup (Section 1 Subsection B Step 20)
-
-* **Objective:** Install Google Chrome as the primary web browser for course development.
-* **Outcome:** Successfully installed and configured Google Chrome for development use, ensuring compatibility with programming and markup languages.
-* **Relevant Files:** N/A (Setup task)
-
-#### 2. Online Resources Familiarization (Section 1 Subsection B Step 21)
-
-* **Objective:** Become familiar with key online developer resources.
-* **Outcome:** Explored W3Schools and Stack Overflow to understand their layout and utility as essential tools for coding assistance and debugging.
-* **Relevant Files:** N/A (Exploration task)
-
-#### 3. GitHub Repository Setup (Section 1 Subsection B Step 22)
-
-* **Objective:** Establish a GitHub repository for course projects and configure local cloning.
-* **Outcome:** Created `HTML-AND-CSS-PROJECTS` repository on GitHub, initialized with a README, and successfully cloned it locally using GitHub Desktop, establishing the central location for all course work.
-* **Relevant Files:** N/A (Setup task - affects entire repo)
-
-#### 4. Public GitHub Submission (Section 1 Subsection B Step 23)
-
-* **Objective:** Ensure repository visibility is public for course submission.
-* **Outcome:** Verified and adjusted repository settings to public visibility, preparing for assignment submission.
-* **Relevant Files:** N/A (Configuration task)
-
-#### 5. Notepad++ Setup & First HTML Page (Section 1 Subsection B Step 24)
+#### 1. Notepad++ Setup & First HTML Page (Section 1 Subsection B Step 24)
 
 * **Objective:** Install Notepad++ (or equivalent) and create/run a basic "hello, world!" HTML page.
 * **Core Course Concepts:**
@@ -45,15 +21,9 @@ Here is a chronological list of assignments, detailing their purpose and the key
 * **Outcome:** Successfully configured a Notepad++ for HTML development and created a functional "hello, world!" HTML page, confirming the workflow for saving and running code in a browser.
 * **Relevant Files:** [hello-world.html](hello-world.html)
 
-#### 6. File Extension Visibility (Section 1 Subsection B Step 27)
-
-* **Objective:** Configure operating system settings to display file extensions.
-* **Outcome:** Enabled file name extensions visibility in the OS, preventing common issues with incorrect file saving and ensuring proper code execution.
-* **Relevant Files:** N/A (System configuration task)
-
 ### Section 2: Building Basic Webpages
 
-#### 7. HTML Template Creation (Section 2 Subsection B Step 53)
+#### 2. HTML Template Creation (Section 2 Subsection B Step 53)
 
 * **Objective:** Create a reusable HTML template for future assignments.
 * **Core Course Concepts:**
@@ -62,7 +32,7 @@ Here is a chronological list of assignments, detailing their purpose and the key
 * **Outcome:** Created `assignment.html` with a standard HTML template, ready for content addition in subsequent assignments.
 * **Relevant Files:** [assignment.html](html-documents/assignment.html)
 
-#### 8. Basic Webpage Assignment (Section 2 Subsection B Step 56)
+#### 3. Basic Webpage Assignment (Section 2 Subsection B Step 56)
 
 * **Objective:** Update the existing `assignment.html` template by incorporating basic structural elements (`p`, `h1`, `h3`, `h6`) into its body and giving the page a title.
 * **Core Course Concepts**: The foundational understanding of **Document Structure (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`)**, **Headings (`<h1>`, `<h3>`, `<h6>`)**, and **Paragraphs (`<p>`)** was acquired directly through course materials and exercises. This included mastering their proper placement and hierarchical use to structure webpage content semantically.
@@ -78,7 +48,7 @@ Here is a chronological list of assignments, detailing their purpose and the key
 * **Project Outcome & Learning:** The assignment was successfully completed, demonstrating a solid grasp of fundamental HTML5 elements and their structural application. The independent research significantly deepened my understanding of practical HTML challenges and the importance of choosing appropriate techniques, even when adhering to specific constraints like an HTML-only environment.
 * **Relevant Files:** [assignment.html](html-documents/assignment.html)
 
-#### 9. Footer, Main, and Image Assignment (Section 2 Subsection C step 67)
+#### 4. Footer, Main, and Image Assignment (Section 2 Subsection C step 67)
 
 * **Objective:** Integrate `<footer>`, `<main>`, and `<img>` tags into the `assignment.html` document.
 * **Core Course Concepts:**
@@ -94,7 +64,7 @@ Here is a chronological list of assignments, detailing their purpose and the key
 * **Outcome:** Successfully incorporated the new HTML5 semantic tags, structuring the webpage content more logically and enhancing its readability through consistent indentation. The page now includes a clear main content area, a footer, and a visible image.
 * **Relevant Files:** [assignment.html](html-documents/assignment.html)
 
-#### 10. Implicit Link Assignment (Section 2 Subsection C Step 74)
+#### 5. Implicit Link Assignment (Section 2 Subsection C Step 74)
 
 * **Objective:** Create a new webpage (`dog.html`) with an image, and establish two-way implicit (relative) links between `assignment.html` and `dog.html`.
 * **Core Course Concepts:**
@@ -111,7 +81,7 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * [dog.html](html-documents/dog.html) (New)
     * [images/xolo-art-01.png](images/xolo-art-01.png) (New)
 
-#### 11. Explicit Link Assignment (Section 2 Subsection C Step 75)
+#### 6. Explicit Link Assignment (Section 2 Subsection C Step 75)
 
 * **Objective:** Create an explicit link (`<a>` tag) in `assignment.html` that navigates directly to an online image URL.
 * **Core Course Concepts:**
@@ -123,7 +93,7 @@ Here is a chronological list of assignments, detailing their purpose and the key
 * **Relevant Files:**
     * [assignment.html](html-documents/assignment.html) (Modified)
 
-#### 12. Dog Webpage Assignment (Section 2 Subsection C Step 76)
+#### 7. Dog Webpage Assignment (Section 2 Subsection C Step 76)
 
 * **Objective:** Create a new HTML page (`dog-video.html`) featuring a YouTube video link, and integrate a comprehensive navigation bar across `assignment.html`, `dog.html`, and `dog-video.html`.
 * **Core Course Concepts:**
@@ -142,7 +112,7 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * [dog.html](html-documents/dog.html) (Modified)
     * [dog-video.html](html-documents/dog-video.html) (New)
 
-#### 13. Dog Webpage Challenge (Section 2 Subsection C Step 80)
+#### 8. Dog Webpage Challenge (Section 2 Subsection C Step 80)
 
 * **Objective:** Successfully learn and utilize previously untaught HTML elements to enhance existing webpages, specifically implementing an extended quotation and embedding external video content, emphasizing self-teaching and problem-solving skills.
 * **Core Course Concepts:**
@@ -168,7 +138,7 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * [README.md](README.md) (Modified, including link updates)
     * [ASSIGNMENT_INDEX.md](ASSIGNMENT_INDEX.md) (Modified, including link updates)
 
-#### 15. Basic HTML and JavaScript Assignment (Section 3 Subsection B Step 107)
+#### 9. Basic HTML and JavaScript Assignment (Section 3 Subsection B Step 107)
 
 * **Objective:** Create a new folder and HTML file to execute a basic JavaScript `alert()` pop-up, demonstrating the integration of JavaScript within an HTML document.
 * **Core Course Concepts:**
@@ -180,7 +150,7 @@ Here is a chronological list of assignments, detailing their purpose and the key
 * **Relevant Files:**
     * [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html)
 
-#### 16. Source Attribute Assignment (Section 3 Subsection B Step 109)
+#### 10. Source Attribute Assignment (Section 3 Subsection B Step 109)
 
 * **Objective:** Refactor previously inline JavaScript code into an external `.js` file and link it to the HTML document using the `<script>` tag's `src` attribute, demonstrating proper external script integration.
 * **Core Course Concepts:**

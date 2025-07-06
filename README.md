@@ -187,3 +187,11 @@ Here is a chronological list of assignments, detailing their purpose and the key
 * **Relevant Files:**
     * [basic-html-and-javascript-1/basic-html-2.html](basic-html-and-javascript-1/basic-html-2.html)
     * [basic-html-and-javascript-1/basic-javascript-1.js](basic-html-and-javascript-1/basic-javascript-1.js)
+
+#### 13. DevTools Familiarization Challenge (Section 3 Subsection C Step 128)
+* **Objective:** Gain initial familiarity with Google Chrome's Developer Tools to inspect and interact with live web page code.
+* **Core Course Concepts:**
+    * Introduction to browser-based development and debugging tools.
+    * Understanding the dynamic relationship between HTML, CSS, and browser rendering.
+* **Outcome:** Successfully utilized Chrome DevTools to view a webpage's HTML source, identify elements, and begin understanding the practical application of client-side inspection.
+* **Relevant Files:** Any existing HTML file (e.g., [basic-html-and-javascript-1/basic-html-2.html](basic-html-and-javascript-1/basic-html-2.html)) was used for this exercise.

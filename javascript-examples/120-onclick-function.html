@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<button onclick="My_First_Function()">
+		Click me!
+	</button>
+	<p id="Irish"></p>
+<script>
+    // Note: Function name 'My_First_Function' uses Pascal/snake_case hybrid per course instruction,
+    //      while 'camelCase' (e.g., myFirstFunction) is standard for JS functions.
+	function My_First_Function () {
+		var message = "Kiss me, I'm Irish!"; // Changed variable name from String to message
+		var result = message.fontcolor("green"); // Still using fontcolor as per course, but noted for future
+		// Note: Corrected course example's innerHTML assignment syntax that was split across two lines
+		document.getElementById("Irish").innerHTML = result; 
+}
+</script>
+</body>
+</html>

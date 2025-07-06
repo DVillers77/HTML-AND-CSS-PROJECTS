@@ -165,3 +165,13 @@ Here is a chronological list of assignments, detailing their purpose and the key
 * **Relevant Files:**
     * [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html) (Modified)
     * [basic-html-and-javascript-1/basic-javascript-1.js](basic-html-and-javascript-1/basic-javascript-1.js) (New)
+
+#### 11. Creating a Function (Section 3 Subsection B Step 120)
+
+* **Objective:** Implement a basic JavaScript function to respond to a button click and dynamically change text color on the page.
+* **Core Course Concepts:**
+    * **Event Handling (`onclick`):** First direct interaction between user action (button click) and JavaScript.
+    * **DOM Manipulation:** Utilizing `document.getElementById()` to select an HTML element and modifying its content using `innerHTML`.
+    * **Functions for Interactivity:** Encapsulating dynamic behavior within a callable JavaScript function.
+* **Outcome:** Created an interactive webpage where clicking a button updates a paragraph's text content and color.
+* **Relevant Files:** [javascript-examples/120-onclick-function.html](javascript-examples/120-onclick-function.html)

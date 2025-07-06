@@ -75,6 +75,19 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * **Relevant Files:** [javascript-examples/120-onclick-function.html](javascript-examples/120-onclick-function.html)
 * **Reflection/Learning Note:** Identified and corrected a syntax issue in the course's example where the `innerHTML` assignment was inadvertently split across two lines, preventing the dynamic content update. The correction involved adding the assignment operator (`=`) to ensure the `result` was correctly applied to the `innerHTML` property.
 
+#### Step 121: TWO PART ASSIGNMENT - HTML and JavaScript Separation
+* **Objective:**
+    1.  Create a new HTML file (`basic-html-2.html`) initially containing the interactive function from the previous step.
+    2.  Separate the JavaScript function into the existing external `basic-javascript-1.js` file and link `basic-html-2.html` to it.
+* **Core Course Concepts:**
+    * Reinforcement of `document.getElementById()` and `onclick` event handling.
+    * **Best Practice:** Separating HTML (structure) and JavaScript (behavior) into distinct files.
+    * HTML `<script src="...">` tag for linking external JavaScript files.
+* **Relevant Files:**
+    * [basic-html-and-javascript-1/basic-html-2.html](basic-html-and-javascript-1/basic-html-2.html)
+    * [basic-html-and-javascript-1/basic-javascript-1.js](basic-html-and-javascript-1/basic-javascript-1.js)
+* **Reflection/Learning Note:** This step emphasizes the importance of code organization and modularity. It demonstrates how to add new JavaScript functionality to an existing shared `.js` file, leading to cleaner, more maintainable, and reusable web projects. Adhered to kebab-case for file and folder naming for consistency and best practice. The existing `basic-javascript-1.js` was also updated to explicitly say "Hello, World!" as per Step 106's instruction.
+
 ---
 
 *Note: This index is primarily for internal course tracking and direct navigation within the repository. For a high-level overview of project outcomes and learned skills, please refer to the main [README.md](README.md) file.*

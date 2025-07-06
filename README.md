@@ -175,3 +175,15 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * **Functions for Interactivity:** Encapsulating dynamic behavior within a callable JavaScript function.
 * **Outcome:** Created an interactive webpage where clicking a button updates a paragraph's text content and color.
 * **Relevant Files:** [javascript-examples/120-onclick-function.html](javascript-examples/120-onclick-function.html)
+
+#### 12. HTML and JavaScript Separation (Section 3 Subsection B Step 121)
+
+* **Objective:** Implement an interactive web page by separating HTML structure and JavaScript behavior into distinct files, utilizing external script linking.
+* **Core Course Concepts:**
+    * Reinforcement of JavaScript functions and DOM manipulation.
+    * **Key Best Practice:** Modularizing code by moving JavaScript into dedicated `.js` files.
+    * Understanding the `<script src="...">` tag for linking external scripts.
+* **Outcome:** Successfully demonstrated an `onclick` event triggering a JavaScript function that modifies HTML content, with HTML and JavaScript residing in separate, linked files within an existing project folder. Confirmed the `basic-javascript-1.js` file correctly includes the "Hello, World!" alert from Step 106.
+* **Relevant Files:**
+    * [basic-html-and-javascript-1/basic-html-2.html](basic-html-and-javascript-1/basic-html-2.html)
+    * [basic-html-and-javascript-1/basic-javascript-1.js](basic-html-and-javascript-1/basic-javascript-1.js)

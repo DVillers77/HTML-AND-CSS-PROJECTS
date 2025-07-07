@@ -1,4 +1,9 @@
 # Course Assignment Index - HTML & CSS Projects
+---
+
+#### AI Assistant Project Guidelines
+For detailed rules on collaboration, documentation, and project standards, please refer to the [AI Assistant Project Guidelines](../Tech-Academy-Projects-/ai-assistant-project-guidelines.md).
+---
 
 This file serves as a detailed index of **coding assignments** from the HTML & CSS Course, mapping specific course steps to the corresponding files and folders within this repository.
 

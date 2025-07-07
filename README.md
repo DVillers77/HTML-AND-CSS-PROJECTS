@@ -1,4 +1,12 @@
 # HTML-AND-CSS-PROJECTS
+---
+
+### Project Guidelines and Collaboration Standards
+
+This project, and all subsequent projects in The Tech Academy bootcamp, adhere to a clear set of collaborative guidelines between the student and the AI assistant. These guidelines ensure transparency, effective learning, and consistent documentation.
+
+You can review the full details of these guidelines [here](../Tech-Academy-Projects-/ai-assistant-project-guidelines.md).
+---
 
 This repository contains all coding projects and assignments completed during the HTML and CSS Course.
 

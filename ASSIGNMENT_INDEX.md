@@ -108,6 +108,16 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * **Relevant Files:** Any local HTML file (e.g., [basic-html-and-javascript-1/basic-html-2.html](basic-html-and-javascript-1/basic-html-2.html)) was used for practical application and demonstration of DevTools.
 * **Reflection/Learning Note:** Browser caching can be a significant hurdle during development, and mastering cache clearing methods like hard refresh is crucial. DevTools are the cornerstone of front-end debugging, allowing live inspection and testing. The ability to make temporary live edits in the Elements panel is particularly powerful for rapid prototyping and style adjustments.
 
+#### Step 134: Web Browser Tools Assignment - Website Inspection
+* **Objective:** Apply learned Developer Tools skills to inspect the HTML structure of a live website of choice.
+* **Core Course Concepts:**
+    * Practical application of the Chrome DevTools `Elements` tab for navigating and understanding live HTML/DOM.
+    * Identifying various HTML tags, attributes (id, class, src, href, alt), and nested structures.
+    * Using DevTools to make temporary, live modifications to webpage content (e.g., text, element visibility).
+* **Outcome:** Gained hands-on experience in using browser Developer Tools to analyze the underlying code of any given website, enhancing understanding of web page construction and live debugging capabilities. Successfully inspected elements, understood nesting, and performed temporary content edits.
+* **Relevant Files:** This assignment involved inspecting a live website (e.g., pff.com) using browser Developer Tools; no local project files were created or modified.
+* **Reflection/Learning Note:** Directly inspecting live websites with DevTools is an invaluable skill for debugging, learning from existing sites, and rapid prototyping. It's fascinating to see how complex websites are structured and how quickly temporary changes can be made to test ideas, even if those changes aren't permanent. Recognizing dynamic content on complex sites (like the previous issue on The Tech Academy's page) versus simpler static elements is also a key practical insight gained.
+
 ---
 
 *Note: This index is primarily for internal course tracking and direct navigation within the repository. For a high-level overview of project outcomes and learned skills, please refer to the main [README.md](README.md) file.*

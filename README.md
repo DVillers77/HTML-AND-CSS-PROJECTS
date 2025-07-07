@@ -204,3 +204,12 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * Practical application of Google Chrome Developer Tools (Elements, Console, Sources, Network panels) for inspecting, debugging, and live editing web pages.
 * **Outcome:** Developed essential skills in managing browser cache to ensure current content display and gained proficiency in using DevTools for on-the-fly webpage inspection and testing, crucial for effective debugging.
 * **Relevant Files:** Local HTML files (e.g., [basic-html-and-javascript-1/basic-html-2.html](basic-html-and-javascript-1/basic-html-2.html)) were used for hands-on practice.
+
+#### 15. Web Browser Tools Assignment - Website Inspection (Section 3 Subsection C Step 134)
+* **Objective:** Utilize Developer Tools to inspect and understand the HTML code and structure of any chosen website.
+* **Core Course Concepts:**
+    * Practical application of the Chrome DevTools `Elements` tab for in-depth website analysis.
+    * Identification of HTML elements, their attributes, and their hierarchical relationships within the DOM.
+    * Temporary live modification of webpage content for testing and learning purposes.
+* **Outcome:** Successfully used browser Developer Tools to explore the HTML structure of a chosen website, solidifying practical inspection and live-editing skills crucial for web development and debugging.
+* **Relevant Files:** This assignment was a hands-on exercise primarily within the browser's Developer Tools; no project files were created or modified.

@@ -195,3 +195,12 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * Understanding the dynamic relationship between HTML, CSS, and browser rendering.
 * **Outcome:** Successfully utilized Chrome DevTools to view a webpage's HTML source, identify elements, and begin understanding the practical application of client-side inspection.
 * **Relevant Files:** Any existing HTML file (e.g., [basic-html-and-javascript-1/basic-html-2.html](basic-html-and-javascript-1/basic-html-2.html)) was used for this exercise.
+
+#### 14. Web Browser Tools - Cache & DevTools (Section 3 Subsection C Step 133)
+* **Objective:** Learn critical web browser tools, including cache management and core Developer Tools functionalities, for efficient web development.
+* **Core Course Concepts:**
+    * Browser caching (purpose and common development issues).
+    * Techniques for clearing browser cache and performing a force refresh.
+    * Practical application of Google Chrome Developer Tools (Elements, Console, Sources, Network panels) for inspecting, debugging, and live editing web pages.
+* **Outcome:** Developed essential skills in managing browser cache to ensure current content display and gained proficiency in using DevTools for on-the-fly webpage inspection and testing, crucial for effective debugging.
+* **Relevant Files:** Local HTML files (e.g., [basic-html-and-javascript-1/basic-html-2.html](basic-html-and-javascript-1/basic-html-2.html)) were used for hands-on practice.

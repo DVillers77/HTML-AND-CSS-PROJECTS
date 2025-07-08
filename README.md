@@ -220,3 +220,15 @@ Here is a chronological list of assignments, detailing their purpose and the key
     * Temporary live modification of webpage content for testing and learning purposes.
 * **Outcome:** Successfully used browser Developer Tools to explore the HTML structure of a chosen website, solidifying practical inspection and live-editing skills crucial for web development and debugging.
 * **Relevant Files:** This assignment was a hands-on exercise primarily within the browser's Developer Tools; no project files were created or modified.
+
+#### X. Color Assignment (Section 4 Subsection A Step 144)
+    * **Objective:** Add two paragraphs of text with specified colors to `Basic_HTML_1.html` using the `<font>` element and its `color` attribute, demonstrating color names and hex codes.
+    * **Core Course Concepts:** Introduction to the `<font>` HTML element, specifying colors using color names and hexadecimal codes.
+    * **Outcome:** Successfully created/amended `Basic_HTML_1.html` with correct HTML5 boilerplate, two colored paragraphs as instructed, and confirmed changes in the browser.
+    * **Relevant Files:**
+        * `Basic_HTML_1.html`
+    * **Reflection/Learning Note:** This assignment introduced the `<font>` HTML element for styling. While it fulfills the course requirement, it's critical to note that the `<font>` element is **deprecated in modern HTML5**. Its use is discouraged in favor of CSS for separating content from presentation. This step also highlighted the importance of a complete HTML5 boilerplate, as the initial file structure was based on an incomplete course example and required significant additions for proper best-practice setup.
+    * **Independent Research & Best Practices:**
+        * The **initial `Basic_HTML_1.html` file was amended to include standard HTML5 boilerplate elements**, which were missing from the course's example image. This included correcting `<!DOCTYPE HTML>` to `<!DOCTYPE html>`, adding `<meta charset="utf-8">` for proper character encoding, and including a `<title>` tag for browser tab display.
+        * The **deprecated `<font>` tag** was used as per course instruction. The modern and preferred method for applying font colors is via **CSS**, using properties like `color` applied through `style` attributes (inline CSS), or more robustly, via internal or external stylesheets.
+        * Through collaborative "independent research," the **best practice for `<script>` tag placement** was identified and implemented. Scripts are typically placed just before the closing `</body>` tag to ensure HTML content loads quickly and is available for JavaScript manipulation without render-blocking.

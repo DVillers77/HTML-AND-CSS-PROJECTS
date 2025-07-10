@@ -85,7 +85,7 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 ## Section 3: WEB DEVELOPMENT FUNDAMENTALS
 ---
 
-### Subsection B: INTRODUCTION TO JAVASCRIPT AND OBJECT-ORIENTED PROGRAM
+### Subsection B: INTRODUCTION TO JAVASCRIPT AND OBJECT-ORIENTED PROGRAMMING 
 
 #### Step 107: BASIC HTML AND JAVASCRIPT ASSIGNMENT - Simple Alert Box
 * **Objective:** Create an HTML file that uses JavaScript to display an alert box.

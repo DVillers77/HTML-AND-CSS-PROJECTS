@@ -71,7 +71,7 @@ This assignment marked the submission of all completed HTML and JavaScript files
 
 ## Section 3: WEB DEVELOPMENT FUNDAMENTALS
 ---
-### Subsection B: INTRODUCTION TO JAVASCRIPT AND OBJECT-ORIENTED PROGRAM
+### Subsection B: INTRODUCTION TO JAVASCRIPT AND OBJECT-ORIENTED PROGRAMMING
 
 #### 11. BASIC HTML AND JAVASCRIPT ASSIGNMENT - Simple Alert Box
 This assignment covered creating an HTML file that uses JavaScript to display an alert box.

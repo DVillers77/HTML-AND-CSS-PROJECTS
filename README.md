@@ -115,3 +115,7 @@ This assignment involved applying Developer Tools skills to inspect the HTML str
 <h4>18. COLOR ASSIGNMENT - Font Color with Deprecated Tags</h4>
 This assignment involved adding two paragraphs of text with specified colors using the deprecated `<font>` element.
 * [View full details in Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md#step-144-color-assignment---font-color-with-deprecated-tags)
+
+#### 19. FACE AND SIZE ASSIGNMENT - Font Customization with Deprecated Tags
+This assignment involved customizing font faces and sizes in `basic-html-1.html` using the deprecated `<font>` tag.
+* [View full details in Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md#step-146-face-and-size-assignment---font-customization-with-deprecated-tags)

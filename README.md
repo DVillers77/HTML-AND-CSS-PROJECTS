@@ -1,4 +1,5 @@
 # Course Progress & Overview - HTML & CSS Projects
+
 ---
 
 For detailed rules on collaboration, documentation, and project standards, please refer to the [AI Assistant Project Guidelines](https://github.com/DVillers77/Tech-Academy-Projects-/blob/main/ai-assistant-project-guidelines.md).
@@ -14,7 +15,9 @@ This `README.md` provides a high-level overview of the major assignments complet
 ---
 
 ## Section 1: INTRODUCTION TO HTML
+
 ---
+
 ### Subsection B: UNDERSTANDING HTML ELEMENTS
 
 #### 1. NOTEPAD++ ASSIGNMENT - Basic HTML Setup
@@ -24,7 +27,9 @@ This assignment covered setting up Notepad++ and creating a basic "hello, world!
 ---
 
 ## Section 2: HTML FUNDAMENTALS
+
 ---
+
 ### Subsection B: THE HTML TEMPLATE
 
 #### 2. HTML TEMPLATE ASSIGNMENT - Create Reusable Boilerplate
@@ -70,7 +75,9 @@ This assignment marked the submission of all completed HTML and JavaScript files
 ---
 
 ## Section 3: WEB DEVELOPMENT FUNDAMENTALS
+
 ---
+
 ### Subsection B: INTRODUCTION TO JAVASCRIPT AND OBJECT-ORIENTED PROGRAMMING
 
 #### 11. BASIC HTML AND JAVASCRIPT ASSIGNMENT - Simple Alert Box
@@ -107,12 +114,13 @@ This assignment involved applying Developer Tools skills to inspect the HTML str
 
 ---
 
-<h2>Section 4: WRITING CODE IN HTML</h2>
+## Section 4: WRITING CODE IN HTML
+
 ---
 
-<h3>Subsection A: STYLING WITH HTML</h3>
+### Subsection A: STYLING WITH HTML
 
-<h4>18. COLOR ASSIGNMENT - Font Color with Deprecated Tags</h4>
+#### 18. COLOR ASSIGNMENT - Font Color with Deprecated Tags
 This assignment involved adding two paragraphs of text with specified colors using the deprecated `<font>` element.
 * [View full details in Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md#step-144-color-assignment---font-color-with-deprecated-tags)
 

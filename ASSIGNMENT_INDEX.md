@@ -1,7 +1,8 @@
 # Course Assignment Index - HTML & CSS Projects
+
 ---
 
-#### AI ASSITANT PROJECT GUIDELINES
+#### AI ASSISTANT PROJECT GUIDELINES
 For detailed rules on collaboration, documentation, and project standards, please refer to the [AI Assistant Project Guidelines](https://github.com/DVillers77/Tech-Academy-Projects-/blob/main/ai-assistant-project-guidelines.md).
 
 ---
@@ -15,17 +16,22 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 ---
 
 ## Section 1: INTRODUCTION TO HTML
+
 ---
+
 ### Subsection B: UNDERSTANDING HTML ELEMENTS
 
 #### Step 24: NOTPAD++ ASSIGNMENT - Basic HTML Setup
 * **Objective:** Set up Notepad++ and create a basic "hello, world!" HTML page.
 * **Relevant Files:** [hello-world.html](hello-world.html)
 
-## Section 2: HTML FUNDAMENTALS 
 ---
 
-### Subsection B: THE HTML TEMPLATE 
+## Section 2: HTML FUNDAMENTALS
+
+---
+
+### Subsection B: THE HTML TEMPLATE
 
 #### Step 53: HTML Template Assignment - Create Reusable Boilerplate
 * **Objective:** Create a reusable HTML boilerplate file (`assignment.html`).
@@ -36,7 +42,9 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * **Relevant Files:** [assignment.html](html-documents/assignment.html)
 * **Reflection/Learning Note:** This assignment was key for reinforcing basic HTML structure. I initially misunderstood the instruction and created a new file, which highlighted the importance of carefully re-reading assignment instructions and how Git tracks file changes (deletion and modification) within a single commit. This was a valuable lesson in attention to detail and version control.
 
-### Subsection C: HTML Attributes 
+---
+
+### Subsection C: HTML Attributes
 
 #### Step 67: FOOTER, MAIN AND IMAGE ASSIGNMENT - Add Semantic Tags
 * **Objective:** Add `<footer>`, `<main>`, and `<img>` tags to `assignment.html`.
@@ -82,10 +90,13 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * **Relevant Files:** All HTML and JavaScript files created/modified up to this step, including `assignment.html`, `dog.html`, `dog-video.html`, `basic-html-1.html`, `basic-html-2.html`, `basic-javascript-1.js`, and associated image files.
 * **Reflection/Learning Note:** This step marked a milestone, involving the bundling and submission of all completed assignments from the HTML section. It reinforced the importance of ensuring all files and links were correctly organized and functional for a successful submission.
 
-## Section 3: WEB DEVELOPMENT FUNDAMENTALS
 ---
 
-### Subsection B: INTRODUCTION TO JAVASCRIPT AND OBJECT-ORIENTED PROGRAMMING 
+## Section 3: WEB DEVELOPMENT FUNDAMENTALS
+
+---
+
+### Subsection B: INTRODUCTION TO JAVASCRIPT AND OBJECT-ORIENTED PROGRAMMING
 
 #### Step 107: BASIC HTML AND JAVASCRIPT ASSIGNMENT - Simple Alert Box
 * **Objective:** Create an HTML file that uses JavaScript to display an alert box.
@@ -121,6 +132,8 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
     * [basic-html-and-javascript-1/basic-javascript-1.js](basic-html-and-javascript-1/basic-javascript-1.js)
 * **Reflection/Learning Note:** This step emphasizes the importance of code organization and modularity. It demonstrates how to add new JavaScript functionality to an existing shared `.js` file, leading to cleaner, more maintainable, and reusable web projects. Adhered to kebab-case for file and folder naming for consistency and best practice. The existing `basic-javascript-1.js` was also updated to explicitly say "Hello, World!" as per Step 106's instruction.
 
+---
+
 ### Subsection C: THE DOM AND DEVELOPER TOOLS
 
 #### Step 128: CHALLENGE - DevTools Familiarization
@@ -154,6 +167,7 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * **Reflection/Learning Note:** Directly inspecting live websites with DevTools is an invaluable skill for debugging, learning from existing sites, and rapid prototyping. It's fascinating to see how complex websites are structured and how quickly temporary changes can be made to test ideas, even if those changes aren't permanent. Recognizing dynamic content on complex sites (like the previous issue on The Tech Academy's page) versus simpler static elements is also a key practical insight gained.
 
 ## Section 4: WRITING CODE IN HTML
+
 ---
 
 ### Subsection A: STYLING WITH HTML

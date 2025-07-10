@@ -191,3 +191,11 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * **Relevant Files:**
     * [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html) (Modified)
 * **Reflection/Learning Note:** This assignment reinforced the use of deprecated HTML attributes for styling. It's an important educational step to understand historical web development practices before moving to modern CSS methods for font customization, which offer more control and maintainability.
+
+#### Step 148: BOLD, ITALICS, UNDERLINE ASSIGNMENT - Text Styling with Deprecated Tags
+* **Objective:** Open `basic-html-1.html` and add content that utilizes the `<b>`, `<i>`, and `<u>` tags to display bold, italicized, and underlined text.
+* **Core Course Concepts:** Introduction to the `<b>` (bold), `<i>` (italic), and `<u>` (underline) HTML elements for basic text styling.
+* **Outcome:** Successfully amended `basic-html-1.html` to include a paragraph demonstrating the visual effects of `<b>`, `<i>`, and `<u>` tags, and confirmed changes in the browser.
+* **Relevant Files:**
+    * [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html) (Modified)
+* **Reflection/Learning Note:** This assignment focused on the `<b>`, `<i>`, and `<u>` HTML elements, which are used for direct text styling. It's important to understand that while these tags are still valid in HTML5, they are primarily **presentational elements**. In modern web development, if the goal is to convey **semantic meaning** (e.g., to indicate importance or emphasis), the `<strong>` and `<em>` tags are the preferred alternatives. For purely **visual styling** without adding semantic meaning, applying styles directly via **CSS** (e.g., using `font-weight: bold;`, `font-style: italic;`, or `text-decoration: underline;`) is the best practice, as it maintains a clear separation between content and presentation.

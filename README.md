@@ -127,3 +127,7 @@ This assignment involved adding two paragraphs of text with specified colors usi
 #### 19. FACE AND SIZE ASSIGNMENT - Font Customization with Deprecated Tags
 This assignment involved customizing font faces and sizes in `basic-html-1.html` using the deprecated `<font>` tag.
 * [View full details in Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md#step-146-face-and-size-assignment---font-customization-with-deprecated-tags)
+
+#### 20. BOLD, ITALICS, UNDERLINE ASSIGNMENT - Text Styling with Deprecated Tags
+This assignment involved adding bold, italicized, and underlined text to `basic-html-1.html` using the `<b>`, `<i>`, and `<u>` tags.
+* [View full details in Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md#step-148-bold-italics-underline-assignment---text-styling-with-deprecated-tags)

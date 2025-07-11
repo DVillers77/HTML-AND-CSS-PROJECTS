@@ -135,3 +135,7 @@ This assignment involved adding bold, italicized, and underlined text to `basic-
 #### 21. IMAGE ELEMENT CHALLENGE - Image Element with Alt Attribute
 This challenge involved adding an `<img>` element to `basic-html-1.html` and demonstrating the `alt` attribute's function when an image cannot be displayed.
 * [View full details in Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md#step-149-image-element-challenge---image-element-with-alt-attribute)
+
+#### 22. BASIC HTML AND JAVASCRIPT 1 SUBMISSION ASSIGNMENT
+This assignment involved pushing the completed `Basic_HTML_and_JavaScript_1` folder to GitHub for instructor review, ensuring all specified HTML element requirements were met.
+* [View full details in Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md#step-150-basic-html-and-javascript-1-submission-assignment)

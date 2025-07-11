@@ -207,3 +207,13 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * **Relevant Files:**
     * [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html) (Modified)
 * **Reflection/Learning Note:** This challenge highlighted the crucial role of the `alt` attribute for `<img>` elements. Beyond its immediate function as a fallback for broken image links, `alt` text is vital for web accessibility, allowing screen readers to convey image content to visually impaired users. It also contributes to SEO by providing context to search engines about the image's content.
+
+#### Step 150: BASIC HTML AND JAVASCRIPT 1 SUBMISSION ASSIGNMENT
+* **Objective:** Successfully push the `Basic_HTML_and_JavaScript_1` folder to the GitHub repository, ensuring all specified minimum requirements for HTML elements (`<img>`, `alt`, `<b>`, `<i>`, `<u>`) are met in `basic-html-1.html` for instructor review.
+* **Core Course Concepts:** Consolidating basic HTML elements, adherence to project requirements, GitHub repository management, and submission procedures.
+* **Outcome:** Successfully pushed the `Basic_HTML_and_JavaScript_1` folder to GitHub, confirmed compliance with all minimum coding requirements, and obtained the project URL for instructor review.
+* **Relevant Files:**
+    * [basic-html-and-javascript-1/](basic-html-and-javascript-1/) (Entire folder for submission)
+    * [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html)
+    * [basic-html-and-javascript-1/basic-javascript-1.js](basic-html-and-javascript-1/basic-javascript-1.js)
+* **Reflection/Learning Note:** This assignment served as a checkpoint, requiring the consolidation of previously learned HTML elements and confirming project readiness for submission. It reinforces the importance of meticulous adherence to project specifications and effective use of Git for version control and project delivery.

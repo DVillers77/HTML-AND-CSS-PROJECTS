@@ -220,9 +220,12 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 #### Step 150: BASIC HTML AND JAVASCRIPT 1 SUBMISSION ASSIGNMENT
 * **Objective:** Successfully push the `Basic_HTML_and_JavaScript_1` folder to the GitHub repository, ensuring all specified minimum requirements for HTML elements (`<img>`, `alt`, `<b>`, `<i>`, `<u>`) are met in `basic-html-1.html` for instructor review.
 * **Core Course Concepts:** Consolidating basic HTML elements, adherence to project requirements, GitHub repository management, and submission procedures.
-* **Outcome:** Successfully pushed the `Basic_HTML_and_JavaScript_1` folder to GitHub, confirmed compliance with all minimum coding requirements, and obtained the project URL for instructor review.
 * **Relevant Files:**
     * [basic-html-and-javascript-1/](basic-html-and-javascript-1/) (Entire folder for submission)
     * [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html)
     * [basic-html-and-javascript-1/basic-javascript-1.js](basic-html-and-javascript-1/basic-javascript-1.js)
-* **Reflection/Learning Note:** This assignment served as a checkpoint, requiring the consolidation of previously learned HTML elements and confirming project readiness for submission. It reinforces the importance of meticulous adherence to project specifications and effective use of Git for version control and project delivery.
+* **Reflection/Learning Note:** This assignment marked a significant milestone, requiring the consolidation of all prior `Basic_HTML_and_JavaScript_1` work and preparing the project for formal instructor review. It was a useful exercise in ensuring all required elements were in place for a complete submission.
+* **Independent Research & Best Practices:**
+    * **Interpreting Submission Requirements:** This step highlighted the importance of carefully interpreting assignment submission instructions, especially when phrasing might be ambiguous (e.g., whether a specific file URL or a broader project folder URL is required). The decision to provide the **folder URL** was made for comprehensiveness, allowing instructors to access all relevant project files.
+    * **GitHub Project Structure for Submissions:** Emphasized the best practice of pushing and linking to the entire project folder on GitHub. This ensures the integrity of the project's file structure and provides the reviewer with full context, including all associated files like HTML and JavaScript, for a holistic review.
+    * **Pre-Submission Checklist:** This step served as a practical demonstration of performing a final self-review of code against minimum requirements, ensuring all criteria are met before formal submission.

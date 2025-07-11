@@ -132,6 +132,6 @@ This assignment involved customizing font faces and sizes in `basic-html-1.html`
 This assignment involved adding bold, italicized, and underlined text to `basic-html-1.html` using the `<b>`, `<i>`, and `<u>` tags.
 * [View full details in Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md#step-148-bold-italics-underline-assignment---text-styling-with-deprecated-tags)
 
-#### 21. IMAGE ELEMENT ASSIGNMENT - Image Element with Alt Attribute
-This assignment involved adding an `<img>` element to `basic-html-1.html` and demonstrating the `alt` attribute's function when an image cannot be displayed.
-* [View full details in Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md#step-149-image-element-assignment---image-element-with-alt-attribute)
+#### 21. IMAGE ELEMENT CHALLENGE - Image Element with Alt Attribute
+This challenge involved adding an `<img>` element to `basic-html-1.html` and demonstrating the `alt` attribute's function when an image cannot be displayed.
+* [View full details in Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md#step-149-image-element-challenge---image-element-with-alt-attribute)

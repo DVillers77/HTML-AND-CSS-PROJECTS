@@ -198,10 +198,13 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 #### Step 148: BOLD, ITALICS, UNDERLINE ASSIGNMENT - Text Styling with Deprecated Tags
 * **Objective:** Open `basic-html-1.html` and add content that utilizes the `<b>`, `<i>`, and `<u>` tags to display bold, italicized, and underlined text.
 * **Core Course Concepts:** Introduction to the `<b>` (bold), `<i>` (italic), and `<u>` (underline) HTML elements for basic text styling.
-* **Outcome:** Successfully amended `basic-html-1.html` to include a paragraph demonstrating the visual effects of `<b>`, `<i>`, and `<u>` tags, and confirmed changes in the browser.
 * **Relevant Files:**
     * [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html) (Modified)
-* **Reflection/Learning Note:** This assignment focused on the `<b>`, `<i>`, and `<u>` HTML elements, which are used for direct text styling. It's important to understand that while these tags are still valid in HTML5, they are primarily **presentational elements**. In modern web development, if the goal is to convey **semantic meaning** (e.g., to indicate importance or emphasis), the `<strong>` and `<em>` tags are the preferred alternatives. For purely **visual styling** without adding semantic meaning, applying styles directly via **CSS** (e.g., using `font-weight: bold;`, `font-style: italic;`, or `text-decoration: underline;`) is the best practice, as it maintains a clear separation between content and presentation.
+* **Reflection/Learning Note:** This assignment provided hands-on experience with the `<b>`, `<i>`, and `<u>` HTML elements for basic text styling, reinforcing understanding of direct inline formatting in HTML.
+* **Independent Research & Best Practices:**
+    * While the `<b>`, `<i>`, and `<u>` tags are still valid in HTML5, it's crucial to understand their role as primarily **presentational elements**. They convey visual style rather than semantic meaning.
+    * For conveying **semantic meaning** (e.g., indicating importance or emphasis), the `<strong>` and `<em>` tags are the preferred modern alternatives. These tags have inherent meaning beyond just their default visual display.
+    * For purely **visual styling** without semantic intent (e.g., a bold word just for aesthetic emphasis in a heading), **CSS** is the best practice. Properties like `font-weight: bold;`, `font-style: italic;`, and `text-decoration: underline;` offer greater control, promote separation of concerns, and improve maintainability of the codebase.
 
 #### Step 149: IMAGE ELEMENT CHALLENGE - Image Element with Alt Attribute
 * **Objective:** Define and learn how to utilize the HTML `alt` attribute by adding an `<img>` element to `basic-html-1.html` and demonstrating the `alt` text display when the image cannot be loaded.

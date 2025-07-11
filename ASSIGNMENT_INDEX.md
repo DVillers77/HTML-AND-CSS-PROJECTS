@@ -199,3 +199,11 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * **Relevant Files:**
     * [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html) (Modified)
 * **Reflection/Learning Note:** This assignment focused on the `<b>`, `<i>`, and `<u>` HTML elements, which are used for direct text styling. It's important to understand that while these tags are still valid in HTML5, they are primarily **presentational elements**. In modern web development, if the goal is to convey **semantic meaning** (e.g., to indicate importance or emphasis), the `<strong>` and `<em>` tags are the preferred alternatives. For purely **visual styling** without adding semantic meaning, applying styles directly via **CSS** (e.g., using `font-weight: bold;`, `font-style: italic;`, or `text-decoration: underline;`) is the best practice, as it maintains a clear separation between content and presentation.
+
+#### Step 149: IMAGE ELEMENT ASSIGNMENT - Image Element with Alt Attribute
+* **Objective:** Define and learn how to utilize the HTML `alt` attribute by adding an `<img>` element to `basic-html-1.html` and demonstrating the `alt` text display when the image cannot be loaded.
+* **Core Course Concepts:** Introduction to the `<img>` HTML element, specifying image source with the `src` attribute, and providing alternative text with the `alt` attribute.
+* **Outcome:** Successfully added an `<img>` element to `basic-html-1.html` with correct `src` and `alt` attributes, verified image display, intentionally broke the `src` to observe `alt` text display, and understood the importance of `alt` for accessibility and fallback.
+* **Relevant Files:**
+    * [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html) (Modified)
+* **Reflection/Learning Note:** This assignment highlighted the crucial role of the `alt` attribute for `<img>` elements. Beyond its immediate function as a fallback for broken image links, `alt` text is vital for web accessibility, allowing screen readers to convey image content to visually impaired users. It also contributes to SEO by providing context to search engines about the image's content.

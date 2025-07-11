@@ -190,7 +190,10 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * **Core Course Concepts:** Introduction to the `<font>` HTML element, specifying font family with the `face` attribute, and setting font size with the `size` attribute (using numeric values 1-7).
 * **Relevant Files:**
     * [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html) (Modified)
-* **Reflection/Learning Note:** This assignment reinforced the use of deprecated HTML attributes for styling. It's an important educational step to understand historical web development practices before moving to modern CSS methods for font customization, which offer more control and maintainability.
+* **Reflection/Learning Note:** This assignment reinforced the use of deprecated HTML attributes for styling. It served as an important educational step to understand historical web development practices.
+* **Independent Research & Best Practices:**
+    * Through collaborative discussion, it was confirmed that the `<font>` tag is indeed **deprecated in HTML5**.
+    * The modern and preferred approach for all font styling (color, family, size) is to utilize **CSS** properties (e.g., `color`, `font-family`, `font-size`). This adherence to CSS promotes a clear **separation of concerns** (structure in HTML, presentation in CSS), significantly improves maintainability, and aligns with current industry standards. This deeper understanding reinforces the importance of moving beyond older HTML styling methods.
 
 #### Step 148: BOLD, ITALICS, UNDERLINE ASSIGNMENT - Text Styling with Deprecated Tags
 * **Objective:** Open `basic-html-1.html` and add content that utilizes the `<b>`, `<i>`, and `<u>` tags to display bold, italicized, and underlined text.

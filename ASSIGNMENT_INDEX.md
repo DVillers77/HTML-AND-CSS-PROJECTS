@@ -209,10 +209,13 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 #### Step 149: IMAGE ELEMENT CHALLENGE - Image Element with Alt Attribute
 * **Objective:** Define and learn how to utilize the HTML `alt` attribute by adding an `<img>` element to `basic-html-1.html` and demonstrating the `alt` text display when the image cannot be loaded.
 * **Core Course Concepts:** Introduction to the `<img>` HTML element, specifying image source with the `src` attribute, and providing alternative text with the `alt` attribute.
-* **Outcome:** Successfully added an `<img>` element to `basic-html-1.html` with correct `src` and `alt` attributes, verified image display, intentionally broke the `src` to observe `alt` text display, and understood the importance of `alt` for accessibility and fallback.
 * **Relevant Files:**
     * [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html) (Modified)
-* **Reflection/Learning Note:** This challenge highlighted the crucial role of the `alt` attribute for `<img>` elements. Beyond its immediate function as a fallback for broken image links, `alt` text is vital for web accessibility, allowing screen readers to convey image content to visually impaired users. It also contributes to SEO by providing context to search engines about the image's content.
+* **Reflection/Learning Note:** This challenge provided hands-on experience adding an `<img>` element and directly observing the `alt` attribute's function as a fallback when the image source (`src`) is invalid or fails to load. This reinforced its practical utility in handling image display errors.
+* **Independent Research & Best Practices:**
+    * The `alt` attribute is **critical for web accessibility**, enabling screen readers to describe image content to visually impaired users. This ensures the information conveyed by images is accessible to all.
+    * It also plays a significant role in **SEO (Search Engine Optimization)**, as search engines use `alt` text to understand image content, which can improve image and overall page ranking.
+    * **Best practice for `alt` text** is to be descriptive, concise, and convey the image's content and function, rather than just stating "image of...". This provides valuable context even when the image isn't visible.
 
 #### Step 150: BASIC HTML AND JAVASCRIPT 1 SUBMISSION ASSIGNMENT
 * **Objective:** Successfully push the `Basic_HTML_and_JavaScript_1` folder to the GitHub repository, ensuring all specified minimum requirements for HTML elements (`<img>`, `alt`, `<b>`, `<i>`, `<u>`) are met in `basic-html-1.html` for instructor review.

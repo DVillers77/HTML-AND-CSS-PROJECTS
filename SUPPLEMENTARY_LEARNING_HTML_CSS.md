@@ -320,7 +320,28 @@ These entries summarize key discussions and independent research insights from s
     * **Rebase vs. Merge:** Understand the difference between `git rebase` (rewrites commit history, creates a cleaner linear history) and `git merge` (preserves commit history, creates merge commits). Choose based on team preference and project needs.
     * **Forking vs. Branching:** For contributing to open-source projects you don't have direct write access to, **forking** creates a personal copy of the repository. For work within a single team's project, **branching** within the same repository is typical.
 
+#### Step 156: HTML `<div>` Tag, Block-Level Elements, and Code Formatting Best Practices
 
+* **Core Concept - The `<div>` Tag:** The `<div>` (division) tag is a fundamental HTML element. It's a generic, invisible **block-level container** used primarily for grouping other HTML elements. Its main purpose is to facilitate **CSS styling** and **JavaScript manipulation** of entire sections of content, allowing for efficient application of styles or scripts.
+
+* **Core Concept - Block-Level Elements:** These are HTML elements that always start on a new line and, by default, take up the full available width of their parent container. They function as distinct "blocks" of content, allowing control over their dimensions, margins, and padding. Common examples include headings (`<h1>` to `<h6>`), paragraphs (`<p>`), lists (`<ul>`, `<ol>`), and semantic structural elements (`<header>`, `<section>`).
+
+* **Best Practice - Proper `<div>` Usage:**
+    * **Purpose-Driven Grouping:** Use `<div>` when a generic container is needed for layout or styling.
+    * **Avoid "Divitis":** Refrain from excessive or unnecessary nesting of `<div>`s, as it can lead to bloated, less readable, and less semantically meaningful HTML.
+    * **Prefer Semantic HTML5:** Prioritize more descriptive HTML5 elements (e.g., `<header>`, `<nav>`, `<section>`, `<article>`, `<footer>`) over `<div>` whenever appropriate. These semantic tags enhance accessibility, SEO, and code maintainability by providing inherent meaning to content structure.
+
+* **Best Practice - Consistent Code Indentation:** Indentation is the consistent use of spaces or tabs to visually represent the hierarchical nesting of HTML elements. It's crucial for:
+    * **Readability:** Makes code significantly easier to read and understand.
+    * **Hierarchy Visualization:** Clearly shows parent-child relationships between elements.
+    * **Debugging:** Simplifies the identification of structural errors.
+    A common and highly recommended standard is **2 or 4 spaces** per indentation level. Consistency within a project is paramount.
+
+* **Tool Discovery - VS Code Automatic Formatting:** The "Format Document" feature in VS Code, activated by `Shift + Alt + F` (Windows/Linux) or `Shift + Option + F` (Mac), is an invaluable tool for maintaining code cleanliness. This built-in functionality:
+    * Automatically adjusts indentation, spacing, and other stylistic elements based on configured rules.
+    * Understands and applies appropriate formatting conventions across different programming languages.
+    * Can be integrated with extensions like Prettier for project-wide formatting consistency.
+    Regular use of this feature is a strong best practice for professional and readable code.
 
 
 

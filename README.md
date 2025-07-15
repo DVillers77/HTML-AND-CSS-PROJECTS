@@ -139,3 +139,8 @@ This challenge involved adding an `<img>` element to `basic-html-1.html` and dem
 #### 22. BASIC HTML AND JAVASCRIPT 1 SUBMISSION ASSIGNMENT
 This assignment involved pushing the completed `Basic_HTML_and_JavaScript_1` folder to GitHub for instructor review, ensuring all specified HTML element requirements were met.
 * [View full details in Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md#step-150-basic-html-and-javascript-1-submission-assignment)
+
+#### 158. BASIC HTML AND CSS ASSIGNMENT
+This assignment involved creating a `basic-html-3.html` file within a new `basic-html-and-css` folder, demonstrating the use of `div` and internal `style` tags with chosen font colors. It served as a practical exercise in applying basic HTML structuring and CSS styling.
+* [View full details in Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md#step-158-basic-html-and-css-assignment)
+

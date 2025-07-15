@@ -387,3 +387,38 @@ These entries summarize key discussions and independent research insights from s
   - **Discovery:** When attempting to use VS Code's `Format Document` feature (`Shift + Alt + F`) for code snippets within Markdown files, it often requires a specific formatter extension.
   - **Solution:** Installing **Prettier - Code Formatter** is a highly effective way to enable automatic formatting for various code languages (like HTML, CSS, JavaScript) when they are included in fenced code blocks (` ```html `) within Markdown files.
   - **Workflow Integration:** Prettier ensures consistent indentation and nesting within your documentation's code examples simply by pressing `Shift + Alt + F`, significantly improving readability and adherence to best practices.
+
+#### Step 158: BASIC HTML AND CSS ASSIGNMENT - Folder, HTML File, & Internal Styling
+
+* **Objective:** Create a dedicated project folder and an HTML file (`basic-html-3.html`) demonstrating the use of `<div>` and `<style>` tags for internal CSS, applying font colors.
+* **Outcome:** Successfully created the `basic-html-and-css/` folder and `basic-html-and-css/basic-html-3.html` file within `HTML-AND-CSS-PROJECTS/`. Implemented internal CSS via the `<style>` tag to apply font colors to both `body` and `div` elements. The code clearly demonstrates CSS specificity, where the `div`'s unique styling overrides the more general `body` style for its contained content.
+* **File Details:**
+    * **Folder Path:** `HTML-AND-CSS-PROJECTS/basic-html-and-css/`
+    * **File Path:** `HTML-AND-CSS-PROJECTS/basic-html-and-css/basic-html-3.html`
+* **Code Implemented:**
+    ```html
+    <!DOCTYPE html>
+    <html lang="en">
+      <head>
+        <meta charset="utf-8" />
+        <title>Basic HTML 3</title>
+        <style>
+          body {
+            color: red;
+          }
+          div {
+            color: rgb(170, 66, 245);
+          }
+        </style>
+      </head>
+      <body>
+        <p>This text is red because of the body style.</p>
+        <div>This is my div content syled to be a shade of purple.</div>
+      </body>
+    </html>
+    ```
+* **Key Learning/Best Practices:**
+    * **Internal CSS (`<style>` tag):** Effective for single-page styles, typically placed within the `<head>` section of an HTML document.
+    * **CSS Specificity:** Confirmed how more specific rules (e.g., targeting a `div`) take precedence over more general rules (e.g., targeting the `body`) for nested elements, influencing the final rendered style.
+    * **`<div>` Usage:** Reaffirmed its role as a versatile, generic block-level container for structuring and grouping content.
+    * **Kebab-Case Naming:** Adopted consistent kebab-case (`basic-html-and-css`, `basic-html-3.html`) for folder and file names, aligning with common web development conventions for cleaner URLs and file paths.

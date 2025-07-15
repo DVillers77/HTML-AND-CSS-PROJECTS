@@ -229,3 +229,14 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
     * **Interpreting Submission Requirements:** This step highlighted the importance of carefully interpreting assignment submission instructions, especially when phrasing might be ambiguous (e.g., whether a specific file URL or a broader project folder URL is required). The decision to provide the **folder URL** was made for comprehensiveness, allowing instructors to access all relevant project files.
     * **GitHub Project Structure for Submissions:** Emphasized the best practice of pushing and linking to the entire project folder on GitHub. This ensures the integrity of the project's file structure and provides the reviewer with full context, including all associated files like HTML and JavaScript, for a holistic review.
     * **Pre-Submission Checklist:** This step served as a practical demonstration of performing a final self-review of code against minimum requirements, ensuring all criteria are met before formal submission.
+
+    #### Step 158: BASIC HTML AND CSS ASSIGNMENT
+* **Objective:** Create a new folder (`basic-html-and-css`) and an HTML file (`basic-html-3.html`) to demonstrate `div` and `<style>` tag usage with font colors.
+* **Core Course Concepts:** Basic HTML structure, internal CSS (`<style>` tag), CSS specificity, HTML `div` element, and file/folder organization.
+* **Relevant Files:**
+    * [HTML-AND-CSS-PROJECTS/basic-html-and-css/](HTML-AND-CSS-PROJECTS/basic-html-and-css/) (Entire assignment folder for review)
+    * [HTML-AND-CSS-PROJECTS/basic-html-and-css/basic-html-3.html](HTML-AND-CSS-PROJECTS/basic-html-and-css/basic-html-3.html)
+* **Reflection/Learning Note:** This assignment provided practical experience in setting up a small web project, integrating basic HTML elements with internal CSS, and observing CSS specificity in action. It reinforced the importance of file naming conventions.
+* **Independent Research & Best Practices:**
+    * **Kebab-Case File Naming:** Confirmed kebab-case as a best practice for web-related file and folder names (`basic-html-and-css`, `basic-html-3.html`) for better URL compatibility and readability.
+    * **Internal vs. External CSS:** Reaffirmed that while internal CSS is suitable for small, single-page examples, external stylesheets are generally preferred for larger projects for better organization and maintainability.

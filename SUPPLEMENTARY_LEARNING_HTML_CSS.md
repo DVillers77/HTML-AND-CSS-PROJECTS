@@ -223,7 +223,7 @@ This document compiles detailed learning notes, reflections, and insights, parti
     * For conveying **semantic meaning** (e.g., indicating importance or emphasis), the `<strong>` and `<em>` tags are the preferred modern alternatives. These tags have inherent meaning beyond just their default visual display.
     * For purely **visual styling** without semantic intent (e.g., a bold word just for aesthetic emphasis in a heading), **CSS** is the best practice. Properties like `font-weight: bold;`, `font-style: italic;`, and `text-decoration: underline;` offer greater control, promote separation of concerns, and improve maintainability of the codebase.
 
-#### Step 149: IMAGE ELEMENT CHALLENGE - Image Element with Alt Attribute
+#### Step 149: CHALLENGE - Image Element with Alt Attribute
 * **Objective:** Define and learn how to utilize the HTML `alt` attribute by adding an `<img>` element to `basic-html-1.html` and demonstrating the `alt` text display when the image cannot be loaded.
 * **Core Course Concepts:** Introduction to the `<img>` HTML element, specifying image source with the `src` attribute, and providing alternative text with the `alt` attribute.
 * **Relevant Files:**

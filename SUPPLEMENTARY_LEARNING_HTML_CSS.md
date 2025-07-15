@@ -255,7 +255,8 @@ This document compiles detailed learning notes, reflections, and insights, parti
 
 These entries summarize key discussions and independent research insights from steps not directly tied to coding assignments, focusing on broader best practices, tooling, and development methodologies.
 
-#### Step 151: VS Code Extensions & Workflow Optimization
+#### Step 151: BROWSER ENGINES - VS Code Extensions & Workflow Optimization
+
 * **Objective:** Identify and understand the utility of essential VS Code extensions for web development to optimize workflow.
 * **Outcome:** Gained knowledge on extensions that enhance coding efficiency, provide real-time feedback, and improve code quality for HTML, CSS, and JavaScript projects.
 * **Independent Research & Best Practices:**
@@ -267,7 +268,8 @@ These entries summarize key discussions and independent research insights from s
     * **Markdown All in One:** Enhances Markdown editing with shortcuts, preview, and TOC generation, vital for project documentation like `README.md` and `ASSIGNMENT_INDEX.md`.
     * **Bracket Pair Colorizer (or native VS Code feature):** Improves readability of nested code structures by color-coding matching brackets, especially useful in complex JavaScript or CSS.
 
-#### Step 152: Modern HTML5 Semantics
+#### Step 152: WEB BROWSERS - Modern HTML5 Semantics
+
 * **Objective:** Understand and apply modern HTML5 semantic elements to create more meaningful and accessible web structures.
 * **Outcome:** Developed an awareness of HTML5's structural elements and their benefits for SEO, accessibility, and code readability, moving beyond generic `<div>` usage.
 * **Independent Research & Best Practices:**
@@ -278,7 +280,8 @@ These entries summarize key discussions and independent research insights from s
         * A `<section>` is a thematic grouping of content, typically with a heading. It's used to group related content within an article or across a page.
     * **Accessibility (ARIA Attributes):** While semantic HTML improves accessibility naturally, ARIA (Accessible Rich Internet Applications) attributes can be used to further enhance accessibility for dynamic content or complex UI components where native HTML semantics are insufficient.
 
-#### Step 153: CSS Best Practices & Methodologies
+#### Step 153: RENDERING - CSS Best Practices & Methodologies
+
 * **Objective:** Grasp fundamental CSS best practices for maintainability, scalability, and performance in web projects.
 * **Outcome:** Learned strategies for writing cleaner, more organized, and efficient CSS code, preparing for larger and more complex stylesheets.
 * **Independent Research & Best Practices:**
@@ -293,19 +296,8 @@ These entries summarize key discussions and independent research insights from s
         * **Optimize Selectors:** Write efficient CSS selectors that don't traverse the DOM unnecessarily.
         * **Avoid `@import` in CSS:** Using `@import` within CSS files can cause stylesheets to load in series, negatively impacting performance. Prefer using `<link>` tags in HTML.
 
-#### Step 154: JavaScript Fundamentals & Modern ES6+ Features
-* **Objective:** Review core JavaScript concepts and explore modern ECMAScript (ES6+) features for writing more concise and powerful code.
-* **Outcome:** Solidified understanding of JavaScript basics and gained exposure to contemporary language features that are standard in modern web development.
-* **Independent Research & Best Practices:**
-    * **`const` and `let` for Variable Declaration:** Prefer `const` for variables whose values won't change, and `let` for variables that will be reassigned. Avoid `var` due to its function scoping and hoisting behavior, which can lead to unexpected bugs.
-    * **Arrow Functions (`=>`):** A more concise syntax for writing function expressions. They also handle the `this` keyword differently, which can be beneficial in certain contexts (lexical `this`).
-    * **Template Literals (`` ` ``):** Use backticks to create strings that allow for embedded expressions (`${expression}`) and multi-line strings, making string concatenation much cleaner.
-    * **Destructuring Assignment:** A convenient way to extract values from arrays or properties from objects into distinct variables.
-    * **Spread Operator (`...`)::** Allows an iterable (like an array or string) to be expanded in places where zero or more arguments (for function calls) or elements (for array literals) are expected. It's also useful for shallow copying arrays or merging objects.
-    * **Modules (ES Modules - `import`/`export`):** Organize your JavaScript code into modular files using `import` and `export` statements. This improves code organization, reusability, and maintainability. It also helps with dependency management.
-    * **Asynchronous JavaScript (Promises, Async/Await):** Understand concepts like Promises and `async/await` for handling asynchronous operations (like fetching data from an API) more cleanly and efficiently than traditional callbacks.
+#### Step 155: STYLE - Version Control with Git & GitHub Workflow
 
-#### Step 155: Version Control with Git & GitHub Workflow
 * **Objective:** Reinforce best practices for using Git for version control and collaborating on GitHub.
 * **Outcome:** Developed a clearer understanding of a robust Git workflow for managing code changes, collaborating effectively, and maintaining project history.
 * **Independent Research & Best Practices:**
@@ -320,11 +312,11 @@ These entries summarize key discussions and independent research insights from s
     * **Rebase vs. Merge:** Understand the difference between `git rebase` (rewrites commit history, creates a cleaner linear history) and `git merge` (preserves commit history, creates merge commits). Choose based on team preference and project needs.
     * **Forking vs. Branching:** For contributing to open-source projects you don't have direct write access to, **forking** creates a personal copy of the repository. For work within a single team's project, **branching** within the same repository is typical.
 
-#### Step 156: HTML `<div>` Tag, Block-Level Elements, and Code Formatting Best Practices
+#### Step 156: DIV - Understanding Block-Level Elements and Formatting
 
 * **Core Concept - The `<div>` Tag:** The `<div>` (division) tag is a fundamental HTML element. It's a generic, invisible **block-level container** used primarily for grouping other HTML elements. Its main purpose is to facilitate **CSS styling** and **JavaScript manipulation** of entire sections of content, allowing for efficient application of styles or scripts.
 
-* **Core Concept - Block-Level Elements:** These are HTML elements that always start on a new line and, by default, take up the full available width of their parent container. They function as distinct "blocks" of content, allowing control over their dimensions, margins, and padding. Common examples include headings (`<h1>` to `<h6>`), paragraphs (`<p>`), lists (`<ul>`, `<ol>`), and semantic structural elements (`<header>`, `<section>`).
+* **Core Concept - Block-Level Elements:** These are HTML elements that always start on a new line and, by default, take up the full available width of their parent container. They function as distinct "blocks" of content, allowing control over their dimensions, margins, and padding. Common examples include headings (`<h1>` to `<h6>`), paragraphs (`<p>`), lists (`<ul>`, `<ol>`), and semantic structural elements (`<header>`, `<section>`), and `<div>`.
 
 * **Best Practice - Proper `<div>` Usage:**
     * **Purpose-Driven Grouping:** Use `<div>` when a generic container is needed for layout or styling.
@@ -335,13 +327,13 @@ These entries summarize key discussions and independent research insights from s
     * **Readability:** Makes code significantly easier to read and understand.
     * **Hierarchy Visualization:** Clearly shows parent-child relationships between elements.
     * **Debugging:** Simplifies the identification of structural errors.
-    A common and highly recommended standard is **2 or 4 spaces** per indentation level. Consistency within a project is paramount.
+    * A common and highly recommended standard is **2 or 4 spaces** per indentation level. Consistency within a project is paramount.
 
 * **Tool Discovery - VS Code Automatic Formatting:** The "Format Document" feature in VS Code, activated by `Shift + Alt + F` (Windows/Linux) or `Shift + Option + F` (Mac), is an invaluable tool for maintaining code cleanliness. This built-in functionality:
     * Automatically adjusts indentation, spacing, and other stylistic elements based on configured rules.
     * Understands and applies appropriate formatting conventions across different programming languages.
     * Can be integrated with extensions like Prettier for project-wide formatting consistency.
-    Regular use of this feature is a strong best practice for professional and readable code.
+    * Regular use of this feature is a strong best practice for professional and readable code.
 
 
 

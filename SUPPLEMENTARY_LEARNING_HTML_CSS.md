@@ -401,3 +401,7 @@ These entries summarize key discussions and independent research insights from s
 * **Independent Research & Best Practices:**
     * **Kebab-Case File Naming:** Adopted consistent kebab-case (`basic-html-and-css`, `basic-html-3.html`) for folder and file names, aligning with common web development conventions for cleaner URLs and file paths.
     * **Internal vs. External CSS:** Reaffirmed that while internal CSS is suitable for small, single-page examples, external stylesheets are generally preferred for larger projects for better organization and maintainability.
+
+    ---
+
+### Subsection B: A PREVIEW OF CASCADING STYLE SHEETS (CSS)

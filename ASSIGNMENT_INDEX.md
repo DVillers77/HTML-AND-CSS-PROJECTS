@@ -330,3 +330,25 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * The focus on "aesthetics" highlights the design aspect of web development, beyond just structure.
 
 ---
+
+## Quiz
+
+### Course Step Number: 162
+### Assignment Title: CSS Definition Quiz
+### Date Assigned: 2025-07-16
+### Status: Completed
+
+### Objective
+* Verify understanding of fundamental CSS definitions.
+
+### Tasks
+1.  Complete the quiz for Step 162.
+2.  Answer "What does CSS stand for?"
+
+### Relevant Files
+* No files associated with this quiz step.
+
+### Learning Reflections / Notes
+* Confirmed basic definition of CSS.
+
+---

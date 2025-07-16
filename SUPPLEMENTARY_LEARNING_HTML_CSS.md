@@ -530,3 +530,31 @@ These entries summarize key discussions and independent research insights from s
 * Adhering to semicolon syntax is clearly a critical habit to develop from the start.
 
 ---
+
+## HTML AND CSS
+
+### Course Step Number: 165
+### Date Researched: 2025-07-16
+### Source(s): Course Material (HTML AND CSS)
+
+### Key Concepts / Summary
+* **Integrating CSS with HTML (Internal CSS):** CSS rules can be embedded directly within an HTML document using the `<style>` tags, placed in the `<head>` section.
+* **CSS Rule-Set in Action:** Demonstrated applying a CSS rule-set (`p { color: green; text-align: right; }`) to style paragraph elements.
+* **Common CSS Properties:** Introduction to `color` (text color) and `text-align` (horizontal text alignment).
+* **Dynamic Styling:** Styling values can be easily changed to alter the appearance of elements.
+* **Output:** Visual representation of how the `color: green;` and `text-align: right;` rules affect paragraphs.
+
+### Independent Research / Notable Discoveries
+* **Types of CSS Application:**
+    * **Internal CSS (Demonstrated):** Good for single pages.
+    * **External CSS (Preferred):** Best for multiple pages due to organization, maintainability, and reusability (leverages "cascading" most effectively).
+    * **Inline CSS:** Applied directly to HTML elements using the `style` attribute (generally discouraged for broad styling).
+* **Basic Text Styling Properties:** `color` and `text-align` are fundamental. Many other properties like `font-family`, `font-size`, `font-weight` exist for comprehensive text control.
+* **Developer Tools for Inspection:** Practical application of previously learned DevTools skills (Inspect Element, Styles panel) for viewing and experimenting with applied CSS rules in real-time.
+
+### Personal Reflections
+* Seeing the direct connection between HTML and CSS in a live example makes the concepts much clearer.
+* Understanding the different ways to apply CSS (internal, external, inline) is important for choosing the right method for a project.
+* The power of instantly seeing style changes by modifying property values is very intuitive and encourages experimentation.
+
+---

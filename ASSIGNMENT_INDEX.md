@@ -406,3 +406,30 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * Reinforces the need for meticulous syntax to avoid errors in styling.
 
 ---
+
+## HTML AND CSS
+
+### Course Step Number: 165
+### Assignment Title: Internal CSS Application Example
+### Date Assigned: 2025-07-16
+### Status: Completed
+
+### Objective
+* Understand how to apply CSS rules directly within an HTML document using `<style>` tags (Internal CSS).
+* Observe the immediate visual impact of CSS properties like `color` and `text-align` on HTML elements.
+* Recognize the interaction between HTML structure and CSS styling in a practical example.
+
+### Tasks
+1.  Review the provided HTML and internal CSS code snippet.
+2.  Analyze the output to understand how the CSS rules affect the appearance of the HTML paragraphs.
+3.  Note the location of the `<style>` tags within the HTML document.
+
+### Relevant Files
+* No files were created as part of this informational step, but it demonstrates fundamental integration of HTML and CSS.
+
+### Learning Reflections / Notes
+* Seeing a live code example truly clarifies the relationship between HTML and CSS.
+* Confirmed the correct syntax for placing CSS rules within `<style>` tags.
+* This step serves as a practical bridge between theoretical CSS concepts and actual web page styling.
+
+---

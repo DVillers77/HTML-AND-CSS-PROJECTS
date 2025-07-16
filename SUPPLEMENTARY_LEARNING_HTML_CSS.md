@@ -2,6 +2,15 @@
 
 ---
 
+# Supplementary Learning: HTML & CSS
+
+> **Important Note on Formatting (Updated 2025-07-16):**
+> A new standardized format for learning entries is being implemented from this date forward to enhance consistency, clarity, and precise cross-referencing with course materials. Newer entries will fully conform to this structure, including explicit course module titles and step numbers. Older entries may follow a previous format and might not contain all details.
+
+This document compiles detailed learning notes, reflections, and independent research findings from my HTML & CSS course journey, precisely cross-referenced with the course outline.
+
+---
+
 This document compiles detailed learning notes, reflections, and insights, particularly focusing on "Independent Research & Best Practices" discussions, from your HTML & CSS Course journey. It was created on July 12, 2025, by assembling information from your **project files (as referenced in `ASSIGNMENT_INDEX.md` entries)** and **relevant discussions from our chat history (the ongoing dialogue between us, the AI assistant and you, the student)**. Moving forward, especially from Step 151 onwards, entries will integrate more in-depth best practices and independent research findings.
 
 ---

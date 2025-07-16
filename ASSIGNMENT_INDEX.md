@@ -2,6 +2,15 @@
 
 ---
 
+# Assignment Index
+
+> **Important Note on Formatting (Updated 2025-07-16):**
+> A new standardized format for assignment entries is being implemented from this date forward to enhance consistency, clarity, and precise cross-referencing with course materials. Newer entries will fully conform to this structure, including explicit course module titles and step numbers. Older entries may follow a previous format and might not contain all details.
+
+This document tracks all coding assignments and challenges chronologically, detailing objectives, tasks, and relevant files, precisely cross-referenced with the course outline.
+
+---
+
 #### AI ASSISTANT PROJECT GUIDELINES
 For detailed rules on collaboration, documentation, and project standards, please refer to the [AI Assistant Project Guidelines](https://github.com/DVillers77/Tech-Academy-Projects-/blob/main/ai-assistant-project-guidelines.md).
 

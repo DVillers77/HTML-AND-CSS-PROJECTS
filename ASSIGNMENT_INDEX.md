@@ -460,3 +460,27 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * The message about making CSS the sole source of styling is a clear directive for best practices.
 
 ---
+
+## LIST OF COLORS
+
+### Course Step Number: 167
+### Assignment Title: CSS Color Reference
+### Date Assigned: 2025-07-16
+### Status: Completed
+
+### Objective
+* Familiarize with available CSS color keywords.
+* Understand that CSS offers various ways to specify colors for styling.
+
+### Tasks
+1.  Review the provided link to a list of CSS colors.
+2.  Note the existence of different color specification methods beyond just named colors (e.g., Hex, RGB, HSL).
+
+### Relevant Files
+* No files associated with this informational step, but the color values are used in all CSS styling.
+
+### Learning Reflections / Notes
+* This step highlighted the vast range of colors available in CSS and the different formats to specify them.
+* Understanding Hex and RGB/RGBA/HSL/HSLA is crucial for precise and modern web design.
+
+---

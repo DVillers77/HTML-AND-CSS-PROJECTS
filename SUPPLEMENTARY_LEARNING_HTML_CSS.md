@@ -471,3 +471,32 @@ These entries summarize key discussions and independent research insights from s
 * Looking forward to learning about CSS selectors to start applying these aesthetic principles practically.
 
 ---
+
+## SELECTORS, PROPERTIES AND VALUES
+
+### Course Step Number: 163
+### Date Researched: 2025-07-16
+### Source(s): Course Material (SELECTORS, PROPERTIES AND VALUES)
+
+### Key Concepts / Summary
+* **Selector:** Points to specific HTML elements to be styled (e.g., `p` for paragraph elements).
+* **Property:** An identifier or name that specifies *what feature* of the HTML element is being changed (e.g., `color`).
+* **Value:** Describes *how* the property is handled, or the specific setting for that property (e.g., `blue` for `color`).
+* **Declaration:** A combination of a property and its value (e.g., `color: blue;`).
+* **Declaration Block:** Declarations are grouped within curly braces `{}` following a selector.
+* **Example:** Styling a `<p>` element by setting its `color` property to `blue`.
+
+### Independent Research / Notable Discoveries
+* **The Foundation of CSS:** These three components (selector, property, value) are fundamental to all CSS rules.
+* **Crucial Syntax:**
+    * Use a **colon (`:`)** between property and value.
+    * Use a **semicolon (`;`)** at the end of each declaration (essential for multiple declarations).
+* **Variety of Selectors:** Beyond element selectors (`p`), key types include class selectors (`.class-name`), ID selectors (`#id-name`), universal selectors (`*`), and descendant selectors (`div p`). Each impacts how styles are applied and cascade.
+* **Infinite Styling Possibilities:** The combination of different properties and values allows for extensive control over web page appearance.
+
+### Personal Reflections
+* Understanding these basic building blocks makes the process of writing CSS much clearer and less intimidating.
+* The importance of correct syntax (colons and semicolons) is evident for effective styling.
+* Excited to explore the different types of selectors to gain more precise control over styling specific elements.
+
+---

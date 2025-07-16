@@ -352,3 +352,29 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * Confirmed basic definition of CSS.
 
 ---
+
+## SELECTORS, PROPERTIES AND VALUES
+
+### Course Step Number: 163
+### Assignment Title: Introduction to CSS Syntax
+### Date Assigned: 2025-07-16
+### Status: Completed
+
+### Objective
+* Understand the fundamental components of a CSS rule: selectors, properties, and values.
+* Grasp the basic syntax for writing CSS declarations and declaration blocks.
+
+### Tasks
+1.  Read and comprehend the course material for Step 163, "SELECTORS, PROPERTIES AND VALUES."
+2.  Analyze the provided diagram illustrating how selectors, properties, and values form a CSS rule.
+3.  Identify each component (selector, property, value) in the given CSS example (`p { color: blue; }`).
+
+### Relevant Files
+* No direct files created for this informational step, but these concepts are universally applied in all CSS files.
+
+### Learning Reflections / Notes
+* This step clearly laid out the basic anatomy of a CSS rule, which is essential for writing any styles.
+* The importance of correct syntax with colons and semicolons was reinforced.
+* This foundational knowledge is critical for moving forward with practical CSS applications.
+
+---

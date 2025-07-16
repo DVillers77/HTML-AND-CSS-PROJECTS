@@ -444,3 +444,30 @@ These entries summarize key discussions and independent research insights from s
 * The practical implication of the broken image in the course material serves as a strong reminder about the real-world importance of accessibility best practices like `alt` text.
 
 ---
+
+## AESTHETICS
+
+### Course Step Number: 161
+### Date Researched: 2025-07-16
+### Source(s): Course Material (AESTHETICS)
+
+### Key Concepts / Summary
+* **Definition of Aesthetics:** The visual appeal and beauty of a website.
+* **Tools for Aesthetics:** CSS and JavaScript are primarily used to enhance a website's visual qualities.
+* **CSS and HTML Display:** CSS specifically defines how HTML elements are displayed, controlling their style.
+* **External Stylesheets (Reinforced):** CSS files (style sheets) are kept separate from HTML code, allowing single stylesheets to control styling across multiple web pages.
+* **Centralized Styling for Efficiency:** This separation enables efficient aesthetic changes website-wide by editing only one CSS file.
+* **Diagram Description:** A diagram illustrates a single CSS file styling multiple HTML web pages (Home, About, FAQs, Contact), emphasizing consistent styling and code efficiency across a website.
+
+### Independent Research / Notable Discoveries
+* **Reinforcing Efficiency and Maintainability:** External stylesheets are paramount for reducing code redundancy, enabling faster loading through caching, and facilitating easier collaboration.
+* **Beyond Basic Aesthetics: User Experience (UX) and User Interface (UI):** Aesthetics are part of UI (how it looks), which contributes to UX (how it feels to use). CSS is key for UI implementation.
+* **Introduction to CSS Selectors:** CSS applies styles by "selecting" HTML elements using selectors (e.g., element, class, ID selectors). Understanding these is crucial for practical CSS application.
+* **The "Cascade" in Action: Order of Operations:** When styles conflict, CSS prioritizes based on specificity (more precise rules win) and order of appearance, with inline styles generally having high precedence.
+
+### Personal Reflections
+* The concept of a single CSS file controlling the aesthetics of an entire website truly highlights the power and efficiency of CSS in web development.
+* Realized that aesthetics go hand-in-hand with UI/UX, and CSS is the primary tool for building the visual aspects of the user interface.
+* Looking forward to learning about CSS selectors to start applying these aesthetic principles practically.
+
+---

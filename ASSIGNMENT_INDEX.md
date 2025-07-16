@@ -303,3 +303,30 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * Noted the importance of `alt` text and accessibility from the course material's broken image example.
 
 ---
+
+## AESTHETICS
+
+### Course Step Number: 161
+### Assignment Title: Introduction to Web Aesthetics with CSS
+### Date Assigned: 2025-07-16
+### Status: Completed
+
+### Objective
+* Understand the concept of "aesthetics" in web design.
+* Recognize CSS as a primary tool for controlling the visual appearance of HTML documents.
+* Grasp the efficiency benefits of using a single external CSS file to style multiple web pages.
+
+### Tasks
+1.  Read and comprehend the course material for Step 161, "AESTHETICS."
+2.  Review the diagram illustrating the relationship between a single CSS file and multiple HTML pages.
+3.  Internalize the role of CSS in separating content from presentation for improved efficiency.
+
+### Relevant Files
+* No direct files created for this informational step, but the concepts apply universally to web project files.
+
+### Learning Reflections / Notes
+* This step reinforced the core value proposition of CSS: centralized control over website appearance.
+* The diagram made it very clear how scalable and efficient external stylesheets are for consistent design.
+* The focus on "aesthetics" highlights the design aspect of web development, beyond just structure.
+
+---

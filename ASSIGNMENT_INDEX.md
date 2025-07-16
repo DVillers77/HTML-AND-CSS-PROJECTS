@@ -249,3 +249,30 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * **Independent Research & Best Practices:**
     * **Kebab-Case File Naming:** Confirmed kebab-case as a best practice for web-related file and folder names (`basic-html-and-css`, `basic-html-3.html`) for better URL compatibility and readability.
     * **Internal vs. External CSS:** Reaffirmed that while internal CSS is suitable for small, single-page examples, external stylesheets are generally preferred for larger projects for better organization and maintainability.
+
+    ---
+
+## SUBSECTION B: A PREVIEW OF CASCADING STYLE SHEETS (CSS)
+
+### Course Step Number: 159
+### Assignment Title: [Not yet assigned for this step, or a short descriptive if applicable]
+### Date Assigned: 2025-07-16
+### Status: In Progress
+
+### Objective
+* Understand the fundamental concepts of Cascading Style Sheets (CSS).
+* Learn how CSS is used to style HTML elements.
+* [Add any specific objectives for this initial CSS preview step.]
+
+### Tasks
+1.  Review course material for Subsection B: A Preview of CSS.
+2.  Identify key terms and concepts related to CSS.
+3.  [Add any practical tasks or exercises associated with this step.]
+
+### Relevant Files
+* [List any files directly related to this step, e.g., `style.css`, `index.html` if it's modified]
+
+### Learning Reflections / Notes
+* [Record any significant discoveries, challenges, or personal insights from this subsection.]
+
+---

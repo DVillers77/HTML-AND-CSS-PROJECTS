@@ -144,3 +144,9 @@ This assignment involved pushing the completed `Basic_HTML_and_JavaScript_1` fol
 This assignment involved creating a `basic-html-3.html` file within a new `basic-html-and-css` folder, demonstrating the use of the **`div` element** and internal `style` tags with chosen font colors. It served as a practical exercise in applying basic HTML structuring and CSS styling, with a focus on understanding how `div` acts as a generic container.
 * [View full details in Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md#step-158-basic-html-and-css-assignment)
 
+---
+
+### Subsection B: A PREVIEW OF CASCADING STYLE SHEETS (CSS)
+This subsection introduces the foundational concepts of CSS, explaining its role in styling web pages and how it interacts with HTML. It provides a high-level overview of styling principles.
+* [View full details in Assignment Index](ASSIGNMENT_INDEX.md#subsection-b-a-preview-of-cascading-style-sheets-css)
+

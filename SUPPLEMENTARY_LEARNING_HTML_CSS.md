@@ -500,3 +500,33 @@ These entries summarize key discussions and independent research insights from s
 * Excited to explore the different types of selectors to gain more precise control over styling specific elements.
 
 ---
+
+## CSS RULE-SET
+
+### Course Step Number: 164
+### Date Researched: 2025-07-16
+### Source(s): Course Material (CSS RULE-SET)
+
+### Key Concepts / Summary
+* **CSS Rule-Set:** A block of CSS code that contains a `Selector` and a `Declaration Block`.
+* **Selector:** Points to the HTML element(s) to be styled (e.g., `h1`).
+* **Declaration Block:** Contains one or more `Declarations` enclosed within curly braces `{}`.
+* **Declaration:** A statement consisting of a `Property` and a `Value`, separated by a colon (`:`).
+    * **Property:** The specific style attribute being modified (e.g., `color`, `height`).
+    * **Value:** The specific setting for that property (e.g., `blue`, `20px`).
+* **Syntax Rules:** Each declaration must end with a semicolon (`;`).
+* **`px` (CSS Pixels):** A unit of measurement in CSS for defining size. (e.g., 96px ≈ 1 inch; font size 10 in Word ≈ 13px).
+
+### Independent Research / Notable Discoveries
+* **Complete CSS Rule Structure:** The fundamental building block for all CSS styling, always following the `selector { property: value; }` pattern.
+* **Importance of Semicolons:** Always include a semicolon at the end of each declaration, even the last one, to prevent errors and ensure future compatibility.
+* **Understanding `px` as an Absolute Unit:** `px` provides precise, consistent sizing, though it's distinct from device pixels on high-resolution screens.
+* **Other CSS Units:** Awareness of relative units (e.g., `em`, `rem`, `%`, `vw`, `vh`) is crucial for responsive design, alongside other absolute units like `pt`, `cm`, `in`.
+* **Readability:** For multiple declarations, placing each on a new line and indenting improves code readability.
+
+### Personal Reflections
+* This step solidified the complete structure of a CSS rule, which is essential for writing effective styles.
+* The clarification on `px` and the mention of other units is helpful for understanding sizing in web design.
+* Adhering to semicolon syntax is clearly a critical habit to develop from the start.
+
+---

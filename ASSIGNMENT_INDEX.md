@@ -378,3 +378,31 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * This foundational knowledge is critical for moving forward with practical CSS applications.
 
 ---
+
+## CSS RULE-SET
+
+### Course Step Number: 164
+### Assignment Title: Understanding CSS Rule Structure
+### Date Assigned: 2025-07-16
+### Status: Completed
+
+### Objective
+* Comprehend the complete structure of a CSS rule-set, including selectors and declaration blocks.
+* Understand the components of a declaration: property and value.
+* Learn the importance of correct syntax, especially semicolon usage.
+* Gain an initial understanding of `px` as a CSS unit of measurement.
+
+### Tasks
+1.  Read and analyze the course material for Step 164, "CSS RULE-SET."
+2.  Identify the selector, declaration block, properties, and values within the provided CSS examples.
+3.  Note the significance of semicolons in separating declarations.
+
+### Relevant Files
+* No direct files created for this informational step, but the concepts are fundamental to all CSS styling.
+
+### Learning Reflections / Notes
+* This step provided a clear, consolidated view of how CSS rules are constructed.
+* The explanation of `px` was helpful for understanding absolute sizing in CSS.
+* Reinforces the need for meticulous syntax to avoid errors in styling.
+
+---

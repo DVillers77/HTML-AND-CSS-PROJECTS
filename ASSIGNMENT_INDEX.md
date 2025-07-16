@@ -433,3 +433,30 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * This step serves as a practical bridge between theoretical CSS concepts and actual web page styling.
 
 ---
+
+## HTML5
+
+### Course Step Number: 166
+### Assignment Title: HTML5 Styling Best Practices
+### Date Assigned: 2025-07-16
+### Status: Completed
+
+### Objective
+* Understand HTML5's design philosophy regarding styling with CSS.
+* Recognize that older HTML styling attributes are deprecated and should be avoided.
+* Reinforce the best practice of using CSS exclusively for all web page styling.
+
+### Tasks
+1.  Read and analyze the course material for Step 166, "HTML5."
+2.  Grasp the concept of deprecation and its implications for modern web development.
+3.  Internalize the importance of separating HTML content/structure from CSS presentation.
+
+### Relevant Files
+* No direct files created for this informational step, but it outlines fundamental principles for all HTML and CSS development.
+
+### Learning Reflections / Notes
+* This step strongly emphasized the shift to CSS for styling and the reasons behind it.
+* Understanding which HTML attributes are deprecated is crucial for writing modern, maintainable code.
+* The message about making CSS the sole source of styling is a clear directive for best practices.
+
+---

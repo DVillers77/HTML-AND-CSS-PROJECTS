@@ -558,3 +558,28 @@ These entries summarize key discussions and independent research insights from s
 * The power of instantly seeing style changes by modifying property values is very intuitive and encourages experimentation.
 
 ---
+
+## HTML5
+
+### Course Step Number: 166
+### Date Researched: 2025-07-16
+### Source(s): Course Material (HTML5)
+
+### Key Concepts / Summary
+* **HTML5's Design Philosophy:** HTML5 promotes the exclusive use of CSS for all styling purposes.
+* **Deprecation of HTML Styling Attributes:** Older HTML attributes (e.g., `font` attributes like `color`, `size`, `face`) are no longer supported or recommended in HTML5.
+* **Browser Backward Compatibility:** Browsers still render deprecated HTML styling attributes due to support for older HTML versions.
+* **Best Practice for Styling:** All styling should be contained within stylesheets (CSS) for modern web development.
+
+### Independent Research / Notable Discoveries
+* **Understanding "Deprecation":** Features marked as deprecated are outdated but still supported. They should be avoided in new code due to efficiency, separation of concerns, accessibility, and future-proofing considerations.
+* **Reinforcing "Separation of Concerns":** This step strongly emphasizes that HTML is for content structure/meaning, and CSS is for presentation/appearance. This separation is crucial for cleaner, more maintainable, and flexible code.
+* **Evolution of Web Standards:** HTML5's move away from HTML-based styling highlights the industry's shift towards more specialized and powerful languages for different web development aspects.
+* **Accessibility Reminder:** The recurring issue of broken images without alt text in the course material serves as a continuous reminder to prioritize accessibility by always providing meaningful `alt` attributes for informative images.
+
+### Personal Reflections
+* This step clearly underscores the importance of using CSS for styling and moving away from older HTML attributes.
+* The concept of "deprecation" is now clearer, explaining why certain older methods are still rendered but should be avoided.
+* The repeated accessibility issue in the course material is a valuable real-world lesson for my own projects.
+
+---

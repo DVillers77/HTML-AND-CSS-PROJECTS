@@ -276,3 +276,30 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * [Record any significant discoveries, challenges, or personal insights from this subsection.]
 
 ---
+
+## CSS
+
+### Course Step Number: 160
+### Assignment Title: Core CSS Concepts Introduction
+### Date Assigned: 2025-07-16
+### Status: Completed
+
+### Objective
+* Understand the definition and purpose of Cascading Style Sheets (CSS).
+* Grasp the concept of "separation of concerns" between HTML (structure) and CSS (presentation).
+* Learn the fundamental principle of "cascading" and its benefits for centralized styling.
+
+### Tasks
+1.  Read and comprehend the course material for Step 160 on CSS.
+2.  Internalize the definition of CSS and its role in web page appearance.
+3.  Understand the "cascading" mechanism and its advantage for website maintenance.
+
+### Relevant Files
+* No direct files created for this informational step, but applies to all HTML pages (`.html`) when styling.
+
+### Learning Reflections / Notes
+* This step clarified the core purpose of CSS and how it decouples style from content, which is a major best practice.
+* The "cascading" effect is a powerful concept for applying consistent styles site-wide.
+* Noted the importance of `alt` text and accessibility from the course material's broken image example.
+
+---

@@ -414,3 +414,33 @@ These entries summarize key discussions and independent research insights from s
     ---
 
 ### Subsection B: A PREVIEW OF CASCADING STYLE SHEETS (CSS)
+
+---
+
+## CSS
+
+### Course Step Number: 160
+### Date Researched: 2025-07-16
+### Source(s): Course Material (Subsection B: A Preview of Cascading Style Sheets (CSS))
+
+### Key Concepts / Summary
+* **Definition of CSS:** Cascading Style Sheets (CSS) are electronic files that control the appearance and formatting of content (text, images, video, etc.) on web pages.
+* **Purpose of Style Sheets:** They act as a central repository for design information, allowing developers to define how various elements (colors, pictures, text) should be displayed and behave.
+* **Separation of Concerns:** CSS focuses solely on the *appearance* of content, not the content itself. This promotes a clear separation between structure (HTML) and presentation (CSS).
+* **"Cascading" Concept:** The term "cascading" refers to the ability to define styles in one central "master" stylesheet, which then apply ("cascade") to all web pages within a site unless specifically overridden by more localized styles on individual pages.
+* **Benefit of Centralization:** This centralization significantly streamlines website maintenance and updates. A single change in the master stylesheet can instantly propagate across an entire website.
+* **CSS3:** This is highlighted as the newest version of CSS.
+
+### Independent Research / Notable Discoveries
+* **Emphasizing Separation of Concerns (HTML vs. CSS):** This concept (keeping HTML for structure/meaning, CSS for presentation) is crucial for maintainable, readable, flexible, and accessible code.
+* **External Stylesheets:** While inline and internal styles exist, external stylesheets (`.css` files linked via `<link rel="stylesheet" href="style.css">`) are the industry best practice for leveraging the "cascading" benefit across multiple pages.
+* **Understanding "Cascade," Specificity, and Inheritance:** Beyond just "cascading," it's important to grasp specificity rules (more specific overrides less), inheritance (some properties pass to children), and order of appearance (last rule wins for same specificity) for effective styling.
+* **Modern CSS Evolution:** "CSS3" refers to a past collection of modules; CSS continues to evolve with new features, requiring ongoing learning.
+* **Addressing Broken Image Links & Alt Text:** The broken link in the course material highlights the critical importance of the `alt` attribute in `<img>` tags for accessibility (screen readers) and user experience (when images fail to load). Always use descriptive `alt` text or `alt=""` for decorative images.
+
+### Personal Reflections
+* Understanding the core purpose of CSS and its "cascading" nature is fundamental to web design.
+* The emphasis on separating HTML structure from CSS styling is a key takeaway for writing cleaner, more efficient code.
+* The practical implication of the broken image in the course material serves as a strong reminder about the real-world importance of accessibility best practices like `alt` text.
+
+---

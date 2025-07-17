@@ -668,3 +668,26 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * This step introduces a core programming concept, which is foundational to understanding how the `class` attribute functions in HTML and CSS for grouping elements and applying styles. While presented generally, the immediate application will be for front-end styling.
 
 ---
+
+### Course Step Number: 175
+### Assignment Title: CLASSES AND OBJECTS
+### Date Assigned: 2025-07-17
+### Status: In Progress
+
+### Objective
+* Understand that a class functions as a template for creating objects, rather than being an object itself.
+* Learn the terms "instantiation" and "instance" in the context of creating objects from a class.
+* Differentiate between the structure and behavior defined by a class template.
+
+### Tasks
+1. Comprehend the distinction between a class (template) and an object (instance).
+2. Understand the process of instantiation and the resulting instance.
+3. Review the provided image diagram, which illustrates a basic concept of classification, specifically a hierarchical relationship between a general class and its individual members.
+
+### Relevant Files
+* No specific files for code modification in this conceptual step.
+
+### Learning Reflections / Notes
+* This step refines the understanding of classes as blueprints that define the characteristics and capabilities of objects, which are then created as instances. This abstract concept is crucial for grasping how CSS classes serve as reusable style templates for HTML elements, where each element styled with that class becomes an "instance" of that visual template. The image reinforces the idea of a general category (class) and its specific examples (instances).
+
+---

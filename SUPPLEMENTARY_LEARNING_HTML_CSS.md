@@ -798,3 +798,13 @@ These entries summarize key discussions and independent research insights from s
 * **Distinction from IDs:** Unlike `id` attributes which uniquely identify a single element, `class` attributes are designed to be applied to multiple elements, facilitating broad styling application.
 
 ---
+
+#### 175. CLASSES AND OBJECTS (Template and Instantiation)
+* **Class as a Template:** A class is not an object itself, but rather a template from which actual objects can be created. It defines both the *structure* ("what would I look like") and *behaviors* ("what could I do") of potential objects.
+* **Instantiation:** This is the action of creating an actual object from a class definition.
+* **Instance:** The created object is called an "instance" of the class. It can also be referred to as a "class object" or "class instance."
+* **Analogy (from course material):** Think of a class definition as an answer to the question: "If I were a [type of object], what would I look like and what could I do?"
+* **Image Diagram Note:** The accompanying image illustrates a basic concept of classification, specifically a hierarchical relationship between a general class and its individual members.
+* **Relevance to CSS Classes:** In CSS, a class definition (e.g., `.button {}`) acts as a template for styling. When you apply this class to an HTML element (`<button class="button">`), that HTML element becomes an "instance" that inherits the styles defined by the class, much like an object is instantiated from a class template.
+
+---

@@ -787,3 +787,14 @@ These entries summarize key discussions and independent research insights from s
 ### SUBSECTION D: STYLING HTML PAGES WITH THE CLASS ATTRIBUTE
 
 ---
+
+#### 174. CLASSES AND OBJECTS
+* **Definition of a Class:** A class is a concept in programming, created by a programmer, to represent a "type of thing" or an "object" within a computer program. Examples include "integer," "string," "Student," and "Teacher."
+* **Relevance to HTML/CSS:** While initially a general programming concept, in HTML and CSS, the `class` attribute directly utilizes this idea by allowing multiple HTML elements to be grouped together. This enables common styling rules to be applied efficiently through CSS.
+* **Best Practices for CSS Classes:**
+    * **Meaningful Naming:** Class names should describe the element's purpose or content (e.g., `.error-message`), not its visual appearance.
+    * **Kebab-case:** Follow the `kebab-case` convention (e.g., `my-custom-class`).
+    * **Reusability:** Design classes to be modular and reusable across different elements and parts of the website.
+* **Distinction from IDs:** Unlike `id` attributes which uniquely identify a single element, `class` attributes are designed to be applied to multiple elements, facilitating broad styling application.
+
+---

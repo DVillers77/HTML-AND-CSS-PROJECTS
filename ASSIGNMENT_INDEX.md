@@ -647,3 +647,24 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * This marks a significant transition to a more powerful and flexible approach to applying styles in web development.
 
 ---
+
+### Course Step Number: 174
+### Assignment Title: CLASSES AND OBJECTS
+### Date Assigned: 2025-07-17
+### Status: In Progress
+
+### Objective
+* Understand the fundamental concept of "classes" as programmable objects representing types of things.
+* Recognize the abstract nature of classes in programming before their application in HTML/CSS.
+
+### Tasks
+1. Read and comprehend the definition of classes and objects as presented in the course material.
+2. Consider how this general programming concept will relate to styling in HTML and CSS using the `class` attribute.
+
+### Relevant Files
+* No specific files for code modification in this conceptual step.
+
+### Learning Reflections / Notes
+* This step introduces a core programming concept, which is foundational to understanding how the `class` attribute functions in HTML and CSS for grouping elements and applying styles. While presented generally, the immediate application will be for front-end styling.
+
+---

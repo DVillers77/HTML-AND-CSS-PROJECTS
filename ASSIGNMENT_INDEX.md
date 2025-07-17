@@ -514,3 +514,26 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * Confirmed the correct rendering of styles in the browser.
 
 ---
+
+## SUBSECTION C: LINKING HTML AND CSS FILES
+
+### Course Step Number: 169
+### Assignment Title: [Transition to Linking HTML and CSS Files]
+### Date Assigned: 2025-07-16
+### Status: In Progress
+
+### Objective
+* Begin exploring methods for linking external HTML and CSS files.
+* Understand the conceptual shift to modular stylesheet management.
+
+### Tasks
+1.  Acknowledge the transition to Subsection C in the course material.
+2.  Prepare for upcoming lessons on external CSS linking.
+
+### Relevant Files
+* No specific files directly associated with this transitional step.
+
+### Learning Reflections / Notes
+* This marks a significant transition to a more scalable and organized approach to web styling.
+
+---

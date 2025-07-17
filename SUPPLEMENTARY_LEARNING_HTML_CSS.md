@@ -634,3 +634,7 @@ These entries summarize key discussions and independent research insights from s
 * The assignment reinforced the importance of careful property and value selection to achieve desired aesthetic outcomes.
 
 ---
+
+### SUBSECTION C: LINKING HTML AND CSS FILES
+
+---

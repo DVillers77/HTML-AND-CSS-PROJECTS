@@ -638,3 +638,30 @@ These entries summarize key discussions and independent research insights from s
 ### SUBSECTION C: LINKING HTML AND CSS FILES
 
 ---
+
+## EXTERNAL STYLE SHEETS
+
+### Course Step Number: 170
+### Date Researched: 2025-07-16
+### Source(s): Course Material (EXTERNAL STYLE SHEETS)
+
+### Key Concepts / Summary
+* **Recommended Styling Method:** External CSS, where styling rules are saved in a separate `.css` file, is the industry-standard and most highly recommended method for applying CSS.
+* **The HTML `<link>` Element:** Used within the `<head>` section of an HTML document to establish a connection to an external resource. It's the primary way to link to stylesheets.
+* **`rel` Attribute:** Specifies the **relationship** of the linked document. For stylesheets, its value is always `rel="stylesheet"`.
+* **`type` Attribute:** Informs the browser of the resource's **MIME type**. For CSS files, this is typically `type="text/css"`. While often inferred by modern browsers when `rel="stylesheet"` is present, it's still good practice to include it.
+* **`href` Attribute:** Specifies the **hypertext reference** or the URL/path to the external CSS file.
+
+### Independent Research / Notable Discoveries
+* **Clearer Separation of Concerns:** External stylesheets rigidly separate HTML structure from CSS presentation, making code cleaner and more manageable.
+* **Enhanced Maintainability:** A single change in one `.css` file can instantly update the styles across numerous HTML pages linked to it, drastically reducing maintenance effort.
+* **Improved Reusability:** The same `.css` file can be effortlessly reused across an entire website, ensuring consistent branding and design elements.
+* **Performance Benefits (Caching):** Browsers efficiently cache external CSS files. Once downloaded, the stylesheet is stored locally, leading to faster page loading times on subsequent visits as the browser doesn't need to re-download the file.
+* **Importance of File Paths:** Correctly specifying the `href` path (relative or absolute) is crucial for the browser to locate and apply the stylesheet.
+
+### Personal Reflections
+* This step truly cements the understanding that external CSS is the way to go for any real-world web project, moving beyond the limitations of internal and inline styles.
+* The explicit breakdown of the `<link>` tag's attributes (`rel`, `type`, `href`) made their individual roles very clear.
+* The benefits of external stylesheets (maintainability, reusability, performance) highlight why this method is considered best practice.
+
+---

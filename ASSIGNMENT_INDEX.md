@@ -537,3 +537,30 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * This marks a significant transition to a more scalable and organized approach to web styling.
 
 ---
+
+## EXTERNAL STYLE SHEETS
+
+### Course Step Number: 170
+### Assignment Title: Understanding External CSS Linking
+### Date Assigned: 2025-07-16
+### Status: Completed
+
+### Objective
+* Understand the purpose and syntax of the HTML `<link>` element for external resources.
+* Learn how to correctly use `rel`, `type`, and `href` attributes for linking external CSS stylesheets.
+* Grasp the benefits and best practices associated with using external CSS files.
+
+### Tasks
+1.  Review the course material explaining external stylesheets and the `<link>` element.
+2.  Familiarize with the roles of `rel="stylesheet"`, `type="text/css"`, and `href` attributes.
+3.  Internalize why external CSS is the recommended method for web styling.
+
+### Relevant Files
+* No direct files created for this informational step, but the concepts are fundamental to all externally linked CSS.
+
+### Learning Reflections / Notes
+* This step provides the critical knowledge for linking HTML and CSS files externally, which is essential for professional web development.
+* The detailed explanation of each `<link>` attribute was very helpful for practical application.
+* The benefits of external CSS reinforce its importance in building scalable websites.
+
+---

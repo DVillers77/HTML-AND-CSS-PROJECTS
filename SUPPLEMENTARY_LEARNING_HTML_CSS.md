@@ -825,3 +825,10 @@ These entries summarize key discussions and independent research insights from s
     * **Kebab-case:** Use `kebab-case` for CSS class names (e.g., `primary-button`, `section-header`).
 
     ---
+
+    #### 177. CLASS ATTRIBUTE ASSIGNMENT
+* **Assignment Completion:** Successfully completed the assignment by writing the HTML and internal CSS code from Step 176 and saving it as `basic-html-4.html`.
+* **File Path & Naming:** The file was saved at `HTML-AND-CSS-PROJECTS/basic-html-and-css/basic-html-4.html`, correctly following the `kebab-case` naming convention.
+* **Structural Best Practice:** Proactively moved the `<style>` block from the `<body>` (as shown in the course example) to the `<head>` section of the HTML document. This adheres to HTML best practices for placing stylesheets and metadata, enhancing document structure and separation of concerns.
+* **Font Size Observation & Refinement:** Noted that the `font-size` values `large` and `medium` did not provide as distinct a visual difference as expected due to their relative nature and browser defaults. This highlighted the benefit of using more explicit units like `px` for precise control over font sizes in CSS. This observation confirmed the need for more granular control beyond relative keywords in some styling scenarios.
+* **Code Formatting:** Utilized "Prettier" for consistent and best-practice code indentation and formatting.

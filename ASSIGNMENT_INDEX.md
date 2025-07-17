@@ -716,3 +716,28 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * The `class` attribute is fundamental for applying reusable and consistent styles across a webpage. It allows for grouping elements conceptually and applying a common visual theme. This step highlights the power of separating content from presentation, even when using internal stylesheets for demonstration purposes. Future steps will likely build upon this by externalizing CSS.
 
 ---
+
+### Course Step Number: 177
+### Assignment Title: CLASS ATTRIBUTE ASSIGNMENT
+### Date Assigned: 2025-07-17
+### Status: Completed
+
+### Objective
+* Successfully transcribe and save the provided HTML and internal CSS code from Step 176.
+* Confirm that the saved file (`basic-html-4.html`) renders correctly in a web browser, displaying the styles applied via the `class` attribute.
+
+### Tasks
+1. Write out the full HTML and internal CSS code from Step 176.
+2. Save the file as `basic-html-4.html` within the `HTML-AND-CSS-PROJECTS/basic-html-and-css/` directory, adhering to kebab-case naming convention.
+3. Open `basic-html-4.html` in a web browser to verify proper rendering and styling of elements.
+
+### Relevant Files
+* **`basic-html-4.html`**: New HTML file created containing the assignment code.
+    * **File Path:** `HTML-AND-CSS-PROJECTS/basic-html-and-css/basic-html-4.html`
+
+### Learning Reflections / Notes
+* Successfully implemented the code from the previous step, reinforcing the practical application of the `class` attribute for styling.
+* Confirmed browser rendering, including observation of `font-size` behavior and making an informed decision about using more precise units (like `px`) for future control.
+* Demonstrated adherence to best practices by placing the `<style>` tag in the `<head>` section, even when the course example deviated, which improves document structure and separation of concerns.
+
+---

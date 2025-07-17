@@ -169,3 +169,7 @@ This assignment involved creating an external CSS file (`basic-css-1.css`) with 
 ### SUBSECTION D: STYLING HTML PAGES WITH THE CLASS ATTRIBUTE
 This subsection will focus on styling HTML pages using the `class` attribute, encompassing fundamental concepts and practical application.
 * [View full details in Assignment Index](ASSIGNMENT_INDEX.md#subsection-d-styling-html-pages-with-the-class-attribute)
+
+#### 25. CLASS ATTRIBUTE ASSIGNMENT
+This assignment involved writing and saving the code from Step 176 into `basic-html-4.html` and running it in the browser, applying the `class` attribute for styling.
+* [View full details in Assignment Index](ASSIGNMENT_INDEX.md#177-class-attribute-assignment)

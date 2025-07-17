@@ -624,3 +624,26 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * Confirmed the power of `body` styling for inheritance and the specificity of element-level rules.
 
 ---
+
+## SUBSECTION D: STYLING HTML PAGES WITH THE CLASS ATTRIBUTE
+
+### Course Step Number: 173
+### Assignment Title: [Transition to Styling HTML Pages with the Class Attribute]
+### Date Assigned: 2025-07-17
+### Status: In Progress
+
+### Objective
+* Begin exploring methods for styling HTML elements using the `class` attribute.
+* Understand the conceptual shift to more granular and reusable stylesheet management.
+
+### Tasks
+1. Acknowledge the transition to Subsection D in the course material.
+2. Prepare for upcoming lessons on using the `class` attribute for styling.
+
+### Relevant Files
+* No specific files directly associated with this transitional step.
+
+### Learning Reflections / Notes
+* This marks a significant transition to a more powerful and flexible approach to applying styles in web development.
+
+---

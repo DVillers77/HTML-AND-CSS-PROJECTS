@@ -163,3 +163,9 @@ This subsection focuses on the practical methods and best practices for connecti
 #### 24. LINKING CSS ASSIGNMENT
 This assignment involved creating an external CSS file (`basic-css-1.css`) with specific styling for `body` and `div` elements, and then linking it to `Basic_HTML_3.html` after removing all internal CSS. The goal was to verify that styles were correctly applied in the browser.
 * [View full details in Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md#linking-css-assignment)
+
+---
+
+### SUBSECTION D: STYLING HTML PAGES WITH THE CLASS ATTRIBUTE
+This subsection will focus on styling HTML pages using the `class` attribute, encompassing fundamental concepts and practical application.
+* [View full details in Assignment Index](ASSIGNMENT_INDEX.md#subsection-d-styling-html-pages-with-the-class-attribute)

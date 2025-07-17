@@ -783,3 +783,7 @@ These entries summarize key discussions and independent research insights from s
 * The process of removing old styles and adding the link felt very clean and reinforces the 'separation of concerns' benefit.
 
 ---
+
+### SUBSECTION D: STYLING HTML PAGES WITH THE CLASS ATTRIBUTE
+
+---

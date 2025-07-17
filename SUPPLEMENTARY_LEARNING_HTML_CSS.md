@@ -808,3 +808,20 @@ These entries summarize key discussions and independent research insights from s
 * **Relevance to CSS Classes:** In CSS, a class definition (e.g., `.button {}`) acts as a template for styling. When you apply this class to an HTML element (`<button class="button">`), that HTML element becomes an "instance" that inherits the styles defined by the class, much like an object is instantiated from a class template.
 
 ---
+
+#### 176. CLASS ATTRIBUTE
+* **Purpose:** The HTML `class` attribute is used to define common styles for all elements that share the same class name. This allows for applying identical formatting and style to multiple elements.
+* **Defining a Class (CSS):** In a CSS stylesheet, a class name is defined by preceding it with a period (`.`) followed by your chosen class name (e.g., `.my-custom-class { ... }`).
+* **Applying a Class (HTML):** To apply a class to an HTML element, use the `class` attribute within the element's opening tag (e.g., `<p class="my-custom-class">This paragraph is styled.</p>`).
+* **Example from Lesson:**
+    * CSS classes `.font_1` (yellow text on black background, larger font) and `.font_2` (white text on blue background, slightly smaller font) were defined.
+    * HTML elements (`h2`, `h3`, `h4`) were assigned these classes to demonstrate styling.
+    * The example illustrated that the same class (`.font_1`) can be applied to different HTML tags (`h2` and `h4`) to achieve identical styling, showcasing reusability.
+* **Best Practices & Key Concepts:**
+    * **External Stylesheets:** For practical projects, always prefer external CSS files (`.css`) linked via `<link>` tags over internal `<style>` tags for better organization and maintainability (separation of concerns).
+    * **CSS Specificity:** Class selectors are more specific than element selectors, meaning class-based styles will generally override default or element-level styles.
+    * **Multiple Classes:** An HTML element can have multiple classes applied by separating them with spaces in the `class` attribute (e.g., `<div class="card shadow-md">`).
+    * **Semantic Naming:** Name classes based on their purpose or content (e.g., `.error-message`, `.main-navigation`) rather than purely visual descriptions (e.g., `.red-text`, `.big-font`).
+    * **Kebab-case:** Use `kebab-case` for CSS class names (e.g., `primary-button`, `section-header`).
+
+    ---

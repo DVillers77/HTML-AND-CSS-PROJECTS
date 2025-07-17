@@ -691,3 +691,28 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * This step refines the understanding of classes as blueprints that define the characteristics and capabilities of objects, which are then created as instances. This abstract concept is crucial for grasping how CSS classes serve as reusable style templates for HTML elements, where each element styled with that class becomes an "instance" of that visual template. The image reinforces the idea of a general category (class) and its specific examples (instances).
 
 ---
+
+### Course Step Number: 176
+### Assignment Title: CLASS ATTRIBUTE
+### Date Assigned: 2025-07-17
+### Status: In Progress
+
+### Objective
+* Understand the purpose and syntax of the HTML `class` attribute for applying consistent styles to multiple elements.
+* Learn how to define CSS classes and link them to HTML elements.
+* Observe the reusability of CSS classes across different HTML tags.
+
+### Tasks
+1. Review the explanation of the `class` attribute and its role in styling.
+2. Examine the provided CSS code defining classes (`.font_1`, `.font_2`).
+3. Examine the HTML code demonstrating the application of `class` attributes to `h2`, `h3`, and `h4` elements.
+4. Observe the rendered output to understand how the applied classes visually affect the elements.
+
+### Relevant Files
+* Example code provided within the lesson (for `basic-html-4.html` and `basic-css-2.css` if externalized).
+* Output image demonstrating the visual result.
+
+### Learning Reflections / Notes
+* The `class` attribute is fundamental for applying reusable and consistent styles across a webpage. It allows for grouping elements conceptually and applying a common visual theme. This step highlights the power of separating content from presentation, even when using internal stylesheets for demonstration purposes. Future steps will likely build upon this by externalizing CSS.
+
+---

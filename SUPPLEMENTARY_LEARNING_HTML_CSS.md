@@ -665,3 +665,64 @@ These entries summarize key discussions and independent research insights from s
 * The benefits of external stylesheets (maintainability, reusability, performance) highlight why this method is considered best practice.
 
 ---
+
+## LINKING STYLESHEETS
+
+### Course Step Number: 171
+### Date Completed: 2025-07-17
+### Source(s): Course Material (LINKING STYLESHEETS)
+
+### Key Concepts / Summary
+* **Separation of Concerns (HTML & CSS):** This step practically demonstrates how to separate HTML structure from CSS styling by moving CSS rules into a dedicated external file.
+* **Transition from Internal to External CSS:**
+    * **Initial State (Internal CSS):** HTML documents can embed CSS directly in the `<head>` using `<style>` tags.
+        ```html
+        <!DOCTYPE html>
+        <html>
+          <head>
+            <style>
+              p {
+                color: green;
+                text-align: right;
+              }
+            </style>
+          </head>
+          <body>
+            <p>Hey! Over here!</p>
+            <p>These paragraphs are styled with CSS.</p>
+          </body>
+        </html>
+        ```
+    * **External CSS File Creation:** CSS rules are written in a separate file (e.g., `My_Style.css`). This file contains only CSS.
+        ```css
+        p {
+            color: green;
+            text-align: right;
+        }
+        ```
+    * **Linking HTML to External CSS:** The `<link>` element is used within the HTML's `<head>` to connect the HTML document to the external `.css` file.
+        ```html
+        <!DOCTYPE html>
+        <html>
+          <head>
+            <link rel="stylesheet" type="text/css" href="My_Style.css">
+          </head>
+          <body>
+            <p>Hey! Over here!</p>
+            <p>These paragraphs are styled with CSS.</p>
+          </body>
+        </html>
+        ```
+* **Benefits of External CSS in Practice:** Demonstrates cleaner HTML, easier management of styles across multiple pages, and prepares for performance benefits through browser caching.
+
+### Independent Research / Notable Discoveries
+* **Workflow Best Practice:** Actively performing the separation reinforces why it's the standard for maintainability and scalability.
+* **Relative Paths:** The example `href="My_Style.css"` highlights the use of relative paths when the CSS file is in the same directory as the HTML.
+* **Readability Impact:** Witnessing the `style` block being replaced by a concise `link` tag visually emphasizes the clean HTML benefit.
+
+### Personal Reflections
+* This practical step made the abstract concept of "external stylesheets" from Step 170 concrete and actionable.
+* Understanding the before-and-after code snippets clearly illustrates the advantages of separating HTML and CSS.
+* I can now see how making a small change in one CSS file would affect many HTML pages, which is a powerful realization for web development.
+
+---

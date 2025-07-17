@@ -564,3 +564,33 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * The benefits of external CSS reinforce its importance in building scalable websites.
 
 ---
+
+## LINKING STYLESHEETS
+
+### Course Step Number: 171
+### Assignment Title: Practical External Stylesheet Linking
+### Date Assigned: 2025-07-17
+### Date Completed: 2025-07-17
+### Status: Completed
+
+### Objective
+* Practically demonstrate the separation of CSS from HTML into an external `.css` file.
+* Implement the HTML `<link>` element to successfully connect an HTML document to an external stylesheet.
+* Observe the identical visual styling achieved through external CSS compared to internal CSS.
+
+### Tasks
+1.  Review initial HTML code with internal CSS styling.
+2.  Create a new `.css` file containing the extracted CSS rules.
+3.  Modify the HTML document to remove internal CSS and add the `<link>` tag pointing to the new external `.css` file.
+4.  Verify that the styling is correctly applied.
+
+### Relevant Files
+* **Example CSS File:** `My_Style.css` (conceptual, as created in the lesson)
+* **Example HTML File:** `example.html` (conceptual, as modified in the lesson to link CSS)
+
+### Learning Reflections / Notes
+* Successfully demonstrated the fundamental process of linking external stylesheets, confirming the conceptual knowledge from Step 170.
+* The explicit code examples (before and after separation) provided clear guidance.
+* This step strongly reinforces the best practice of separating HTML structure and CSS presentation for better project organization.
+
+---

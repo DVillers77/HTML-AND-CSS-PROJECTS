@@ -609,3 +609,28 @@ These entries summarize key discussions and independent research insights from s
 * Realized that picking colors isn't just aesthetic; it's often tied into larger design principles and systems for consistency.
 
 ---
+
+## CSS COLOR AND ALIGNMENT ASSIGNMENT
+
+### Course Step Number: 168
+### Date Completed: 2025-07-16
+### Source(s): Assignment Instructions, basic-html-3.html
+
+### Key Concepts / Summary
+* **Practical Application of CSS:** Applied `color` and `text-align` properties to HTML elements within `basic-html-3.html`.
+* **Internal CSS Usage:** Utilized the `<style>` tags within the HTML `<head>` section to embed CSS rules.
+* **Targeting Elements:** Successfully applied styles by targeting the `<body>` element (for page-wide defaults) and a `<div>` element (for specific overrides).
+* **RGB Color Format in Practice:** Used `rgb(170, 66, 245)` to define a custom color, demonstrating understanding beyond named colors.
+
+### Independent Research / Notable Discoveries
+* **Direct Experience with the Cascade:** Observing how `div` styles (more specific) overrode `body` styles (less specific) for the `div` content.
+* **Flexibility of CSS Units:** Reaffirmed the power of using various color formats for precise design control.
+* **Immediate Visual Feedback:** The assignment provided instant visual confirmation of CSS rule application, which is a great learning tool.
+* **Debugging Practice:** Even simple assignments offer opportunities to practice saving and refreshing to see changes, a fundamental workflow.
+
+### Personal Reflections
+* It's very satisfying to see the theoretical CSS concepts immediately translate into visible changes on a web page.
+* Experimenting with different color and alignment values in `basic-html-3.html` helped solidify understanding.
+* The assignment reinforced the importance of careful property and value selection to achieve desired aesthetic outcomes.
+
+---

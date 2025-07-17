@@ -484,3 +484,33 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * Understanding Hex and RGB/RGBA/HSL/HSLA is crucial for precise and modern web design.
 
 ---
+
+## CSS COLOR AND ALIGNMENT ASSIGNMENT
+
+### Course Step Number: 168
+### Assignment Title: Apply Basic CSS Styling
+### Date Assigned: 2025-07-16
+### Date Completed: 2025-07-16
+### Status: Completed
+
+### Objective
+* Apply fundamental CSS properties (`color`, `text-align`) to HTML elements.
+* Practice integrating CSS within an HTML document using internal `<style>` tags.
+* Verify stylistic changes in a web browser.
+
+### Tasks
+1.  Open the `basic-html-3.html` file.
+2.  Add a new line of text within a paragraph or heading element.
+3.  Utilize internal CSS to set both the text color and alignment of the new text.
+4.  Save the file and successfully view the styled output in a web browser.
+
+### Relevant Files
+* **Modified File:** `HTML-AND-CSS-PROJECTS/basic-html-and-css/basic-html-3.html`
+
+### Learning Reflections / Notes
+* Successfully applied `color` and `text-align` properties to elements within `basic-html-3.html`.
+* Gained hands-on experience with internal CSS and how it directly impacts element appearance.
+* Used RGB color format for a custom color, building on recent learning.
+* Confirmed the correct rendering of styles in the browser.
+
+---

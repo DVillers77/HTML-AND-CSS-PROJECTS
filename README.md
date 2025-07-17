@@ -150,3 +150,6 @@ This assignment involved creating a `basic-html-3.html` file within a new `basic
 This subsection introduces the foundational concepts of CSS, explaining its role in styling web pages and how it interacts with HTML. It provides a high-level overview of styling principles.
 * [View full details in Assignment Index](ASSIGNMENT_INDEX.md#subsection-b-a-preview-of-cascading-style-sheets-css)
 
+#### 24. CSS COLOR AND ALIGNMENT ASSIGNMENT
+This assignment involved modifying `basic-html-3.html` to apply CSS for text color and alignment, using internal style tags and demonstrating different color formats.
+* [View full details in Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md#step-168-css-color-and-alignment-assignment)

@@ -726,3 +726,60 @@ These entries summarize key discussions and independent research insights from s
 * I can now see how making a small change in one CSS file would affect many HTML pages, which is a powerful realization for web development.
 
 ---
+
+## LINKING CSS ASSIGNMENT
+
+### Course Step Number: 172
+### Date Completed: 2025-07-17
+### Source(s): Course Assignment (LINKING CSS ASSIGNMENT)
+
+### Key Concepts / Summary
+* **Practical Application of External CSS:** This assignment provided hands-on experience in creating an external CSS file and linking it to an HTML document.
+* **CSS File Content (`basic-css-1.css`):**
+    * Demonstrated applying styles directly to the `body` element, allowing descendant elements like `<p>` to inherit those styles.
+    * Included styling for a `div` element, showing specific targeting beyond the primary assignment.
+    ```css
+    body {
+        color: red;
+        text-align: center;
+    }
+
+    div {
+        color: rgb(170, 66, 245);
+        text-align: right;
+    }
+    ```
+* **HTML File Modifications (`Basic_HTML_3.html`):**
+    * Confirmed removal of any internal `<style>` tags.
+    * Integrated the `<link>` tag in the `<head>` to connect to the external `basic-css-1.css` file.
+    * Updated text content to reflect applied styles and their origin.
+    ```html
+    <!DOCTYPE html>
+    <html lang="en">
+      <head>
+        <meta charset="utf-8" />
+        <title>Basic HTML 3</title>
+        <link rel="stylesheet" type="text/css" href="basic-css-1.css">
+      </head>
+      <body>
+        <p>This text is red and in the center because of the "body" style applied using css.</p>
+        <div>
+          This text is a shade of purple/magenta and to the right because of the "div" style applied using css.
+        </div>
+      </body>
+    </html>
+    ```
+* **File Naming Best Practice:** Used `kebab-case` (`basic-css-1.css`) for the stylesheet filename, reinforcing good web development conventions.
+* **Browser Verification:** Emphasized the importance of testing the HTML file in a browser to confirm styles are applied correctly.
+
+### Independent Research / Notable Discoveries
+* **CSS Inheritance in Practice:** Realized how styling the `body` can affect all un-styled text within it, showcasing the concept of inheritance and how broader rules cascade down.
+* **Specificity of CSS:** Observed how a `div` rule could override inherited styles from the `body` for `div` elements, demonstrating basic CSS specificity.
+* **RGB Color Values:** Used `rgb()` for color, providing more precise color control than named colors and opening up possibilities beyond basic color names.
+
+### Personal Reflections
+* Successfully completing this assignment solidified the practical steps of setting up external CSS, from creating the file to linking it and verifying.
+* It was a valuable exercise in applying the theoretical knowledge from previous steps into a functional web page.
+* The process of removing old styles and adding the link felt very clean and reinforces the 'separation of concerns' benefit.
+
+---

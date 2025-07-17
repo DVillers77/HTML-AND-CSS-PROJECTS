@@ -153,3 +153,13 @@ This subsection introduces the foundational concepts of CSS, explaining its role
 #### 24. CSS COLOR AND ALIGNMENT ASSIGNMENT
 This assignment involved modifying `basic-html-3.html` to apply CSS for text color and alignment, using internal style tags and demonstrating different color formats.
 * [View full details in Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md#step-168-css-color-and-alignment-assignment)
+
+---
+
+### Subsection C: Linking HTML and CSS Files
+This subsection focuses on the practical methods and best practices for connecting HTML documents with external CSS stylesheets, emphasizing the 'separation of concerns' in web development.
+* [View full details in Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md#subsection-c-linking-html-and-css-files)
+
+#### 24. LINKING CSS ASSIGNMENT
+This assignment involved creating an external CSS file (`basic-css-1.css`) with specific styling for `body` and `div` elements, and then linking it to `Basic_HTML_3.html` after removing all internal CSS. The goal was to verify that styles were correctly applied in the browser.
+* [View full details in Assignment Index](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/blob/main/ASSIGNMENT_INDEX.md#linking-css-assignment)

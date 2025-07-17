@@ -594,3 +594,33 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * This step strongly reinforces the best practice of separating HTML structure and CSS presentation for better project organization.
 
 ---
+
+## LINKING CSS ASSIGNMENT
+
+### Course Step Number: 172
+### Assignment Title: Implement External CSS Link
+### Date Assigned: 2025-07-17
+### Date Completed: 2025-07-17
+### Status: Completed
+
+### Objective
+* Create and save an external CSS file (`Basic_CSS_1.css`) with specific styling rules for the `<p>` element (and optionally `div`).
+* Modify `Basic_HTML_3.html` to remove internal CSS and correctly link to the new external stylesheet using the `<link>` tag.
+* Verify successful application of styles in the web browser.
+
+### Tasks
+1.  Create `Basic_CSS_1.css` with `body` and `div` styling.
+2.  Remove `<style>` element from `Basic_HTML_3.html`.
+3.  Add `<link rel="stylesheet" type="text/css" href="basic-css-1.css">` to `Basic_HTML_3.html`.
+4.  Confirm styling appears correctly in the browser.
+
+### Relevant Files
+* **`Basic_CSS_1.css`**: New CSS file created and saved in `Basic_HTML_and_CSS` folder.
+* **`Basic_HTML_3.html`**: Existing HTML file modified to link the CSS.
+
+### Learning Reflections / Notes
+* Successfully applied knowledge of external CSS linking to a practical assignment.
+* Gained experience in managing separate HTML and CSS files within the project structure.
+* Confirmed the power of `body` styling for inheritance and the specificity of element-level rules.
+
+---

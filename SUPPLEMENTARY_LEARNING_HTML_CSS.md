@@ -926,3 +926,24 @@ These entries summarize key discussions and independent research insights from s
     - **Purpose**: Use comments to explain complex or non-obvious parts of the code, to temporarily disable code, or to mark sections for future work.
     - **Frequency**: While important, avoid over-commenting obvious code; focus on *why* something is done, not just *what* it does.
     - **Consistency**: Maintain a consistent style for comments throughout your codebase.
+
+---
+
+#### Step 184: CSS COMMENTS
+
+- **Objective:** Learn the syntax and purpose of comments within CSS code.
+- **Core Course Concepts:**
+    - The importance of commenting in CSS for documentation and team collaboration.
+    - CSS comment syntax: `/*` to open, `*/` to close.
+    - Comments can span single or multiple lines.
+    - Comments are ignored by browsers during rendering.
+- **Relevant Files:**
+    * [styles.css](styles.css) <!-- or any CSS file -->
+- **Reflection/Learning Note:** This step reinforced the concept of code documentation, specifically for CSS. The simple `/* comment */` syntax provides a flexible way to add notes directly within stylesheets. This is vital for explaining complex styling rules, temporary changes, or leaving markers for future development, ensuring that the stylesheet remains comprehensible over time.
+- **Independent Research & Best Practices:**
+    - **Debugging Tool**: Can be used to temporarily `comment out` sections of CSS to debug styling issues without deleting code.
+    - **Organization**: Use comments to organize stylesheets into logical sections (e.g., "Global Styles," "Header Styles," "Footer Styles").
+    - **Readability**: Good comments act as signposts, guiding developers through the CSS file quickly.
+
+---
+

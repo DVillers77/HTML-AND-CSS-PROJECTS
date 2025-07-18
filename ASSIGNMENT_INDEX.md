@@ -828,3 +828,11 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * **Reflection/Learning Note:** Learned that HTML comments (``) are crucial for explaining code sections, enhancing readability for other developers, and serving as future reminders. Confirmed that these comments are visible in the page source but not rendered in the browser, aligning with best practices for code documentation.
 
 ---
+
+#### Step 184: CSS COMMENTS
+* **Objective:** Learn the syntax and purpose of comments within CSS code.
+* **Relevant Files:**
+    * [styles.css](styles.css) <!-- or any CSS file -->
+* **Reflection/Learning Note:** Understood that CSS comments (`/* ... */`) are used to document stylesheets, making them more readable and maintainable for developers. Confirmed their syntax and role in clarifying code without affecting browser rendering.
+
+---

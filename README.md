@@ -192,7 +192,7 @@ This assignment involved visiting `https://www.learncodinganywhere.com/` and usi
 
 ---
 
-#### 30. SUBSECTION E: LISTS AND TABLES WITH HTML AND CSS
+#### SUBSECTION E: LISTS AND TABLES WITH HTML AND CSS
 This subsection will focus on creating and styling lists and tables using HTML and CSS.
 * [View full details in Assignment Index](ASSIGNMENT_INDEX.md#subsection-e-lists-and-tables-with-html-and-css)
 

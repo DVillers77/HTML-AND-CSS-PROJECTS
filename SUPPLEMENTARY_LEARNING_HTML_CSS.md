@@ -1039,3 +1039,23 @@ These entries summarize key discussions and independent research insights from s
 
 ---
 
+#### Step 191: STYLING TABLES WITH CSS
+
+-   **Objective:** Enhance the visual aesthetic of an HTML table using various CSS properties and selectors.
+-   **Core Course Concepts:**
+    -   **`border` property**: Applied to `th, td` for cell borders (e.g., `1px solid silver`).
+    -   **`:hover` pseudo-class**: Used with `tr` to create interactive effects (e.g., `background-color: yellow; color: black;` on hover).
+    -   **`background-color` and `color` properties**: For styling row backgrounds and text.
+    -   **`tr:first-child` selector**: Targets and styles the initial row of the table.
+    -   **`tr:nth-child(n+2)` selector**: Selects and styles rows starting from the second one (e.g., for alternating row styles or general styling of data rows).
+    -   **`border-collapse: collapse;`**: Applied to `table` to merge cell borders into single lines, improving visual consistency.
+-   **Relevant Files:**
+    * [html-table.html](html-table.html)
+    * [css-table.css](css-table.css)
+-   **Reflection/Learning Note:** This step provided practical experience in advanced table styling with CSS. It covered essential properties like `border`, `background-color`, and `color`, along with powerful selectors like `:hover`, `tr:first-child`, and `tr:nth-child()`. A critical troubleshooting lesson involved understanding CSS specificity and rule order, particularly how placing `:hover` rules later in the stylesheet ensures they override default row styling. The use of `border-collapse` was also key to achieving a clean table grid appearance.
+-   **Independent Research & Best Practices:**
+    -   **CSS Specificity Hierarchy**: Reinforced that when selectors have equal specificity, the order in the stylesheet determines which rule wins. More specific selectors (like IDs or classes) generally override less specific ones (like element types).
+    -   **Pseudo-classes (`:hover`)**: Learned how to add dynamic, interactive elements to tables, enhancing user experience.
+    -   **Structural Pseudo-classes (`:first-child`, `:nth-child`)**: Explored powerful ways to style table rows based on their position without adding extra classes to HTML. This is excellent for maintainability.
+
+---

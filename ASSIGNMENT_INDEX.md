@@ -891,5 +891,13 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 191: STYLING TABLES WITH CSS
+* **Objective:** Enhance the visual aesthetic of an HTML table using various CSS properties and selectors.
+* **Relevant Files:**
+    * [html-table.html](html-table.html)
+    * [css-table.css](css-table.css)
+* **Reflection/Learning Note:** Applied CSS to transform a basic table, including adding `border` to cells, implementing a `:hover` effect for rows, and setting distinct `background-color` and `color` for the first row (`tr:first-child`) and subsequent rows (`tr:nth-child(n+2)`). A key learning point was understanding CSS specificity, particularly the importance of rule order for `:hover` effects to override other `tr` styles. Ensured `border-collapse: collapse;` was applied to the table for clean borders.
+
+---
 
 

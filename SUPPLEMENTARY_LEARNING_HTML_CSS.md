@@ -965,6 +965,23 @@ These entries summarize key discussions and independent research insights from s
 
 ### SUBSECTION E: LISTS AND TABLES WITH HTML AND CSS
 
+#### Step 187: HTML TABLES
+
+- **Objective:** Understand the fundamental HTML tags used to create structured tables for displaying data.
+- **Core Course Concepts:**
+    - `<table>` tag: Defines the entire table.
+    - `<tr>` (table row) tag: Creates a row within the table.
+    - `<th>` (table header) tag: Defines a header cell; content is typically bold and centered by default.
+    - `<td>` (table data) tag: Defines a standard data cell.
+    - Tables are used for presenting tabular data, not for page layout.
+- **Relevant Files:**
+    * [index.html](index.html) <! -- or any HTML file used for tables -->
+- **Reflection/Learning Note:** This step provided the foundational knowledge for creating structured data displays using HTML tables. The clear hierarchical relationship between `<table>`, `<tr>`, `<th>`, and `<td>` tags is intuitive for organizing information into rows and columns. It's important to remember that tables are semantic elements meant for data, not for general page layout, which is better handled with CSS.
+- **Independent Research & Best Practices:**
+    - **Accessibility**: For complex tables, consider `<caption>`, `<thead>`, `<tbody>`, `<tfoot>`, `scope` attributes for `<th>`, and `summary` attributes for `<table>` to enhance accessibility for screen readers.
+    - **Semantics**: Use tables for genuinely tabular data (e.g., spreadsheets, financial data, calendars), not for visual arrangement of non-tabular content.
+    - **Responsiveness**: Ensure tables are responsive on smaller screens using CSS techniques (e.g., `overflow-x: auto;` or transforming layout for mobile).
+
 ---
 
 

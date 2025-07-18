@@ -858,6 +858,12 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 187: HTML TABLES
+* **Objective:** Understand the fundamental HTML tags used to create structured tables for displaying data.
+* **Relevant Files:**
+    * [index.html](index.html) <! -- or any HTML file used for tables -->
+* **Reflection/Learning Note:** Learned the core tags for constructing HTML tables: `<table>` for the overall table, `<tr>` for defining rows, `<th>` for table headers (bold and centered by default), and `<td>` for regular table data cells. This structure is essential for organizing tabular information on web pages.
 
+---
 
 

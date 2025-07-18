@@ -1002,7 +1002,7 @@ These entries summarize key discussions and independent research insights from s
     -   **Targeted Row Styling**: Explored how to apply unique visual treatments to specific `<tr>` elements by assigning them a common class, allowing for more complex table layouts without affecting default cell styles.
     -   **Code Documentation**: Practiced using inline comments within CSS for clear, concise documentation of style rules.
 
-    ---
+---
 
     #### Step 189: HTML LISTS
 
@@ -1020,6 +1020,22 @@ These entries summarize key discussions and independent research insights from s
     -   **Styling Lists with CSS**: Default bullet/number styles can be changed or removed using CSS properties like `list-style-type`, `list-style-image`, and `list-style-position`.
     -   **Accessibility**: Use semantic list tags appropriately (e.g., don't use a list just for indentation; use it when items are genuinely related).
 
-    ---
+---
 
+    #### Step 190: LIST ASSIGNMENT - Creating HTML Lists
+
+-   **Objective:** Practice creating and displaying both ordered (`<ol>`) and unordered (`<ul>`) HTML lists.
+-   **Core Course Concepts:**
+    -   Practical implementation of `<ul>` for unordered lists (bulleted).
+    -   Practical implementation of `<ol>` for ordered lists (numbered).
+    -   Consistent use of `<li>` for list items within both types.
+    -   Understanding the semantic choice between ordered and unordered lists based on content (e.g., sequence importance).
+-   **Relevant Files:**
+    * [html-lists.html](html-lists.html)
+-   **Reflection/Learning Note:** This assignment provided direct experience in constructing HTML lists. The process involved choosing the appropriate list type (`<ol>` or `<ul>`) based on the nature of the data (sequential vs. non-sequential) and populating them with `<li>` elements. It confirmed the default browser rendering for each list type and highlighted their utility in organizing textual information clearly on a webpage.
+-   **Independent Research & Best Practices:**
+    -   **List Indentation**: Observed default browser indentation for list items, which can be further controlled with CSS.
+    -   **Semantic Accuracy**: Reaffirmed the importance of choosing `<ol>` for truly ordered sequences and `<ul>` for groups where order doesn't matter, enhancing accessibility and meaning.
+
+---
 

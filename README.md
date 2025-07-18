@@ -200,3 +200,6 @@ This subsection will focus on creating and styling lists and tables using HTML a
 This assignment involved creating `html-table.html` to build a custom HTML table using `<table>`, `<tr>`, `<th>`, and `<td>` tags. External CSS (`basic-css-2.css`) was applied to customize the alignment of the main heading (`<h1>`), table headers, and data cells, and to create visual separation below the first two table rows using CSS classes.
 * [View full details in Assignment Index](ASSIGNMENT_INDEX.md#step-188-table-assignment---custom-table-creation)
 
+#### 31. LIST ASSIGNMENT
+This assignment involved creating `html-lists.html` to demonstrate the use of both ordered (`<ol>`) and unordered (`<ul>`) HTML lists for structuring content.
+* [View full details in Assignment Index](ASSIGNMENT_INDEX.md#step-190-list-assignment---creating-html-lists)

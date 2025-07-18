@@ -883,4 +883,13 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 190: LIST ASSIGNMENT - Creating HTML Lists
+* **Objective:** Practice creating and displaying both ordered (`<ol>`) and unordered (`<ul>`) HTML lists.
+* **Relevant Files:**
+    * [html-lists.html](html-lists.html)
+* **Reflection/Learning Note:** Successfully created an `html-lists.html` file containing an ordered list (`<ol>`) for book release order and an unordered list (`<ul>`) for publication years, using `<li>` for individual items. This reinforced the practical application and visual distinction between different list types in HTML.
+
+---
+
+
 

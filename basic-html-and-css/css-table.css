@@ -1,0 +1,43 @@
+.title-align-c {
+  text-align: center; /*Syle .title-align-c class*/
+}
+td {
+  text-align: center; /* style table using <td> (table data) element selector*/
+}
+.header-align-l {
+  text-align: left; /*Style .header-align-l class */
+}
+.header-row-spacing th {
+  border-bottom: 2px solid #ccc; /* Adds a 2px solid light grey line */
+  padding-bottom: 5px; /* add a little padding below the content, above the border */
+}
+/* Ensure cell borders collapse into a single line and table takes full width */
+table {
+  border-collapse: collapse; /* Merges adjacent cell borders */
+  width: 100%; /* Optional: Makes table span full width */
+}
+
+/* Styling for all table cells (th and td) */
+th,
+td {
+  border: 1px solid silver; /* Adds a 1px silver border around all cells */
+  padding: 8px; /* Adds some internal space to cells for readability */
+}
+
+/* Styling for the first row (table header row) */
+tr:first-child {
+  background-color: black; /* Top row has a black background */
+  color: cornsilk; /* Font is cornsilk (light yellow) */
+}
+
+/* Styling for the remaining rows (all rows starting from the second one) */
+tr:nth-child(n + 2) {
+  background-color: darkgreen; /* Remaining rows have a dark green background */
+  color: white; /* Font is white */
+}
+
+/* Hover effect for table rows */
+tr:hover {
+  background-color: yellow; /* Background color turns yellow on hover */
+  color: black; /* Font color turns black on hover */
+}

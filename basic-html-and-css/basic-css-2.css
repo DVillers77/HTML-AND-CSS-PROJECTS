@@ -5,17 +5,3 @@
     font-weight: bold;
     text-align: center;
 }
- 
-.title-align-c {
-    text-align: center;/*Syle .title-align-c class*/
-}
-td {
-    text-align: center;/* style table using <td> (table data) element selector*/
-}
-.header-align-l {
-    text-align: left;/*Style .header-align-l class */
-}
-.header-row-spacing th {
-  border-bottom: 2px solid #ccc; /* Adds a 2px solid light grey line */
-  padding-bottom: 5px; /* add a little padding below the content, above the border */
-}

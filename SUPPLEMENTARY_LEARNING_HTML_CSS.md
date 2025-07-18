@@ -870,4 +870,24 @@ These entries summarize key discussions and independent research insights from s
     - **Specificity**: Class selectors provide a good balance in CSS specificity, allowing styles to be easily overridden by more specific selectors (like IDs) or external stylesheets if needed.
     - **Naming Conventions**: It's best practice to use `kebab-case` for class names (e.g., `my-class-name`), consistent with established file naming conventions.
 
-    ---
+---
+
+#### Step 181: CLASS IN EXTERNAL FILE - Modular Styling
+
+- **Objective:** Learn to define and apply CSS styles, including global `body` styles and custom classes, from an external `.css` file.
+- **Core Course Concepts:**
+    - Creating and linking an external CSS file (`.css` extension).
+    - Global element selectors (e.g., `body {}`) for document-wide styles.
+    - Class selectors (e.g., `.Class_A {}`) defined in external files.
+    - The role of the `<link>` tag in the HTML `<head>` for connecting CSS.
+- **Relevant Files:**
+    - [index.html](index.html) (or your main HTML file)
+    - [Class_A.css](Class_A.css) (or your new external CSS file)
+- **Reflection/Learning Note:** This step is critical for moving beyond inline or internal styling. By externalizing CSS, we achieve a cleaner separation of concerns, making HTML purely structural and CSS purely presentational. This modularity is essential for larger projects, as it allows styles to be easily reused across multiple HTML pages and facilitates easier maintenance and updates. The global `body` style demonstrates how an entire document's default appearance can be set, while class-specific styles provide granular control over individual or grouped elements.
+- **Independent Research & Best Practices:**
+    - **Performance**: Placing the `<link>` tag in the `<head>` ensures that styles are loaded and parsed before the `<body>` content renders, preventing "flash of unstyled content" (FOUC) and improving user experience.
+    - **Maintainability**: Changes to styles only need to be made in one external CSS file, and those changes will apply across all linked HTML documents.
+    - **Scalability**: For larger projects, multiple CSS files can be used for different sections or components, further organizing styles.
+    - **Caching**: External CSS files can be cached by browsers, meaning they don't need to be downloaded again on subsequent page visits, leading to faster load times.
+
+---

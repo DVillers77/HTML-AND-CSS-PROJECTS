@@ -802,3 +802,12 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * **Reflection/Learning Note:** Explored the `class` attribute as a powerful method for grouping HTML elements and applying reusable CSS styles. This allows for consistent design rules across multiple elements without redundant code, offering greater flexibility and maintainability compared to direct element styling or `id` attributes.
 
 ---
+
+#### Step 181: CLASS IN EXTERNAL FILE - Modular Styling
+* **Objective:** Learn to define and apply CSS styles, including global `body` styles and custom classes, from an external `.css` file.
+* **Relevant Files:**
+    * [index.html](index.html) (or your main HTML file)
+    * [Class_A.css](Class_A.css) (or your new external CSS file)
+* **Reflection/Learning Note:** This step highlighted the importance of separating CSS from HTML by using an external stylesheet. It demonstrated how global styles (e.g., for `body` elements) and class-specific styles can be managed in a `.css` file and linked to an HTML document via the `<link>` tag in the `<head>` section. This approach significantly improves code organization, reusability, and maintainability.
+
+---

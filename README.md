@@ -177,3 +177,7 @@ This assignment involved writing and saving the code from Step 176 into `basic-h
 #### 26. STYLE ELEMENT ASSIGNMENT
 This assignment involved creating and applying a custom CSS class within a style element, with the code saved in a temporary folder `style-element-assignment.html`.
 * [View full details in Assignment Index](ASSIGNMENT_INDEX.md#178-style-element-assignment)
+
+#### 27. <P> ELEMENT ASSIGNMENT
+This assignment involved writing a `<p>` element and applying a custom class attribute to it.
+* [View full details in Assignment Index](ASSIGNMENT_INDEX.md#179-p-element-assignment)

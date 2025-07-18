@@ -770,3 +770,26 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * Confirmed successful execution and visual output of the custom styles in the browser.
 
 ---
+
+### Course Step Number: 179
+### Assignment Title: <P> ELEMENT ASSIGNMENT
+### Date Assigned: 2025-07-17
+### Status: Completed
+
+### Objective
+* Practice applying a custom CSS class to a `<p>` element using the `class` attribute.
+* Confirm that the paragraph element displays the intended custom styles when rendered in a browser.
+
+### Tasks
+1. Add a `<p>` element to your existing HTML file (e.g., `style-element-assignment.html`).
+2. Apply your custom class (e.g., `.my-style`) to this new `<p>` element using the `class` attribute.
+3. Save the updated code and open the HTML file in a browser to verify the applied styles.
+
+### Relevant Files
+* **HTML file with internal CSS**: `style-element-assignment.html` - Updated to include the new `<p>` element (saved locally in a temporary folder).
+
+### Learning Reflections / Notes
+* Successfully applied a previously defined custom class to a new HTML element (`<p>`), demonstrating the reusability and flexibility of CSS classes.
+* Confirmed that custom styles correctly override default browser styles for the `<p>` element, displaying the desired `color`, `background-color`, `font-weight`, `font-size`, and `text-decoration`.
+
+---

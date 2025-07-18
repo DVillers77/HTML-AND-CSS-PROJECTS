@@ -852,3 +852,22 @@ These entries summarize key discussions and independent research insights from s
 * **Verification:** Confirmed the correct rendering of the `<p>` element with its custom styles in the browser.
 
 ---
+
+#### Step 180: CLASS ATTRIBUTE - Assigning Style to Elements
+
+- **Objective:** Understand how to use the `class` attribute in HTML in conjunction with CSS to apply specific styles to multiple elements.
+- **Core Course Concepts:**
+    - HTML `class` attribute for element grouping.
+    - CSS class selectors (using `.`) for applying styles.
+    - Separation of concerns: HTML for structure, CSS for presentation.
+- **Relevant Files:**
+    - [index.html](index.html) (or your main HTML file)
+    - [styles.css](styles.css) (or your main CSS file)
+- **Reflection/Learning Note:** This step introduced the fundamental concept of using the `class` attribute to apply CSS styles. The `class` attribute is highly versatile, enabling developers to define a set of styles once in a CSS file and then apply them to any number of HTML elements simply by referencing the class name. This contrasts with `id` attributes, which target a single unique element.
+- **Independent Research & Best Practices:**
+    - **Reusability**: `class` attributes are central to CSS reusability. A single class definition in CSS can be used across multiple elements, reducing code duplication and simplifying style management.
+    - **Flexibility**: Elements can have multiple classes applied to them (e.g., `<div class="card shadow-effect">`), allowing for a combination of styles.
+    - **Specificity**: Class selectors provide a good balance in CSS specificity, allowing styles to be easily overridden by more specific selectors (like IDs) or external stylesheets if needed.
+    - **Naming Conventions**: It's best practice to use `kebab-case` for class names (e.g., `my-class-name`), consistent with established file naming conventions.
+
+    ---

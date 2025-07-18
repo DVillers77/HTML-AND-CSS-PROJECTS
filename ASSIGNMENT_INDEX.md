@@ -793,3 +793,12 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * Confirmed that custom styles correctly override default browser styles for the `<p>` element, displaying the desired `color`, `background-color`, `font-weight`, `font-size`, and `text-decoration`.
 
 ---
+
+#### Step 180: CLASS ATTRIBUTE - Assigning Style to Elements
+* **Objective:** Understand how to use the `class` attribute in HTML in conjunction with CSS to apply specific styles to multiple elements.
+* **Relevant Files:**
+    * [index.html](index.html) (or your main HTML file)
+    * [styles.css](styles.css) (or your main CSS file)
+* **Reflection/Learning Note:** Explored the `class` attribute as a powerful method for grouping HTML elements and applying reusable CSS styles. This allows for consistent design rules across multiple elements without redundant code, offering greater flexibility and maintainability compared to direct element styling or `id` attributes.
+
+---

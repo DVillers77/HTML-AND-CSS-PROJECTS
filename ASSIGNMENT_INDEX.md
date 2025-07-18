@@ -866,4 +866,11 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 188: TABLE ASSIGNMENT - Custom Table Creation
+* **Objective:** Create a custom HTML table and apply granular CSS styling for content alignment and row separation.
+* **Relevant Files:**
+    * [html-table.html](html-table.html)
+    * [basic-css-2.css](basic-css-2.css)
+* **Reflection/Learning Note:** Successfully constructed an HTML table to display structured data, including row and column headers. Applied `text-align: center;` to `<td>` elements for centralized data. Implemented specific styling for left-aligned row headers using `.header-align-l` and centered the main `<h1>` title using `.title-align-c`. Further refined visual presentation by applying `border-bottom` and `padding-bottom` via the `.header-row-spacing` class to the first **two** table rows (`<tr>`), creating distinct visual separation below those rows.
+
 

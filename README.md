@@ -196,3 +196,7 @@ This assignment involved visiting `https://www.learncodinganywhere.com/` and usi
 This subsection will focus on creating and styling lists and tables using HTML and CSS.
 * [View full details in Assignment Index](ASSIGNMENT_INDEX.md#subsection-e-lists-and-tables-with-html-and-css)
 
+#### 30. TABLE ASSIGNMENT
+This assignment involved creating `html-table.html` to build a custom HTML table using `<table>`, `<tr>`, `<th>`, and `<td>` tags. External CSS (`basic-css-2.css`) was applied to customize the alignment of the main heading (`<h1>`), table headers, and data cells, and to create visual separation below the first two table rows using CSS classes.
+* [View full details in Assignment Index](ASSIGNMENT_INDEX.md#step-188-table-assignment---custom-table-creation)
+

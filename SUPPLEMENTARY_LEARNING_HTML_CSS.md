@@ -984,4 +984,24 @@ These entries summarize key discussions and independent research insights from s
 
 ---
 
+#### Step 188: TABLE ASSIGNMENT - Custom Table Creation
+
+-   **Objective:** Create a custom HTML table and apply granular CSS styling for content alignment and row separation.
+-   **Core Course Concepts:**
+    -   Practical application of `<table>`, `<tr>`, `<th>`, `<td>` for data structuring.
+    -   Using CSS `text-align` property to control content alignment within cells.
+    -   Implementing descriptive class names (e.g., `.title-align-c`, `.header-align-l`) for enhanced clarity and maintainability.
+    -   Applying visual separators (`border-bottom` and `padding-bottom`) to multiple specific table rows (`<tr>`) using a shared class (`.header-row-spacing`).
+    -   Reinforced the role of `<meta name="viewport">` for foundational responsive design.
+-   **Relevant Files:**
+    * [html-table.html](html-table.html)
+    * [basic-css-2.css](basic-css-2.css)
+-   **Reflection/Learning Note:** This assignment served as a comprehensive practical exercise in HTML table creation and detailed CSS styling. The process involved semantically structuring tabular data and then precisely controlling its presentation, including individual cell and heading alignments. A key learning was the effective use of descriptive class names and applying styles to multiple, specific rows for visual segmentation, rather than relying on global table rules. The iterative refinement of styling highlighted the power and flexibility of CSS in achieving desired visual outcomes.
+-   **Independent Research & Best Practices:**
+    -   **Class Naming Conventions**: Confirmed the benefits of descriptive `kebab-case` class names (e.g., `title-align-c`, `header-align-l`, `header-row-spacing`) for improved code readability and maintainability.
+    -   **Targeted Row Styling**: Explored how to apply unique visual treatments to specific `<tr>` elements by assigning them a common class, allowing for more complex table layouts without affecting default cell styles.
+    -   **Code Documentation**: Practiced using inline comments within CSS for clear, concise documentation of style rules.
+
+    ---
+
 

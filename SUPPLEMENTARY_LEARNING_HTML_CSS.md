@@ -891,3 +891,23 @@ These entries summarize key discussions and independent research insights from s
     - **Caching**: External CSS files can be cached by browsers, meaning they don't need to be downloaded again on subsequent page visits, leading to faster load times.
 
 ---
+
+#### Step 182: CSS ASSIGNMENT - Class Attribute Application
+
+- **Objective:** Create and apply an external CSS class to a paragraph element within a new HTML document, demonstrating practical styling.
+- **Core Course Concepts:**
+    - Creation of a dedicated external CSS file (e.g., `basic-css-2.css`).
+    - Defining a CSS class selector (`.your-class-name`) with custom properties.
+    - Creating a new HTML document (e.g., `basic-html-5.html`).
+    - Correctly linking the external CSS file to the HTML document using `<link rel="stylesheet" href="...">` within the `<head>`.
+    - Applying the defined CSS class to an HTML element using the `class` attribute (`<p class="your-class-name">`).
+    - Verifying styling application in a web browser.
+- **Relevant Files:**
+    * [basic-css-2.css](basic-css-2.css)
+    * [basic-html-5.html](basic-html-5.html)
+- **Reflection/Learning Note:** This assignment was a practical consolidation of recent lessons. The key takeaways were the proper workflow for linking external stylesheets (always in the `<head>`) and the power of class attributes for reusable and modular styling. It also highlighted the importance of attention to detail in file paths and HTML structure for successful rendering.
+- **Independent Research & Best Practices:**
+    - **`kebab-case` for File Names**: Confirmed consistent use of `kebab-case` for file names like `basic-html-5.html` and `basic-css-2.css`, which is a standard practice for web development.
+    - **Debugging**: Identified a common pitfall (incorrect `<link>` placement) from initial examples, emphasizing the importance of understanding underlying principles over rote copying, even from provided materials. This experience reinforces the value of consistent `linting` and `validation`.
+
+---

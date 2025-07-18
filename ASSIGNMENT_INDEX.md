@@ -811,3 +811,12 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * **Reflection/Learning Note:** This step highlighted the importance of separating CSS from HTML by using an external stylesheet. It demonstrated how global styles (e.g., for `body` elements) and class-specific styles can be managed in a `.css` file and linked to an HTML document via the `<link>` tag in the `<head>` section. This approach significantly improves code organization, reusability, and maintainability.
 
 ---
+
+#### Step 182: CSS ASSIGNMENT - Class Attribute Application
+* **Objective:** Create and apply an external CSS class to a paragraph element within a new HTML document, demonstrating practical styling.
+* **Relevant Files:**
+    * [basic-css-2.css](basic-css-2.css)
+    * [basic-html-5.html](basic-html-5.html)
+* **Reflection/Learning Note:** Successfully implemented an external CSS file (`basic-css-2.css`) defining a custom class. Applied this class to a `<p>` element in a new HTML file (`basic-html-5.html`), verifying that the styles (color, background-color, font-weight, text-align) were correctly applied in the browser. This hands-on exercise reinforced the concepts of CSS file linking and class-based styling.
+
+---

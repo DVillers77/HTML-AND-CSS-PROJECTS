@@ -836,3 +836,11 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * **Reflection/Learning Note:** Understood that CSS comments (`/* ... */`) are used to document stylesheets, making them more readable and maintainable for developers. Confirmed their syntax and role in clarifying code without affecting browser rendering.
 
 ---
+
+#### Step 185: COMMENTS ASSIGNMENT - Viewing HTML Comments
+* **Objective:** Gain practical experience viewing HTML comments in a live website's source code using browser developer tools.
+* **Relevant Files:**
+    * N/A <!-- External website observation -->
+* **Reflection/Learning Note:** Successfully navigated to `https://www.learncodinganywhere.com/` and utilized Chrome's developer tools to inspect the page source, confirming the presence of HTML comments that are not rendered visually on the page. This hands-on assignment reinforced the understanding of HTML comment visibility and their purpose.
+
+---

@@ -947,3 +947,19 @@ These entries summarize key discussions and independent research insights from s
 
 ---
 
+#### Step 185: COMMENTS ASSIGNMENT - Viewing HTML Comments
+
+- **Objective:** Gain practical experience viewing HTML comments in a live website's source code using browser developer tools.
+- **Core Course Concepts:**
+    - HTML comment syntax (``).
+    - The distinction between rendered page content and source code.
+    - Practical use of browser developer tools for inspection.
+- **Relevant Files:**
+    * N/A <!-- External website observation -->
+- **Reflection/Learning Note:** This assignment provided a valuable real-world application of the concept of HTML comments. Directly observing comments embedded in a live website's source code through Chrome Dev Tools concretized the theoretical knowledge from Step 183. It highlighted how comments are an integral part of professional web development for documentation, even if they're not visible to the end-user.
+- **Independent Research & Best Practices:**
+    - **Developer Tools Proficiency**: Regularly using browser developer tools is crucial for debugging, inspecting elements, and understanding how live websites are structured and styled.
+    - **Source Code Analysis**: Examining comments in publicly available source code can sometimes offer insights into a developer's thought process or temporary implementations.
+
+---
+

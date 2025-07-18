@@ -185,3 +185,7 @@ This assignment involved writing a `<p>` element and applying a custom class att
 #### 28. CSS ASSIGNMENT
 This assignment involved creating an external CSS document (`basic-css-2.css`) to define a class attribute, and then applying this class to a `<p>` element within a new HTML document (`basic-html-5.html`).
 * [View full details in Assignment Index](ASSIGNMENT_INDEX.md#step-182-css-assignment---class-attribute-application)
+
+#### 29. COMMENTS ASSIGNMENT
+This assignment involved visiting `https://www.learncodinganywhere.com/` and using Chrome's developer tools to view comments embedded in the website's HTML source code.
+* [View full details in Assignment Index](ASSIGNMENT_INDEX.md#step-185-comments-assignment---viewing-html-comments)

@@ -173,3 +173,7 @@ This subsection will focus on styling HTML pages using the `class` attribute, en
 #### 25. CLASS ATTRIBUTE ASSIGNMENT
 This assignment involved writing and saving the code from Step 176 into `basic-html-4.html` and running it in the browser, applying the `class` attribute for styling.
 * [View full details in Assignment Index](ASSIGNMENT_INDEX.md#177-class-attribute-assignment)
+
+#### 26. STYLE ELEMENT ASSIGNMENT
+This assignment involved creating and applying a custom CSS class within a style element, with the code saved in a temporary folder `style-element-assignment.html`.
+* [View full details in Assignment Index](ASSIGNMENT_INDEX.md#178-style-element-assignment)

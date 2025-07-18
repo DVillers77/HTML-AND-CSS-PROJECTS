@@ -824,7 +824,7 @@ These entries summarize key discussions and independent research insights from s
     * **Semantic Naming:** Name classes based on their purpose or content (e.g., `.error-message`, `.main-navigation`) rather than purely visual descriptions (e.g., `.red-text`, `.big-font`).
     * **Kebab-case:** Use `kebab-case` for CSS class names (e.g., `primary-button`, `section-header`).
 
-    ---
+---
 
     #### 177. CLASS ATTRIBUTE ASSIGNMENT
 * **Assignment Completion:** Successfully completed the assignment by writing the HTML and internal CSS code from Step 176 and saving it as `basic-html-4.html`.
@@ -832,3 +832,15 @@ These entries summarize key discussions and independent research insights from s
 * **Structural Best Practice:** Proactively moved the `<style>` block from the `<body>` (as shown in the course example) to the `<head>` section of the HTML document. This adheres to HTML best practices for placing stylesheets and metadata, enhancing document structure and separation of concerns.
 * **Font Size Observation & Refinement:** Noted that the `font-size` values `large` and `medium` did not provide as distinct a visual difference as expected due to their relative nature and browser defaults. This highlighted the benefit of using more explicit units like `px` for precise control over font sizes in CSS. This observation confirmed the need for more granular control beyond relative keywords in some styling scenarios.
 * **Code Formatting:** Utilized "Prettier" for consistent and best-practice code indentation and formatting.
+
+---
+
+#### 178. STYLE ELEMENT ASSIGNMENT
+* **Assignment Completion:** Successfully completed the assignment by creating a custom CSS class within an internal `<style>` element and applying it to HTML elements.
+* **File Naming:** The assignment code was saved in a temporary folder`style-element-assignment.html`.
+* **Custom Class Creation:** Demonstrated the ability to define unique styling rules by creating a user-defined class.
+* **CSS Property Application:** Applied `text-decoration` (e.g., `wavy`, `line-through`) and `font-weight` properties to modify text appearance, showing understanding of these specific styling attributes.
+* **Best Practice Reinforcement:** Ensured the `<style>` block was correctly placed within the `<head>` of the HTML document, aligning with best practices for web development structure.
+* **Verification:** Successfully executed the code in a browser to confirm that the custom styles were applied as intended.
+
+---

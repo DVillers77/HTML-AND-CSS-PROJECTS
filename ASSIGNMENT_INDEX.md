@@ -741,3 +741,32 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * Demonstrated adherence to best practices by placing the `<style>` tag in the `<head>` section, even when the course example deviated, which improves document structure and separation of concerns.
 
 ---
+
+### Course Step Number: 178
+### Assignment Title: STYLE ELEMENT ASSIGNMENT
+### Date Assigned: 2025-07-17
+### Status: Completed
+
+### Objective
+* Create a custom CSS class within a `<style>` element.
+* Apply `text-decoration` and `font-weight` properties to modify text appearance.
+* Successfully execute the code in a browser to verify the custom styling.
+
+### Tasks
+1. Write HTML code that includes a `<style>` block in the `<head>` section.
+2. Define a custom CSS class (e.g., `.My_Style` or your custom names) within this `<style>` block.
+3. Apply CSS properties like `text-decoration` (e.g., `underline`, `wavy`, `line-through`) and `font-weight` (e.g., `bold`) with desired values to the custom class.
+4. Apply the new class to one or more HTML elements in the `<body>`.
+5. Save the code as `style-element-assignment.html` in a temporarily folder and open it in a browser to observe the styling.
+
+### Relevant Files
+* **HTML file with internal CSS**: `style-element-assignment.html` - Created/modified to complete the assignment.
+    * **File Path (if committed):** `HTML-AND-CSS-PROJECTS/basic-html-and-css/style-element-assignment.html` (Note: This path assumes it would be committed to the main project directory, but it's currently saved locally as per your instruction.)
+
+### Learning Reflections / Notes
+* Successfully created and applied a custom CSS class, demonstrating the ability to define bespoke styles beyond predefined elements.
+* Experimented with `text-decoration` and `font-weight` properties, gaining a direct understanding of their visual impact.
+* Continued to apply best practices by ensuring the `<style>` block was correctly placed within the `<head>` section, even when the course example deviated, which improves document structure and separation of concerns.
+* Confirmed successful execution and visual output of the custom styles in the browser.
+
+---

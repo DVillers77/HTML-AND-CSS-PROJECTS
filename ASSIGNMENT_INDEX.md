@@ -873,4 +873,14 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
     * [basic-css-2.css](basic-css-2.css)
 * **Reflection/Learning Note:** Successfully constructed an HTML table to display structured data, including row and column headers. Applied `text-align: center;` to `<td>` elements for centralized data. Implemented specific styling for left-aligned row headers using `.header-align-l` and centered the main `<h1>` title using `.title-align-c`. Further refined visual presentation by applying `border-bottom` and `padding-bottom` via the `.header-row-spacing` class to the first **two** table rows (`<tr>`), creating distinct visual separation below those rows.
 
+---
+
+#### Step 189: HTML LISTS
+* **Objective:** Understand the two main types of HTML lists (`<ol>` and `<ul>`) and the common list item tag (`<li>`).
+* **Relevant Files:**
+    * [index.html](index.html) <! -- or any HTML file used for lists -->
+* **Reflection/Learning Note:** Learned about ordered lists (`<ol>`) for sequential items (numbered by default) and unordered lists (`<ul>`) for non-sequential items (bullet points by default). Both types use the `<li>` tag to define individual list items. This provides semantic structure for grouped content.
+
+---
+
 

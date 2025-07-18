@@ -1004,4 +1004,22 @@ These entries summarize key discussions and independent research insights from s
 
     ---
 
+    #### Step 189: HTML LISTS
+
+-   **Objective:** Understand the two main types of HTML lists (`<ol>` and `<ul>`) and the common list item tag (`<li>`).
+-   **Core Course Concepts:**
+    -   `ol` tag: Defines an ordered list, typically numbered.
+    -   `ul` tag: Defines an unordered list, typically bulleted.
+    -   `li` tag: Defines a list item within both `<ol>` and `<ul>`.
+    -   Lists provide semantic grouping of related content.
+-   **Relevant Files:**
+    * [index.html](index.html) <! -- or any HTML file used for lists -->
+-   **Reflection/Learning Note:** This step introduced fundamental HTML elements for structuring lists. The distinction between ordered and unordered lists based on the significance of item sequence is clear. The consistent use of `<li>` for list items within both types simplifies their creation. Understanding these tags is crucial for presenting information in a readable and semantically correct way on web pages.
+-   **Independent Research & Best Practices:**
+    -   **Nesting Lists**: Lists can be nested within each other (e.g., an `<ul>` inside an `<li>` of an `<ol>`) to create outlines or hierarchical structures.
+    -   **Styling Lists with CSS**: Default bullet/number styles can be changed or removed using CSS properties like `list-style-type`, `list-style-image`, and `list-style-position`.
+    -   **Accessibility**: Use semantic list tags appropriately (e.g., don't use a list just for indentation; use it when items are genuinely related).
+
+    ---
+
 

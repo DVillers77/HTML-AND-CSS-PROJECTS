@@ -820,3 +820,11 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * **Reflection/Learning Note:** Successfully implemented an external CSS file (`basic-css-2.css`) defining a custom class. Applied this class to a `<p>` element in a new HTML file (`basic-html-5.html`), verifying that the styles (color, background-color, font-weight, text-align) were correctly applied in the browser. This hands-on exercise reinforced the concepts of CSS file linking and class-based styling.
 
 ---
+
+#### Step 183: COMMENTING CODE - HTML Comments
+* **Objective:** Understand the purpose and syntax of HTML comments for code documentation and readability.
+* **Relevant Files:**
+    * [index.html](index.html) <!-- or any HTML file -->
+* **Reflection/Learning Note:** Learned that HTML comments (``) are crucial for explaining code sections, enhancing readability for other developers, and serving as future reminders. Confirmed that these comments are visible in the page source but not rendered in the browser, aligning with best practices for code documentation.
+
+---

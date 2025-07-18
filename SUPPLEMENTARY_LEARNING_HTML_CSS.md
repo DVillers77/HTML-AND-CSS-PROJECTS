@@ -911,3 +911,18 @@ These entries summarize key discussions and independent research insights from s
     - **Debugging**: Identified a common pitfall (incorrect `<link>` placement) from initial examples, emphasizing the importance of understanding underlying principles over rote copying, even from provided materials. This experience reinforces the value of consistent `linting` and `validation`.
 
 ---
+
+#### Step 183: COMMENTING CODE - HTML Comments
+
+- **Objective:** Understand the purpose and syntax of HTML comments for code documentation and readability.
+- **Core Course Concepts:**
+    - The importance of commenting code for maintainability and collaboration.
+    - HTML comment syntax: `` to close.
+    - Comments are visible in page source <!-- e.g., browser developer tools --> but not rendered on the webpage.
+- **Relevant Files:**
+    * [index.html](index.html) <!-- or any HTML file -->
+- **Reflection/Learning Note:** This step highlighted the critical role of comments in professional web development. While not directly affecting the visual output, well-placed comments significantly improve code understanding, especially in larger projects or when collaborating. The practice of commenting ensures that the intent and functionality of specific HTML sections are clear.
+- **Independent Research & Best Practices:**
+    - **Purpose**: Use comments to explain complex or non-obvious parts of the code, to temporarily disable code, or to mark sections for future work.
+    - **Frequency**: While important, avoid over-commenting obvious code; focus on *why* something is done, not just *what* it does.
+    - **Consistency**: Maintain a consistent style for comments throughout your codebase.

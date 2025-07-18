@@ -847,6 +847,17 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ## SUBSECTION E: LISTS AND TABLES WITH HTML AND CSS
 
+### Course Step Number: 186
+### Assignment Title: [Transition to Lists and Tables with HTML and CSS]
+### Date Assigned: 2025-07-18 <! -- Today's date -->
+### Status: In Progress
+
+### Objective
+* Begin exploring methods for structuring data using HTML lists and tables.
+* Understand the conceptual shift to organizing complex content effectively.
+
 ---
+
+
 
 

@@ -844,3 +844,9 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 * **Reflection/Learning Note:** Successfully navigated to `https://www.learncodinganywhere.com/` and utilized Chrome's developer tools to inspect the page source, confirming the presence of HTML comments that are not rendered visually on the page. This hands-on assignment reinforced the understanding of HTML comment visibility and their purpose.
 
 ---
+
+## SUBSECTION E: LISTS AND TABLES WITH HTML AND CSS
+
+---
+
+

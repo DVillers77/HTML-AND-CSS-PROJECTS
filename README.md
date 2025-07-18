@@ -189,3 +189,10 @@ This assignment involved creating an external CSS document (`basic-css-2.css`) t
 #### 29. COMMENTS ASSIGNMENT
 This assignment involved visiting `https://www.learncodinganywhere.com/` and using Chrome's developer tools to view comments embedded in the website's HTML source code.
 * [View full details in Assignment Index](ASSIGNMENT_INDEX.md#step-185-comments-assignment---viewing-html-comments)
+
+---
+
+#### 30. SUBSECTION E: LISTS AND TABLES WITH HTML AND CSS
+This subsection will focus on creating and styling lists and tables using HTML and CSS.
+* [View full details in Assignment Index](ASSIGNMENT_INDEX.md#subsection-e-lists-and-tables-with-html-and-css)
+

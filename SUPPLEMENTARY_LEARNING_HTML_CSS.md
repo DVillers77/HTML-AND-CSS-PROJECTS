@@ -1202,3 +1202,23 @@ These entries summarize key discussions and independent research insights from s
 * This informational step was highly motivational, alleviating any pressure to memorize every detail and instead empowering a more practical, research-oriented approach to learning and applying CSS. It's a reassuring message that aligns with practical development work.
 
 ---
+
+#### LINE BREAK - using the HTML <br> tag
+
+### Course Step Number: 199
+### Date Researched: 2025-07-19
+
+##### Key Concepts / Summary
+* **`<br>` Tag Function:** The HTML `<br>` tag is used to insert a line break, forcing text to start on a new line. It behaves like pressing "ENTER" within a word processor for a single line.
+* **Placement:** Can be used within a single `<p>` element to control text flow.
+* **Code Orderliness:** Emphasized the importance of formatting HTML code for readability, even when using `<br>` tags.
+
+##### Independent Research / Notable Discoveries
+* **Semantic Use:** It's important to use `<br>` primarily for content where a line break is genuinely part of the content (e.g., poems, addresses, song lyrics) rather than for visual spacing between distinct blocks of text (for which CSS margins are preferred).
+* **Empty Tag:** The `<br>` tag is an empty (or void) element, meaning it does not have a closing tag. In HTML5, `<br>` is sufficient; `<br />` is used for XHTML compatibility.
+* **Inline Element:** `<br>` is an inline element, affecting only the flow of text within its parent block.
+
+##### Personal Reflections
+* This step clarified the specific use case for the `<br>` tag, helping to differentiate it from block-level elements and prevent its misuse for general spacing, which is better handled by CSS.
+
+---

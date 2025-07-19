@@ -1079,4 +1079,29 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 199: LINE BREAK
+
+### Course Step Number: 199
+### Date Completed: 2025-07-19
+
+### Objective:
+* To define and learn the use of the HTML `<br>` tag for creating line breaks within text.
+* To understand the importance of code readability even when using `<br>` tags.
+
+### Core Course Concepts:
+* HTML `<br>` tag: Its function and placement within text content.
+* Code organization: Best practices for formatting HTML code for readability.
+
+### Relevant Files:
+* N/A <! -- This was an informational step; no specific new files or modifications were required. -->
+
+### Reflection/Learning Note:
+* This step introduced the `<br>` tag, a simple yet effective way to force a new line within elements like paragraphs, especially useful for content like poetry or addresses.
+
+### Independent Research & Best Practices:
+* Confirmed the semantic use of `<br>` for content-driven line breaks versus using CSS for block-level spacing.
+* Noted that `<br>` is an empty, self-closing tag.
+
+---
+
 

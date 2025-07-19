@@ -1222,3 +1222,23 @@ These entries summarize key discussions and independent research insights from s
 * This step clarified the specific use case for the `<br>` tag, helping to differentiate it from block-level elements and prevent its misuse for general spacing, which is better handled by CSS.
 
 ---
+
+#### SPAN - the inline text container
+
+### Course Step Number: 200
+### Date Researched: 2025-07-19
+
+##### Key Concepts / Summary
+* **`<span>` Tag:** An inline HTML element used to apply styling or attributes to a specific segment of text or other inline content.
+* **Inline vs. External:** Reiterated the concept of "inline" code being within the HTML document versus "external" code in separate files.
+* **No Intrinsic Styling:** The `<span>` tag itself doesn't apply visual styling unless combined with CSS.
+
+##### Independent Research / Notable Discoveries
+* **Use Cases:** Primarily useful when a part of text needs different styling (e.g., color, font-size) that cannot be achieved with more semantic inline tags like `<em>` or `<strong>`.
+* **Semantics vs. Styling:** Re-emphasized the importance of using semantic HTML tags when content has inherent meaning, reserving `<span>` for purely presentational styling.
+* **Inline Element Behavior:** Confirmed that as an inline element, `<span>` does not force a new line and flows within its parent block-level element.
+
+##### Personal Reflections
+* The `<span>` tag provides necessary granularity for styling text elements, offering fine-tuned control over specific phrases or words within larger blocks of content without disrupting flow. It's a fundamental tool for precise CSS application.
+
+---

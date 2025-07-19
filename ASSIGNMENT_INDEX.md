@@ -1104,4 +1104,29 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 200: SPAN
+
+### Course Step Number: 200
+### Date Completed: 2025-07-19
+
+### Objective:
+* To define and understand the HTML `<span>` tag as an inline element.
+* To learn its purpose as a generic container for connecting and styling inline text or content.
+
+### Core Course Concepts:
+* HTML `<span>` tag: Its function and inline nature.
+* Distinction between inline code (within webpage) and external code (external files/URLs).
+
+### Relevant Files:
+* N/A <! -- This was an informational step; no specific new files or modifications were required. -->
+
+### Reflection/Learning Note:
+* This step clarified the role of the `<span>` tag as a crucial inline container for targeted styling without affecting text flow, differentiating it from block-level elements.
+
+### Independent Research & Best Practices:
+* Understood that `<span>` is often used with CSS classes/IDs for styling specific text segments.
+* Briefly compared `<span>` (inline) to `<div>` (block-level) for proper element selection.
+
+---
+
 

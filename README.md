@@ -183,3 +183,6 @@ Successfully completed the "CSS LIST ASSIGNMENT," demonstrating the application 
 
 #### 34. HTML AND CSS CHALLENGE - using entities and text-shadow (Step 196)
 Successfully completed the "HTML AND CSS CHALLENGE," which involved defining and using HTML entities to add special characters and applying the `text-shadow` property in CSS to create visual effects on text elements, reinforcing foundational HTML and CSS integration.
+
+#### 35. BASIC_HTML_AND_CSS FOLDER GITHUB SUBMISSION ASSIGNMENT - project culmination (Step 197)
+Successfully completed the "BASIC_HTML_AND_CSS FOLDER GITHUB SUBMISSION ASSIGNMENT," culminating in pushing the project folder to GitHub after ensuring all minimum requirements for HTML lists, CSS styling, HTML entities, and text-shadow effects were met and validated.

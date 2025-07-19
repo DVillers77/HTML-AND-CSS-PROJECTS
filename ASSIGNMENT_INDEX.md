@@ -1028,4 +1028,30 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 197: BASIC_HTML_AND_CSS FOLDER GITHUB SUBMISSION ASSIGNMENT
+
+### Course Step Number: 197
+### Date Completed: 2025-07-19
+
+### Objective:
+* To push the `Basic_HTML_and_CSS` folder to GitHub.
+* To ensure all minimum project requirements for HTML lists, CSS styling, HTML entities, and CSS text-shadow are met.
+* To submit the GitHub repository URL for instructor review.
+
+### Core Course Concepts:
+* Git version control: Pushing local repository changes to a remote GitHub repository.
+* Project management: Verifying completion of specific technical requirements.
+
+### Relevant Files:
+* All files within the `Basic_HTML_and_CSS` folder.
+
+### Reflection/Learning Note:
+* This submission assignment served as a cumulative checkpoint, reinforcing the importance of maintaining version control and ensuring all specified coding requirements are met before final delivery.
+
+### Independent Research & Best Practices:
+* Reconfirmed the process for pushing local changes to GitHub (`git push` or VS Code's Sync Changes).
+* Verified that all code met the listed minimum requirements, including `<ol>`, `<ul>` usage and styling, HTML entities, and `text-shadow` property.
+
+---
+
 

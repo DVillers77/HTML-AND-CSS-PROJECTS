@@ -1162,3 +1162,25 @@ These entries summarize key discussions and independent research insights from s
 * This challenge provided practical experience with two distinct but useful web development features. Using HTML entities for special characters ensures proper rendering across browsers, and `text-shadow` offers a simple yet effective way to enhance text visibility and aesthetics.
 
 ---
+
+#### BASIC_HTML_AND_CSS FOLDER GITHUB SUBMISSION ASSIGNMENT - project culmination
+
+### Course Step Number: 197
+### Date Researched: 2025-07-19
+
+##### Key Concepts / Summary
+* **GitHub Push:** The final action of synchronizing the local `Basic_HTML_and_CSS` folder's committed changes to the remote GitHub repository.
+* **Minimum Requirements Check:** Ensured that:
+    * `<ol>` and `<ul>` tags were utilized and styled with CSS.
+    * HTML entities were correctly added for special characters.
+    * `text-shadow` property was applied to an element.
+* **Submission:** Prepared the GitHub repository URL for instructor review.
+
+##### Independent Research / Notable Discoveries
+* This step highlighted the complete development cycle from coding and styling to local version control and remote deployment.
+* Reinforced the benefit of consistent commit messages and structured documentation for project traceability.
+
+##### Personal Reflections
+* This assignment provided a satisfying culmination of several recent HTML and CSS lessons, confirming that all learned concepts were successfully integrated and working together within the project. The final push to GitHub felt like a significant milestone.
+
+---

@@ -15,7 +15,7 @@ This document compiles detailed learning notes, reflections, and insights, parti
 
 ---
 
-## Section 1: INTRODUCTION TO HTML
+### Section 1: INTRODUCTION TO HTML
 
 ---
 
@@ -23,13 +23,13 @@ This document compiles detailed learning notes, reflections, and insights, parti
 
 #### Step 24: NOTEPAD++ ASSIGNMENT - Basic HTML Setup
 
-- **Objective:** Set up Notepad++ and create a basic "hello, world!" HTML page.
-- **Relevant Files:** [hello-world.html](hello-world.html)
-- **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
+* **Objective:** Set up Notepad++ and create a basic "hello, world!" HTML page.
+* **Relevant Files:** [hello-world.html](hello-world.html)
+* **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
 
 ---
 
-## Section 2: HTML FUNDAMENTALS
+### Section 2: HTML FUNDAMENTALS
 
 ---
 
@@ -37,17 +37,17 @@ This document compiles detailed learning notes, reflections, and insights, parti
 
 #### Step 53: HTML Template Assignment - Create Reusable Boilerplate
 
-- **Objective:** Create a reusable HTML boilerplate file (`assignment.html`).
-- **Relevant Files:** [assignment.html](html-documents/assignment.html)
-- **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
+* **Objective:** Create a reusable HTML boilerplate file (`assignment.html`).
+* **Relevant Files:** [assignment.html](html-documents/assignment.html)
+* **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
 
 #### Step 56: Basic Webpage Assignment - Add Structural Elements
 
-- **Objective:** Update the existing `assignment.html` template by incorporating basic structural elements (`p`, `h1`, `h3`, `h6`) into its body and giving the page a title.
-- **Relevant Files:** [assignment.html](html-documents/assignment.html)
-- **Reflection/Learning Note:** This assignment was key for reinforcing basic HTML structure. I initially misunderstood the instruction and created a new file, which highlighted the importance of carefully re-reading assignment instructions and how Git tracks file changes (deletion and modification) within a single commit. This was a valuable lesson in attention to detail and version control.
-- **Independent Research & Best Practices:**
-  - During this step, there was a brief discussion about **Git basics** related to tracking file changes (modifying existing files versus creating new ones, and how Git handles deletions and additions within commits). This reinforced fundamental version control concepts.
+* **Objective:** Update the existing `assignment.html` template by incorporating basic structural elements (`p`, `h1`, `h3`, `h6`) into its body and giving the page a title.
+* **Relevant Files:** [assignment.html](html-documents/assignment.html)
+* **Reflection/Learning Note:** This assignment was key for reinforcing basic HTML structure. I initially misunderstood the instruction and created a new file, which highlighted the importance of carefully re-reading assignment instructions and how Git tracks file changes (deletion and modification) within a single commit. This was a valuable lesson in attention to detail and version control.
+* **Independent Research & Best Practices:**
+  * During this step, there was a brief discussion about **Git basics** related to tracking file changes (modifying existing files versus creating new ones, and how Git handles deletions and additions within commits). This reinforced fundamental version control concepts.
 
 ---
 
@@ -55,66 +55,66 @@ This document compiles detailed learning notes, reflections, and insights, parti
 
 #### Step 67: FOOTER, MAIN AND IMAGE ASSIGNMENT - Add Semantic Tags
 
-- **Objective:** Add `<footer>`, `<main>`, and `<img>` tags to `assignment.html`.
-- **Relevant Files:** [assignment.html](html-documents/assignment.html)
-- **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
+* **Objective:** Add `<footer>`, `<main>`, and `<img>` tags to `assignment.html`.
+* **Relevant Files:** [assignment.html](html-documents/assignment.html)
+* **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
 
 #### Step 71: IMAGE ASSIGNMENT - Practice File Paths
 
-- **Objective:** Create a temporary website structure with an `Images` folder and an HTML file that links to a local image, focusing on practical experience with file paths.
-- **Status:** Completed (Temporary Exercise).
-- **Core Course Concepts:** File system organization, relative file paths, `<img>` tag, temporary project setup.
-- **Relevant Files:** This assignment involved a temporary project structure (`Website/` folder on desktop), which was later deleted. Example files would include: `Website/my-image-page.html`, `Website/Images/my-image.jpg`. These files were not integrated into the main repository.
-- **Reflection/Learning Note:** This step provided hands-on experience with managing local file paths, which is crucial for linking assets like images within a project. An initial attempt to use a local placeholder image within the repository's main structure faced challenges due to link issues. As a solution/demonstration for linking images, a random cycling image from Picsum was subsequently used in a separate, temporary context to verify `<img>` tag functionality and external linking. The temporary "Website" folder was later deleted as instructed by the course.
-- **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
+* **Objective:** Create a temporary website structure with an `Images` folder and an HTML file that links to a local image, focusing on practical experience with file paths.
+* **Status:** Completed (Temporary Exercise).
+* **Core Course Concepts:** File system organization, relative file paths, `<img>` tag, temporary project setup.
+* **Relevant Files:** This assignment involved a temporary project structure (`Website/` folder on desktop), which was later deleted. Example files would include: `Website/my-image-page.html`, `Website/Images/my-image.jpg`. These files were not integrated into the main repository.
+* **Reflection/Learning Note:** This step provided hands-on experience with managing local file paths, which is crucial for linking assets like images within a project. An initial attempt to use a local placeholder image within the repository's main structure faced challenges due to link issues. As a solution/demonstration for linking images, a random cycling image from Picsum was subsequently used in a separate, temporary context to verify `<img>` tag functionality and external linking. The temporary "Website" folder was later deleted as instructed by the course.
+* **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
 
 #### Step 74: IMPLICIT LINK ASSIGNMENT - Two-Way Internal Links
 
-- **Objective:** Create a new `dog.html` with an image, and link it two-way with `assignment.html` using implicit links.
-- **Relevant Files:**
-  - [assignment.html](html-documents/assignment.html)
-  - [dog.html](html-documents/dog.html)
-  - [images/xolo-art-01.png](images/xolo-art-01.png)
-- **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
+* **Objective:** Create a new `dog.html` with an image, and link it two-way with `assignment.html` using implicit links.
+* **Relevant Files:**
+  * [assignment.html](html-documents/assignment.html)
+  * [dog.html](html-documents/dog.html)
+  * [images/xolo-art-01.png](images/xolo-art-01.png)
+* **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
 
 #### Step 75: EXPLICIT LINK ASSIGNMENT - Link External Image URL
 
-- **Objective:** Create an explicit link in `assignment.html` that navigates directly to an online image URL.
-- **Relevant Files:**
-  - [assignment.html](html-documents/assignment.html)
-- **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
+* **Objective:** Create an explicit link in `assignment.html` that navigates directly to an online image URL.
+* **Relevant Files:**
+  * [assignment.html](html-documents/assignment.html)
+* **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
 
 #### Step 79: DOG WEBPAGE ASSIGNMENT - Integrate Navigation and Video
 
-- **Objective:** Create a new HTML page (`dog-video.html`) with a YouTube video link, and integrate consistent navigation across `assignment.html`, `dog.html`, and `dog-video.html`.
-- **Relevant Files:**
-  - [assignment.html](html-documents/assignment.html)
-  - [dog.html](html-documents/dog.html)
-  - [dog-video.html](html-documents/dog-video.html)
-- **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
+* **Objective:** Create a new HTML page (`dog-video.html`) with a YouTube video link, and integrate consistent navigation across `assignment.html`, `dog.html`, and `dog-video.html`.
+* **Relevant Files:**
+  * [assignment.html](html-documents/assignment.html)
+  * [dog.html](html-documents/dog.html)
+  * [dog-video.html](html-documents/dog-video.html)
+* **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
 
 #### Step 80: DOG WEBPAGE CHALLENGE
 
-- **Objective:** Learn and implement the `<blockquote>` element in `assignment.html` and embed a YouTube video using `<iframe>` in `dog-video.html`.
-- **Relevant Files:**
-  - [html-documents/assignment.html](html-documents/assignment.html)
-  - [html-documents/dog.html](html-documents/dog.html)
-  - [html-documents/dog-video.html](html-documents/dog-video.html)
-- **Note on File Reorganization:** Following initial submission, all HTML files were moved into the `html-documents/` folder, and all internal and documentation links were updated to reflect this change, addressing instructor feedback on file organization.
-- **Independent Research & Best Practices:**
-  - There was a **chat inquiry into modern YouTube embedding methods**, specifically discussing the **limitations** of embedding YouTube Shorts versus full-length videos for `<iframe>` usage. The conclusion was that YouTube Shorts typically do not allow direct embedding via `<iframe>` in the same way, requiring the use of a full-length video URL to successfully implement the course objective.
+* **Objective:** Learn and implement the `<blockquote>` element in `assignment.html` and embed a YouTube video using `<iframe>` in `dog-video.html`.
+* **Relevant Files:**
+  * [html-documents/assignment.html](html-documents/assignment.html)
+  * [html-documents/dog.html](html-documents/dog.html)
+  * [html-documents/dog-video.html](html-documents/dog-video.html)
+* **Note on File Reorganization:** Following initial submission, all HTML files were moved into the `html-documents/` folder, and all internal and documentation links were updated to reflect this change, addressing instructor feedback on file organization.
+* **Independent Research & Best Practices:**
+  * There was a **chat inquiry into modern YouTube embedding methods**, specifically discussing the **limitations** of embedding YouTube Shorts versus full-length videos for `<iframe>` usage. The conclusion was that YouTube Shorts typically do not allow direct embedding via `<iframe>` in the same way, requiring the use of a full-length video URL to successfully implement the course objective.
 
 #### Step 81: HTML DOCUMENT SUBMISSION ASSIGNMENT - Course Submission
 
-- **Objective:** Submit completed HTML and JavaScript files created thus far for review as part of the course's submission process.
-- **Status:** Completed and Submitted.
-- **Relevant Files:** All HTML and JavaScript files created/modified up to this step, including `assignment.html`, `dog.html`, `dog-video.html`, `basic-html-1.html`, `basic-html-2.html`, `basic-javascript-1.js`, and associated image files.
-- **Reflection/Learning Note:** This step marked a milestone, involving the bundling and submission of all completed assignments from the HTML section. It reinforced the importance of ensuring all files and links were correctly organized and functional for a successful submission.
-- **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
+* **Objective:** Submit completed HTML and JavaScript files created thus far for review as part of the course's submission process.
+* **Status:** Completed and Submitted.
+* **Relevant Files:** All HTML and JavaScript files created/modified up to this step, including `assignment.html`, `dog.html`, `dog-video.html`, `basic-html-1.html`, `basic-html-2.html`, `basic-javascript-1.js`, and associated image files.
+* **Reflection/Learning Note:** This step marked a milestone, involving the bundling and submission of all completed assignments from the HTML section. It reinforced the importance of ensuring all files and links were correctly organized and functional for a successful submission.
+* **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
 
 ---
 
-## Section 3: WEB DEVELOPMENT FUNDAMENTALS
+### Section 3: WEB DEVELOPMENT FUNDAMENTALS
 
 ---
 
@@ -122,47 +122,47 @@ This document compiles detailed learning notes, reflections, and insights, parti
 
 #### Step 107: BASIC HTML AND JAVASCRIPT ASSIGNMENT - Simple Alert Box
 
-- **Objective:** Create an HTML file that uses JavaScript to display an alert box.
-- **Relevant Files:**
-  - [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html)
-- **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
+* **Objective:** Create an HTML file that uses JavaScript to display an alert box.
+* **Relevant Files:**
+  * [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html)
+* **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
 
 #### Step 109: SOURCE ATTRIBUTE ASSIGNMENT - Link External JavaScript
 
-- **Objective:** Create an external JavaScript file (`basic-javascript-1.js`) containing the alert method, and then link it to `basic-html-1.html` using the script `src` attribute to enable external script integration.
-- **Relevant Files:**
-  - [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html) (Modified)
-  - [basic-html-and-javascript-1/basic-javascript-1.js](basic-html-and-javascript-1/basic-javascript-1.js) (New)
-- **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
+* **Objective:** Create an external JavaScript file (`basic-javascript-1.js`) containing the alert method, and then link it to `basic-html-1.html` using the script `src` attribute to enable external script integration.
+* **Relevant Files:**
+  * [basic-html-and-javascript-1/basic-html-1.html](basic-html-and-javascript-1/basic-html-1.html) (Modified)
+  * [basic-html-and-javascript-1/basic-javascript-1.js](basic-html-and-javascript-1/basic-javascript-1.js) (New)
+* **Independent Research & Best Practices:** No specific independent research or best practices were explicitly discussed or generated for this step in chat history.
 
 #### Step 120: CREATING A FUNCTION (Independent Exercise)
 
-- **Objective:** Implement a basic JavaScript function triggered by an HTML button click to dynamically update content using `document.getElementById()` and `innerHTML`.
-- **Core Course Concepts:**
-  - Basic JavaScript function definition.
-  - HTML `onclick` event handler for user interaction.
-  - Accessing HTML elements using `document.getElementById()`.
-  - Manipulating element content with `innerHTML`.
-- **Relevant Files:** [javascript-examples/120-onclick-function.html](javascript-examples/120-onclick-function.html)
-- **Reflection/Learning Note:** Identified and corrected a syntax issue in the course's example where the `innerHTML` assignment was inadvertently split across two lines, preventing the dynamic content update. The correction involved adding the assignment operator (`=`) to ensure the `result` was correctly applied to the `innerHTML` property.
-- **Independent Research & Best Practices:**
-  - There was a **brief chat discussion about proper syntax and best practices for parent-child nesting and indentation of code**, emphasizing readability and maintainability.
+* **Objective:** Implement a basic JavaScript function triggered by an HTML button click to dynamically update content using `document.getElementById()` and `innerHTML`.
+* **Core Course Concepts:**
+  * Basic JavaScript function definition.
+  * HTML `onclick` event handler for user interaction.
+  * Accessing HTML elements using `document.getElementById()`.
+  * Manipulating element content with `innerHTML`.
+* **Relevant Files:** [javascript-examples/120-onclick-function.html](javascript-examples/120-onclick-function.html)
+* **Reflection/Learning Note:** Identified and corrected a syntax issue in the course's example where the `innerHTML` assignment was inadvertently split across two lines, preventing the dynamic content update. The correction involved adding the assignment operator (`=`) to ensure the `result` was correctly applied to the `innerHTML` property.
+* **Independent Research & Best Practices:**
+  * There was a **brief chat discussion about proper syntax and best practices for parent-child nesting and indentation of code**, emphasizing readability and maintainability.
 
 #### Step 121: TWO PART ASSIGNMENT - HTML and JavaScript Separation
 
-- **Objective:**
-  - 1. Create a new HTML file (`basic-html-2.html`) initially containing the interactive function from the previous step.
-  - 2. Separate the JavaScript function into the existing external `basic-javascript-1.js` file and link `basic-html-2.html` to it.
-- **Core Course Concepts:**
-  - Reinforcement of `document.getElementById()` and `onclick` event handling.
-  - **Best Practice:** Separating HTML (structure) and JavaScript (behavior) into distinct files.
-  - HTML `<script src="...">` tag for linking external JavaScript files.
-- **Relevant Files:**
-  - [basic-html-and-javascript-1/basic-html-2.html](basic-html-and-javascript-1/basic-html-2.html)
-  - [basic-html-and-javascript-1/basic-javascript-1.js](basic-html-and-javascript-1/basic-javascript-1.js)
-- **Reflection/Learning Note:** This step emphasizes the importance of code organization and modularity. It demonstrates how to add new JavaScript functionality to an existing shared `.js` file, leading to cleaner, more maintainable, and reusable web projects. Adhered to kebab-case for file and folder naming for consistency and best practice. The existing `basic-javascript-1.js` was also updated to explicitly say "Hello, World!" as per Step 106's instruction.
-- **Independent Research & Best Practices:**
-  - There was a **significant discussion about best practices regarding naming conventions**, which led to the **implementation of a kebab-case preference** for filenames and folder names (e.g., `my-folder-name`, `my-file-name.html`) in your repository. This decision was made to ensure consistency and align with web development standards, moving away from the PascalCase or snake_case methods sometimes seen in course examples.
+* **Objective:**
+  * 1. Create a new HTML file (`basic-html-2.html`) initially containing the interactive function from the previous step.
+  * 2. Separate the JavaScript function into the existing external `basic-javascript-1.js` file and link `basic-html-2.html` to it.
+* **Core Course Concepts:**
+  * Reinforcement of `document.getElementById()` and `onclick` event handling.
+  * **Best Practice:** Separating HTML (structure) and JavaScript (behavior) into distinct files.
+  * HTML `<script src="...">` tag for linking external JavaScript files.
+* **Relevant Files:**
+  * [basic-html-and-javascript-1/basic-html-2.html](basic-html-and-javascript-1/basic-html-2.html)
+  * [basic-html-and-javascript-1/basic-javascript-1.js](basic-html-and-javascript-1/basic-javascript-1.js)
+* **Reflection/Learning Note:** This step emphasizes the importance of code organization and modularity. It demonstrates how to add new JavaScript functionality to an existing shared `.js` file, leading to cleaner, more maintainable, and reusable web projects. Adhered to kebab-case for file and folder naming for consistency and best practice. The existing `basic-javascript-1.js` was also updated to explicitly say "Hello, World!" as per Step 106's instruction.
+* **Independent Research & Best Practices:**
+  * There was a **significant discussion about best practices regarding naming conventions**, which led to the **implementation of a kebab-case preference** for filenames and folder names (e.g., `my-folder-name`, `my-file-name.html`) in your repository. This decision was made to ensure consistency and align with web development standards, moving away from the PascalCase or snake_case methods sometimes seen in course examples.
 
 ---
 
@@ -205,7 +205,9 @@ This document compiles detailed learning notes, reflections, and insights, parti
 - **Independent Research & Best Practices:**
   - There was a **significant chat discussion about the outdated course example**, as the website used in the course lesson had changed, making the example no longer relevant for the intended exercise. Through this discussion, I helped guide you through the process of **carrying out the intended lesson by modifying live text on another website** (e.g., pff.com), ensuring you still achieved the learning objective despite the outdated course material.
 
-## Section 4: WRITING CODE IN HTML
+---
+
+### Section 4: WRITING CODE IN HTML
 
 ---
 
@@ -278,11 +280,7 @@ This document compiles detailed learning notes, reflections, and insights, parti
   - **GitHub Project Structure for Submissions:** Emphasized the best practice of pushing and linking to the entire project folder on GitHub. This ensures the integrity of the project's file structure and provides the reviewer with full context, including all associated files like HTML and JavaScript, for a holistic review.
   - **Pre-Submission Checklist:** This step served as a practical demonstration of performing a final self-review of code against minimum requirements, ensuring all criteria are met before formal submission.
 
----
 
-## Section 5: AI-Assisted Learning & Best Practices (Informational Steps)
-
----
 
 These entries summarize key discussions and independent research insights from steps not directly tied to coding assignments, focusing on broader best practices, tooling, and development methodologies.
 
@@ -715,6 +713,9 @@ These entries summarize key discussions and independent research insights from s
         ```
 * **Benefits of External CSS in Practice:** Demonstrates cleaner HTML, easier management of styles across multiple pages, and prepares for performance benefits through browser caching.
 
+### Relevant Files:
+* N/A <!-- My_Style.css was a hypothetical file for a temporary exercise and was not saved -->
+
 ### Independent Research / Notable Discoveries
 * **Workflow Best Practice:** Actively performing the separation reinforces why it's the standard for maintainability and scalability.
 * **Relative Paths:** The example `href="My_Style.css"` highlights the use of relative paths when the CSS file is in the same directory as the HTML.
@@ -855,109 +856,109 @@ These entries summarize key discussions and independent research insights from s
 
 #### Step 180: CLASS ATTRIBUTE - Assigning Style to Elements
 
-- **Objective:** Understand how to use the `class` attribute in HTML in conjunction with CSS to apply specific styles to multiple elements.
-- **Core Course Concepts:**
-    - HTML `class` attribute for element grouping.
-    - CSS class selectors (using `.`) for applying styles.
-    - Separation of concerns: HTML for structure, CSS for presentation.
-- **Relevant Files:**
-    - [index.html](basic-html-and-css/index.html) (or your main HTML file)
-- **Reflection/Learning Note:** This step introduced the fundamental concept of using the `class` attribute to apply CSS styles. The `class` attribute is highly versatile, enabling developers to define a set of styles once in a CSS file and then apply them to any number of HTML elements simply by referencing the class name. This contrasts with `id` attributes, which target a single unique element.
-- **Independent Research & Best Practices:**
-    - **Reusability**: `class` attributes are central to CSS reusability. A single class definition in CSS can be used across multiple elements, reducing code duplication and simplifying style management.
-    - **Flexibility**: Elements can have multiple classes applied to them (e.g., `<div class="card shadow-effect">`), allowing for a combination of styles.
-    - **Specificity**: Class selectors provide a good balance in CSS specificity, allowing styles to be easily overridden by more specific selectors (like IDs) or external stylesheets if needed.
-    - **Naming Conventions**: It's best practice to use `kebab-case` for class names (e.g., `my-class-name`), consistent with established file naming conventions.
+* **Objective:** Understand how to use the `class` attribute in HTML in conjunction with CSS to apply specific styles to multiple elements.
+* **Core Course Concepts:**
+    * HTML `class` attribute for element grouping.
+    * CSS class selectors (using `.`) for applying styles.
+    * Separation of concerns: HTML for structure, CSS for presentation.
+* **Relevant Files:**
+    * N/A <!-- No specific HTML file saved for this conceptual step -->
+* **Reflection/Learning Note:** This step introduced the fundamental concept of using the `class` attribute to apply CSS styles. The `class` attribute is highly versatile, enabling developers to define a set of styles once in a CSS file and then apply them to any number of HTML elements simply by referencing the class name. This contrasts with `id` attributes, which target a single unique element.
+* **Independent Research & Best Practices:**
+    * **Reusability**: `class` attributes are central to CSS reusability. A single class definition in CSS can be used across multiple elements, reducing code duplication and simplifying style management.
+    * **Flexibility**: Elements can have multiple classes applied to them (e.g., `<div class="card shadow-effect">`), allowing for a combination of styles.
+    * **Specificity**: Class selectors provide a good balance in CSS specificity, allowing styles to be easily overridden by more specific selectors (like IDs) or external stylesheets if needed.
+    * **Naming Conventions**: It's best practice to use `kebab-case` for class names (e.g., `my-class-name`), consistent with established file naming conventions.
 
 ---
 
 #### Step 181: CLASS IN EXTERNAL FILE - Modular Styling
 
-- **Objective:** Learn to define and apply CSS styles, including global `body` styles and custom classes, from an external `.css` file.
-- **Core Course Concepts:**
-    - Creating and linking an external CSS file (`.css` extension).
-    - Global element selectors (e.g., `body {}`) for document-wide styles.
-    - The role of the `<link>` tag in the HTML `<head>` for connecting CSS.
-- **Relevant Files:**
-    - [index.html](basic-html-and-css/index.html) (or your main HTML file)
-    - [basic-css-1.css](basic-html-and-css/basic-css-1.css)
-- **Reflection/Learning Note:** This step is critical for moving beyond inline or internal styling. By externalizing CSS, we achieve a cleaner separation of concerns, making HTML purely structural and CSS purely presentational. This modularity is essential for larger projects, as it allows styles to be easily reused across multiple HTML pages and facilitates easier maintenance and updates. The global `body` style demonstrates how an entire document's default appearance can be set, while class-specific styles provide granular control over individual or grouped elements.
-- **Independent Research & Best Practices:**
-    - **Performance**: Placing the `<link>` tag in the `<head>` ensures that styles are loaded and parsed before the `<body>` content renders, preventing "flash of unstyled content" (FOUC) and improving user experience.
-    - **Maintainability**: Changes to styles only need to be made in one external CSS file, and those changes will apply across all linked HTML documents.
-    - **Scalability**: For larger projects, multiple CSS files can be used for different sections or components, further organizing styles.
-    - **Caching**: External CSS files can be cached by browsers, meaning they don't need to be downloaded again on subsequent page visits, leading to faster load times.
+* **Objective:** Learn to define and apply CSS styles, including global `body` styles and custom classes, from an external `.css` file.
+* **Core Course Concepts:**
+    * Creating and linking an external CSS file (`.css` extension).
+    * Global element selectors (e.g., `body {}`) for document-wide styles.
+    * The role of the `<link>` tag in the HTML `<head>` for connecting CSS.
+* **Relevant Files:**
+    * N/A <!-- No specific HTML file saved for this conceptual step -->
+    * [basic-css-1.css](basic-html-and-css/basic-css-1.css)
+* **Reflection/Learning Note:** This step is critical for moving beyond inline or internal styling. By externalizing CSS, we achieve a cleaner separation of concerns, making HTML purely structural and CSS purely presentational. This modularity is essential for larger projects, as it allows styles to be easily reused across multiple HTML pages and facilitates easier maintenance and updates. The global `body` style demonstrates how an entire document's default appearance can be set, while class-specific styles provide granular control over individual or grouped elements.
+* **Independent Research & Best Practices:**
+    * **Performance**: Placing the `<link>` tag in the `<head>` ensures that styles are loaded and parsed before the `<body>` content renders, preventing "flash of unstyled content" (FOUC) and improving user experience.
+    * **Maintainability**: Changes to styles only need to be made in one external CSS file, and those changes will apply across all linked HTML documents.
+    * **Scalability**: For larger projects, multiple CSS files can be used for different sections or components, further organizing styles.
+    * **Caching**: External CSS files can be cached by browsers, meaning they don't need to be downloaded again on subsequent page visits, leading to faster load times.
 
 ---
 
 #### Step 182: CSS ASSIGNMENT - Class Attribute Application
 
-- **Objective:** Create and apply an external CSS class to a paragraph element within a new HTML document, demonstrating practical styling.
-- **Core Course Concepts:**
-    - Creation of a dedicated external CSS file (e.g., `basic-css-2.css`).
-    - Defining a CSS class selector (`.your-class-name`) with custom properties.
-    - Creating a new HTML document (e.g., `basic-html-5.html`).
-    - Correctly linking the external CSS file to the HTML document using `<link rel="stylesheet" href="...">` within the `<head>`.
-    - Applying the defined CSS class to an HTML element using the `class` attribute (`<p class="your-class-name">`).
-    - Verifying styling application in a web browser.
-- **Relevant Files:**
+* **Objective:** Create and apply an external CSS class to a paragraph element within a new HTML document, demonstrating practical styling.
+* **Core Course Concepts:**
+    * Creation of a dedicated external CSS file (e.g., `basic-css-2.css`).
+    * Defining a CSS class selector (`.your-class-name`) with custom properties.
+    * Creating a new HTML document (e.g., `basic-html-5.html`).
+    * Correctly linking the external CSS file to the HTML document using `<link rel="stylesheet" href="...">` within the `<head>`.
+    * Applying the defined CSS class to an HTML element using the `class` attribute (`<p class="your-class-name">`).
+    * Verifying styling application in a web browser.
+* **Relevant Files:**
     * [basic-css-2.css](basic-html-and-css/basic-css-2.css)
     * [basic-html-5.html](basic-html-and-css/basic-html-5.html)
-- **Reflection/Learning Note:** This assignment was a practical consolidation of recent lessons. The key takeaways were the proper workflow for linking external stylesheets (always in the `<head>`) and the power of class attributes for reusable and modular styling. It also highlighted the importance of attention to detail in file paths and HTML structure for successful rendering.
-- **Independent Research & Best Practices:**
-    - **`kebab-case` for File Names**: Confirmed consistent use of `kebab-case` for file names like `basic-html-5.html` and `basic-css-2.css`, which is a standard practice for web development.
-    - **Debugging**: Identified a common pitfall (incorrect `<link>` placement) from initial examples, emphasizing the importance of understanding underlying principles over rote copying, even from provided materials. This experience reinforces the value of consistent `linting` and `validation`.
+* **Reflection/Learning Note:** This assignment was a practical consolidation of recent lessons. The key takeaways were the proper workflow for linking external stylesheets (always in the `<head>`) and the power of class attributes for reusable and modular styling. It also highlighted the importance of attention to detail in file paths and HTML structure for successful rendering.
+* **Independent Research & Best Practices:**
+    * **`kebab-case` for File Names**: Confirmed consistent use of `kebab-case` for file names like `basic-html-5.html` and `basic-css-2.css`, which is a standard practice for web development.
+    * **Debugging**: Identified a common pitfall (incorrect `<link>` placement) from initial examples, emphasizing the importance of understanding underlying principles over rote copying, even from provided materials. This experience reinforces the value of consistent `linting` and `validation`.
 
 ---
 
 #### Step 183: COMMENTING CODE - HTML Comments
 
-- **Objective:** Understand the purpose and syntax of HTML comments for code documentation and readability.
-- **Core Course Concepts:**
-    - The importance of commenting code for maintainability and collaboration.
-    - HTML comment syntax: `` to close.
-    - Comments are visible in page source <!-- e.g., browser developer tools --> but not rendered on the webpage.
-- **Relevant Files:**
-    * [index.html](basic-html-and-css/index.html) <!-- or any HTML file -->
-- **Reflection/Learning Note:** This step highlighted the critical role of comments in professional web development. While not directly affecting the visual output, well-placed comments significantly improve code understanding, especially in larger projects or when collaborating. The practice of commenting ensures that the intent and functionality of specific HTML sections are clear.
-- **Independent Research & Best Practices:**
-    - **Purpose**: Use comments to explain complex or non-obvious parts of the code, to temporarily disable code, or to mark sections for future work.
-    - **Frequency**: While important, avoid over-commenting obvious code; focus on *why* something is done, not just *what* it does.
-    - **Consistency**: Maintain a consistent style for comments throughout your codebase.
+* **Objective:** Understand the purpose and syntax of HTML comments for code documentation and readability.
+* **Core Course Concepts:**
+    * The importance of commenting code for maintainability and collaboration.
+    * HTML comment syntax: `` to close.
+    * Comments are visible in page source but not rendered on the webpage.
+* **Relevant Files:**
+    * N/A <!-- No specific HTML file saved for this conceptual step -->
+* **Reflection/Learning Note:** This step highlighted the critical role of comments in professional web development. While not directly affecting the visual output, well-placed comments significantly improve code understanding, especially in larger projects or when collaborating. The practice of commenting ensures that the intent and functionality of specific HTML sections are clear.
+* **Independent Research & Best Practices:**
+    * **Purpose**: Use comments to explain complex or non-obvious parts of the code, to temporarily disable code, or to mark sections for future work.
+    * **Frequency**: While important, avoid over-commenting obvious code; focus on *why* something is done, not just *what* it does.
+    * **Consistency**: Maintain a consistent style for comments throughout your codebase.
 
 ---
 
 #### Step 184: CSS COMMENTS
 
-- **Objective:** Learn the syntax and purpose of comments within CSS code.
-- **Core Course Concepts:**
-    - The importance of commenting in CSS for documentation and team collaboration.
-    - CSS comment syntax: `/*` to open, `*/` to close.
-    - Comments can span single or multiple lines.
-    - Comments are ignored by browsers during rendering.
-- **Relevant Files:**
-    * N/A
-- **Reflection/Learning Note:** This step reinforced the concept of code documentation, specifically for CSS. The simple `/* comment */` syntax provides a flexible way to add notes directly within stylesheets. This is vital for explaining complex styling rules, temporary changes, or leaving markers for future development, ensuring that the stylesheet remains comprehensible over time.
-- **Independent Research & Best Practices:**
-    - **Debugging Tool**: Can be used to temporarily `comment out` sections of CSS to debug styling issues without deleting code.
-    - **Organization**: Use comments to organize stylesheets into logical sections (e.g., "Global Styles," "Header Styles," "Footer Styles").
-    - **Readability**: Good comments act as signposts, guiding developers through the CSS file quickly.
+* **Objective:** Learn the syntax and purpose of comments within CSS code.
+* **Core Course Concepts:**
+    * The importance of commenting in CSS for documentation and team collaboration.
+    * CSS comment syntax: `/*` to open, `*/` to close.
+    * Comments can span single or multiple lines.
+    * Comments are ignored by browsers during rendering.
+* **Relevant Files:**
+    * N/A <!-- No specific HTML file saved for this conceptual step -->
+* **Reflection/Learning Note:** This step reinforced the concept of code documentation, specifically for CSS. The simple `/* comment */` syntax provides a flexible way to add notes directly within stylesheets. This is vital for explaining complex styling rules, temporary changes, or leaving markers for future development, ensuring that the stylesheet remains comprehensible over time.
+* **Independent Research & Best Practices:**
+    * **Debugging Tool**: Can be used to temporarily `comment out` sections of CSS to debug styling issues without deleting code.
+    * **Organization**: Use comments to organize stylesheets into logical sections (e.g., "Global Styles," "Header Styles," "Footer Styles").
+    * **Readability**: Good comments act as signposts, guiding developers through the CSS file quickly.
 
 ---
 
 #### Step 185: COMMENTS ASSIGNMENT - Viewing HTML Comments
 
-- **Objective:** Gain practical experience viewing HTML comments in a live website's source code using browser developer tools.
-- **Core Course Concepts:**
-    - HTML comment syntax (``).
-    - The distinction between rendered page content and source code.
-    - Practical use of browser developer tools for inspection.
-- **Relevant Files:**
+* **Objective:** Gain practical experience viewing HTML comments in a live website's source code using browser developer tools.
+* **Core Course Concepts:**
+    * HTML comment syntax (``).
+    * The distinction between rendered page content and source code.
+    * Practical use of browser developer tools for inspection.
+* **Relevant Files:**
     * N/A <!-- External website observation -->
-- **Reflection/Learning Note:** This assignment provided a valuable real-world application of the concept of HTML comments. Directly observing comments embedded in a live website's source code through Chrome Dev Tools concretized the theoretical knowledge from Step 183. It highlighted how comments are an integral part of professional web development for documentation, even if they're not visible to the end-user.
-- **Independent Research & Best Practices:**
-    - **Developer Tools Proficiency**: Regularly using browser developer tools is crucial for debugging, inspecting elements, and understanding how live websites are structured and styled.
-    - **Source Code Analysis**: Examining comments in publicly available source code can sometimes offer insights into a developer's thought process or temporary implementations.
+* **Reflection/Learning Note:** This assignment provided a valuable real-world application of the concept of HTML comments. Directly observing comments embedded in a live website's source code through Chrome Dev Tools concretized the theoretical knowledge from Step 183. It highlighted how comments are an integral part of professional web development for documentation, even if they're not visible to the end-user.
+* **Independent Research & Best Practices:**
+    * **Developer Tools Proficiency**: Regularly using browser developer tools is crucial for debugging, inspecting elements, and understanding how live websites are structured and styled.
+    * **Source Code Analysis**: Examining comments in publicly available source code can sometimes offer insights into a developer's thought process or temporary implementations.
 
 ---
 
@@ -965,95 +966,95 @@ These entries summarize key discussions and independent research insights from s
 
 #### Step 187: HTML TABLES
 
-- **Objective:** Understand the fundamental HTML tags used to create structured tables for displaying data.
-- **Core Course Concepts:**
-    - `<table>` tag: Defines the entire table.
-    - `<tr>` (table row) tag: Creates a row within the table.
-    - `<th>` (table header) tag: Defines a header cell; content is typically bold and centered by default.
-    - `<td>` (table data) tag: Defines a standard data cell.
-    - Tables are used for presenting tabular data, not for page layout.
-- **Relevant Files:**
+* **Objective:** Understand the fundamental HTML tags used to create structured tables for displaying data.
+* **Core Course Concepts:**
+    * `<table>` tag: Defines the entire table.
+    * `<tr>` (table row) tag: Creates a row within the table.
+    * `<th>` (table header) tag: Defines a header cell; content is typically bold and centered by default.
+    * `<td>` (table data) tag: Defines a standard data cell.
+    * Tables are used for presenting tabular data, not for page layout.
+* **Relevant Files:**
     * [html-table.html](basic-html-and-css/html-table.html)
-- **Reflection/Learning Note:** This step provided the foundational knowledge for creating structured data displays using HTML tables. The clear hierarchical relationship between `<table>`, `<tr>`, `<th>`, and `<td>` tags is intuitive for organizing information into rows and columns. It's important to remember that tables are semantic elements meant for data, not for general page layout, which is better handled with CSS.
-- **Independent Research & Best Practices:**
-    - **Accessibility**: For complex tables, consider `<caption>`, `<thead>`, `<tbody>`, `<tfoot>`, `scope` attributes for `<th>`, and `summary` attributes for `<table>` to enhance accessibility for screen readers.
-    - **Semantics**: Use tables for genuinely tabular data (e.g., spreadsheets, financial data, calendars), not for visual arrangement of non-tabular content.
-    - **Responsiveness**: Ensure tables are responsive on smaller screens using CSS techniques (e.g., `overflow-x: auto;` or transforming layout for mobile).
+* **Reflection/Learning Note:** This step provided the foundational knowledge for creating structured data displays using HTML tables. The clear hierarchical relationship between `<table>`, `<tr>`, `<th>`, and `<td>` tags is intuitive for organizing information into rows and columns. It's important to remember that tables are semantic elements meant for data, not for general page layout, which is better handled with CSS.
+* **Independent Research & Best Practices:**
+    * **Accessibility**: For complex tables, consider `<caption>`, `<thead>`, `<tbody>`, `<tfoot>`, `scope` attributes for `<th>`, and `summary` attributes for `<table>` to enhance accessibility for screen readers.
+    * **Semantics**: Use tables for genuinely tabular data (e.g., spreadsheets, financial data, calendars), not for visual arrangement of non-tabular content.
+    * **Responsiveness**: Ensure tables are responsive on smaller screens using CSS techniques (e.g., `overflow-x: auto;` or transforming layout for mobile).
 
 ---
 
 #### Step 188: TABLE ASSIGNMENT - Custom Table Creation
 
--   **Objective:** Create a custom HTML table and apply granular CSS styling for content alignment and row separation.
--   **Core Course Concepts:**
-    -   Practical application of `<table>`, `<tr>`, `<th>`, `<td>` for data structuring.
-    -   Using CSS `text-align` property to control content alignment within cells.
-    -   Implementing descriptive class names (e.g., `.title-align-c`, `.header-align-l`) for enhanced clarity and maintainability.
-    -   Applying visual separators (`border-bottom` and `padding-bottom`) to multiple specific table rows (`<tr>`) using a shared class (`.header-row-spacing`).
-    -   Reinforced the role of `<meta name="viewport">` for foundational responsive design.
--   **Relevant Files:**
+* **Objective:** Create a custom HTML table and apply granular CSS styling for content alignment and row separation.
+* **Core Course Concepts:**
+    * Practical application of `<table>`, `<tr>`, `<th>`, `<td>` for data structuring.
+    * Using CSS `text-align` property to control content alignment within cells.
+    * Implementing descriptive class names (e.g., `.title-align-c`, `.header-align-l`) for enhanced clarity and maintainability.
+    * Applying visual separators (`border-bottom` and `padding-bottom`) to multiple specific table rows (`<tr>`) using a shared class (`.header-row-spacing`).
+    * Reinforced the role of `<meta name="viewport">` for foundational responsive design.
+* **Relevant Files:**
     * [html-table.html](basic-html-and-css/html-table.html)
     * [basic-css-2.css](basic-html-and-css/basic-css-2.css)
--   **Reflection/Learning Note:** This assignment served as a comprehensive practical exercise in HTML table creation and detailed CSS styling. The process involved semantically structuring tabular data and then precisely controlling its presentation, including individual cell and heading alignments. A key learning was the effective use of descriptive class names and applying styles to multiple, specific rows for visual segmentation, rather than relying on global table rules. The iterative refinement of styling highlighted the power and flexibility of CSS in achieving desired visual outcomes.
--   **Independent Research & Best Practices:**
-    -   **Class Naming Conventions**: Confirmed the benefits of descriptive `kebab-case` class names (e.g., `title-align-c`, `header-align-l`, `header-row-spacing`) for improved code readability and maintainability.
-    -   **Targeted Row Styling**: Explored how to apply unique visual treatments to specific `<tr>` elements by assigning them a common class, allowing for more complex table layouts without affecting default cell styles.
-    -   **Code Documentation**: Practiced using inline comments within CSS for clear, concise documentation of style rules.
+* **Reflection/Learning Note:** This assignment served as a comprehensive practical exercise in HTML table creation and detailed CSS styling. The process involved semantically structuring tabular data and then precisely controlling its presentation, including individual cell and heading alignments. A key learning was the effective use of descriptive class names and applying styles to multiple, specific rows for visual segmentation, rather than relying on global table rules. The iterative refinement of styling highlighted the power and flexibility of CSS in achieving desired visual outcomes.
+* **Independent Research & Best Practices:**
+    * **Class Naming Conventions**: Confirmed the benefits of descriptive `kebab-case` class names (e.g., `title-align-c`, `header-align-l`, `header-row-spacing`) for improved code readability and maintainability.
+    * **Targeted Row Styling**: Explored how to apply unique visual treatments to specific `<tr>` elements by assigning them a common class, allowing for more complex table layouts without affecting default cell styles.
+    * **Code Documentation**: Practiced using inline comments within CSS for clear, concise documentation of style rules.
 
 ---
 
-    #### Step 189: HTML LISTS
+#### Step 189: HTML LISTS
 
--   **Objective:** Understand the two main types of HTML lists (`<ol>` and `<ul>`) and the common list item tag (`<li>`).
--   **Core Course Concepts:**
-    -   `ol` tag: Defines an ordered list, typically numbered.
-    -   `ul` tag: Defines an unordered list, typically bulleted.
-    -   `li` tag: Defines a list item within both `<ol>` and `<ul>`.
-    -   Lists provide semantic grouping of related content.
--   **Relevant Files:**
-    * [index.html](basic-html-and-css/index.html) <! -- or any HTML file used for lists -->
--   **Reflection/Learning Note:** This step introduced fundamental HTML elements for structuring lists. The distinction between ordered and unordered lists based on the significance of item sequence is clear. The consistent use of `<li>` for list items within both types simplifies their creation. Understanding these tags is crucial for presenting information in a readable and semantically correct way on web pages.
--   **Independent Research & Best Practices:**
-    -   **Nesting Lists**: Lists can be nested within each other (e.g., an `<ul>` inside an `<li>` of an `<ol>`) to create outlines or hierarchical structures.
-    -   **Styling Lists with CSS**: Default bullet/number styles can be changed or removed using CSS properties like `list-style-type`, `list-style-image`, and `list-style-position`.
-    -   **Accessibility**: Use semantic list tags appropriately (e.g., don't use a list just for indentation; use it when items are genuinely related).
+* **Objective:** Understand the two main types of HTML lists (`<ol>` and `<ul>`) and the common list item tag (`<li>`).
+* **Core Course Concepts:**
+    * `ol` tag: Defines an ordered list, typically numbered.
+    * `ul` tag: Defines an unordered list, typically bulleted.
+    * `li` tag: Defines a list item within both `<ol>` and `<ul>`.
+    * Lists provide semantic grouping of related content.
+* **Relevant Files:**
+    * N/A <!-- No specific HTML file saved for this conceptual step -->
+* **Reflection/Learning Note:** This step introduced fundamental HTML elements for structuring lists. The distinction between ordered and unordered lists based on the significance of item sequence is clear. The consistent use of `<li>` for list items within both types simplifies their creation. Understanding these tags is crucial for presenting information in a readable and semantically correct way on web pages.
+* **Independent Research & Best Practices:**
+    * **Nesting Lists**: Lists can be nested within each other (e.g., an `<ul>` inside an `<li>` of an `<ol>`) to create outlines or hierarchical structures.
+    * **Styling Lists with CSS**: Default bullet/number styles can be changed or removed using CSS properties like `list-style-type`, `list-style-image`, and `list-style-position`.
+    * **Accessibility**: Use semantic list tags appropriately (e.g., don't use a list just for indentation; use it when items are genuinely related).
 
 ---
 
-    #### Step 190: LIST ASSIGNMENT - Creating HTML Lists
+#### Step 190: LIST ASSIGNMENT - Creating HTML Lists
 
--   **Objective:** Practice creating and displaying both ordered (`<ol>`) and unordered (`<ul>`) HTML lists.
--   **Core Course Concepts:**
-    -   Practical implementation of `<ul>` for unordered lists (bulleted).
-    -   Practical implementation of `<ol>` for ordered lists (numbered).
-    -   Consistent use of `<li>` for list items within both types.
-    -   Understanding the semantic choice between ordered and unordered lists based on content (e.g., sequence importance).
--   **Relevant Files:**
+* **Objective:** Practice creating and displaying both ordered (`<ol>`) and unordered (`<ul>`) HTML lists.
+* **Core Course Concepts:**
+    * Practical implementation of `<ul>` for unordered lists (bulleted).
+    * Practical implementation of `<ol>` for ordered lists (numbered).
+    * Consistent use of `<li>` for list items within both types.
+    * Understanding the semantic choice between ordered and unordered lists based on content (e.g., sequence importance).
+* **Relevant Files:**
     * [html-lists.html](basic-html-and-css/html-lists.html)
--   **Reflection/Learning Note:** This assignment provided direct experience in constructing HTML lists. The process involved choosing the appropriate list type (`<ol>` or `<ul>`) based on the nature of the data (sequential vs. non-sequential) and populating them with `<li>` elements. It confirmed the default browser rendering for each list type and highlighted their utility in organizing textual information clearly on a webpage.
--   **Independent Research & Best Practices:**
-    -   **List Indentation**: Observed default browser indentation for list items, which can be further controlled with CSS.
-    -   **Semantic Accuracy**: Reaffirmed the importance of choosing `<ol>` for truly ordered sequences and `<ul>` for groups where order doesn't matter, enhancing accessibility and meaning.
+* **Reflection/Learning Note:** This assignment provided direct experience in constructing HTML lists. The process involved choosing the appropriate list type (`<ol>` or `<ul>`) based on the nature of the data (sequential vs. non-sequential) and populating them with `<li>` elements. It confirmed the default browser rendering for each list type and highlighted their utility in organizing textual information clearly on a webpage.
+* **Independent Research & Best Practices:**
+    * **List Indentation**: Observed default browser indentation for list items, which can be further controlled with CSS.
+    * **Semantic Accuracy**: Reaffirmed the importance of choosing `<ol>` for truly ordered sequences and `<ul>` for groups where order doesn't matter, enhancing accessibility and meaning.
 
 ---
 
 #### Step 191: STYLING TABLES WITH CSS
 
--   **Objective:** Enhance the visual aesthetic of an HTML table using various CSS properties and selectors.
--   **Core Course Concepts:**
-    -   **`border` property**: Applied to `th, td` for cell borders (e.g., `1px solid silver`).
-    -   **`:hover` pseudo-class**: Used with `tr` to create interactive effects (e.g., `background-color: yellow; color: black;` on hover).
-    -   **`background-color` and `color` properties**: For styling row backgrounds and text.
-    -   **`tr:first-child` selector**: Targets and styles the initial row of the table.
-    -   **`tr:nth-child(n+2)` selector**: Selects and styles rows starting from the second one (e.g., for alternating row styles or general styling of data rows).
-    -   **`border-collapse: collapse;`**: Applied to `table` to merge cell borders into single lines, improving visual consistency.
--   **Relevant Files:**
+* **Objective:** Enhance the visual aesthetic of an HTML table using various CSS properties and selectors.
+* **Core Course Concepts:**
+    * **`border` property**: Applied to `th, td` for cell borders (e.g., `1px solid silver`).
+    * **`:hover` pseudo-class**: Used with `tr` to create interactive effects (e.g., `background-color: yellow; color: black;` on hover).
+    * **`background-color` and `color` properties**: For styling row backgrounds and text.
+    * **`tr:first-child` selector**: Targets and styles the initial row of the table.
+    * **`tr:nth-child(n+2)` selector**: Selects and styles rows starting from the second one (e.g., for alternating row styles or general styling of data rows).
+    * **`border-collapse: collapse;`**: Applied to `table` to merge cell borders into single lines, improving visual consistency.
+* **Relevant Files:**
     * [html-table.html](basic-html-and-css/html-table.html)
     * [css-table.css](basic-html-and-css/css-table.css)
--   **Reflection/Learning Note:** This step provided practical experience in advanced table styling with CSS. It covered essential properties like `border`, `background-color`, and `color`, along with powerful selectors like `:hover`, `tr:first-child`, and `tr:nth-child()`. A critical troubleshooting lesson involved understanding CSS specificity and rule order, particularly how placing `:hover` rules later in the stylesheet ensures they override default row styling. The use of `border-collapse` was also key to achieving a clean table grid appearance.
--   **Independent Research & Best Practices:**
-    -   **CSS Specificity Hierarchy**: Reinforced that when selectors have equal specificity, the order in the stylesheet determines which rule wins. More specific selectors (like IDs or classes) generally override less specific ones (like element types).
-    -   **Pseudo-classes (`:hover`)**: Learned how to add dynamic, interactive elements to tables, enhancing user experience.
-    -   **Structural Pseudo-classes (`:first-child`, `:nth-child`)**: Explored powerful ways to style table rows based on their position without adding extra classes to HTML. This is excellent for maintainability.
+* **Reflection/Learning Note:** This step provided practical experience in advanced table styling with CSS. It covered essential properties like `border`, `background-color`, and `color`, along with powerful selectors like `:hover`, `tr:first-child`, and `tr:nth-child()`. A critical troubleshooting lesson involved understanding CSS specificity and rule order, particularly how placing `:hover` rules later in the stylesheet ensures they override default row styling. The use of `border-collapse` was also key to achieving a clean table grid appearance.
+* **Independent Research & Best Practices:**
+    * **CSS Specificity Hierarchy**: Reinforced that when selectors have equal specificity, the order in the stylesheet determines which rule wins. More specific selectors (like IDs or classes) generally override less specific ones (like element types).
+    * **Pseudo-classes (`:hover`)**: Learned how to add dynamic, interactive elements to tables, enhancing user experience.
+    * **Structural Pseudo-classes (`:first-child`, `:nth-child`)**: Explored powerful ways to style table rows based on their position without adding extra classes to HTML. This is excellent for maintainability.
 
 ---

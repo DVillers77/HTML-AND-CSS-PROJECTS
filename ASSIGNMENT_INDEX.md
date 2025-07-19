@@ -797,8 +797,7 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 #### Step 180: CLASS ATTRIBUTE - Assigning Style to Elements
 * **Objective:** Understand how to use the `class` attribute in HTML in conjunction with CSS to apply specific styles to multiple elements.
 * **Relevant Files:**
-    * [index.html](index.html) (or your main HTML file)
-    * [styles.css](styles.css) (or your main CSS file)
+    * [index.html](basic-html-and-css/index.html)
 * **Reflection/Learning Note:** Explored the `class` attribute as a powerful method for grouping HTML elements and applying reusable CSS styles. This allows for consistent design rules across multiple elements without redundant code, offering greater flexibility and maintainability compared to direct element styling or `id` attributes.
 
 ---
@@ -806,8 +805,8 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 #### Step 181: CLASS IN EXTERNAL FILE - Modular Styling
 * **Objective:** Learn to define and apply CSS styles, including global `body` styles and custom classes, from an external `.css` file.
 * **Relevant Files:**
-    * [index.html](index.html) (or your main HTML file)
-    * [Class_A.css](Class_A.css) (or your new external CSS file)
+    * [index.html](basic-html-and-css/index.html)
+    * [basic-css-1.css](basic-html-and-css/basic-css-1.css)
 * **Reflection/Learning Note:** This step highlighted the importance of separating CSS from HTML by using an external stylesheet. It demonstrated how global styles (e.g., for `body` elements) and class-specific styles can be managed in a `.css` file and linked to an HTML document via the `<link>` tag in the `<head>` section. This approach significantly improves code organization, reusability, and maintainability.
 
 ---
@@ -815,8 +814,8 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 #### Step 182: CSS ASSIGNMENT - Class Attribute Application
 * **Objective:** Create and apply an external CSS class to a paragraph element within a new HTML document, demonstrating practical styling.
 * **Relevant Files:**
-    * [basic-css-2.css](basic-css-2.css)
-    * [basic-html-5.html](basic-html-5.html)
+    * [basic-css-2.css](basic-html-and-css/basic-css-2.css)
+    * [basic-html-5.html](basic-html-and-css/basic-html-5.html)
 * **Reflection/Learning Note:** Successfully implemented an external CSS file (`basic-css-2.css`) defining a custom class. Applied this class to a `<p>` element in a new HTML file (`basic-html-5.html`), verifying that the styles (color, background-color, font-weight, text-align) were correctly applied in the browser. This hands-on exercise reinforced the concepts of CSS file linking and class-based styling.
 
 ---
@@ -824,7 +823,7 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 #### Step 183: COMMENTING CODE - HTML Comments
 * **Objective:** Understand the purpose and syntax of HTML comments for code documentation and readability.
 * **Relevant Files:**
-    * [index.html](index.html) <!-- or any HTML file -->
+    * [index.html](basic-html-and-css/index.html)
 * **Reflection/Learning Note:** Learned that HTML comments (``) are crucial for explaining code sections, enhancing readability for other developers, and serving as future reminders. Confirmed that these comments are visible in the page source but not rendered in the browser, aligning with best practices for code documentation.
 
 ---
@@ -832,7 +831,7 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 #### Step 184: CSS COMMENTS
 * **Objective:** Learn the syntax and purpose of comments within CSS code.
 * **Relevant Files:**
-    * [styles.css](styles.css) <!-- or any CSS file -->
+    * N/A
 * **Reflection/Learning Note:** Understood that CSS comments (`/* ... */`) are used to document stylesheets, making them more readable and maintainable for developers. Confirmed their syntax and role in clarifying code without affecting browser rendering.
 
 ---
@@ -861,7 +860,7 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 #### Step 187: HTML TABLES
 * **Objective:** Understand the fundamental HTML tags used to create structured tables for displaying data.
 * **Relevant Files:**
-    * [index.html](index.html) <! -- or any HTML file used for tables -->
+    * [index.html](basic-html-and-css/index.html) <! -- or any HTML file used for tables -->
 * **Reflection/Learning Note:** Learned the core tags for constructing HTML tables: `<table>` for the overall table, `<tr>` for defining rows, `<th>` for table headers (bold and centered by default), and `<td>` for regular table data cells. This structure is essential for organizing tabular information on web pages.
 
 ---
@@ -869,8 +868,8 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 #### Step 188: TABLE ASSIGNMENT - Custom Table Creation
 * **Objective:** Create a custom HTML table and apply granular CSS styling for content alignment and row separation.
 * **Relevant Files:**
-    * [html-table.html](html-table.html)
-    * [basic-css-2.css](basic-css-2.css)
+    * [html-table.html](basic-html-and-css/html-table.html)
+    * [basic-css-2.css](basic-html-and-css/basic-css-2.css)
 * **Reflection/Learning Note:** Successfully constructed an HTML table to display structured data, including row and column headers. Applied `text-align: center;` to `<td>` elements for centralized data. Implemented specific styling for left-aligned row headers using `.header-align-l` and centered the main `<h1>` title using `.title-align-c`. Further refined visual presentation by applying `border-bottom` and `padding-bottom` via the `.header-row-spacing` class to the first **two** table rows (`<tr>`), creating distinct visual separation below those rows.
 
 ---
@@ -878,7 +877,7 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 #### Step 189: HTML LISTS
 * **Objective:** Understand the two main types of HTML lists (`<ol>` and `<ul>`) and the common list item tag (`<li>`).
 * **Relevant Files:**
-    * [index.html](index.html) <! -- or any HTML file used for lists -->
+    * [index.html](basic-html-and-css/index.html) <! -- or any HTML file used for lists -->
 * **Reflection/Learning Note:** Learned about ordered lists (`<ol>`) for sequential items (numbered by default) and unordered lists (`<ul>`) for non-sequential items (bullet points by default). Both types use the `<li>` tag to define individual list items. This provides semantic structure for grouped content.
 
 ---
@@ -886,7 +885,7 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 #### Step 190: LIST ASSIGNMENT - Creating HTML Lists
 * **Objective:** Practice creating and displaying both ordered (`<ol>`) and unordered (`<ul>`) HTML lists.
 * **Relevant Files:**
-    * [html-lists.html](html-lists.html)
+    * [html-lists.html](basic-html-and-css/html-lists.html)
 * **Reflection/Learning Note:** Successfully created an `html-lists.html` file containing an ordered list (`<ol>`) for book release order and an unordered list (`<ul>`) for publication years, using `<li>` for individual items. This reinforced the practical application and visual distinction between different list types in HTML.
 
 ---
@@ -894,8 +893,8 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 #### Step 191: STYLING TABLES WITH CSS
 * **Objective:** Enhance the visual aesthetic of an HTML table using various CSS properties and selectors.
 * **Relevant Files:**
-    * [html-table.html](html-table.html)
-    * [css-table.css](css-table.css)
+    * [html-table.html](basic-html-and-css/html-table.html)
+    * [css-table.css](basic-html-and-css/css-table.css)
 * **Reflection/Learning Note:** Applied CSS to transform a basic table, including adding `border` to cells, implementing a `:hover` effect for rows, and setting distinct `background-color` and `color` for the first row (`tr:first-child`) and subsequent rows (`tr:nth-child(n+2)`). A key learning point was understanding CSS specificity, particularly the importance of rule order for `:hover` effects to override other `tr` styles. Ensured `border-collapse: collapse;` was applied to the table for clean borders.
 
 ---

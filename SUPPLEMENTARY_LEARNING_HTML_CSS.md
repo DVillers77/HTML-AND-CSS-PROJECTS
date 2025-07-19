@@ -861,8 +861,7 @@ These entries summarize key discussions and independent research insights from s
     - CSS class selectors (using `.`) for applying styles.
     - Separation of concerns: HTML for structure, CSS for presentation.
 - **Relevant Files:**
-    - [index.html](index.html) (or your main HTML file)
-    - [styles.css](styles.css) (or your main CSS file)
+    - [index.html](basic-html-and-css/index.html) (or your main HTML file)
 - **Reflection/Learning Note:** This step introduced the fundamental concept of using the `class` attribute to apply CSS styles. The `class` attribute is highly versatile, enabling developers to define a set of styles once in a CSS file and then apply them to any number of HTML elements simply by referencing the class name. This contrasts with `id` attributes, which target a single unique element.
 - **Independent Research & Best Practices:**
     - **Reusability**: `class` attributes are central to CSS reusability. A single class definition in CSS can be used across multiple elements, reducing code duplication and simplifying style management.
@@ -878,11 +877,10 @@ These entries summarize key discussions and independent research insights from s
 - **Core Course Concepts:**
     - Creating and linking an external CSS file (`.css` extension).
     - Global element selectors (e.g., `body {}`) for document-wide styles.
-    - Class selectors (e.g., `.Class_A {}`) defined in external files.
     - The role of the `<link>` tag in the HTML `<head>` for connecting CSS.
 - **Relevant Files:**
-    - [index.html](index.html) (or your main HTML file)
-    - [Class_A.css](Class_A.css) (or your new external CSS file)
+    - [index.html](basic-html-and-css/index.html) (or your main HTML file)
+    - [basic-css-1.css](basic-html-and-css/basic-css-1.css)
 - **Reflection/Learning Note:** This step is critical for moving beyond inline or internal styling. By externalizing CSS, we achieve a cleaner separation of concerns, making HTML purely structural and CSS purely presentational. This modularity is essential for larger projects, as it allows styles to be easily reused across multiple HTML pages and facilitates easier maintenance and updates. The global `body` style demonstrates how an entire document's default appearance can be set, while class-specific styles provide granular control over individual or grouped elements.
 - **Independent Research & Best Practices:**
     - **Performance**: Placing the `<link>` tag in the `<head>` ensures that styles are loaded and parsed before the `<body>` content renders, preventing "flash of unstyled content" (FOUC) and improving user experience.
@@ -903,8 +901,8 @@ These entries summarize key discussions and independent research insights from s
     - Applying the defined CSS class to an HTML element using the `class` attribute (`<p class="your-class-name">`).
     - Verifying styling application in a web browser.
 - **Relevant Files:**
-    * [basic-css-2.css](basic-css-2.css)
-    * [basic-html-5.html](basic-html-5.html)
+    * [basic-css-2.css](basic-html-and-css/basic-css-2.css)
+    * [basic-html-5.html](basic-html-and-css/basic-html-5.html)
 - **Reflection/Learning Note:** This assignment was a practical consolidation of recent lessons. The key takeaways were the proper workflow for linking external stylesheets (always in the `<head>`) and the power of class attributes for reusable and modular styling. It also highlighted the importance of attention to detail in file paths and HTML structure for successful rendering.
 - **Independent Research & Best Practices:**
     - **`kebab-case` for File Names**: Confirmed consistent use of `kebab-case` for file names like `basic-html-5.html` and `basic-css-2.css`, which is a standard practice for web development.
@@ -920,7 +918,7 @@ These entries summarize key discussions and independent research insights from s
     - HTML comment syntax: `` to close.
     - Comments are visible in page source <!-- e.g., browser developer tools --> but not rendered on the webpage.
 - **Relevant Files:**
-    * [index.html](index.html) <!-- or any HTML file -->
+    * [index.html](basic-html-and-css/index.html) <!-- or any HTML file -->
 - **Reflection/Learning Note:** This step highlighted the critical role of comments in professional web development. While not directly affecting the visual output, well-placed comments significantly improve code understanding, especially in larger projects or when collaborating. The practice of commenting ensures that the intent and functionality of specific HTML sections are clear.
 - **Independent Research & Best Practices:**
     - **Purpose**: Use comments to explain complex or non-obvious parts of the code, to temporarily disable code, or to mark sections for future work.
@@ -938,7 +936,7 @@ These entries summarize key discussions and independent research insights from s
     - Comments can span single or multiple lines.
     - Comments are ignored by browsers during rendering.
 - **Relevant Files:**
-    * [styles.css](styles.css) <!-- or any CSS file -->
+    * N/A
 - **Reflection/Learning Note:** This step reinforced the concept of code documentation, specifically for CSS. The simple `/* comment */` syntax provides a flexible way to add notes directly within stylesheets. This is vital for explaining complex styling rules, temporary changes, or leaving markers for future development, ensuring that the stylesheet remains comprehensible over time.
 - **Independent Research & Best Practices:**
     - **Debugging Tool**: Can be used to temporarily `comment out` sections of CSS to debug styling issues without deleting code.
@@ -975,7 +973,7 @@ These entries summarize key discussions and independent research insights from s
     - `<td>` (table data) tag: Defines a standard data cell.
     - Tables are used for presenting tabular data, not for page layout.
 - **Relevant Files:**
-    * [index.html](index.html) <! -- or any HTML file used for tables -->
+    * [html-table.html](basic-html-and-css/html-table.html)
 - **Reflection/Learning Note:** This step provided the foundational knowledge for creating structured data displays using HTML tables. The clear hierarchical relationship between `<table>`, `<tr>`, `<th>`, and `<td>` tags is intuitive for organizing information into rows and columns. It's important to remember that tables are semantic elements meant for data, not for general page layout, which is better handled with CSS.
 - **Independent Research & Best Practices:**
     - **Accessibility**: For complex tables, consider `<caption>`, `<thead>`, `<tbody>`, `<tfoot>`, `scope` attributes for `<th>`, and `summary` attributes for `<table>` to enhance accessibility for screen readers.
@@ -994,8 +992,8 @@ These entries summarize key discussions and independent research insights from s
     -   Applying visual separators (`border-bottom` and `padding-bottom`) to multiple specific table rows (`<tr>`) using a shared class (`.header-row-spacing`).
     -   Reinforced the role of `<meta name="viewport">` for foundational responsive design.
 -   **Relevant Files:**
-    * [html-table.html](html-table.html)
-    * [basic-css-2.css](basic-css-2.css)
+    * [html-table.html](basic-html-and-css/html-table.html)
+    * [basic-css-2.css](basic-html-and-css/basic-css-2.css)
 -   **Reflection/Learning Note:** This assignment served as a comprehensive practical exercise in HTML table creation and detailed CSS styling. The process involved semantically structuring tabular data and then precisely controlling its presentation, including individual cell and heading alignments. A key learning was the effective use of descriptive class names and applying styles to multiple, specific rows for visual segmentation, rather than relying on global table rules. The iterative refinement of styling highlighted the power and flexibility of CSS in achieving desired visual outcomes.
 -   **Independent Research & Best Practices:**
     -   **Class Naming Conventions**: Confirmed the benefits of descriptive `kebab-case` class names (e.g., `title-align-c`, `header-align-l`, `header-row-spacing`) for improved code readability and maintainability.
@@ -1013,7 +1011,7 @@ These entries summarize key discussions and independent research insights from s
     -   `li` tag: Defines a list item within both `<ol>` and `<ul>`.
     -   Lists provide semantic grouping of related content.
 -   **Relevant Files:**
-    * [index.html](index.html) <! -- or any HTML file used for lists -->
+    * [index.html](basic-html-and-css/index.html) <! -- or any HTML file used for lists -->
 -   **Reflection/Learning Note:** This step introduced fundamental HTML elements for structuring lists. The distinction between ordered and unordered lists based on the significance of item sequence is clear. The consistent use of `<li>` for list items within both types simplifies their creation. Understanding these tags is crucial for presenting information in a readable and semantically correct way on web pages.
 -   **Independent Research & Best Practices:**
     -   **Nesting Lists**: Lists can be nested within each other (e.g., an `<ul>` inside an `<li>` of an `<ol>`) to create outlines or hierarchical structures.
@@ -1031,7 +1029,7 @@ These entries summarize key discussions and independent research insights from s
     -   Consistent use of `<li>` for list items within both types.
     -   Understanding the semantic choice between ordered and unordered lists based on content (e.g., sequence importance).
 -   **Relevant Files:**
-    * [html-lists.html](html-lists.html)
+    * [html-lists.html](basic-html-and-css/html-lists.html)
 -   **Reflection/Learning Note:** This assignment provided direct experience in constructing HTML lists. The process involved choosing the appropriate list type (`<ol>` or `<ul>`) based on the nature of the data (sequential vs. non-sequential) and populating them with `<li>` elements. It confirmed the default browser rendering for each list type and highlighted their utility in organizing textual information clearly on a webpage.
 -   **Independent Research & Best Practices:**
     -   **List Indentation**: Observed default browser indentation for list items, which can be further controlled with CSS.
@@ -1050,8 +1048,8 @@ These entries summarize key discussions and independent research insights from s
     -   **`tr:nth-child(n+2)` selector**: Selects and styles rows starting from the second one (e.g., for alternating row styles or general styling of data rows).
     -   **`border-collapse: collapse;`**: Applied to `table` to merge cell borders into single lines, improving visual consistency.
 -   **Relevant Files:**
-    * [html-table.html](html-table.html)
-    * [css-table.css](css-table.css)
+    * [html-table.html](basic-html-and-css/html-table.html)
+    * [css-table.css](basic-html-and-css/css-table.css)
 -   **Reflection/Learning Note:** This step provided practical experience in advanced table styling with CSS. It covered essential properties like `border`, `background-color`, and `color`, along with powerful selectors like `:hover`, `tr:first-child`, and `tr:nth-child()`. A critical troubleshooting lesson involved understanding CSS specificity and rule order, particularly how placing `:hover` rules later in the stylesheet ensures they override default row styling. The use of `border-collapse` was also key to achieving a clean table grid appearance.
 -   **Independent Research & Best Practices:**
     -   **CSS Specificity Hierarchy**: Reinforced that when selectors have equal specificity, the order in the stylesheet determines which rule wins. More specific selectors (like IDs or classes) generally override less specific ones (like element types).

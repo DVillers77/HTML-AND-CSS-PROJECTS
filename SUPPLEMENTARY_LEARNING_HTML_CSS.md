@@ -1137,3 +1137,28 @@ These entries summarize key discussions and independent research insights from s
 * This assignment was an easy practical step, solidifying the knowledge gained from the preceding informational lesson on CSS lists. The clear instructions made implementation quick and verified understanding.
 
 ---
+
+#### HTML AND CSS CHALLENGE - using entities and text-shadow
+
+### Course Step Number: 196
+### Date Researched: 2025-07-19
+
+##### Key Concepts / Summary
+* **HTML Entities:** Used to represent characters reserved in HTML (like `<`, `>`) or characters not easily typed. Demonstrated `&lt;` and `&gt;`.
+    * **Entity Names:** More readable (e.g., `&copy;`).
+    * **Entity Numbers:** More robust (e.g., `&#169;`).
+* **CSS `text-shadow`:** Property to add shadow effects to text. Applied to `ul` elements in `basic-html-5.html` via `basic-css-2.css` using `text-shadow: 2px 2px 4px #888888;`.
+    * Syntax: `h-shadow v-shadow blur-radius color`.
+    * `h-shadow`: horizontal offset.
+    * `v-shadow`: vertical offset.
+    * `blur-radius`: optional, blur distance.
+    * `color`: optional, shadow color.
+
+##### Independent Research / Notable Discoveries
+* Explored common HTML entities beyond the assignment, such as `&nbsp;` (non-breaking space) for adding extra space, `&amp;` for ampersands, and various symbol entities.
+* Considered applying multiple `text-shadow` effects by comma-separating values for more complex text styling.
+
+##### Personal Reflections
+* This challenge provided practical experience with two distinct but useful web development features. Using HTML entities for special characters ensures proper rendering across browsers, and `text-shadow` offers a simple yet effective way to enhance text visibility and aesthetics.
+
+---

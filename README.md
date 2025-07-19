@@ -180,3 +180,6 @@ This assignment involved creating and linking `css-table.css` to `html-table.htm
 
 #### 33. CSS LIST ASSIGNMENT - styling ordered and unordered lists (Step 195)
 Successfully completed the "CSS LIST ASSIGNMENT," demonstrating the application of external CSS to change the appearance of both ordered (to Roman numerals) and unordered (to squares) HTML list markers, reinforcing the use of the `list-style-type` property.
+
+#### 34. HTML AND CSS CHALLENGE - using entities and text-shadow (Step 196)
+Successfully completed the "HTML AND CSS CHALLENGE," which involved defining and using HTML entities to add special characters and applying the `text-shadow` property in CSS to create visual effects on text elements, reinforcing foundational HTML and CSS integration.

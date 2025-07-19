@@ -1000,4 +1000,32 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 196: HTML AND CSS CHALLENGE
+
+### Course Step Number: 196
+### Date Completed: 2025-07-19
+
+### Objective:
+* To define and utilize HTML entities (both names and numbers) to add characters to an HTML file.
+* To define and apply the CSS `text-shadow` property to an element in an HTML file.
+* To ensure correct linking between HTML and CSS files and verify display in the browser.
+
+### Core Course Concepts:
+* HTML entities: `&entity_name;` and `&#entity_number;` for displaying special characters.
+* CSS `text-shadow` property: `h-shadow v-shadow blur-radius color;` syntax.
+* Practical application of external CSS linking.
+
+### Relevant Files:
+* `Basic_HTML_and_CSS/basic-html-5.html`
+* `Basic_HTML_and_CSS/basic-css-2.css`
+
+### Reflection/Learning Note:
+* This challenge was a good exercise in combining HTML structural elements (entities) with CSS styling (`text-shadow`), reinforcing how the two languages work together.
+
+### Independent Research & Best Practices:
+* Confirmed correct syntax and common units (`px`) for `text-shadow`.
+* Reaffirmed the importance of correctly linking HTML and CSS files for styles to apply.
+
+---
+
 

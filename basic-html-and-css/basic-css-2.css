@@ -5,3 +5,6 @@
     font-weight: bold;
     text-align: center;
 }
+ul {
+    text-shadow: 2px 2px 4px #888888;
+}

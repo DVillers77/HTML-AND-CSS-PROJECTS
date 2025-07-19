@@ -899,4 +899,27 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 192: HELPFUL LINK - Google Fonts
+
+### Course Step Number: 192
+### Date Completed: 2025-07-19
+
+### Objective:
+* To discover Google Fonts as a valuable external resource for free web fonts and understand its utility in CSS styling.
+
+### Core Course Concepts:
+* Introduction to external font libraries.
+* Basic understanding of typography's role in web design.
+
+### Relevant Files:
+* N/A <! -- No specific HTML/CSS file created; this step introduces a resource -->
+
+### Reflection/Learning Note:
+* This step highlighted Google Fonts as a practical external resource for expanding font options. The primary takeaway was the efficient integration of external fonts for web styling.
+
+### Independent Research & Best Practices:
+* Gained awareness of performance considerations and general best practices related to integrating external fonts, which were clarified through discussion.
+
+---
+
 

@@ -922,4 +922,32 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 193: CSS TABLE ASSIGNMENT
+
+### Course Step Number: 193
+### Date Completed: 2025-07-19
+
+### Objective:
+* To create a `css-table.css` file and link it to `html-table.html` to apply specified styling to a table.
+* To apply custom background color, font color, hover effects, and borders to the table elements.
+
+### Core Course Concepts:
+* Application of CSS properties: `background-color`, `color`, `border`.
+* Use of `border-collapse` for table styling.
+* Implementation of the `:hover` pseudo-class for interactive effects.
+* Linking external CSS files to HTML using the `<link>` tag.
+
+### Relevant Files:
+* `Basic_HTML_and_CSS/css-table.css`
+* `Basic_HTML_and_CSS/html-table.html`
+
+### Reflection/Learning Note:
+* This assignment reinforced practical application of core CSS styling properties for tables, including background, text, borders, and hover effects. It also solidified understanding of external stylesheet linking.
+
+### Independent Research & Best Practices:
+* Reconfirmed the importance of `border-collapse: collapse;` for proper table border rendering.
+* Noted that the order of CSS rules can impact `hover` selector functionality, with more specific or later-defined rules taking precedence, leading to a fix by adjusting code order.
+
+---
+
 

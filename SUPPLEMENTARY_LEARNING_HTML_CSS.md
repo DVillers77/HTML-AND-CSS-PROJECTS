@@ -1080,3 +1080,22 @@ These entries summarize key discussions and independent research insights from s
 * The information on different integration methods and the importance of performance and accessibility considerations when choosing fonts were particularly valuable.
 
 ---
+
+#### CSS TABLE ASSIGNMENT - styling tables
+
+### Course Step Number: 193
+### Date Researched: 2025-07-19
+
+##### Key Concepts / Summary
+* **CSS File Creation & Linking:** Created `css-table.css` and linked it to `html-table.html` using `<link rel="stylesheet" type="text/css" href="css-table.css">` within the HTML `<head>`.
+* **Table Styling Properties:** Applied `background-color`, `color`, `border`, and `:hover` to table elements.
+* **Border Collapse:** Utilized `border-collapse: collapse;` on the `table` element to achieve single, clean borders.
+
+##### Independent Research / Notable Discoveries
+* **CSS File Naming:** Ensured adherence to `kebab-case` best practices by using `css-table.css` for the stylesheet filename.
+* **Specificity & Rule Order for `tr:hover`:** Discovered that the order of CSS rules matters for `:hover` effects. If a more specific or later-defined rule (e.g., `tr:nth-child(n + 2)`) overrides a general `tr:hover` rule defined earlier, the `hover` effect might not apply as expected. Moving the `tr:hover` rule to a later position in the stylesheet (or ensuring higher specificity) can resolve this, allowing it to override previous background/color settings on hover. This was the fix implemented for a small issue encountered.
+
+##### Personal Reflections
+* This assignment provided excellent hands-on practice with fundamental CSS table styling. The experience of troubleshooting the `hover` effect reinforced the practical importance of CSS rule order and specificity, turning a minor issue into a valuable learning point.
+
+---

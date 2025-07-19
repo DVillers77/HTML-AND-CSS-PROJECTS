@@ -1,0 +1,8 @@
+/* ordered list styling */
+ol {
+    list-style: upper-roman;
+}
+/* unordered list styling */
+ul {
+    list-style-type: square;
+}

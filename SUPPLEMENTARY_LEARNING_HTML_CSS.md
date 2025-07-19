@@ -1120,3 +1120,20 @@ These entries summarize key discussions and independent research insights from s
 * This informational step clarified the specific CSS properties used for list styling, providing immediate practical examples. It reinforced the idea that nearly any HTML element's appearance can be precisely controlled with CSS.
 
 ---
+
+#### CSS LIST ASSIGNMENT - styling ordered and unordered lists
+
+### Course Step Number: 195
+### Date Researched: 2025-07-19
+
+##### Key Concepts / Summary
+* **Applying `list-style-type`:** Successfully used `list-style: upper-roman;` for ordered lists (`<ol>`) and `list-style-type: square;` for unordered lists (`<ul>`).
+* **External Stylesheet:** Created `css-lists.css` and linked it to `html-lists.html` via `<link>` tag in the HTML `<head>`.
+
+##### Independent Research / Notable Discoveries
+* The assignment provided a direct application of the `list-style-type` property, confirming its immediate visual impact on list markers.
+
+##### Personal Reflections
+* This assignment was an easy practical step, solidifying the knowledge gained from the preceding informational lesson on CSS lists. The clear instructions made implementation quick and verified understanding.
+
+---

@@ -177,3 +177,6 @@ This assignment involved creating `html-lists.html` to demonstrate the use of bo
 
 #### 32. CSS TABLE ASSIGNMENT - styling tables (Step 193)
 This assignment involved creating and linking `css-table.css` to `html-table.html` to apply custom styling, including background/font colors, borders, and hover effects, to a table. This task reinforced practical application of core CSS properties for tabular data.
+
+#### 33. CSS LIST ASSIGNMENT - styling ordered and unordered lists (Step 195)
+Successfully completed the "CSS LIST ASSIGNMENT," demonstrating the application of external CSS to change the appearance of both ordered (to Roman numerals) and unordered (to squares) HTML list markers, reinforcing the use of the `list-style-type` property.

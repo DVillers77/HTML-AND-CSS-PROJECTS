@@ -975,4 +975,29 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 195: CSS LIST ASSIGNMENT
+
+### Course Step Number: 195
+### Date Completed: 2025-07-19
+
+### Objective:
+* To apply CSS styling to ordered and unordered HTML lists using the `list-style-type` property.
+* To create and link an external CSS file for list styling.
+
+### Core Course Concepts:
+* Practical application of `list-style-type` for `<ol>` (e.g., `upper-roman`) and `<ul>` (e.g., `square`).
+* Linking external stylesheets (`.css`) to HTML documents.
+
+### Relevant Files:
+* `Basic_HTML_and_CSS/css-lists.css`
+* `Basic_HTML_and_CSS/html-lists.html`
+
+### Reflection/Learning Note:
+* This assignment was a straightforward application of the `list-style-type` property learned in the previous step, confirming its direct effect on list markers.
+
+### Independent Research & Best Practices:
+* Ensured `css-lists.css` followed `kebab-case` naming convention.
+
+---
+
 

@@ -33,9 +33,9 @@ This document outlines the precise Markdown heading hierarchy and formatting con
 
 ## 4. Individual Assignment/Challenge Summaries (`####` H4)
 * **Purpose:** To serve as a concise title for each distinct assignment or challenge overview.
-* **Format:** `[README Sequential Number]. [Lesson Title] (Step [Actual Course Step Number])`
-* **Example:** `#### 1. NOTEPAD++ ASSIGNMENT - Basic HTML Setup (Step 1)`
-* **Example (for a later entry):** `#### 30. TABLE ASSIGNMENT (Step 188)`
+* **Format:** `[README Sequential Number]. [LESSON TITLE IN ALL CAPS] - [short descriptive phrase in lowercase] (Step [Actual Course Step Number])`
+* **Example:** `#### 1. NOTEPAD++ ASSIGNMENT - basic html setup (Step 1)`
+* **Example (for a later entry):** `#### 30. TABLE ASSIGNMENT - creating html tables (Step 188)`
 
 ---
 

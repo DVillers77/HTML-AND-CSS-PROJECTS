@@ -174,3 +174,6 @@ This assignment involved creating `html-table.html` to build a custom HTML table
 
 #### 31. LIST ASSIGNMENT
 This assignment involved creating `html-lists.html` to demonstrate the use of both ordered (`<ol>`) and unordered (`<ul>`) HTML lists for structuring content.
+
+#### 32. CSS TABLE ASSIGNMENT - styling tables (Step 193)
+This assignment involved creating and linking `css-table.css` to `html-table.html` to apply custom styling, including background/font colors, borders, and hover effects, to a table. This task reinforced practical application of core CSS properties for tabular data.

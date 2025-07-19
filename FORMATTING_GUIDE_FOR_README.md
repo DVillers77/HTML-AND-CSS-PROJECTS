@@ -31,8 +31,16 @@ This document outlines the precise Markdown heading hierarchy and formatting con
 
 ---
 
-## 4. Horizontal Rule (`---`)
+## 4. Individual Assignment/Challenge Summaries (`####` H4)
+* **Purpose:** To serve as a concise title for each distinct assignment or challenge overview.
+* **Format:** `[README Sequential Number]. [Lesson Title] (Step [Actual Course Step Number])`
+* **Example:** `#### 1. NOTEPAD++ ASSIGNMENT - Basic HTML Setup (Step 1)`
+* **Example (for a later entry):** `#### 30. TABLE ASSIGNMENT (Step 188)`
+
+---
+
+## 5. Horizontal Rule (`---`)
 * **Purpose:** Optional, can be used to visually separate very distinct major sections for strong visual breaks.
-* **Placement:** Typically after a `##` heading, but used sparingly for major divisions.
+* **Placement:** Typically after a `##` heading, but used sparingly for major divisions. Do NOT use after every `####` entry.
 
 ---

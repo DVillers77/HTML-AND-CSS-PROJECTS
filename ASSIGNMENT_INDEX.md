@@ -1153,4 +1153,29 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 202: NON-BREAKING SPACE
+
+### Course Step Number: 202
+### Date Completed: 2025-07-19
+
+### Objective:
+* To define and learn the purpose and usage of the HTML non-breaking space entity (`&nbsp;`).
+* To understand how `&nbsp;` prevents line breaks and preserves multiple spaces, overriding default browser behavior.
+
+### Core Course Concepts:
+* HTML character entities: `&nbsp;` for specific spacing control.
+* Browser whitespace handling: Default collapsing of multiple spaces.
+
+### Relevant Files:
+* N/A <! -- This was an informational step; no specific new files or modifications were required. -->
+
+### Reflection/Learning Note:
+* This step introduced `&nbsp;` as a valuable tool for fine-tuning text layout, particularly useful for keeping related words together or forcing extra visual space where needed.
+
+### Independent Research & Best Practices:
+* Distinguished `&nbsp;` use cases (content-driven spacing, preventing breaks) from CSS-based spacing (layout, margins, padding).
+* Noted potential accessibility considerations when using multiple `&nbsp;` entities for layout purposes.
+
+---
+
 

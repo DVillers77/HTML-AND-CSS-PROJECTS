@@ -1268,3 +1268,27 @@ These entries summarize key discussions and independent research insights from s
 * The `<section>` tag provides a powerful way to organize content semantically, moving beyond purely div-based layouts to structures that convey meaning directly within the HTML, enhancing both maintainability and accessibility.
 
 ---
+
+#### NON-BREAKING SPACE - the &nbsp; entity
+
+### Course Step Number: 202
+### Date Researched: 2025-07-19
+
+##### Key Concepts / Summary
+* **`&nbsp;` Entity:** Represents a non-breaking space in HTML.
+* **Prevents Line Breaks:** Forces two words to stick together on the same line, even if it might otherwise break (e.g., `3:11&nbsp;p.m.`).
+* **Preserves Multiple Spaces:** Overrides the browser's default behavior of collapsing multiple spaces into one, allowing extra visible spaces.
+* **Example Usage:**
+    ```html
+    <p>This&nbsp;&nbsp;&nbsp;text&nbsp;has&nbsp;&nbsp;&nbsp;&nbsp;extra&nbsp;spaces.</p>
+    ```
+
+##### Independent Research / Notable Discoveries
+* **Semantic Alternatives:** For general layout or block-level spacing, CSS properties (`margin`, `padding`) are preferred over `&nbsp;` for better semantic structure and maintainability.
+* **Accessibility Impact:** Excessive use of `&nbsp;` can sometimes affect how screen readers interpret content, potentially causing unnatural pauses.
+* **Whitespace Processing:** Deepened understanding of how HTML parsers handle various forms of whitespace.
+
+##### Personal Reflections
+* The `&nbsp;` entity is a precise tool for very specific formatting needs within text content, such as ensuring proper typography or preventing awkward line breaks in phrases where words must remain together. Its usage should be mindful of both visual outcome and semantic implications.
+
+---

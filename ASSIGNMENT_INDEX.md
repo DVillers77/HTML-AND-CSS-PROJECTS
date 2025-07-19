@@ -1129,4 +1129,28 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 201: SECTION
+
+### Course Step Number: 201
+### Date Completed: 2025-07-19
+
+### Objective:
+* To define and understand the HTML5 `<section>` tag for designating thematic sections in a document.
+
+### Core Course Concepts:
+* HTML5 semantic elements: Usage and purpose of `<section>`.
+* Document structure: Organizing content into logical, self-contained sections.
+
+### Relevant Files:
+* N/A <! -- This was an informational step; no specific new files or modifications were required. -->
+
+### Reflection/Learning Note:
+* This step clarified the use of `<section>` as a semantic grouping tag, which is important for structuring content logically rather than just for visual layout.
+
+### Independent Research & Best Practices:
+* Understood that `<section>` should ideally contain a heading (`h1`-`h6`) and represents a distinct, thematic grouping of content.
+* Distinguished `<section>` from `<div>` (generic container for styling) based on semantic meaning.
+
+---
+
 

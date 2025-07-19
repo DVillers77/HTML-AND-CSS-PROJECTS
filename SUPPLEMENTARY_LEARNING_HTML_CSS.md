@@ -1184,3 +1184,21 @@ These entries summarize key discussions and independent research insights from s
 * This assignment provided a satisfying culmination of several recent HTML and CSS lessons, confirming that all learned concepts were successfully integrated and working together within the project. The final push to GitHub felt like a significant milestone.
 
 ---
+
+#### CSS PROPERTIES - a developer's approach to learning CSS
+
+### Course Step Number: 198
+### Date Researched: 2025-07-19
+
+##### Key Concepts / Summary
+* **Learning Philosophy:** It is neither expected nor practical to memorize all CSS syntax. The focus should be on understanding basics and developing self-teaching skills.
+* **Real-World Practice:** Professional developers routinely use online resources (like W3Schools) to look up code, find solutions, and debug. This is a normal part of the development process.
+
+##### Independent Research / Notable Discoveries
+* This step reinforced the "developer mindset" – that learning is an ongoing process of discovery and problem-solving, not just memorization.
+* Explored various categories of CSS properties on W3Schools to appreciate the extensive capabilities of CSS beyond what has been covered so far.
+
+##### Personal Reflections
+* This informational step was highly motivational, alleviating any pressure to memorize every detail and instead empowering a more practical, research-oriented approach to learning and applying CSS. It's a reassuring message that aligns with practical development work.
+
+---

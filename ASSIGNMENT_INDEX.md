@@ -1054,4 +1054,29 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 198: CSS PROPERTIES
+
+### Course Step Number: 198
+### Date Completed: 2025-07-19
+
+### Objective:
+* To understand that memorizing all CSS properties is not expected.
+* To acknowledge that continuous online research and self-teaching are standard developer practices.
+
+### Core Course Concepts:
+* Developer mindset: Emphasis on problem-solving, research, and continuous learning over rote memorization.
+* Resource utilization: Awareness of comprehensive CSS reference materials (e.g., W3Schools).
+
+### Relevant Files:
+* N/A <! -- This was an informational step; no specific new files or modifications were required. -->
+
+### Reflection/Learning Note:
+* This step provided valuable reassurance regarding the learning process, normalizing the act of looking up documentation and focusing on foundational understanding rather than exhaustive memorization.
+
+### Independent Research & Best Practices:
+* Reviewed the W3Schools CSS Properties Reference to get a sense of the breadth of CSS capabilities without attempting to memorize.
+* Confirmed that even senior developers rely on external resources, reinforcing this as a standard industry practice.
+
+---
+
 

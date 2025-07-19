@@ -1099,3 +1099,24 @@ These entries summarize key discussions and independent research insights from s
 * This assignment provided excellent hands-on practice with fundamental CSS table styling. The experience of troubleshooting the `hover` effect reinforced the practical importance of CSS rule order and specificity, turning a minor issue into a valuable learning point.
 
 ---
+
+#### CSS LISTS - styling ordered and unordered lists
+
+### Course Step Number: 194
+### Date Researched: 2025-07-19
+
+##### Key Concepts / Summary
+* **`list-style-type` Property:** The primary CSS property for modifying the appearance of list markers.
+* **Ordered List Styling (`<ol>`):** Can change markers from default numbers to `upper-roman`, `lower-roman`, `upper-alpha`, `lower-alpha`, etc.
+* **Unordered List Styling (`<ul>`):** Can change markers from default circles to `square`, `disc`, `circle`, or even `none` to remove markers entirely.
+* **Implementation:** Styling is applied by targeting the `ul` or `ol` elements in an external CSS file and linking that file to the HTML document containing the lists.
+
+##### Independent Research / Notable Discoveries
+* **`list-style` Shorthand:** Explored the `list-style` shorthand property which allows setting `list-style-type`, `list-style-position`, and `list-style-image` in a single declaration. While `list-style-type` was the focus, the shorthand offers more control.
+* **`list-style-position`:** Learned about `inside` and `outside` values for `list-style-position`, which control whether the marker is inside or outside the content flow of the list item. Default is `outside`.
+* **Custom List Images:** Realized that `list-style-image` can be used to set a custom image as the list marker, opening up more unique design possibilities.
+
+##### Personal Reflections
+* This informational step clarified the specific CSS properties used for list styling, providing immediate practical examples. It reinforced the idea that nearly any HTML element's appearance can be precisely controlled with CSS.
+
+---

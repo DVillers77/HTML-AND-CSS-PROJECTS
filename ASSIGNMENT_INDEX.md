@@ -950,4 +950,29 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 194: CSS LISTS
+
+### Course Step Number: 194
+### Date Completed: 2025-07-19
+
+### Objective:
+* To learn how to style HTML ordered and unordered lists using CSS `list-style-type` property.
+
+### Core Course Concepts:
+* `list-style-type` property for ordered lists (e.g., `upper-roman`, `lower-roman`).
+* `list-style-type` property for unordered lists (e.g., `square`, `disc`, `circle`, `none`).
+* The process of creating a separate CSS file for list styling and linking it to an HTML document.
+
+### Relevant Files:
+* N/A <! -- This was an informational step; no specific new files created as part of this lesson. -->
+
+### Reflection/Learning Note:
+* This step clearly demonstrated the flexibility of CSS in controlling list markers beyond default numbering or bullet points, which is valuable for presentation.
+
+### Independent Research & Best Practices:
+* Reconfirmed the use of `<ul>` for unordered and `<ol>` for ordered lists for semantic correctness, regardless of styling.
+* Briefly considered `list-style` shorthand property for efficiency in future styling.
+
+---
+
 

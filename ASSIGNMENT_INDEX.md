@@ -1297,4 +1297,28 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 208: HTTP
+
+### Course Step Number: 208
+### Date Completed: 2025-07-19
+
+### Objective:
+* To understand the definition of HTTP as the protocol for exchanging linked electronic documents on the World Wide Web.
+* To contextualize HTTP within the broader Internet and Web framework.
+
+### Core Course Concepts:
+* Relationship between Internet, World Wide Web, and HTTP.
+* Role of HTTP in data exchange for web documents.
+
+### Relevant Files:
+* N/A
+
+### Reflection/Learning Note:
+* This step provided a clear introductory overview of HTTP's purpose and its place in the web ecosystem, setting the stage for deeper exploration.
+
+### Independent Research & Best Practices:
+* Reaffirmed that HTTP is specifically for web content transfer, distinguishing it from other Internet protocols.
+
+---
+
 

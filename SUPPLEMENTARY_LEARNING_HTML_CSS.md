@@ -1394,3 +1394,23 @@ These entries summarize key discussions and independent research insights from s
 * Quick quizzes are helpful for immediately testing retention and ensuring foundational knowledge is solid before proceeding.
 
 ---
+
+#### HTTP - protocol for the World Wide Web
+
+### Course Step Number: 208
+### Date Researched: 2025-07-19
+
+##### Key Concepts / Summary
+* **Internet:** A global network of computers enabling diverse data exchange via various protocols.
+* **World Wide Web (Web):** A primary application of the Internet, comprising interconnected electronic documents.
+* **Hypertext Transfer Protocol (HTTP):** The foundational protocol specifically designed for the exchange of these linked electronic documents (web pages) across the Internet.
+* The lesson serves as an introduction to exploring the mechanics and applications of HTTP for enhancing computer programs.
+
+##### Independent Research / Notable Discoveries
+* This step reinforced the foundational relationship between the Internet as the infrastructure, the Web as a vast collection of resources, and HTTP as the communication method that binds them for web Browse.
+* Anticipated deeper dives into HTTP's operational details, building upon the basic concepts introduced in previous steps.
+
+##### Personal Reflections
+* Understanding the hierarchical relationship between the Internet, the Web, and HTTP clarifies the overall architecture of how information is accessed and displayed online.
+
+---

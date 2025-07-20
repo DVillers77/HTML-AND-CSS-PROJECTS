@@ -1227,4 +1227,26 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+### SUBSECTION A: HYPERTEXT TRANSFER PROTOCOL (HTTP)
+
+#### Course Step Number: 205
+#### Date Completed: 2025-07-19
+
+#### Objective:
+* To acknowledge the start of a new subsection focusing on Hypertext Transfer Protocol (HTTP).
+
+#### Core Course Concepts:
+* N/A (This step serves as a subsection divider; concepts will be introduced in subsequent steps within this subsection.)
+
+#### Relevant Files:
+* N/A
+
+#### Reflection/Learning Note:
+* This entry marks a deeper dive into the technical underpinnings of web communication.
+
+#### Independent Research & Best Practices:
+* N/A
+
+---
+
 

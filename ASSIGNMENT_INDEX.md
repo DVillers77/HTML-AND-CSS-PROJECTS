@@ -1370,4 +1370,28 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 211: REQUEST MESSAGE
+
+### Course Step Number: 211
+### Date Completed: 2025-07-19
+
+### Objective:
+* To understand the four fundamental questions an HTTP Request Message answers.
+* To identify the role and common terms for the "Body" section in a request.
+
+### Core Course Concepts:
+* Structure and purpose of an HTTP Request Message's components.
+* Meaning of "Body," "content," "entity," and "object" in request context.
+
+### Relevant Files:
+* N/A
+
+### Reflection/Learning Note:
+* This step clarified the key information contained within an HTTP request, mapping conceptual questions to specific message parts (Start Line, Headers, Body).
+
+### Independent Research & Best Practices:
+* Gained a deeper understanding of how client intent is communicated to the server via the request message's structure.
+
+---
+
 

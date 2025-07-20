@@ -1462,3 +1462,25 @@ These entries summarize key discussions and independent research insights from s
 * Learning the exact structure of HTTP messages reinforced the idea that web communication is highly organized and rule-bound, even though it appears seamless to the end-user. This detail is empowering for understanding network interactions.
 
 ---
+
+#### REQUEST MESSAGE - fundamental questions and data transfer
+
+### Course Step Number: 211
+### Date Researched: 2025-07-19
+
+##### Key Concepts / Summary
+* **Request Message Purpose:** An HTTP request message is structured to answer four core questions for the server:
+    1.  **Resource:** Which specific resource is being targeted?
+    2.  **Action (Method):** What operation should be performed on that resource (e.g., GET, POST)?
+    3.  **Modifications (Headers):** Are there any specific conditions or preferences for this request?
+    4.  **Additional Data (Body):** Is there any supplementary data needed for the request (e.g., form data)?
+* **Body Content:** The "Body" section (optional) is used to send data to the server (e.g., HTML form submissions). It's also referred to as "content," "entity," or "object".
+
+##### Independent Research / Notable Discoveries
+* The explicit breakdown of questions an HTTP request answers helps to demystify its purpose and structure. It emphasizes that every request is a carefully crafted communication to elicit a specific action or information.
+* Reinforced the importance of the `Body` section for methods like `POST`, which carry data to the server.
+
+##### Personal Reflections
+* This step further cemented the understanding of HTTP messages as structured queries from the client to the server, with each part playing a crucial role in defining the request.
+
+---

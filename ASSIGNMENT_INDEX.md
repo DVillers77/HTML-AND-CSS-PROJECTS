@@ -1619,4 +1619,28 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 221: QUIZ
+
+### Course Step Number: 221
+### Date Completed: 2025-07-20
+
+### Objective:
+* To complete the short quiz on the definition of idempotence and its application to PUT and POST methods.
+* To confirm understanding of the distinct behaviors of PUT (idempotent) and POST (non-idempotent).
+
+### Core Course Concepts:
+* Precise definition of idempotence in HTTP context.
+* Differentiation between PUT and POST based on idempotence.
+
+### Relevant Files:
+* N/A (Quiz content)
+
+### Reflection/Learning Note:
+* Successfully passed the quiz, affirming a clear understanding of idempotence and how it is a key distinguishing factor between HTTP PUT and POST methods.
+
+### Independent Research & Best Practices:
+* Solidified knowledge of HTTP method characteristics essential for correct API usage and design.
+
+---
+
 

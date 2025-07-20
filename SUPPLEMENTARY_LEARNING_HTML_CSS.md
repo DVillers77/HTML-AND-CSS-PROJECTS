@@ -1711,3 +1711,23 @@ These entries summarize key discussions and independent research insights from s
 * This step provided a critical distinction that clarifies when to use PUT versus POST, moving beyond just "sending data" to considering the side effects of repeated operations.
 
 ---
+
+#### QUIZ - Idempotence of PUT and POST
+
+### Course Step Number: 221
+### Date Researched: 2025-07-20
+
+##### Key Concepts / Summary
+* Completed a quiz testing the understanding of idempotence.
+* Reconfirmed that **idempotence** means an operation produces the same result even if performed multiple times.
+* Validated that:
+    * `PUT` is **idempotent** (used to replace/update resources).
+    * `POST` is **non-idempotent** (used to create new, distinct resources).
+
+##### Independent Research / Notable Discoveries
+* The quiz served as an effective check, ensuring a firm grasp of a nuanced but critical concept in HTTP.
+
+##### Personal Reflections
+* Clear understanding of idempotence is fundamental for predicting behavior and preventing unintended side effects when interacting with web APIs.
+
+---

@@ -1544,4 +1544,28 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 218: QUIZ
+
+### Course Step Number: 218
+### Date Completed: 2025-07-20
+
+### Objective:
+* To complete the short quiz on the purpose of HTTP GET requests.
+* To confirm understanding that GET requests are used solely for data retrieval.
+
+### Core Course Concepts:
+* Primary function of the HTTP GET method.
+* Principle of GET requests being read-only (safe) operations.
+
+### Relevant Files:
+* N/A (Quiz content)
+
+### Reflection/Learning Note:
+* Successfully passed the quiz, reaffirming the core concept that GET requests are exclusively for retrieving data and do not modify server-side resources.
+
+### Independent Research & Best Practices:
+* Reconfirmed the distinction between GET and other HTTP methods concerning data modification.
+
+---
+
 

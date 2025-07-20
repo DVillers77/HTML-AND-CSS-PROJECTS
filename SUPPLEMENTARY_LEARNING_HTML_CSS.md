@@ -1646,4 +1646,21 @@ These entries summarize key discussions and independent research insights from s
 ##### Personal Reflections
 * This step significantly enhanced my understanding of the distinction between static and dynamic web content and the mechanisms (like query strings and server-side programs) that enable dynamic delivery.
 
---- 
+---
+
+#### QUIZ - Purpose of GET Requests
+
+### Course Step Number: 218
+### Date Researched: 2025-07-20
+
+##### Key Concepts / Summary
+* Completed a quiz reinforcing the fundamental purpose of HTTP `GET` requests.
+* Confirmed that `GET` requests are exclusively used for **requesting/retrieving data** from a web server and are not intended for creating, modifying, or deleting data.
+
+##### Independent Research / Notable Discoveries
+* This quiz served as a quick, effective check of the understanding of HTTP method safety and the specific, non-modifying role of the GET verb.
+
+##### Personal Reflections
+* The clarity provided by this quiz on the singular purpose of GET requests helps solidify a foundational principle for interacting with web resources safely and predictably.
+
+---

@@ -1504,3 +1504,20 @@ These entries summarize key discussions and independent research insights from s
 * The analogy to grammatical verbs helps to intuitively grasp the function of HTTP verbs, making it easier to remember their purpose in directing server actions on resources.
 
 ---
+
+#### QUIZ - HTTP message format
+
+### Course Step Number: 213
+### Date Researched: 2025-07-19
+
+##### Key Concepts / Summary
+* Completed a short quiz on the structure of HTTP messages.
+* Confirmed that the essential parts of an HTTP message are the Start Line, Headers, and Body (separated by an empty line), and that terms like "CC" are not part of this format.
+
+##### Independent Research / Notable Discoveries
+* N/A
+
+##### Personal Reflections
+* This quiz served as an effective confirmation of the precise structure of HTTP messages, which is foundational for understanding web communication.
+
+---

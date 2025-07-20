@@ -1420,4 +1420,27 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 213: QUIZ
+
+### Course Step Number: 213
+### Date Completed: 2025-07-19
+
+### Objective:
+* To complete the short quiz on HTTP message format.
+* To confirm understanding of the components of HTTP request/response messages.
+
+### Core Course Concepts:
+* Components of HTTP messages (Start Line, Headers, Body).
+
+### Relevant Files:
+* N/A (Quiz content)
+
+### Reflection/Learning Note:
+* Successfully passed the quiz, reinforcing the correct identification of HTTP message sections and distinguishing them from unrelated terms.
+
+### Independent Research & Best Practices:
+* N/A
+
+---
+
 

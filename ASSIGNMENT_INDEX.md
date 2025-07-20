@@ -1568,4 +1568,30 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 219: PUT AND POST
+
+### Course Step Number: 219
+### Date Completed: 2025-07-20
+
+### Objective:
+* To understand the purpose and usage of the HTTP POST method for creating resources.
+* To understand the purpose and usage of the HTTP PUT method for replacing/editing resources.
+* To recognize that data for POST and PUT requests is sent in the request body.
+
+### Core Course Concepts:
+* Functionality of the POST verb (create).
+* Functionality of the PUT verb (replace/update).
+* Role of the request body in sending data for these methods.
+
+### Relevant Files:
+* N/A
+
+### Reflection/Learning Note:
+* This step clarified the key differences between POST and PUT, particularly their roles in creating and replacing data, and highlighted that data for these methods is typically sent in the HTTP request body.
+
+### Independent Research & Best Practices:
+* Gained a foundational understanding of which HTTP verbs to use for specific data manipulation operations (C for POST, U for PUT in CRUD context).
+
+---
+
 

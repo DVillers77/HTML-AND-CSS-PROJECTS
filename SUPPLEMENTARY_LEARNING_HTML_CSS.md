@@ -1664,3 +1664,27 @@ These entries summarize key discussions and independent research insights from s
 * The clarity provided by this quiz on the singular purpose of GET requests helps solidify a foundational principle for interacting with web resources safely and predictably.
 
 ---
+
+#### PUT AND POST - creating and replacing resources
+
+### Course Step Number: 219
+### Date Researched: 2025-07-20
+
+##### Key Concepts / Summary
+* **POST Method:**
+    * Used to **create a new resource** on the server.
+    * Data required for creation is sent in the **request body**.
+    * Example: `POST /adminportal/createOrUpdate_student` with `studentId=23&firstName=Harry&lastName=Potter` in the body.
+* **PUT Method:**
+    * Used to **replace an existing resource** entirely with new data. This is effectively an update/edit.
+    * Requires the resource's location (URL) and the new data in the **request body**.
+    * Example: `PUT /adminportal/createOrUpdate_student` with `studentId=23&firstName=James&lastName=Potter` in the body to change student 23's name.
+
+##### Independent Research / Notable Discoveries
+* The crucial difference in data placement: `GET` uses URL query strings, while `POST` and `PUT` use the request body for sending data to the server.
+* Understanding the distinction between `POST` (create new, potentially non-idempotent) and `PUT` (replace existing, idempotent) is vital for designing robust web APIs.
+
+##### Personal Reflections
+* This step clearly laid out the mechanisms for changing data on a web server, completing the basic set of verbs needed for full interaction with resources.
+
+---

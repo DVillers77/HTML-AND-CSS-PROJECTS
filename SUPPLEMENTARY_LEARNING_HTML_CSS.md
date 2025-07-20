@@ -1991,6 +1991,10 @@ These entries summarize key discussions and independent research insights from s
 ---
 
 #### FORM ASSIGNMENT - practical application
+
+### Course Step Number: 233
+### Date Researched: 2025-07-20
+
 ##### Key Concepts / Summary
 * Undertook a practical assignment to create an HTML form.
 * Applied learned concepts of the `<form>` tag, including `action` and `method` attributes.

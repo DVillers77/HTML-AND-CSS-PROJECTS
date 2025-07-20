@@ -1927,8 +1927,9 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 ---
 
 #### Step 233: FORM ASSIGNMENT
-### Course Step Number: 233
+
 ### Date Completed: 2025-07-20
+
 ### Objective:
 * To apply knowledge of HTML forms by creating a functional form.
 * To successfully render and test the created HTML form in a web browser.

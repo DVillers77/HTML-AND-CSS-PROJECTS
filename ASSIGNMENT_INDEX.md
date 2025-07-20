@@ -1926,4 +1926,22 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 233: FORM ASSIGNMENT
+### Course Step Number: 233
+### Date Completed: 2025-07-20
+### Objective:
+* To apply knowledge of HTML forms by creating a functional form.
+* To successfully render and test the created HTML form in a web browser.
+### Core Course Concepts:
+* Practical application of `<form>` and `<input>` tags.
+* Hands-on experience with `action`, `method`, `type`, `name`, and `value` attributes.
+### Relevant Files:
+* [my-form-assignment.html](basic-html-and-css/my-form-assignment.html)
+### Reflection/Learning Note:
+* Successfully created an HTML form and executed it in the browser. This hands-on exercise reinforced the syntax and functionality of HTML form elements and their attributes.
+### Independent Research & Best Practices:
+* Ensured basic form structure and proper use of input types for user data collection.
+
+---
+
 

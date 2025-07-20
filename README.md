@@ -189,3 +189,6 @@ Successfully completed the "BASIC_HTML_AND_CSS FOLDER GITHUB SUBMISSION ASSIGNME
 
 #### 36. HTML SPACING CHALLENGE - combining HTML elements and entities (Step 203)
 Successfully completed the "HTML SPACING CHALLENGE," creating an HTML webpage that demonstrates the proper use of `<br>`, `<section>`, `<span>`, `&nbsp;`, and the copyright symbol (`©`), with an improved semantic structure for the section tag.
+
+#### 37. FORM ASSIGNMENT - creating a basic html form (Step 233)
+This assignment involved creating a basic HTML form to demonstrate understanding of the `<form>` tag and its associated input elements and attributes. The primary objective was to successfully create a form allowing user input and render it in a web browser, reinforcing the practical application of `<form>` and `<input>` tags, along with their `action`, `method`, `type`, `name`, and `value` attributes.

@@ -1989,3 +1989,18 @@ These entries summarize key discussions and independent research insights from s
 * Understanding the exact roles of HTTP methods versus HTML attributes helps prevent conceptual confusion and is vital for accurate web development.
 
 ---
+
+#### FORM ASSIGNMENT - practical application
+##### Key Concepts / Summary
+* Undertook a practical assignment to create an HTML form.
+* Applied learned concepts of the `<form>` tag, including `action` and `method` attributes.
+* Utilized `<input>` tags with various `type` attributes (e.g., `text`, `submit`) and `name`/`value` attributes.
+* Successfully rendered the form in a web browser, confirming its basic functionality.
+##### Independent Research / Notable Discoveries
+* The process of writing the HTML code and seeing it render immediately in the browser deepened the understanding of how forms are structured for user interaction.
+##### Personal Reflections
+* This assignment was a valuable hands-on exercise that solidified theoretical knowledge into practical coding skills for front-end web development. It demonstrated the direct connection between HTML structure and user interface functionality.
+##### Relevant Files:
+* [my-form-assignment.html](basic-html-and-css/my-form-assignment.html)
+
+---

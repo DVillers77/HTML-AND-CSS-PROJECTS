@@ -1774,4 +1774,30 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 227: DELETE
+
+### Course Step Number: 227
+### Date Completed: 2025-07-20
+
+### Objective:
+* To understand the usage of the HTTP DELETE method for removing resources in a RESTful API.
+* To review the PUT method with a new example of modifying a resource.
+* To solidify the understanding of how RESTful principles enable state management over stateless HTTP.
+
+### Core Course Concepts:
+* Application of the DELETE verb for resource removal.
+* Review of PUT for resource modification, with data in the request body.
+* Confirmation that RESTful architecture bridges stateless HTTP with application state needs.
+
+### Relevant Files:
+* N/A
+
+### Reflection/Learning Note:
+* This step completed the overview of core RESTful operations, specifically detailing how DELETE removes resources and reinforcing PUT's modification role, all while managing state through stateless HTTP.
+
+### Independent Research & Best Practices:
+* Solidified the comprehensive understanding of how HTTP verbs are precisely mapped to CRUD actions in RESTful API design.
+
+---
+
 

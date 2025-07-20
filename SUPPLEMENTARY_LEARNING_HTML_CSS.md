@@ -1852,3 +1852,24 @@ These entries summarize key discussions and independent research insights from s
 * This step concretely illustrated the "Create" operation in a RESTful API, showing the flow from client request body to server-generated ID in the response, which is a common pattern in web development.
 
 ---
+
+#### DELETE - completing CRUD in RESTful APIs
+
+### Course Step Number: 227
+### Date Researched: 2025-07-20
+
+##### Key Concepts / Summary
+* **DELETE Method:**
+    * Used to **delete a specific resource** identified by data in the request body (e.g., `studentId=24` to `DELETE /api/StudentService/Student`).
+* **PUT Method (Modification Review):**
+    * Used to **modify the state** of a specific resource. Data for modification (e.g., `studentId=24&firstName=William`) is sent in the request body to the resource's URL (e.g., `PUT /api/StudentService/Student`).
+* **RESTful State Management:** Conforming program APIs to RESTful principles allows for tracking and control of program resource states, despite the underlying HTTP protocol being stateless.
+
+##### Independent Research / Notable Discoveries
+* The clear mapping of `DELETE` to the "D" in CRUD provides a complete picture of resource manipulation in REST.
+* The repetition of PUT examples helped reinforce the method's purpose and data placement.
+
+##### Personal Reflections
+* This step effectively summarized how RESTful APIs provide a robust and intuitive framework for full interaction with program resources, cleverly utilizing the HTTP protocol's features.
+
+---

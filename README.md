@@ -186,3 +186,6 @@ Successfully completed the "HTML AND CSS CHALLENGE," which involved defining and
 
 #### 35. BASIC_HTML_AND_CSS FOLDER GITHUB SUBMISSION ASSIGNMENT - project culmination (Step 197)
 Successfully completed the "BASIC_HTML_AND_CSS FOLDER GITHUB SUBMISSION ASSIGNMENT," culminating in pushing the project folder to GitHub after ensuring all minimum requirements for HTML lists, CSS styling, HTML entities, and text-shadow effects were met and validated.
+
+#### 36. HTML SPACING CHALLENGE - combining HTML elements and entities (Step 203)
+Successfully completed the "HTML SPACING CHALLENGE," creating an HTML webpage that demonstrates the proper use of `<br>`, `<section>`, `<span>`, `&nbsp;`, and the copyright symbol (`©`), with an improved semantic structure for the section tag.

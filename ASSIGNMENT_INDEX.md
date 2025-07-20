@@ -1178,4 +1178,31 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 203: HTML SPACING CHALLENGE
+
+### Course Step Number: 203
+### Date Completed: 2025-07-19
+
+### Objective:
+* To create an HTML webpage demonstrating the use of `<br>`, `<section>`, `<span>`, and `&nbsp;` tags/entities.
+* To successfully add a copyright symbol (`©`) to the HTML file.
+* To verify correct display in a browser.
+
+### Core Course Concepts:
+* HTML structural tags (`<section>`) and inline elements (`<span>`).
+* HTML formatting tags (`<br>`).
+* HTML character entities (`&nbsp;`, `&copy;`).
+
+### Relevant Files:
+* `Basic_HTML_and_CSS/basic-html-5.html`
+
+### Reflection/Learning Note:
+* This challenge was a good practical exercise in combining various HTML elements and entities to control both document structure and specific text formatting.
+
+### Independent Research & Best Practices:
+* Reaffirmed the specific use cases for `<br>` (line breaks), `<span>` (inline styling), `&nbsp;` (non-breaking space/multiple spaces), and `&copy;` (copyright symbol).
+* Confirmed browser rendering of these elements and entities.
+
+---
+
 

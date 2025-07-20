@@ -33,16 +33,35 @@ This document outlines the precise Markdown heading hierarchy and formatting con
 ## 5. Sections Within an Assignment Entry (`###` H3)
 * **Purpose:** To categorize fixed content fields within an individual assignment's entry.
 * **Format:** Follows the `### [Section Name]:` format.
-* **Blank Lines:** Each `###` section should be preceded by a single blank line for readability.
+* **Blank Lines:**
+    * The first `###` section (e.g., `### Date Completed:`) should be preceded by a single blank line after the `####` title.
+    * All subsequent `###` sections (e.g., `### Objective:`, `### Core Course Concepts:`) must also be preceded by a **single blank line**.
 * **Note:** The redundant "Course Step Number" line is omitted as it's part of the main `####` title.
-* **Examples (showing blank lines):**
-    ```
+* **Example of a full entry's structure (showing all blank lines):**
+    ```markdown
+    ---
+
     #### Step 233: FORM ASSIGNMENT
 
-    ### Date Completed:
-    ```
-    (and subsequent sections like Objective, Core Course Concepts, etc., also preceded by a blank line.)
+    ### Date Completed: YYYY-MM-DD
 
+    ### Objective:
+    * [Your objective bullet points]
+
+    ### Core Course Concepts:
+    * [Your core concepts bullet points]
+
+    ### Relevant Files:
+    * [Your Markdown file links]
+
+    ### Reflection/Learning Note:
+    * [Your reflection text]
+
+    ### Independent Research & Best Practices:
+    * [Your research text]
+
+    ---
+    ```
 * **Full list of sections:**
     * `### Date Completed:`
     * `### Objective:`

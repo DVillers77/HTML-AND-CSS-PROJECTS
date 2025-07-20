@@ -1571,17 +1571,27 @@ These entries summarize key discussions and independent research insights from s
     * **Start Line:** Includes HTTP version, **status code** (`200 OK` for success), and reason phrase.
     * **Headers:** Provide metadata about the response (e.g., `Date`, `Server` software, `Content-Length` of body, `Content-Type` of the resource).
     * **Empty Line:** Separates headers from the body (which contains the requested resource).
-* **Example HTML Content (Body of Response):**
-```html
-<html>
-  <body>
-    <h1>Welcome to Example School</h1>
-    <img src="logo.jpg" alt="school">
-    <div>
-      <a href="adminportal/adminportal.html">Admin Portal</a>
-    </div>
-  </body>
-</html>
+* **Example HTML Content :**
+    ```
+    <html>
+      <body>
+        <h1>Welcome to Example School</h1>
+        <img src="logo.jpg" alt="school">
+        <div>
+          <a href="adminportal/adminportal.html">Admin Portal</a>
+        </div>
+      </body>
+    </html>
+    ```
+
+* **GET and Additional Data:** For dynamic resources, `GET` requests may require additional identifying data (often in the URL query string) for the server to process the request effectively (e.g., specific student ID).
+
+##### Independent Research / Notable Discoveries
+* The detailed breakdown of a server response message, particularly the meaning of key headers like `Content-Type` and `Content-Length`, clarified how the browser knows what to do with the incoming data.
+* Understanding that "additional data" for a GET request typically goes in the URL itself (not a body) helps distinguish it from `POST` requests.
+
+##### Personal Reflections
+* This step completed the picture of HTTP communication, showing the full round-trip from client request to server response, emphasizing the critical role of the response message in delivering web content. The inclusion of the HTML content example makes the `Body` section's purpose very concrete.
 
 ---
 
@@ -1606,3 +1616,34 @@ These entries summarize key discussions and independent research insights from s
 * Understanding query strings is a crucial step in comprehending how interactive and data-driven web pages function, moving beyond just static HTML content.
 
 ---
+
+#### HTTP MESSAGE - dynamic content and GET request behavior
+
+### Course Step Number: 217
+### Date Researched: 2025-07-20
+
+##### Key Concepts / Summary
+* **Dynamic Request Processing:** A web server directs GET requests with query strings to specific server-side programs (e.g., `get_student`).
+* **Dynamic Response Generation:** The program processes the request and generates content (e.g., HTML for student details) which is then returned in the `body` of the HTTP response message.
+* **Example Generated HTML (Body of Response):**
+```html
+<html>
+  <body>
+    <div>Student ID: 23</div>
+    <div>Name: Jane S. Doe</div>
+    <div>Graduation year: 2027</div>
+    <div>GPA: 3.58</div>
+  </body>
+</html>
+```
+
+* **GET Request Principle:** `GET` requests are strictly for retrieving (reading) data and are not used to create or modify data on the server.
+
+##### Independent Research / Notable Discoveries
+* The process of a server-side program dynamically generating HTML based on URL parameters clarifies how interactive web pages, like those showing individual user profiles or search results, are created.
+* The emphasis on GET requests being read-only is a fundamental principle for designing secure and predictable web APIs and applications.
+
+##### Personal Reflections
+* This step significantly enhanced my understanding of the distinction between static and dynamic web content and the mechanisms (like query strings and server-side programs) that enable dynamic delivery.
+
+--- 

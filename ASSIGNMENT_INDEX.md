@@ -1518,4 +1518,30 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 217: HTTP MESSAGE
+
+### Course Step Number: 217
+### Date Completed: 2025-07-20
+
+### Objective:
+* To understand how a web server processes a GET request for a dynamic resource using query strings.
+* To identify the structure of the resulting HTTP response message body (dynamically generated HTML).
+* To reinforce that GET requests are for data retrieval only.
+
+### Core Course Concepts:
+* Server-side program interaction with GET requests.
+* Dynamic HTML generation as an HTTP response body.
+* The principle of GET requests being read-only operations.
+
+### Relevant Files:
+* `student_details_example.html` (example content served by dynamic GET request)
+
+### Reflection/Learning Note:
+* This step clarified the full cycle of a GET request for dynamic data, from server-side program execution to the resulting HTML in the response body, and emphasized the read-only nature of GET.
+
+### Independent Research & Best Practices:
+* Gained a deeper understanding of how server-side logic dynamically constructs web content based on client requests.
+
+---
+
 

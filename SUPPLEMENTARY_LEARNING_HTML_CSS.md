@@ -1908,3 +1908,24 @@ These entries summarize key discussions and independent research insights from s
 * Excited to transition to the practical application of web development, building upon the foundational knowledge of how the web works behind the scenes. This marks the start of the hands-on website creation process.
 
 ---
+
+#### HTML FORMS - the <form> tag
+
+### Course Step Number: 230
+### Date Researched: 2025-07-20
+
+##### Key Concepts / Summary
+* **`<form>` Tag:** Creates an HTML form for user data input.
+* **`action` Attribute:** Specifies the URL where the form-data is sent upon submission.
+* **`method` Attribute:** Defines the HTTP method for sending form-data, primarily `GET` or `POST`.
+    * `GET`: Data appended to URL (visible).
+    * `POST`: Data sent in request body (not visible).
+
+##### Independent Research / Notable Discoveries
+* The direct link between HTML form attributes (`method`) and the underlying HTTP protocol verbs (`GET`, `POST`) clarifies how client-side forms interact with server-side processing.
+* The lesson included an unrendered "example image" which presumably showed a basic `<form>` tag structure, underscoring the visual nature of web development.
+
+##### Personal Reflections
+* Understanding the `<form>` tag's `action` and `method` attributes is fundamental for building interactive web pages that can collect user input and communicate it effectively to a server. This is a critical building block for dynamic web applications.
+
+---

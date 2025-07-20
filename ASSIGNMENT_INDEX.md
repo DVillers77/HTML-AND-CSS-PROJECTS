@@ -1848,4 +1848,30 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 230: HTML FORMS
+
+### Course Step Number: 230
+### Date Completed: 2025-07-20
+
+### Objective:
+* To learn the purpose and basic syntax of the HTML `<form>` tag.
+* To understand the function of the `action` and `method` attributes for form submission.
+
+### Core Course Concepts:
+* `<form>` tag for user input.
+* `action` attribute (where to send data).
+* `method` attribute (`GET` or `POST` for how to send data).
+* Connection between HTML forms and HTTP methods.
+
+### Relevant Files:
+* N/A (Lesson included an example image illustrating the <form> tag syntax.)
+
+### Reflection/Learning Note:
+* This step marked a return to practical HTML coding, providing the foundational `<form>` tag which is essential for user interaction and sending data back to a server using HTTP GET/POST methods.
+
+### Independent Research & Best Practices:
+* Reaffirmed the critical choice between GET and POST methods for form submission based on data sensitivity and volume.
+
+---
+
 

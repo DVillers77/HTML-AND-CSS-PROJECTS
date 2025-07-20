@@ -1572,7 +1572,7 @@ These entries summarize key discussions and independent research insights from s
     * **Headers:** Provide metadata about the response (e.g., `Date`, `Server` software, `Content-Length` of body, `Content-Type` of the resource).
     * **Empty Line:** Separates headers from the body (which contains the requested resource).
 * **Example HTML Content :**
-    ```
+    ```html
     <html>
       <body>
         <h1>Welcome to Example School</h1>

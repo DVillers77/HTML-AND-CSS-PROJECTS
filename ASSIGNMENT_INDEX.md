@@ -1747,4 +1747,31 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 226: CREATING A RESOURCE
+
+### Course Step Number: 226
+### Date Completed: 2025-07-20
+
+### Objective:
+* To understand the process of creating a new resource using the HTTP POST method in a RESTful API.
+* To recognize that creation data is sent in the HTTP request body.
+* To learn that the server typically generates and returns the ID for a newly created resource.
+
+### Core Course Concepts:
+* Application of the POST verb for resource creation.
+* Structure of a POST request, including the request body for data.
+* Server's role in assigning unique identifiers to new resources.
+* Typical response for a successful resource creation.
+
+### Relevant Files:
+* N/A
+
+### Reflection/Learning Note:
+* This step provided a concrete example of how the POST verb is used in a RESTful system to create new data, emphasizing the use of the request body for input and the server's responsibility for ID generation.
+
+### Independent Research & Best Practices:
+* Solidified understanding of the "C" in CRUD operations within a RESTful context and the typical communication flow.
+
+---
+
 

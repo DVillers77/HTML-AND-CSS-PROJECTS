@@ -1669,4 +1669,31 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 223: RESTFUL AND APIS
+
+### Course Step Number: 223
+### Date Completed: 2025-07-20
+
+### Objective:
+* To understand how RESTful principles are applied through the creation of APIs.
+* To define what an API is in the context of web communication.
+* To grasp the concept of an API "endpoint" and its role.
+
+### Core Course Concepts:
+* Relationship between RESTful architecture and API creation.
+* Definition of an API as an interface for program-to-program communication over the Internet.
+* Understanding of an "endpoint" as a specific, URL-addressable resource or function.
+* Common API request/response patterns (e.g., GET to an endpoint, JSON response).
+
+### Relevant Files:
+* N/A
+
+### Reflection/Learning Note:
+* This step provided a clear explanation of APIs and endpoints as the practical application of RESTful principles, illustrating how programs interact to exchange data over HTTP.
+
+### Independent Research & Best Practices:
+* Gained foundational knowledge of how web services are structured and accessed, which is critical for modern web development.
+
+---
+
 

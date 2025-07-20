@@ -1891,3 +1891,20 @@ These entries summarize key discussions and independent research insights from s
 * Understanding these foundational definitions is crucial for conceptualizing how web services operate and for designing effective APIs.
 
 ---
+
+#### SUBSECTION B: CREATING A BASIC HTML WEBSITE PART 1 - Section Start
+
+### Course Step Number: 229
+### Date Researched: 2025-07-20
+
+##### Key Concepts / Summary
+* This step marks the beginning of a new major subsection in the course: "SUBSECTION B: CREATING A BASIC HTML WEBSITE PART 1."
+* It signifies a shift from theoretical discussions on HTTP, REST, and networking concepts to a more practical and hands-on focus on creating web content using HTML.
+
+##### Independent Research / Notable Discoveries
+* N/A
+
+##### Personal Reflections
+* Excited to transition to the practical application of web development, building upon the foundational knowledge of how the web works behind the scenes. This marks the start of the hands-on website creation process.
+
+---

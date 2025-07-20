@@ -1824,4 +1824,28 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 229: SUBSECTION B: CREATING A BASIC HTML WEBSITE PART 1
+
+### Course Step Number: 229
+### Date Completed: 2025-07-20
+
+### Objective:
+* To mark the transition to a new major subsection of the course.
+* To recognize the shift in focus towards practical HTML website creation.
+
+### Core Course Concepts:
+* Course structure and progression.
+* Introduction to hands-on web development with HTML.
+
+### Relevant Files:
+* N/A (Section title only)
+
+### Reflection/Learning Note:
+* This step serves as a clear demarcation, signaling a shift from theoretical HTTP/REST concepts to the practical application of HTML for building web pages.
+
+### Independent Research & Best Practices:
+* No specific independent research for this transition step.
+
+---
+
 

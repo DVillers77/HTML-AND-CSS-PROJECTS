@@ -1346,3 +1346,34 @@ These entries summarize key discussions and independent research insights from s
 * N/A
 
 ---
+
+#### HTTP VIDEO - basics of client-server communication
+
+### Course Step Number: 206
+### Date Researched: 2025-07-19
+
+##### Key Concepts / Summary
+* **Client-Server Model:** Web communication fundamentally operates as a client (browser) requesting resources from a server (web server program).
+* **Stateless Protocol:** HTTP is stateless; each request/response pair is independent, with no memory of prior interactions on the server side.
+* **HTTP Messages:** Communication occurs via text-based HTTP request and response messages.
+* **Message Structure:** Both request and response messages contain:
+    * A **Start Line:** Specifies the resource and desired action.
+    * **Headers:** Provide metadata and modifications to the request/response.
+    * An **Optional Body:** Contains the data payload (e.g., requested file in a GET response, form data in a POST request).
+* **HTTP Methods (Verbs):** Define the action for the resource:
+    * `GET`: Retrieve a resource (most common for loading web pages/images).
+    * `PUT`: Create/update a resource.
+    * `POST`: Submit data to be processed (often creates a new resource).
+    * `DELETE`: Remove a resource.
+* **HTTP Status Codes:** Numerical codes indicating the outcome of a request:
+    * `200 OK`: Success.
+    * `404 Not Found`: Resource not found.
+
+##### Independent Research / Notable Discoveries
+* The video clarified how seemingly stateless operations can build up to stateful applications through client-side management (e.g., cookies, session IDs) or specific server-side logic in conjunction with methods like PUT/POST/DELETE.
+* Visualized the journey of an HTTP request from browser to server and the subsequent response, emphasizing that the "web" is essentially structured text messages back and forth.
+
+##### Personal Reflections
+* This video provided crucial context for understanding the "why" behind web development beyond just coding HTML and CSS. It bridged the gap between local file development and how websites function on the internet.
+
+---

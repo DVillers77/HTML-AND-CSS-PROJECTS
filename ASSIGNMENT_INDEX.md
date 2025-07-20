@@ -1249,4 +1249,29 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 206: HTTP VIDEO
+
+### Course Step Number: 206
+### Date Completed: 2025-07-19
+
+### Objective:
+* To watch and understand the foundational concepts of Hypertext Transfer Protocol (HTTP) from the provided video.
+
+### Core Course Concepts:
+* HTTP as a client-server, stateless protocol.
+* Structure of HTTP request and response messages (start line, headers, optional body).
+* Common HTTP methods/verbs (GET, PUT, POST, DELETE) and status codes (e.g., 200 OK, 404 Not Found).
+
+### Relevant Files:
+* N/A (Video content)
+
+### Reflection/Learning Note:
+* This video provided a clear, high-level overview of HTTP, explaining how browsers and servers communicate using text-based messages and how statelessness is managed.
+
+### Independent Research & Best Practices:
+* Gained a clearer understanding of how HTTP underlies almost all web interactions, from fetching images to submitting forms.
+* Reinforced the importance of HTTP status codes for understanding server responses.
+
+---
+
 

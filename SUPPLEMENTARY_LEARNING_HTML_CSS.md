@@ -1521,3 +1521,32 @@ These entries summarize key discussions and independent research insights from s
 * This quiz served as an effective confirmation of the precise structure of HTTP messages, which is foundational for understanding web communication.
 
 ---
+
+#### GET METHOD - retrieving resources via URL
+
+### Course Step Number: 214
+### Date Researched: 2025-07-19
+
+##### Key Concepts / Summary
+* **GET Verb:** Used to fetch (get) information/resources from a web server using a specified URL.
+* **Requesting a Web Page Example:** Demonstrated with `www.exampleschool.com/index.html` and its server-side file structure (e.g., `C:/inetpub/wwwroot/exampleschool/index.html`).
+* **HTTP GET Request Message Example:**
+    ```
+    GET /index.html HTTP/1.1
+    Host: [www.exampleschool.com](https://www.exampleschool.com)
+    Accept-Language: en-us
+    ```
+    * **Start Line:** Specifies the `GET` method, the relative resource path (`/index.html`), and the HTTP version (`HTTP/1.1`).
+    * **Headers:** Include `Host` (domain) and `Accept-Language` (preferred language).
+    * **Empty Line:** Separates headers from the body.
+    * **No Body:** GET requests typically do not have a body.
+* **Triggering GET:** By typing URL in browser or clicking a hyperlink.
+
+##### Independent Research / Notable Discoveries
+* The detailed example of the GET request, including server-side file paths and specific headers, was invaluable for understanding the practical mechanics of web requests.
+* Reinforced how the various components of an HTTP message (Start Line, Headers) convey all the necessary information for a simple resource retrieval.
+
+##### Personal Reflections
+* This step beautifully tied together previous concepts about HTTP messages and verbs with a real-world scenario of fetching a web page, making the theoretical knowledge tangible.
+
+---

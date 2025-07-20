@@ -1443,4 +1443,29 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 214: GET METHOD
+
+### Course Step Number: 214
+### Date Completed: 2025-07-19
+
+### Objective:
+* To understand the purpose of the HTTP GET method for retrieving resources via a URL.
+* To analyze the structure and components of an example GET request message.
+
+### Core Course Concepts:
+* Application of the GET verb.
+* Mapping URLs to server file structures.
+* Breakdown of a GET request's Start Line and common Headers (Host, Accept-Language).
+
+### Relevant Files:
+* N/A
+
+### Reflection/Learning Note:
+* This step provided a practical example of an HTTP GET request, solidifying the understanding of how a browser requests a web page from a server and the precise format of the message.
+
+### Independent Research & Best Practices:
+* Gained clearer insight into how the URL corresponds to the resource path on the server and the role of specific headers in a GET request.
+
+---
+
 

@@ -1723,4 +1723,28 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 225: RESTFUL
+
+### Course Step Number: 225
+### Date Completed: 2025-07-20
+
+### Objective:
+* To understand the standardized mapping of HTTP verbs (GET, POST, PUT, DELETE) to CRUD operations in RESTful systems.
+* To see examples of using GET to retrieve collections of resources and specific resources via URL patterns.
+
+### Core Course Concepts:
+* Standard RESTful verb usage: GET (retrieve), POST (create), PUT (modify), DELETE (delete).
+* URL patterns for accessing all resources vs. specific resources (e.g., `/Students` vs. `/Student/:studentId`).
+
+### Relevant Files:
+* N/A (Lesson included a broken image link at the end without alt text.)
+
+### Reflection/Learning Note:
+* This step clarified the direct and intuitive mapping between HTTP verbs and the common actions performed on resources within a RESTful API, which streamlines communication design.
+
+### Independent Research & Best Practices:
+* Reaffirmed the resource-oriented nature of REST, where URLs denote the resource and the verb denotes the action.
+
+---
+
 

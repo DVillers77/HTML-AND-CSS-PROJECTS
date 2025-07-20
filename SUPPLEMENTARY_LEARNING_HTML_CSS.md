@@ -1807,3 +1807,27 @@ These entries summarize key discussions and independent research insights from s
 * This step really solidified the concept of resource-oriented design in REST, making it clear how URLs map to logical entities that can be manipulated using HTTP verbs, rather than just executing remote procedures.
 
 ---
+
+#### RESTFUL - HTTP verbs and resource actions
+
+### Course Step Number: 225
+### Date Researched: 2025-07-20
+
+##### Key Concepts / Summary
+* **RESTful Verb Mapping:** HTTP verbs are used in a standardized way to define actions on resources:
+    * `GET`: Retrieve information.
+    * `POST`: Create a resource.
+    * `PUT`: Modify/replace a resource.
+    * `DELETE`: Delete a resource.
+* **GET for Retrieval:**
+    * To get all resources: `GET` to `http://www.exampleschool.com/api/StudentService/Students`.
+    * To get a specific resource: `GET` to `http://www.exampleschool.com/api/StudentService/Student/:studentId` (where `:studentId` is the unique identifier).
+
+##### Independent Research / Notable Discoveries
+* This clear verb-to-action mapping is fundamental to the predictability and discoverability of RESTful APIs. It allows developers to intuitively understand what an endpoint does simply by its URL and the HTTP method applied.
+* The lesson concluded with a broken image link that lacked alt text, serving as a reminder of the importance of robust content delivery and web accessibility practices.
+
+##### Personal Reflections
+* The direct correspondence between HTTP verbs and CRUD operations makes RESTful API design very logical and provides a solid framework for building client-server interactions.
+
+---

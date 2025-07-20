@@ -1468,4 +1468,29 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 215: SERVER RESPONSE
+
+### Course Step Number: 215
+### Date Completed: 2025-07-20
+
+### Objective:
+* To understand how a web server processes an HTTP GET request.
+* To analyze the structure and components of an example HTTP response message.
+
+### Core Course Concepts:
+* Server's role in fulfilling GET requests.
+* Breakdown of a response message's Start Line (HTTP version, status code, reason phrase) and common Headers (Date, Server, Content-Type, Content-Length).
+* Understanding the role of additional data in GET requests for dynamic resources.
+
+### Relevant Files:
+* `index.html` (example content served by GET request)
+
+### Reflection/Learning Note:
+* This step provided a clear explanation of the server's side of the HTTP transaction, detailing how it forms a response message and the significance of various response headers.
+
+### Independent Research & Best Practices:
+* Gained practical insight into the information exchanged in a successful HTTP response and its importance for the client to render content correctly.
+
+---
+
 

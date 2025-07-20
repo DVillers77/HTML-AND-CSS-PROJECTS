@@ -1550,3 +1550,35 @@ These entries summarize key discussions and independent research insights from s
 * This step beautifully tied together previous concepts about HTTP messages and verbs with a real-world scenario of fetching a web page, making the theoretical knowledge tangible.
 
 ---
+
+#### SERVER RESPONSE - how web servers fulfill requests
+
+### Course Step Number: 215
+### Date Researched: 2025-07-20
+
+##### Key Concepts / Summary
+* **Server Processing:** A web server (e.g., IIS) routes the request, locates the resource, and applies the `GET` method by sending the resource back in an HTTP response.
+* **HTTP Response Message Example:**
+    ```
+    HTTP/1.1 200 OK
+    Date: Fri, 24 May 2019 12:28:53 GMT
+    Server: Microsoft-IIS/8.5
+    Last-Modified: Wed, 22 Jul 2018 19:15:56 GMT
+    Content-Length: 179
+    Content-Type: text/html
+    Connection: Closed
+    ```
+    * **Start Line:** Includes HTTP version, **status code** (`200 OK` for success), and reason phrase.
+    * **Headers:** Provide metadata about the response (e.g., `Date`, `Server` software, `Content-Length` of body, `Content-Type` of the resource).
+    * **Empty Line:** Separates headers from the body (which contains the requested resource).
+* **Example HTML Content (Body of Response):**
+```html
+<html>
+  <body>
+    <h1>Welcome to Example School</h1>
+    <img src="logo.jpg" alt="school">
+    <div>
+      <a href="adminportal/adminportal.html">Admin Portal</a>
+    </div>
+  </body>
+</html>

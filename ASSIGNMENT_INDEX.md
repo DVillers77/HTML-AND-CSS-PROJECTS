@@ -1874,4 +1874,32 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 231: CREATING A FORM
+
+### Course Step Number: 231
+### Date Completed: 2025-07-20
+
+### Objective:
+* To learn the HTML code for creating basic forms using the `<input>` tag.
+* To understand the functionality of the `type`, `name`, and `value` attributes of the `<input>` tag.
+* To practice building simple forms with different input types and a submit button.
+
+### Core Course Concepts:
+* Basic `<form>` structure with blank `action`.
+* `<input>` tag and its role in user data entry.
+* `type` attribute for input field varieties (text, submit, email, password).
+* `name` attribute for identifying form data upon submission.
+* `value` attribute for default text or button labels.
+
+### Relevant Files:
+* N/A (Lesson contained several example images depicting HTML form code and rendered form elements.)
+
+### Reflection/Learning Note:
+* This step provided the practical HTML syntax for creating interactive forms, which is essential for collecting user input and sending it to a server, building upon the theoretical knowledge of HTTP methods.
+
+### Independent Research & Best Practices:
+* Understanding the `name` attribute's critical role for data submission is a key takeaway. Explored briefly how different `input type` values offer semantic meaning and browser-level validation.
+
+---
+
 

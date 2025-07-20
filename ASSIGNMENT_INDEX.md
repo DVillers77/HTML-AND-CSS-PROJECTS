@@ -1643,4 +1643,30 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 222: STATELESS
+
+### Course Step Number: 222
+### Date Completed: 2025-07-20
+
+### Objective:
+* To revisit and reinforce the concept of HTTP as a stateless protocol.
+* To understand why state management is necessary for applications.
+* To be introduced to REST (Representational State Transfer) as a system for managing resource state over HTTP.
+
+### Core Course Concepts:
+* Stateless nature of the HTTP protocol.
+* The need for applications to manage resource state.
+* Introduction to REST as an architectural style for state transfer.
+
+### Relevant Files:
+* N/A
+
+### Reflection/Learning Note:
+* This step clearly linked the stateless nature of HTTP with the requirement for applications to manage state, setting the foundation for understanding why RESTful architecture was developed.
+
+### Independent Research & Best Practices:
+* Gained initial insight into REST as a widely adopted approach for building scalable and maintainable web services by leveraging HTTP verbs.
+
+---
+
 

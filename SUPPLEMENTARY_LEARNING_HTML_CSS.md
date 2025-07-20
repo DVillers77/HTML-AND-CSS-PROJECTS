@@ -1731,3 +1731,24 @@ These entries summarize key discussions and independent research insights from s
 * Clear understanding of idempotence is fundamental for predicting behavior and preventing unintended side effects when interacting with web APIs.
 
 ---
+
+#### STATELESS - HTTP and the introduction to REST
+
+### Course Step Number: 222
+### Date Researched: 2025-07-20
+
+##### Key Concepts / Summary
+* **HTTP Protocol is Stateless:** Each HTTP request is independent; the server does not retain memory of past interactions or the state of previous operations.
+* **Need for State Management:** Despite HTTP's statelessness, applications require mechanisms to know and modify the state of resources (e.g., user sessions, database records).
+* **Introduction to REST (Representational State Transfer):**
+    * A system or architectural style designed to enable monitoring and control of resource states by leveraging the stateless HTTP protocol.
+    * "REST" stands for "Representational State Transfer".
+
+##### Independent Research / Notable Discoveries
+* Understanding HTTP's statelessness is crucial, as it explains why mechanisms like cookies or session IDs are needed at a higher application layer.
+* REST emerges as a powerful solution to this challenge, providing a structured way to build web services that manage state effectively over a stateless foundation.
+
+##### Personal Reflections
+* This step bridges the gap between the low-level HTTP protocol characteristics and the architectural patterns used to build complex web applications that maintain application state.
+
+---

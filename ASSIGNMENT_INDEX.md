@@ -1274,4 +1274,27 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 207: QUIZ
+
+### Course Step Number: 207
+### Date Completed: 2025-07-19
+
+### Objective:
+* To complete the short quiz on HTTP basics.
+* To confirm understanding of key terms like HTTP verbs and methods.
+
+### Core Course Concepts:
+* HTTP terminology (verbs vs. methods).
+
+### Relevant Files:
+* N/A (Quiz content)
+
+### Reflection/Learning Note:
+* Successfully passed the quiz, reinforcing the understanding that "HTTP verbs" and "HTTP methods" are synonymous.
+
+### Independent Research & Best Practices:
+* N/A
+
+---
+
 

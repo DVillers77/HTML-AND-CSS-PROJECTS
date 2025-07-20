@@ -1377,3 +1377,20 @@ These entries summarize key discussions and independent research insights from s
 * This video provided crucial context for understanding the "why" behind web development beyond just coding HTML and CSS. It bridged the gap between local file development and how websites function on the internet.
 
 ---
+
+#### QUIZ - HTTP basics
+
+### Course Step Number: 207
+### Date Researched: 2025-07-19
+
+##### Key Concepts / Summary
+* Completed a short quiz on HTTP fundamentals.
+* Confirmed that "HTTP verbs" and "HTTP methods" are indeed interchangeable terms, as discussed in the previous HTTP video lesson (Step 206).
+
+##### Independent Research / Notable Discoveries
+* N/A
+
+##### Personal Reflections
+* Quick quizzes are helpful for immediately testing retention and ensuring foundational knowledge is solid before proceeding.
+
+---

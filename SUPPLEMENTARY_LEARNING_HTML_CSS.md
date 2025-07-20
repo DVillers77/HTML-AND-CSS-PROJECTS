@@ -1582,3 +1582,27 @@ These entries summarize key discussions and independent research insights from s
     </div>
   </body>
 </html>
+
+---
+
+#### QUERY STRING - passing data with GET requests
+
+### Course Step Number: 216
+### Date Researched: 2025-07-20
+
+##### Key Concepts / Summary
+* **Definition:** A "query string" is a mechanism to include additional data in an HTTP message, primarily with `GET` requests, structured as a series of key/value pairs.
+* **Key/Value Pair Format:**
+    * Individual pair: `[key]=[value]` (e.g., `firstName=Harry`).
+    * Multiple pairs are separated by an ampersand (`&`), with the entire string initiated by a question mark (`?`) (e.g., `?firstName=Harry&lastName=Potter`).
+* **Usage:** Query strings are commonly used to pass parameters to server-side programs (e.g., `get_student?studentId=23`) which then use this data to retrieve specific dynamic resources.
+* **Placement in Request:** The query string is appended to the resource path within the `GET` request's "Start Line."
+
+##### Independent Research / Notable Discoveries
+* This lesson clearly demonstrated how dynamic data can be communicated to a server using a `GET` request without needing a request body, which is a common pattern for search, filtering, and deep linking.
+* The re-emphasis on key/value pairs is beneficial, as this pattern is fundamental to many data exchange formats beyond just query strings.
+
+##### Personal Reflections
+* Understanding query strings is a crucial step in comprehending how interactive and data-driven web pages function, moving beyond just static HTML content.
+
+---

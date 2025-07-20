@@ -1493,4 +1493,29 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 216: QUERY STRING
+
+### Course Step Number: 216
+### Date Completed: 2025-07-20
+
+### Objective:
+* To understand the concept and format of a URL query string.
+* To learn how query strings are used to pass key/value pair data with HTTP GET requests to server-side programs.
+
+### Core Course Concepts:
+* Definition and structure of query strings.
+* Key/value pair format (`[key]=[value]`, separated by `&`).
+* Integration of query strings into the GET request's Start Line for dynamic data retrieval.
+
+### Relevant Files:
+* N/A
+
+### Reflection/Learning Note:
+* This step clarified how additional, dynamic data is passed to a web server within a GET request's URL, enabling specific data retrieval from server-side programs.
+
+### Independent Research & Best Practices:
+* Gained a solid understanding of the query string syntax and its practical application for filtering or specifying resources.
+
+---
+
 

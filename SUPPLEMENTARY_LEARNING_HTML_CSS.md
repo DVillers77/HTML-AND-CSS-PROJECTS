@@ -1484,3 +1484,23 @@ These entries summarize key discussions and independent research insights from s
 * This step further cemented the understanding of HTTP messages as structured queries from the client to the server, with each part playing a crucial role in defining the request.
 
 ---
+
+#### HTTP VERBS - commands for server actions
+
+### Course Step Number: 212
+### Date Researched: 2025-07-19
+
+##### Key Concepts / Summary
+* **Definition:** HTTP "verbs" (also known as "methods") are explicit commands within the "Start Line" of an HTTP request, dictating the action the server should perform on the requested resource.
+* **Resource-Oriented:** Similar to grammatical verbs having a subject, HTTP verbs act upon a specified resource (e.g., "GET this resource," "PUT this resource," "POST this resource").
+* **Common Verbs:** `GET`, `PUT`, `POST` are the most frequently used.
+* **Terminology:** "HTTP verbs" and "HTTP methods" are interchangeable terms, though "method" is technically more precise (referring to a subprogram).
+
+##### Independent Research / Notable Discoveries
+* This lesson reinforces the active role of the client in specifying the desired server behavior through concise, standardized commands.
+* Understanding these verbs is foundational for designing and debugging web interactions, particularly when dealing with data retrieval (`GET`) versus data submission/modification (`POST`, `PUT`).
+
+##### Personal Reflections
+* The analogy to grammatical verbs helps to intuitively grasp the function of HTTP verbs, making it easier to remember their purpose in directing server actions on resources.
+
+---

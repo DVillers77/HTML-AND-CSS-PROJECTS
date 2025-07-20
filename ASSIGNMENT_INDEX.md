@@ -1394,4 +1394,30 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 212: HTTP VERBS
+
+### Course Step Number: 212
+### Date Completed: 2025-07-19
+
+### Objective:
+* To define HTTP verbs (methods) as commands within a request message.
+* To understand their role in controlling server actions on a resource.
+* To identify common HTTP verbs (GET, PUT, POST).
+
+### Core Course Concepts:
+* Function and placement of HTTP verbs/methods in request messages.
+* Analogy to grammatical verbs and their relationship to resources.
+* Interchangeability of "verb" and "method" terminology.
+
+### Relevant Files:
+* N/A
+
+### Reflection/Learning Note:
+* This step clarified that HTTP verbs are precise, one-word commands that dictate how a server interacts with a specified resource, solidifying understanding of client intent in requests.
+
+### Independent Research & Best Practices:
+* Reconfirmed the synonymous nature of "HTTP verbs" and "HTTP methods."
+
+---
+
 

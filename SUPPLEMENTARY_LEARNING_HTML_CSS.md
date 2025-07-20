@@ -1414,3 +1414,28 @@ These entries summarize key discussions and independent research insights from s
 * Understanding the hierarchical relationship between the Internet, the Web, and HTTP clarifies the overall architecture of how information is accessed and displayed online.
 
 ---
+
+#### CLIENTS AND SERVERS - the HTTP request-response cycle
+
+### Course Step Number: 209
+### Date Researched: 2025-07-19
+
+##### Key Concepts / Summary
+* **Web Architecture:** The web operates on a client/server model.
+    * **Client (Browser):** Initiates requests for web resources.
+    * **Server (Web Server Program):** Provides requested resources, which can be static files (HTML, images) or dynamically generated content.
+* **HTTP Message Exchange:** Communication is facilitated by structured, text-based HTTP messages.
+* **The Request-Response Cycle:**
+    1.  **HTTP Request:** Client sends a message to the server, requesting a resource.
+    2.  **Server Processing:** Server identifies/generates the resource.
+    3.  **HTTP Response:** Server sends the resource (and possibly other data) back to the client.
+    4.  **Client Rendering:** Client parses the response and renders the visual interface.
+
+##### Independent Research / Notable Discoveries
+* The clarity of the request-response cycle provides a strong mental model for understanding how every interaction on the web fundamentally works, from a simple page load to complex data submissions.
+* The distinction between static and dynamic resources highlights the role of server-side programming in modern web applications.
+
+##### Personal Reflections
+* This step brought a fundamental understanding of the "behind-the-scenes" process that allows HTML and CSS to be displayed, connecting the code to the network layer.
+
+---

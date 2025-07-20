@@ -1321,4 +1321,29 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 209: CLIENTS AND SERVERS
+
+### Course Step Number: 209
+### Date Completed: 2025-07-19
+
+### Objective:
+* To understand the client-server architecture of the web.
+* To learn the cycle of HTTP request and response messages between client (browser) and server.
+
+### Core Course Concepts:
+* Client vs. Server roles in web communication.
+* Static vs. dynamic web resources.
+* The HTTP Request-Response cycle.
+
+### Relevant Files:
+* N/A
+
+### Reflection/Learning Note:
+* This step clarified the fundamental interaction between browsers and web servers, detailing how resources are requested, processed, and delivered via HTTP messages.
+
+### Independent Research & Best Practices:
+* Gained a deeper appreciation for the structured, message-based communication that underpins all web activity.
+
+---
+
 

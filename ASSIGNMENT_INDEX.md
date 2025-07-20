@@ -1902,4 +1902,28 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 232: QUIZ
+
+### Course Step Number: 232
+### Date Completed: 2025-07-20
+
+### Objective:
+* To complete the short quiz identifying valid HTTP methods/verbs.
+* To confirm understanding of the distinction between HTTP methods and HTML attributes.
+
+### Core Course Concepts:
+* Identification of common HTTP verbs (GET, POST, DELETE).
+* Differentiation between HTTP methods and HTML form attributes (e.g., `action`).
+
+### Relevant Files:
+* N/A (Quiz content)
+
+### Reflection/Learning Note:
+* Successfully passed the quiz, reinforcing the distinct roles of HTTP methods in web communication versus HTML attributes used in form definitions.
+
+### Independent Research & Best Practices:
+* Solidified the understanding that while HTML `form` elements configure how data is sent, the *actual* methods used in the HTTP request are a distinct set of verbs.
+
+---
+
 

@@ -1971,3 +1971,21 @@ These entries summarize key discussions and independent research insights from s
 * Getting back to direct HTML coding for forms makes the theoretical concepts of GET/POST requests very concrete. Understanding how user input translates into HTTP messages is a crucial connection.
 
 ---
+
+#### QUIZ - HTTP Methods vs. HTML Attributes
+
+### Course Step Number: 232
+### Date Researched: 2025-07-20
+
+##### Key Concepts / Summary
+* Completed a quiz focused on identifying valid HTTP methods.
+* Confirmed that `GET`, `POST`, and `DELETE` are standard HTTP methods/verbs.
+* Recognized that `ACTION` is an attribute of the HTML `<form>` tag, used to specify the submission URL, and is *not* an HTTP method.
+
+##### Independent Research / Notable Discoveries
+* The quiz served as a quick but effective check, highlighting the importance of precise terminology when discussing web protocols and client-side HTML.
+
+##### Personal Reflections
+* Understanding the exact roles of HTTP methods versus HTML attributes helps prevent conceptual confusion and is vital for accurate web development.
+
+---

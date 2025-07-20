@@ -1439,3 +1439,26 @@ These entries summarize key discussions and independent research insights from s
 * This step brought a fundamental understanding of the "behind-the-scenes" process that allows HTML and CSS to be displayed, connecting the code to the network layer.
 
 ---
+
+#### MESSAGE FORMAT - structure of HTTP messages
+
+### Course Step Number: 210
+### Date Researched: 2025-07-19
+
+##### Key Concepts / Summary
+* **Universal Format:** All HTTP messages (requests and responses) adhere to a consistent four-part structure.
+* **Four Sections (in exact order):**
+    1.  **"Start Line":** Describes the message's purpose or result.
+    2.  **"Headers":** Contains various attributes or metadata about the message.
+    3.  **[empty line]:** A mandatory blank line serving as a separator, indicating the end of the headers. Its presence is vital because the number of headers is variable.
+    4.  **"Body" (Optional):** Carries the actual data payload associated with the message.
+* **Contextual Use:** While the format is fixed, the specific content and interpretation of these sections vary depending on whether it's an HTTP Request or an HTTP Response.
+
+##### Independent Research / Notable Discoveries
+* The precise and strict formatting of HTTP messages (especially the empty line delimiter) highlights the machine-readable nature of web communication, ensuring reliable parsing by client and server software.
+* This detailed breakdown is foundational for understanding how HTTP works at a deeper level and will be essential for debugging and potentially constructing HTTP messages programmatically in the future.
+
+##### Personal Reflections
+* Learning the exact structure of HTTP messages reinforced the idea that web communication is highly organized and rule-bound, even though it appears seamless to the end-user. This detail is empowering for understanding network interactions.
+
+---

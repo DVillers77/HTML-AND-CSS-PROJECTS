@@ -1346,4 +1346,28 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 210: MESSAGE FORMAT
+
+### Course Step Number: 210
+### Date Completed: 2025-07-19
+
+### Objective:
+* To learn the standardized four-section format of HTTP messages (Start Line, Headers, empty line, Body).
+* To understand the purpose of each section and their fixed order.
+
+### Core Course Concepts:
+* HTTP message structure for both requests and responses.
+* Role of the empty line as a header-body separator.
+
+### Relevant Files:
+* N/A
+
+### Reflection/Learning Note:
+* This step clarified the precise, consistent format of HTTP messages, which is crucial for how clients and servers parse and interpret web communication.
+
+### Independent Research & Best Practices:
+* Understood the necessity of the empty line as a delimiter, given the variable number of header lines.
+
+---
+
 

@@ -1696,4 +1696,31 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 224: RESTFUL APIS
+
+### Course Step Number: 224
+### Date Completed: 2025-07-20
+
+### Objective:
+* To understand the core concept of using HTTP messages and verbs in an agreed-upon manner to build RESTful APIs.
+* To define "resources" in the context of RESTful systems (program objects).
+* To grasp how services and their functions are represented by URLs in a RESTful API.
+
+### Core Course Concepts:
+* Standardized application of HTTP for state transfer via APIs.
+* Redefinition of "resources" as program-level objects/entities.
+* URL structure for RESTful services and their functions/endpoints.
+* The RESTful mindset: "What resource and what action?"
+
+### Relevant Files:
+* N/A
+
+### Reflection/Learning Note:
+* This step deeply clarified how HTTP's existing functionalities are leveraged within the RESTful architectural style to manage the state of specific application-level "resources" (objects).
+
+### Independent Research & Best Practices:
+* Gained a solid understanding of the resource-oriented thinking fundamental to designing and interacting with RESTful web services.
+
+---
+
 

@@ -1784,3 +1784,26 @@ These entries summarize key discussions and independent research insights from s
 * This step provided a crucial bridge from the underlying HTTP protocol to the high-level design of web services that power modern applications, emphasizing the importance of well-defined communication methods.
 
 ---
+
+#### RESTFUL APIS - resources, services, and URLs
+
+### Course Step Number: 224
+### Date Researched: 2025-07-20
+
+##### Key Concepts / Summary
+* **RESTful API Goal:** Create APIs to access and modify resource state using HTTP messages and verbs in an **agreed-upon, standardized manner**.
+* **Program Services:** RESTful APIs expose functionalities of a program via "services" (e.g., `StudentService`).
+* **"Resources" Redefined:** In RESTful context, "resources" are the **objects or "things" a program manages** (e.g., "students"), not static web files.
+* **Service and Function URLs:** Services and their functions/endpoints are identified by URLs.
+    * Service example: `http://www.exampleschool.com/api/StudentService`.
+    * Function examples: `http://www.exampleschool.com/api/StudentService/Students` (collection), `http://www.exampleschool.com/api/StudentService/Student` (individual).
+* **RESTful Interaction Mindset:** "What **resource** am I concerned with, and what do I want to **do to that resource**?".
+
+##### Independent Research / Notable Discoveries
+* The emphasis on "agreed-upon manner" highlights the importance of API design conventions and documentation for interoperability.
+* The critical shift from file-based resources to abstract, program-level objects ("students," "orders," "products") is central to REST's power and flexibility.
+
+##### Personal Reflections
+* This step really solidified the concept of resource-oriented design in REST, making it clear how URLs map to logical entities that can be manipulated using HTTP verbs, rather than just executing remote procedures.
+
+---

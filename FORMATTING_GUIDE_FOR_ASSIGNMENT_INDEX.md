@@ -24,15 +24,26 @@ This document outlines the precise Markdown heading hierarchy and formatting con
 
 ## 4. Individual Assignment Entries (`####` H4)
 * **Purpose:** To serve as the primary title for each distinct assignment.
-* **Format:** Follows the "Course Step Number: [Number]" for clarity.
+* **Format:** Includes the Course Step Number directly in the title.
+* **Blank Lines:** Must be followed by a single blank line.
 * **Example:** `#### Step 180: CLASS ATTRIBUTE - Assigning Style to Elements`
 
 ---
 
 ## 5. Sections Within an Assignment Entry (`###` H3)
 * **Purpose:** To categorize fixed content fields within an individual assignment's entry.
-* **Examples:**
-    * `### Course Step Number:`
+* **Format:** Follows the `### [Section Name]:` format.
+* **Blank Lines:** Each `###` section should be preceded by a single blank line for readability.
+* **Note:** The redundant "Course Step Number" line is omitted as it's part of the main `####` title.
+* **Examples (showing blank lines):**
+    ```
+    #### Step 233: FORM ASSIGNMENT
+
+    ### Date Completed:
+    ```
+    (and subsequent sections like Objective, Core Course Concepts, etc., also preceded by a blank line.)
+
+* **Full list of sections:**
     * `### Date Completed:`
     * `### Objective:`
     * `### Core Course Concepts:`

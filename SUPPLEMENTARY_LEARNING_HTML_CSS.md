@@ -1688,3 +1688,26 @@ These entries summarize key discussions and independent research insights from s
 * This step clearly laid out the mechanisms for changing data on a web server, completing the basic set of verbs needed for full interaction with resources.
 
 ---
+
+#### DIFFERENCE BETWEEN PUT AND POST - understanding idempotence
+
+### Course Step Number: 220
+### Date Researched: 2025-07-20
+
+##### Key Concepts / Summary
+* **Idempotence (HTTP Context):** An operation that produces the **same result** regardless of how many times it is performed.
+* **PUT Verb is Idempotent:**
+    * Repeated `PUT` requests with the same data will result in the resource being in the same final state (e.g., updating a student's GPA multiple times with the same value results in one GPA value).
+    * Example HTTP Request: `PUT /admin/updateStudent` with `studentId=23&GPA=3.74` in the body.
+* **POST Verb is Non-Idempotent:**
+    * Repeated `POST` requests with the same data can result in **multiple, distinct resources** being created (e.g., creating multiple identical student records).
+    * Example HTTP Request: `POST /admin/createStudent` with `firstName=John&lastName=Doe` in the body.
+
+##### Independent Research / Notable Discoveries
+* The concept of idempotence is fundamental to designing reliable web services, as it informs how clients should interact with resources and how servers should process repeated requests.
+* Understanding this difference helps in selecting the semantically correct HTTP verb for various CRUD (Create, Read, Update, Delete) operations.
+
+##### Personal Reflections
+* This step provided a critical distinction that clarifies when to use PUT versus POST, moving beyond just "sending data" to considering the side effects of repeated operations.
+
+---

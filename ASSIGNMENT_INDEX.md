@@ -1594,4 +1594,29 @@ This file serves as a detailed index of **coding assignments** from the HTML & C
 
 ---
 
+#### Step 220: DIFFERENCE BETWEEN PUT AND POST
+
+### Course Step Number: 220
+### Date Completed: 2025-07-20
+
+### Objective:
+* To understand the concept of "idempotence" in the context of HTTP verbs.
+* To learn how idempotence distinguishes the PUT and POST methods.
+
+### Core Course Concepts:
+* Definition of idempotence (producing the same result multiple times).
+* PUT verb as an idempotent operation (replacement/update).
+* POST verb as a non-idempotent operation (creation, potentially multiple instances).
+
+### Relevant Files:
+* N/A
+
+### Reflection/Learning Note:
+* This step provided crucial insight into the "idempotence" of HTTP verbs, clearly differentiating PUT (idempotent, for replacing) from POST (non-idempotent, for creating new distinct resources).
+
+### Independent Research & Best Practices:
+* Gained a deeper understanding of the semantic meaning behind HTTP verbs, which is vital for designing robust and predictable web APIs.
+
+---
+
 

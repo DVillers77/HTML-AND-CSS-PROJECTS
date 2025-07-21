@@ -1970,4 +1970,27 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 235: CHROME ASSIGNMENT
+
+### Date Completed: 2025-07-20
+
+### Objective:
+* Delete specific Browse data from Google Chrome, including Browse history, download history, cookies and other site data, and cached images and files.
+* Understand the implications of deleting such data, particularly the potential need to re-log into websites.
+
+### Core Course Concepts:
+* Browser data management for privacy and performance.
+* Understanding the types of data stored by a web browser (history, cookies, cache).
+
+### Relevant Files:
+* No specific code files are relevant for this browser-based assignment.
+
+### Reflection/Learning Note:
+* This assignment reinforced the importance of routine browser maintenance for security and privacy. Deleting cached data is also a useful troubleshooting step for web development.
+
+### Independent Research & Best Practices:
+* Explored developer tools for more granular control over clearing site data and bypassing cache, which can be crucial during web development. `Ctrl + Shift + R` (Windows/Linux) or `Cmd + Shift + Shift + R` (Mac) for hard refresh is a good shortcut to remember.
+
+---
+
 

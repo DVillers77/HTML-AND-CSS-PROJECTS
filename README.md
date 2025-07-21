@@ -192,3 +192,6 @@ Successfully completed the "HTML SPACING CHALLENGE," creating an HTML webpage th
 
 #### 37. FORM ASSIGNMENT - creating a basic html form (Step 233)
 This assignment involved creating a basic HTML form to demonstrate understanding of the `<form>` tag and its associated input elements and attributes. The primary objective was to successfully create a form allowing user input and render it in a web browser, reinforcing the practical application of `<form>` and `<input>` tags, along with their `action`, `method`, `type`, `name`, and `value` attributes.
+
+#### 38. CHROME ASSIGNMENT - clearing browser data (Step 235)
+This assignment involved a practical exercise in managing the development environment by clearing specific Browse data (history, cookies, cache, etc.) in Google Chrome. This process is essential for maintaining privacy, optimizing browser performance, and troubleshooting caching issues during web development.

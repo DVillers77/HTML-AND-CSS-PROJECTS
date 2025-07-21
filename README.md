@@ -195,3 +195,6 @@ This assignment involved creating a basic HTML form to demonstrate understanding
 
 #### 38. CHROME ASSIGNMENT - clearing browser data (Step 235)
 This assignment involved a practical exercise in managing the development environment by clearing specific Browse data (history, cookies, cache, etc.) in Google Chrome. This process is essential for maintaining privacy, optimizing browser performance, and troubleshooting caching issues during web development.
+
+#### 39. FILE STRUCTURE ASSIGNMENT - confirming project setup (Step 240)
+This assignment served as a crucial checkpoint to verify that all necessary files and folders for "The Pet Shop Website" were correctly created and organized within the local repository, reinforcing diligent file management practices.

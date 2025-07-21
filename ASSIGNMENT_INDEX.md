@@ -2094,19 +2094,47 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 * Industry standard `index.html` as homepage.
 
 ### Relevant Files:
-* [The Pet Shop Website/index.html](The%20Pet%20Shop%20Website/index.html)
-* [The Pet Shop Website/contact.html](The%20Pet%20Shop%20Website/contact.html)
-* [The Pet Shop Website/images/](The%20Pet%20Shop%20Website/images/) (folder for downloaded assets)
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/images/](HTML-AND-CSS-PROJECTS/the-pet-shop-website/images/) (folder for downloaded assets)
 
 ### Reflection/Learning Note:
 * This video provided a comprehensive walkthrough of setting up a new HTML project, from file structure to basic page content. The emphasis on active coding and frequent saving was a good reinforcement. Creating the navigation bar and header demonstrated practical application of foundational HTML elements and semantic tagging. Understanding the role of `index.html` as a homepage standard is key.
 
 ### Independent Research & Best Practices:
 * Explored VS Code's `!` snippet for rapid HTML boilerplate generation to enhance efficiency.
-* Researched the "Live Preview" extension for VS Code, noting its benefit for automatic browser refreshing during development, which significantly improves the workflow. Confirmed functionality after correct usage.
+* Researched the "Live Preview" extension for VS Code, noting its benefit for automatic browser refreshing during development. Confirmed functionality after correct usage.
 * Re-affirmed the critical importance of relative file paths for project portability and asset management.
 * Continued to prioritize descriptive `alt` text for any images, building on previous lessons, especially relevant as images were downloaded for this project.
 * Adopted **Title Case** as a best practice for page titles, navigation link text, and header text for improved readability and professional consistency.
+
+---
+
+#### Step 240: FILE STRUCTURE ASSIGNMENT
+
+### Date Completed: 2025-07-21
+
+### Objective:
+* Confirm that all files and folders required for "The Pet Shop Website" from the previous video tutorial (Part 1) have been correctly created and are stored within the local repository.
+* Ensure proper project organization and asset placement.
+
+### Core Course Concepts:
+* File management and project structure validation.
+* Reinforcement of local repository usage and version control readiness.
+* Importance of checkpoints in multi-part assignments.
+
+### Relevant Files:
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/](HTML-AND-CSS-PROJECTS/the-pet-shop-website/) (main project folder)
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/images/](HTML-AND-CSS-PROJECTS/the-pet-shop-website/images/) (folder containing image assets)
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
+
+### Reflection/Learning Note:
+* This assignment served as a crucial checkpoint to ensure that all foundational files and folders for the "The Pet Shop Website" were correctly established and organized within the local repository following the first video tutorial. It highlighted the importance of diligent file management before proceeding to subsequent development stages.
+
+### Independent Research & Best Practices:
+* Reaffirmed the principle that robust file structure is foundational for scalable and maintainable web projects.
+* Emphasized that consistent adherence to specified folder/file hierarchies prevents common development issues like broken resource links.
 
 ---
 

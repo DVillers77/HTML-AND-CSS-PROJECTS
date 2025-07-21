@@ -2027,9 +2027,7 @@ It's helpful to have this explained upfront. Knowing that the course intentional
 
 ---
 
-### SUBSECTION F: BROWSER MANAGEMENT AND DEVELOPMENT ENVIRONMENT
-
-#### CHROME ASSIGNMENT - clearing browser data (Step 235)
+#### CHROME ASSIGNMENT - clearing browser data
 
 ### Course Step Number: 235
 ### Date Researched: 2025-07-20
@@ -2050,9 +2048,7 @@ While not directly HTML/CSS coding, this assignment provides valuable context fo
 
 ---
 
-### SUBSECTION G: DEVELOPMENT TOOLS AND ENVIRONMENT
-
-#### IDE - understanding integrated development environments (Step 236)
+#### IDE - understanding integrated development environments
 
 ### Course Step Number: 236
 ### Date Researched: 2025-07-20
@@ -2065,9 +2061,9 @@ This lesson introduced the concept of an Integrated Development Environment (IDE
 
 ##### Independent Research / Notable Discoveries
 * **Core Components:** Beyond the definition, explored core components commonly found in IDEs, such as:
-    * **Source Code Editor:** With features like syntax highlighting and intelligent code completion (IntelliSense).
-    * **Debugger:** For step-by-step code execution and variable inspection.
-    * **Version Control System (VCS) Integration:** Seamlessly interacting with Git/GitHub.
+    * **Source Code Editor:** With features like syntax highlighting and intelligent code completion (IntelliSense).
+    * **Debugger:** For step-by-step code execution and variable inspection.
+    * **Version Control System (VCS) Integration:** Seamlessly interacting with Git/GitHub.
 * **Benefits of IDEs:** Increased productivity, improved code quality through static analysis and refactoring tools, and simplified debugging.
 * **Accessibility Reminder:** The broken image in the lesson highlighted the importance of the `alt` attribute for images in HTML, which provides textual alternatives for screen readers and when images fail to load. This is a fundamental web accessibility best practice.
 
@@ -2079,9 +2075,7 @@ Understanding IDEs helps explain why VS Code, even though it starts as a text ed
 
 ---
 
-### SUBSECTION H: VS CODE ENVIRONMENT SETUP AND FEATURES
-
-#### VISUAL STUDIO CODE - transitioning to a powerful editor (Step 237)
+#### VISUAL STUDIO CODE - transitioning to a powerful editor
 
 ### Course Step Number: 237
 ### Date Researched: 2025-07-20
@@ -2104,9 +2098,7 @@ The transition to VS Code is a practical step forward, offering a more integrate
 
 ---
 
-### SUBSECTION I: HTML VIDEO TUTORIAL SERIES PREPARATION
-
-#### UPCOMING VIDEO TUTORIAL SERIES - preparing for hands-on HTML (Step 238)
+#### UPCOMING VIDEO TUTORIAL SERIES - preparing for hands-on HTML
 
 ### Course Step Number: 238
 ### Date Researched: 2025-07-20
@@ -2128,16 +2120,14 @@ This preparatory step highlights the transition to more hands-on coding. It's a 
 
 ---
 
-### SUBSECTION J: BUILDING A BASIC HTML WEBSITE
-
-#### CREATING A BASIC HTML WEBSITE PART 1 - project setup and foundational structure (Step 239)
+#### CREATING A BASIC HTML WEBSITE PART 1 - project setup and foundational structure
 
 ### Course Step Number: 239
 ### Date Researched: 2025-07-21
 
 ##### Key Concepts / Summary
 This lesson covered the initial setup of a "Pet Shop Website" project, focusing on HTML-only content. Key steps included:
-* Creating a project folder (`The Pet Shop Website`) and an `images` subfolder, then opening this structure in VS Code.
+* Creating a project folder (`the-pet-shop-website`) and an `images` subfolder, then opening this structure in VS Code.
 * Developing `index.html` and `contact.html` with basic HTML boilerplate (`<!DOCTYPE html>`, `<html>`, `<head>`, `<title>`, `<meta charset="UTF-8">`, `<body>`).
 * Implementing a navigation bar using semantic `<nav>` and an unordered list (`<ul>`, `<li>`) containing anchor tags (`<a>`) with `href` attributes pointing to `index.html` and `contact.html`.
 * Adding an HTML comment (``) for code organization.
@@ -2158,8 +2148,32 @@ This lesson covered the initial setup of a "Pet Shop Website" project, focusing 
 This hands-on lesson was crucial for reinforcing previous conceptual knowledge and building practical skills. The shift to VS Code's integrated features is already proving beneficial. The best practices around file organization, frequent saving, and understanding semantic HTML are becoming second nature, and the continuous reminder about accessibility, particularly with images, is deeply ingrained. Implementing a live server is a significant workflow improvement. The importance of consistent naming conventions for readability and professionalism has also been highlighted.
 
 ##### Relevant Files:
-* [The Pet Shop Website/index.html](The%20Pet%20Shop%20Website/index.html)
-* [The Pet Shop Website/contact.html](The%20Pet Shop Website/contact.html)
-* [The Pet Shop Website/images/](The%20Pet%20Shop%20Website/images/)
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/images/](HTML-AND-CSS-PROJECTS/the-pet-shop-website/images/)
+
+---
+
+#### FILE STRUCTURE ASSIGNMENT - confirming project setup
+
+### Course Step Number: 240
+### Date Researched: 2025-07-21
+
+##### Key Concepts / Summary
+This assignment focused on confirming that all necessary files and folders from the previous video tutorial ("CREATING A BASIC HTML WEBSITE PART 1") are correctly created and located within the local repository. It acts as a vital checkpoint to ensure the project's foundational structure is sound before proceeding with further development.
+
+##### Independent Research / Notable Discoveries
+* **Pre-requisite Validation:** This type of assignment is a common practice in development workflows to validate that all prerequisites are met, preventing errors and complications in later stages.
+* **Git Tracking:** Reconfirmed that while Git doesn't explicitly track empty folders, it implicitly tracks folder structure through the files contained within them.
+* **Project Integrity:** Maintaining correct file paths and organization is paramount for project integrity, especially as projects grows in complexity.
+
+##### Personal Reflections
+This step, though simple, underscored the importance of diligent file management and organization. It served as a good reminder to always verify that project assets and code files are correctly placed and tracked by version control, reinforcing a habit that will undoubtedly prevent future headaches.
+
+##### Relevant Files:
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/](HTML-AND-CSS-PROJECTS/the-pet-shop-website/) (main project folder)
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/images/](HTML-AND-CSS-PROJECTS/the-pet-shop-website/images/)
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
 
 ---

@@ -2152,8 +2152,8 @@ This lesson covered the initial setup of a "Pet Shop Website" project, focusing 
 This hands-on lesson was crucial for reinforcing previous conceptual knowledge and building practical skills. The shift to VS Code's integrated features is already proving beneficial. The best practices around file organization, frequent saving, and understanding semantic HTML are becoming second nature, and the continuous reminder about accessibility, particularly with images, is deeply ingrained. Implementing a live server is a significant workflow improvement. The importance of consistent naming conventions for readability and professionalism has also been highlighted.
 
 ##### Relevant Files:
-* [index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
-* [contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
+* [index.html](the-pet-shop-website/index.html)
+* [contact.html](the-pet-shop-website/contact.html)
 
 ---
 
@@ -2174,8 +2174,8 @@ This assignment focused on confirming that all necessary files and folders from 
 This step, though simple, underscored the importance of diligent file management and organization. It served as a good reminder to always verify that project assets and code files are correctly placed and tracked by version control, reinforcing a habit that will undoubtedly prevent future headaches.
 
 ##### Relevant Files:
-* [index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
-* [contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
+* [index.html](the-pet-shop-website/index.html)
+* [contact.html](the-pet-shop-website/contact.html)
 
 ---
 
@@ -2211,7 +2211,7 @@ The process of building out the footer with a table was a good practical exercis
 * **Future Consistency for Shared Components:** The video had you copy and paste the header and footer. As your projects grow, consider how frameworks or server-side rendering help manage these repeated elements more efficiently. For instance, in real-world scenarios, you wouldn't copy-paste a header to 100 pages; you'd have a single header file that's "included" or "templated" into each page, making updates much simpler. This video teaches the foundational HTML, and these tools build upon that.
 
 ##### Relevant Files:
-* [index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
-* [contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
+* [index.html](the-pet-shop-website/index.html)
+* [contact.html](the-pet-shop-website/contact.html)
 
 ---

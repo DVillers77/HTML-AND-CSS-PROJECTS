@@ -2094,8 +2094,8 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 * Industry standard `index.html` as homepage.
 
 ### Relevant Files:
-* [index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
-* [contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
+* [index.html](the-pet-shop-website/index.html)
+* [contact.html](the-pet-shop-website/contact.html)
 
 ### Reflection/Learning Note:
 * This video provided a comprehensive walkthrough of setting up a new HTML project, from file structure to basic page content. The emphasis on active coding and frequent saving was a good reinforcement. Creating the navigation bar and header demonstrated practical application of foundational HTML elements and semantic tagging. Understanding the role of `index.html` as a homepage standard is key.
@@ -2124,8 +2124,8 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 * Importance of checkpoints in multi-part assignments.
 
 ### Relevant Files:
-* [index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
-* [contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
+* [index.html](the-pet-shop-website/index.html)
+* [contact.html](the-pet-shop-website/contact.html)
 
 ### Reflection/Learning Note:
 * This assignment served as a crucial checkpoint to ensure that all foundational files and folders for the "The Pet Shop Website" were correctly established and organized within the local repository following the first video tutorial. It highlighted the importance of diligent file management before proceeding to subsequent development stages.
@@ -2160,8 +2160,8 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 * Nested `div`s for structural grouping.
 
 ### Relevant Files:
-* [index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
-* [contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
+* [index.html](the-pet-shop-website/index.html)
+* [contact.html](the-pet-shop-website/contact.html)
 
 ### Reflection/Learning Note:
 * This lesson significantly advanced the practical website building. Creating shared headers/footers for consistency is crucial for larger sites. The introduction to HTML entities and image handling with `alt` attributes emphasized both functionality and accessibility, which are core web development principles.

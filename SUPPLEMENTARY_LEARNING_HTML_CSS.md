@@ -2028,7 +2028,6 @@ It's helpful to have this explained upfront. Knowing that the course intentional
 ---
 
 #### CHROME ASSIGNMENT - clearing browser data
-#### CHROME ASSIGNMENT - clearing browser data
 
 ### Course Step Number: 235
 ### Date Researched: 2025-07-20
@@ -2049,7 +2048,6 @@ While not directly HTML/CSS coding, this assignment provides valuable context fo
 
 ---
 
-#### IDE - understanding integrated development environments
 #### IDE - understanding integrated development environments
 
 ### Course Step Number: 236
@@ -2081,7 +2079,6 @@ Understanding IDEs helps explain why VS Code, even though it starts as a text ed
 ---
 
 #### VISUAL STUDIO CODE - transitioning to a powerful editor
-#### VISUAL STUDIO CODE - transitioning to a powerful editor
 
 ### Course Step Number: 237
 ### Date Researched: 2025-07-20
@@ -2105,7 +2102,6 @@ The transition to VS Code is a practical step forward, offering a more integrate
 ---
 
 #### UPCOMING VIDEO TUTORIAL SERIES - preparing for hands-on HTML
-#### UPCOMING VIDEO TUTORIAL SERIES - preparing for hands-on HTML
 
 ### Course Step Number: 238
 ### Date Researched: 2025-07-20
@@ -2127,7 +2123,6 @@ This preparatory step highlights the transition to more hands-on coding. It's a 
 
 ---
 
-#### CREATING A BASIC HTML WEBSITE PART 1 - project setup and foundational structure
 #### CREATING A BASIC HTML WEBSITE PART 1 - project setup and foundational structure
 
 ### Course Step Number: 239
@@ -2157,9 +2152,8 @@ This lesson covered the initial setup of a "Pet Shop Website" project, focusing 
 This hands-on lesson was crucial for reinforcing previous conceptual knowledge and building practical skills. The shift to VS Code's integrated features is already proving beneficial. The best practices around file organization, frequent saving, and understanding semantic HTML are becoming second nature, and the continuous reminder about accessibility, particularly with images, is deeply ingrained. Implementing a live server is a significant workflow improvement. The importance of consistent naming conventions for readability and professionalism has also been highlighted.
 
 ##### Relevant Files:
-* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
-* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
-* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/images/](HTML-AND-CSS-PROJECTS/the-pet-shop-website/images/)
+* [index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
+* [contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
 
 ---
 
@@ -2180,10 +2174,8 @@ This assignment focused on confirming that all necessary files and folders from 
 This step, though simple, underscored the importance of diligent file management and organization. It served as a good reminder to always verify that project assets and code files are correctly placed and tracked by version control, reinforcing a habit that will undoubtedly prevent future headaches.
 
 ##### Relevant Files:
-* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/](HTML-AND-CSS-PROJECTS/the-pet-shop-website/) (main project folder)
-* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/images/](HTML-AND-CSS-PROJECTS/the-pet-shop-website/images/)
-* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
-* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
+* [index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
+* [contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
 
 ---
 
@@ -2219,8 +2211,7 @@ The process of building out the footer with a table was a good practical exercis
 * **Future Consistency for Shared Components:** The video had you copy and paste the header and footer. As your projects grow, consider how frameworks or server-side rendering help manage these repeated elements more efficiently. For instance, in real-world scenarios, you wouldn't copy-paste a header to 100 pages; you'd have a single header file that's "included" or "templated" into each page, making updates much simpler. This video teaches the foundational HTML, and these tools build upon that.
 
 ##### Relevant Files:
-* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
-* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
-* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/images/](HTML-AND-CSS-PROJECTS/the-pet-shop-website/images/)
+* [index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
+* [contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
 
 ---

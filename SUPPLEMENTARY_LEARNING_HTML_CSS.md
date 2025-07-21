@@ -2127,3 +2127,39 @@ This preparatory step highlights the transition to more hands-on coding. It's a 
 * No specific code files were created or modified as part of this preparatory step.
 
 ---
+
+### SUBSECTION J: BUILDING A BASIC HTML WEBSITE
+
+#### CREATING A BASIC HTML WEBSITE PART 1 - project setup and foundational structure (Step 239)
+
+### Course Step Number: 239
+### Date Researched: 2025-07-21
+
+##### Key Concepts / Summary
+This lesson covered the initial setup of a "Pet Shop Website" project, focusing on HTML-only content. Key steps included:
+* Creating a project folder (`The Pet Shop Website`) and an `images` subfolder, then opening this structure in VS Code.
+* Developing `index.html` and `contact.html` with basic HTML boilerplate (`<!DOCTYPE html>`, `<html>`, `<head>`, `<title>`, `<meta charset="UTF-8">`, `<body>`).
+* Implementing a navigation bar using semantic `<nav>` and an unordered list (`<ul>`, `<li>`) containing anchor tags (`<a>`) with `href` attributes pointing to `index.html` and `contact.html`.
+* Adding an HTML comment (``) for code organization.
+* Including a main header section with `<header>`, `<div>`, and `<h1>` elements.
+* Practicing VS Code features like saving, running active files, and split-screen viewing.
+* Understanding `index.html` as the default homepage.
+
+##### Independent Research / Notable Discoveries
+* **Semantic HTML Benefits:** Deeper understanding of `<nav>` and `<header>` tags for accessibility and SEO, providing structural meaning beyond just styling.
+* **`UTF-8` Encoding:** Confirmed `UTF-8` as the standard character encoding for broad character support.
+* **Relative File Paths:** Solidified understanding of how `href` uses relative paths for linking within the same project directory, crucial for project portability.
+* **VS Code Snippets:** Discovered the `!` + `Tab` shortcut in VS Code for quickly generating the HTML5 boilerplate, greatly increasing efficiency.
+* **Live Preview Extension:** Identified "Live Preview" as a valuable VS Code extension that provides automatic browser reloading on file saves, significantly speeding up the development cycle. This is a highly recommended tool for web development.
+* **Proactive Accessibility:** Continual reinforcement of providing descriptive `alt` text for all images, building on previous lessons, especially relevant as new image assets are being integrated.
+* **Naming Conventions:** Established a personal best practice to use **Title Case** for visible text elements such as page titles, navigation link text, and header text, for consistency and professional appearance.
+
+##### Personal Reflections
+This hands-on lesson was crucial for reinforcing previous conceptual knowledge and building practical skills. The shift to VS Code's integrated features is already proving beneficial. The best practices around file organization, frequent saving, and understanding semantic HTML are becoming second nature, and the continuous reminder about accessibility, particularly with images, is deeply ingrained. Implementing a live server is a significant workflow improvement. The importance of consistent naming conventions for readability and professionalism has also been highlighted.
+
+##### Relevant Files:
+* [The Pet Shop Website/index.html](The%20Pet%20Shop%20Website/index.html)
+* [The Pet Shop Website/contact.html](The%20Pet Shop Website/contact.html)
+* [The Pet Shop Website/images/](The%20Pet%20Shop%20Website/images/)
+
+---

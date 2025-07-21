@@ -2073,4 +2073,41 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 239: CREATING A BASIC HTML WEBSITE PART 1 VIDEO
+
+### Date Completed: 2025-07-21
+
+### Objective:
+* Set up the foundational project structure for "The Pet Shop Website" including main and image folders.
+* Create `index.html` and `contact.html` with standard HTML boilerplate.
+* Implement a basic navigation bar (`<nav>`, `<ul>`, `<li>`, `<a>` with `href`).
+* Add a main header section (`<header>`, `<div>`, `<h1>`).
+* Practice core VS Code workflows: opening folders, saving files, using split-screen, and running HTML files.
+
+### Core Course Concepts:
+* HTML document structure: `<!DOCTYPE html>`, `<html>`, `<head>`, `<title>`, `<meta charset>`, `<body>`.
+* Semantic HTML5 elements: `<nav>`, `<header>`.
+* List elements: `<ul>`, `<li>`.
+* Hyperlinks: `<a>` tag and `href` attribute for relative file paths.
+* HTML comments for code readability.
+* VS Code file management, saving, and basic execution.
+* Industry standard `index.html` as homepage.
+
+### Relevant Files:
+* [The Pet Shop Website/index.html](The%20Pet%20Shop%20Website/index.html)
+* [The Pet Shop Website/contact.html](The%20Pet%20Shop%20Website/contact.html)
+* [The Pet Shop Website/images/](The%20Pet%20Shop%20Website/images/) (folder for downloaded assets)
+
+### Reflection/Learning Note:
+* This video provided a comprehensive walkthrough of setting up a new HTML project, from file structure to basic page content. The emphasis on active coding and frequent saving was a good reinforcement. Creating the navigation bar and header demonstrated practical application of foundational HTML elements and semantic tagging. Understanding the role of `index.html` as a homepage standard is key.
+
+### Independent Research & Best Practices:
+* Explored VS Code's `!` snippet for rapid HTML boilerplate generation to enhance efficiency.
+* Researched the "Live Preview" extension for VS Code, noting its benefit for automatic browser refreshing during development, which significantly improves the workflow. Confirmed functionality after correct usage.
+* Re-affirmed the critical importance of relative file paths for project portability and asset management.
+* Continued to prioritize descriptive `alt` text for any images, building on previous lessons, especially relevant as images were downloaded for this project.
+* Adopted **Title Case** as a best practice for page titles, navigation link text, and header text for improved readability and professional consistency.
+
+---
+
 

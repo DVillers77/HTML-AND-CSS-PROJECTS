@@ -2097,12 +2097,16 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 * [HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
 * [HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
 * [HTML-AND-CSS-PROJECTS/the-pet-shop-website/images/](HTML-AND-CSS-PROJECTS/the-pet-shop-website/images/) (folder for downloaded assets)
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/images/](HTML-AND-CSS-PROJECTS/the-pet-shop-website/images/) (folder for downloaded assets)
 
 ### Reflection/Learning Note:
 * This video provided a comprehensive walkthrough of setting up a new HTML project, from file structure to basic page content. The emphasis on active coding and frequent saving was a good reinforcement. Creating the navigation bar and header demonstrated practical application of foundational HTML elements and semantic tagging. Understanding the role of `index.html` as a homepage standard is key.
 
 ### Independent Research & Best Practices:
 * Explored VS Code's `!` snippet for rapid HTML boilerplate generation to enhance efficiency.
+* Researched the "Live Preview" extension for VS Code, noting its benefit for automatic browser refreshing during development. Confirmed functionality after correct usage.
 * Researched the "Live Preview" extension for VS Code, noting its benefit for automatic browser refreshing during development. Confirmed functionality after correct usage.
 * Re-affirmed the critical importance of relative file paths for project portability and asset management.
 * Continued to prioritize descriptive `alt` text for any images, building on previous lessons, especially relevant as images were downloaded for this project.

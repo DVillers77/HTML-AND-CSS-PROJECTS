@@ -2028,6 +2028,7 @@ It's helpful to have this explained upfront. Knowing that the course intentional
 ---
 
 #### CHROME ASSIGNMENT - clearing browser data
+#### CHROME ASSIGNMENT - clearing browser data
 
 ### Course Step Number: 235
 ### Date Researched: 2025-07-20
@@ -2049,6 +2050,7 @@ While not directly HTML/CSS coding, this assignment provides valuable context fo
 ---
 
 #### IDE - understanding integrated development environments
+#### IDE - understanding integrated development environments
 
 ### Course Step Number: 236
 ### Date Researched: 2025-07-20
@@ -2064,6 +2066,9 @@ This lesson introduced the concept of an Integrated Development Environment (IDE
     * **Source Code Editor:** With features like syntax highlighting and intelligent code completion (IntelliSense).
     * **Debugger:** For step-by-step code execution and variable inspection.
     * **Version Control System (VCS) Integration:** Seamlessly interacting with Git/GitHub.
+    * **Source Code Editor:** With features like syntax highlighting and intelligent code completion (IntelliSense).
+    * **Debugger:** For step-by-step code execution and variable inspection.
+    * **Version Control System (VCS) Integration:** Seamlessly interacting with Git/GitHub.
 * **Benefits of IDEs:** Increased productivity, improved code quality through static analysis and refactoring tools, and simplified debugging.
 * **Accessibility Reminder:** The broken image in the lesson highlighted the importance of the `alt` attribute for images in HTML, which provides textual alternatives for screen readers and when images fail to load. This is a fundamental web accessibility best practice.
 
@@ -2075,6 +2080,7 @@ Understanding IDEs helps explain why VS Code, even though it starts as a text ed
 
 ---
 
+#### VISUAL STUDIO CODE - transitioning to a powerful editor
 #### VISUAL STUDIO CODE - transitioning to a powerful editor
 
 ### Course Step Number: 237
@@ -2099,6 +2105,7 @@ The transition to VS Code is a practical step forward, offering a more integrate
 ---
 
 #### UPCOMING VIDEO TUTORIAL SERIES - preparing for hands-on HTML
+#### UPCOMING VIDEO TUTORIAL SERIES - preparing for hands-on HTML
 
 ### Course Step Number: 238
 ### Date Researched: 2025-07-20
@@ -2121,12 +2128,14 @@ This preparatory step highlights the transition to more hands-on coding. It's a 
 ---
 
 #### CREATING A BASIC HTML WEBSITE PART 1 - project setup and foundational structure
+#### CREATING A BASIC HTML WEBSITE PART 1 - project setup and foundational structure
 
 ### Course Step Number: 239
 ### Date Researched: 2025-07-21
 
 ##### Key Concepts / Summary
 This lesson covered the initial setup of a "Pet Shop Website" project, focusing on HTML-only content. Key steps included:
+* Creating a project folder (`the-pet-shop-website`) and an `images` subfolder, then opening this structure in VS Code.
 * Creating a project folder (`the-pet-shop-website`) and an `images` subfolder, then opening this structure in VS Code.
 * Developing `index.html` and `contact.html` with basic HTML boilerplate (`<!DOCTYPE html>`, `<html>`, `<head>`, `<title>`, `<meta charset="UTF-8">`, `<body>`).
 * Implementing a navigation bar using semantic `<nav>` and an unordered list (`<ul>`, `<li>`) containing anchor tags (`<a>`) with `href` attributes pointing to `index.html` and `contact.html`.

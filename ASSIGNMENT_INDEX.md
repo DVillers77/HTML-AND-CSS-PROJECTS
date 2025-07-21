@@ -2046,4 +2046,31 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 238: UPCOMING VIDEO TUTORIAL SERIES
+
+### Date Completed: 2025-07-20
+
+### Objective:
+* Prepare for an upcoming four-part HTML tutorial video series.
+* Understand the directive to write all code covered in the videos.
+* Download necessary image assets for the subsequent assignments within the series.
+
+### Core Course Concepts:
+* Preparation for hands-on coding and adherence to tutorial instructions.
+* Asset management (downloading and organizing images).
+* Introduction to a multi-part learning module.
+
+### Relevant Files:
+* No specific code files are relevant for this preparatory step. Image assets are to be downloaded but not yet incorporated into code.
+
+### Reflection/Learning Note:
+* This step sets the stage for a new learning module focused on HTML through video tutorials. The emphasis on actively writing code rather than passively consuming content is crucial for effective learning. It also highlights the practical aspect of gathering and organizing project assets.
+
+### Independent Research & Best Practices:
+* Considered best practices for engaging with video tutorials, such as active coding, pausing for experimentation, and maintaining logical folder structures for code and assets.
+* Reinforced the importance of immediately applying web accessibility standards, particularly providing meaningful `alt` text for all images.
+* Reviewed atomic commit practices for breaking down progress during multi-part assignments.
+
+---
+
 

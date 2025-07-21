@@ -2019,4 +2019,31 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 237: VISUAL STUDIO CODE
+
+### Date Completed: 2025-07-20
+
+### Objective:
+* Understand the transition from Notepad++ to Visual Studio Code (VS Code) as the primary code editor.
+* Identify key features of VS Code, such as IntelliSense, and the reasons for its adoption in the curriculum.
+* Reinforce awareness of web accessibility best practices, specifically the need for alt text for images, highlighted by issues in course material.
+
+### Core Course Concepts:
+* Code Editor vs. IDE: differentiation and capabilities.
+* Visual Studio Code: features (e.g., IntelliSense), benefits, and role as an introductory IDE.
+* Importance of gaining experience with multiple development environments.
+
+### Relevant Files:
+* No specific code files are relevant for this conceptual lesson regarding development tools.
+
+### Reflection/Learning Note:
+* This lesson marked a significant shift to Visual Studio Code, emphasizing its advanced features like IntelliSense, which will greatly assist in coding. The rationale for learning multiple editors and IDEs for future career flexibility is well understood. The recurring issue of broken images without alt text in the lesson material serves as a consistent reminder for personal application of accessibility best practices in web development.
+
+### Independent Research & Best Practices:
+* Explored VS Code's extensive extension marketplace and its cross-platform compatibility, further solidifying its utility as a primary development tool.
+* Reviewed the benefits of VS Code's integrated terminal and robust Git integration, which streamline the development workflow significantly.
+* Re-affirmed the importance of including `alt` attributes for all images in HTML for accessibility and as a fallback.
+
+---
+
 

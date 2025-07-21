@@ -2142,4 +2142,35 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 242: CREATING A BASIC HTML WEBSITE PART 2 VIDEO
+
+### Date Completed: 2025-07-21
+
+### Objective:
+* Add a consistent header and footer to both `index.html` and `contact.html`.
+* Implement basic table structure for footer content (copyright, address, phone).
+* Learn and use HTML entities for special characters.
+* Integrate images into HTML using the `<img>` tag with `src` and `alt` attributes.
+* Utilize `section` and nested `div` elements for content organization.
+
+### Core Course Concepts:
+* `<footer>`, `<table>`, `<tr>`, `<td>` elements.
+* HTML entities (e.g., `&copy;`).
+* `<img>` tag, `src` attribute, `alt` attribute.
+* Relative file paths.
+* Semantic HTML (`<section>`).
+* Nested `div`s for structural grouping.
+
+### Relevant Files:
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/index.html)
+* [HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html](HTML-AND-CSS-PROJECTS/the-pet-shop-website/contact.html)
+
+### Reflection/Learning Note:
+* This lesson significantly advanced the practical website building. Creating shared headers/footers for consistency is crucial for larger sites. The introduction to HTML entities and image handling with `alt` attributes emphasized both functionality and accessibility, which are core web development principles.
+
+### Independent Research & Best Practices:
+* Explored different types of HTML entities. Reinforced the importance of `alt` text and relative paths. Understood the structural benefits of `section` and nested `div`s, anticipating their role in CSS layouts.
+
+---
+
 

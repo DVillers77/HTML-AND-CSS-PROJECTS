@@ -3010,3 +3010,22 @@ This step involved the hands-on coding of the one-page website, `one_page_websit
 * **Centralizing Main Content:** Consider wrapping the primary content sections (images, video) within a `<main>` tag for semantic clarity.
 
 ---
+
+#### ONE-PAGE WEBSITE GITHUB SUBMISSION ASSIGNMENT
+
+### Course Step Number: 270
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+This step concluded the "One-Page Website" assignment by requiring the student to push their newly created "One-Page Website" project folder to the specified "HTML-AND-CSS-PROJECTS" GitHub repository and submit the repository's URL. This task serves as a practical exercise in applying Git and GitHub for project version control and demonstrates the ability to prepare and submit a completed web project.
+
+##### Independent Research / Notable Discoveries
+* **Git `push` command:** Reviewed the `git push origin main` command (or `git push origin master` depending on repository setup) as the standard method for uploading local commits to a remote GitHub repository.
+* **Repository Visibility:** Recalled the importance of repository visibility settings (public/private) on GitHub, ensuring the submitted link would be accessible for review.
+
+##### Learning Enhancements
+* **Commit History Review (Best Practice):** Before pushing for submission, it's good practice to review your `git log` to ensure all relevant changes are committed and commit messages are clear and descriptive.
+* **Remote Repository Verification (Tip):** After a `git push`, always navigate to the GitHub repository URL in a web browser to visually confirm that the "One-Page Website" folder and its contents (including the HTML file and `images` folder) have been successfully uploaded.
+* **README for Project Context:** While not explicitly asked for this step, a well-written `README.md` *within* the "One-Page Website" folder itself (describing that specific project) would be a good practice for larger, independent projects, providing immediate context for anyone viewing the repository.
+
+---

@@ -219,3 +219,6 @@ Initialized the "One-Page Website" project by creating its dedicated folder and 
 
 #### 46. ONE-PAGE WEBSITE BUILD (Step 269)
 Initiated the coding of the one-page website, implementing all minimum project requirements by adapting and modifying elements from previous HTML files.
+
+#### 47. ONE-PAGE WEBSITE GITHUB SUBMISSION (Step 270)
+Successfully pushed the "One-Page Website" folder to the GitHub repository, marking the project's submission.

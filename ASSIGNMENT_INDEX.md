@@ -2591,7 +2591,7 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
-#### Step 259: ALT TAGS ASSIGNMENT
+#### Step 260: ALT TAGS ASSIGNMENT
 
 ### Date Completed: 2025-07-22
 

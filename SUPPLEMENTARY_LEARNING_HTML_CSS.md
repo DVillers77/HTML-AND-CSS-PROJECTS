@@ -2727,7 +2727,7 @@ This step involved completing a quiz designed to test understanding of the PNG (
 
 #### ALT TAGS ASSIGNMENT
 
-### Course Step Number: 259
+### Course Step Number: 260
 ### Date Researched: 2025-07-22
 
 ##### Key Concepts / Summary

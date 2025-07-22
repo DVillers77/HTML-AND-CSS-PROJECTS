@@ -2403,3 +2403,75 @@ This lesson established the crucial concept of **semantic HTML**. Semantic eleme
 * **Microdata and Schema.org Integration (Advanced Concept/Future Learning):** Semantic HTML can be further enhanced with Microdata, RDFa, or JSON-LD using vocabularies like Schema.org. This allows you to add even more specific, machine-readable information (e.g., the author of an article, the rating of a product) directly into your HTML, which search engines use to create rich snippets in search results. This is a powerful extension of semantic HTML.
 
 ---
+
+#### VIDEO AND AUDIO TAGS
+
+### Course Step Number: 251
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+This lesson introduced the `<video>` HTML tag, providing a native and powerful method for embedding video content directly within a webpage, distinct from embedding services like YouTube. Key attributes covered include `width` and `height` for dimension control, and the `controls` attribute to display built-in playback controls. The crucial aspect of providing multiple video formats (like MP4 and Ogg) via nested `<source>` tags was highlighted, allowing the browser to select the first supported format. Fallback content placed within the `<video>` tag ensures a message is displayed if the browser does not support the tag or formats. The lesson also briefly touched upon the technical details of MP4 and Ogg video formats.
+
+##### Independent Research / Notable Discoveries
+* **The `<audio>` Tag - A Sibling:** The `<audio>` tag was identified as the direct counterpart to `<video>`, designed specifically for embedding sound content. It shares many attributes and the `<source>` element for format fallbacks (e.g., MP3, Ogg Vorbis, WAV).
+* **Codec Fragmentation and Browser Support:** The necessity of providing multiple `<source>` elements stems from historical and ongoing differences in browser support for various video and audio codecs (the software that compresses/decompresses media). For instance, while MP4 (H.264) is ubiquitous, including WebM (VP8/VP9/Opus) and Ogg (Theora/Vorbis) offers more robust cross-browser compatibility.
+* **Additional `<video>` Attributes:** Explored other useful attributes like `autoplay` (starts video automatically, often requires `muted`), `loop` (repeats video playback), and `poster` (specifies an image to show before the video starts).
+* **JavaScript Media API:** Discovered that HTML5 media elements (`<video>` and `<audio>`) expose an extensive JavaScript API, allowing developers to build custom playback controls, manipulate media playback (play, pause, seek), monitor events (e.g., `play`, `pause`, `ended`), and track progress. This offers much more flexibility than just the `controls` attribute.
+
+##### Learning Enhancements
+* **Responsive Video Implementation (Modernization & Best Practice):** Fixed `width` and `height` attributes can lead to non-responsive videos. The modern approach involves using CSS to ensure videos scale fluidly across different screen sizes while maintaining their aspect ratio.
+    * **CSS Snippet for Basic Responsiveness:**
+    ```css
+    video {
+      max-width: 100%; /* Ensures video does not overflow its parent container */
+      height: auto;    /* Maintains the video's original aspect ratio */
+      display: block;  /* Removes extra space below video */
+    }
+    ```
+    * **CSS Snippet for Specific Aspect Ratio (e.g., 16:9):**
+    ```css
+    .video-container {
+      position: relative;
+      padding-bottom: 56.25%; /* 16:9 aspect ratio (9 / 16 * 100) */
+      height: 0; /* Important for padding-bottom to work as intended */
+      overflow: hidden; /* Hides content outside the aspect ratio box */
+      max-width: 100%;
+    }
+    .video-container video,
+    .video-container iframe { /* Applies to both video and embedded iframes */
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+    ```
+* **Modern Video Formats (Best Practice):** For optimal browser compatibility and performance, always include **WebM** as the first `<source>` option, followed by MP4, and then Ogg. WebM generally offers better compression and quality.
+    * **Example Code:**
+    ```html
+    <video controls poster="my-video-poster.jpg">
+      <source src="my-video.webm" type="video/webm">
+      <source src="my-video.mp4" type="video/mp4">
+      <source src="my-video.ogg" type="video/ogg">
+      <p>Your browser does not support the video tag. Please consider upgrading to a modern browser.</p>
+    </video>
+    ```
+* **Accessibility for Media (Crucial Best Practice):**
+    * **Captions, Subtitles, and Descriptions (`<track>` tag):** Always provide timed text tracks for video and audio content using the `<track>` element within the `<video>` or `<audio>` tags.
+        * `kind`: Specifies the type of text track (e.g., `captions`, `subtitles`, `descriptions`, `chapters`, `metadata`).
+        * `src`: Path to the WebVTT file (.vtt).
+        * `srclang`: Language of the track.
+        * `label`: Human-readable title for the track.
+        * `default`: Makes this track the default.
+        * **Example:**
+        ```html
+        <video controls>
+          <source src="my-video.mp4" type="video/mp4">
+          <track kind="captions" src="my-video-captions-en.vtt" srclang="en" label="English Captions" default>
+          <track kind="subtitles" src="my-video-subtitles-es.vtt" srclang="es" label="Spanish Subtitles">
+          Your browser does not support the video tag.
+        </video>
+        ```
+    * **Transcripts:** For audio-only content or as a supplement to video, provide a full text transcript on the page itself. This benefits users who cannot access audio/video, prefer reading, or want to copy/search content.
+
+    ---

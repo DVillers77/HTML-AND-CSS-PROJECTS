@@ -2384,4 +2384,39 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+---
+
+#### Step 251: VIDEO AND AUDIO TAGS
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Learn how to embed video content directly into an HTML document using the `<video>` tag.
+* Understand the use of `width`, `height`, and `controls` attributes for video playback.
+* Implement multiple video sources (`<source>` tag) to ensure broader browser compatibility.
+* Understand the concept of fallback content for unsupported browsers.
+* Gain knowledge about common video formats like MP4 and Ogg.
+
+### Core Course Concepts:
+* `<video>` tag: Native HTML element for embedding video.
+* `width` and `height` attributes: Defining video player dimensions.
+* `controls` attribute: Displaying browser-native video playback controls.
+* `<source>` tag: Specifying multiple video file paths and MIME types (`src`, `type`).
+* Video formats: MP4 (Moving Pictures Experts Group-4) and Ogg.
+* Fallback content: Text displayed if video tag/format not supported.
+
+### Relevant Files:
+* (No specific file modifications as this is a conceptual step; knowledge applies to all HTML files.)
+
+### Reflection/Learning Note:
+* This step provided a valuable alternative to `<iframe>` for embedding video, especially for self-hosted content. Understanding the need for multiple `<source>` tags for browser compatibility is critical for robust media delivery. The simple inclusion of the `controls` attribute makes the video immediately interactive, and the fallback content ensures a graceful degradation for older browsers.
+
+### Independent Research & Best Practices:
+* **`<audio>` tag:** Discovered the analogous `<audio>` tag for embedding sound files, which functions very similarly with `src`, `controls`, and `<source>` tags.
+* **Modern Video Formats:** Explored the importance of WebM (`video/webm`) as a highly efficient and widely supported modern video format, often included alongside MP4 and Ogg for best compatibility.
+* **Video Accessibility (`<track>`):** Researched the `<track>` tag for adding captions, subtitles, and audio descriptions to videos, which is crucial for accessibility.
+* **Autoplay and Muted:** Learned about `autoplay` and `muted` attributes for initial playback behavior, noting browser restrictions on `autoplay` without `muted`.
+
+---
+
 

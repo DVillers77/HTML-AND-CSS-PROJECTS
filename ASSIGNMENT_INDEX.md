@@ -2891,4 +2891,29 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 273: LIBRARY - Understanding Code Reusability
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Understand the definition and purpose of a "library" in programming.
+* Recognize how pre-written code collections contribute to efficient development.
+
+### Core Course Concepts:
+* Definition of a library as a collection of files or automated commands.
+* The concept of reusability in programming and avoiding redundant work.
+* Examples of libraries as downloadable and importable code collections.
+
+### Relevant Files:
+* [ai-assistant-project-guidelines.md](ai-assistant-project-guidelines.md)
+* [SUPPLEMENTARY_LEARNING_HTML_CSS.md](SUPPLEMENTARY_LEARNING_HTML_CSS.md)
+
+### Reflection/Learning Note:
+This step introduced the concept of a "library," which is a fundamental aspect of modern coding. It's clear how leveraging existing code can significantly speed up development and improve code quality by using well-tested solutions. The idea of not having to "reinvent the wheel" for common functionalities is a huge advantage.
+
+### Independent Research & Best Practices:
+Explored the difference between libraries and frameworks, noting that libraries are tools you call within your code, while frameworks provide a structure for your application. Also looked into dependency management tools like npm, which are essential for handling external libraries in projects.
+
+---
+
 

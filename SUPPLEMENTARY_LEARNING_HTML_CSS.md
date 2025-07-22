@@ -3049,3 +3049,28 @@ This step concluded the "One-Page Website" assignment by requiring the student t
 ### SUBSECTION A: VS CODE AND NODE.JS
 
 ---
+
+#### LIBRARY - understanding reusable code collections
+
+### Course Step Number: 273
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+* A library is a collection of files or a set of automated commands.
+* Programmers create libraries of useful code to prevent others from duplicating work.
+* Libraries can be downloaded and imported for use in your own code.
+* They promote reusability, modularity, and can significantly boost development productivity.
+
+##### Independent Research / Notable Discoveries
+* **Frameworks vs. Libraries:** While often used interchangeably, a framework (e.g., Bootstrap, React) provides a structure for your application, where you "fill in the blanks," whereas a library (e.g., Lodash, jQuery) provides tools that you call when needed within your own structure.
+* **Dependency Management Tools:** Tools like npm (Node Package Manager) are crucial for handling project dependencies on external libraries, ensuring correct versions and easier updates.
+* **Performance Impact:** Overuse of libraries or including unneeded parts of libraries can increase file sizes and negatively impact application load times. Tree-shaking (removing unused code) is a technique used in modern development to mitigate this.
+
+##### Personal Reflections
+Understanding libraries is key to efficient development. It highlights the collaborative nature of programming and the importance of building upon existing solutions rather than always starting from scratch. Recognizing the distinction between a library and a framework will be helpful for future projects.
+
+##### Relevant Files:
+* [ai-assistant-project-guidelines.md](ai-assistant-project-guidelines.md)
+* [FORMATTING_GUIDE_FOR_SUPPLEMENTING_LEARNING_HTML_CSS.md](FORMATTING_GUIDE_FOR_SUPPLEMENTARY_LEARNING_HTML_CSS.md)
+
+---

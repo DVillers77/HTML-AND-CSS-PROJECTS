@@ -3290,3 +3290,28 @@ Having already used VS Code, this assignment reaffirmed its central role in my d
 * (No relevant files from the lesson itself to cite as per new rule.)
 
 ---
+
+#### NODE.JS ASSIGNMENT - local debugging setup
+
+### Course Step Number: 283
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+* Assignment to download and install Node.js locally for debugging.
+* Confirmed successful installation of Node.js.
+* Noted that Node.js will be crucial for future debugging efforts.
+* During installation, observed an option to install additional tools, including Chocolatey.
+
+##### Independent Research / Notable Discoveries
+* **Local JavaScript Execution:** Node.js enables running JavaScript files directly from the terminal, extending JS capabilities beyond the browser.
+* **VS Code Debugging:** The local Node.js installation integrates with VS Code's debugger, allowing for setting breakpoints and stepping through server-side JavaScript code.
+* **npm (Node Package Manager):** The installation provides `npm`, essential for managing project dependencies and installing various JavaScript libraries and frameworks for both front-end and back-end development.
+* **Chocolatey Discovery:** Learned that Node.js installer can bundle Chocolatey, a package manager for Windows, which simplifies command-line installation and management of other development tools.
+
+##### Personal Reflections
+Completing the Node.js installation locally feels like unlocking a new dimension of JavaScript development. I can now run and debug JavaScript outside the browser, which is exciting for future backend work and for understanding how front-end build tools operate. This directly connects with previous lessons on runtime environments and asynchronous operations. Discovering Chocolatey during the installation was an unexpected but useful insight into streamlining development environment setup on Windows.
+
+##### Relevant Files:
+* (No relevant files from the lesson itself to cite as per new rule.)
+
+---

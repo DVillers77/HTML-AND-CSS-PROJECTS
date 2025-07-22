@@ -201,3 +201,6 @@ This assignment served as a crucial checkpoint to verify that all necessary file
 
 #### 40. DRAG AND DROP ASSIGNMENT - quick browser testing (Step 243)
 This assignment involved directly dragging an HTML file into the browser for immediate local viewing, making and reverting text changes, and using the browser's refresh function. This reinforced quick testing workflows for local HTML development.
+
+#### 41. EM TAG ASSIGNMENT - applying emphasis and external links (Step 248)
+This assignment involved practically applying the `<em>` tag for text emphasis within the `index.html` file, and creating an external hyperlink that opens in a new tab. Crucially, it reinforced the security best practice of including `rel="noopener noreferrer"` with `target="_blank"`.

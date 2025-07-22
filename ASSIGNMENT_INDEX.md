@@ -2298,4 +2298,30 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 248: EM TAG ASSIGNMENT
+
+### Date Completed: 2025-07-21
+
+### Objective:
+* Practically apply the `<em>` tag to emphasize text within an HTML file.
+* Implement an external link that opens in a new browser tab, incorporating necessary security attributes.
+
+### Core Course Concepts:
+* `<em>` tag: Practical application for semantic emphasis.
+* `<a>` tag: Practical application of hyperlinks.
+* `target="_blank"`: Real-world use for opening links in new tabs.
+* `rel="noopener noreferrer"`: Practical implementation of security best practices for external links.
+
+### Relevant Files:
+* [index.html](the-pet-shop-website/index.html)
+
+### Reflection/Learning Note:
+* Applying the `<em>` tag directly within the `<h2>` tag in `index.html` provided a concrete example of semantic emphasis. Creating the external link with `target="_blank"` and `rel="noopener noreferrer"` reinforced the importance of both user experience (new tab) and crucial security considerations for outgoing links. This practical step solidified the concepts from the preceding lessons.
+
+### Independent Research & Best Practices:
+* **Placement of `<em>`:** Confirmed that `<em>` can be nested within other heading or paragraph tags to emphasize specific words or phrases, maintaining the document structure.
+* **Full `target="_blank"` Implementation:** Reaffirmed the critical need to include `rel="noopener noreferrer"` with *every* instance of `target="_blank"` for external links to mitigate security vulnerabilities like tabnabbing, as implemented in `index.html`.
+
+---
+
 

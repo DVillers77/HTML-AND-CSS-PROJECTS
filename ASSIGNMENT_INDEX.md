@@ -2491,4 +2491,24 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 255: QUIZ
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Assess understanding of previously covered HTML concepts, specifically file paths and linking.
+
+### Core Course Concepts:
+* File paths (absolute vs. relative).
+* `href` attribute usage.
+* General HTML knowledge assessment.
+
+### Relevant Files:
+* (N/A - This step is a quiz assessment.)
+
+### Reflection/Learning Note:
+* Successfully completed the quiz, demonstrating comprehension of fundamental HTML concepts, particularly regarding file paths and the `href` attribute.
+
+---
+
 

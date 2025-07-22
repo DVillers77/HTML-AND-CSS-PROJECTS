@@ -2620,3 +2620,19 @@ The lesson concluded by demonstrating the form's basic client-side validation fo
 * **Backend Integration (`action` and `method`) (Next Steps):** The form's `action` attribute specifies the URL where the form data will be sent (e.g., a server-side script like a PHP, Python, Node.js endpoint). The `method` attribute defines the HTTP method (`GET` or `POST`) for sending the data. This is where backend development begins to make the form truly functional.
 
 ---
+
+#### QUIZ
+
+### Course Step Number: 255
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+This step involved completing a quiz designed to test understanding of foundational HTML concepts, including the interpretation of file paths and their application within attributes like `href`. Successful completion indicates a grasp of these core elements.
+
+##### Independent Research / Notable Discoveries
+* (N/A - This step is a quiz assessment.)
+
+##### Learning Enhancements
+* (N/A - This step is a quiz assessment.)
+
+---

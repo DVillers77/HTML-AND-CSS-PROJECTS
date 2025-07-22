@@ -3148,3 +3148,53 @@ The concept of asynchronous operations is a game-changer for building fluid and 
 * N/A
 
 ---
+
+#### NODE.JS - running JavaScript outside the browser
+
+### Course Step Number: 277
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+* Node.js is a runtime environment allowing JavaScript code to run outside web browsers, primarily on web servers.
+* Browsers contain a "JavaScript Engine" to execute JavaScript for UI rendering.
+* Node.js provides a similar "JavaScript Engine" for servers, enabling server-side JavaScript execution.
+* Installing and running Node.js allows JavaScript programs to function on a server.
+* A key advantage is using a single language (JavaScript) for both browser (front-end) and server (back-end) development.
+
+##### Independent Research / Notable Discoveries
+* **Full-Stack JavaScript:** Node.js facilitates full-stack development using only JavaScript, enhancing developer efficiency and consistency across an application.
+* **npm (Node Package Manager):** Node.js includes npm, the world's largest software registry, crucial for managing project dependencies and leveraging a vast ecosystem of open-source libraries.
+* **Asynchronous I/O:** Node.js's non-blocking, event-driven architecture (built on the V8 engine and Event Loop) makes it highly efficient for I/O-bound tasks and real-time applications.
+
+##### Personal Reflections
+Node.js significantly expands JavaScript's utility, moving it from a browser-centric language to a versatile tool for full-stack development. The ability to use JavaScript on both the front-end and back-end is a powerful concept for streamlining the development process. Its asynchronous nature aligns perfectly with the needs of modern, high-performance web applications.
+
+##### Relevant Files:
+* (No relevant files from the lesson itself to cite as per new rule.)
+
+---
+
+#### DIFFERENCE BETWEEN LIBRARY AND FRAMEWORK - understanding control flow
+
+### Course Step Number: 278
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+* **Library:** A collection of pre-made code/functions, added to an existing program. Your program *calls* the library's functions. You are in control.
+* **Framework:** A fully-functioning system or reusable "starting point" with generic functionality. The framework *is* the primary program and *calls your code*. The framework is in control (inversion of control).
+* **Key Distinction:** A library is called by your program; a framework calls your code.
+
+##### Independent Research / Notable Discoveries
+* **Inversion of Control (IoC) / Hollywood Principle:** The core concept distinguishing frameworks. Instead of your code initiating calls, the framework defines the structure and calls your code at specific points.
+* **Use Cases:** Libraries are suited for adding specific functionalities without imposing structure (e.g., utility functions, UI components). Frameworks are better for building new, large-scale applications with a predefined structure and conventions.
+* **Examples in Web Dev:**
+    * **Libraries:** React (often considered a UI library), Lodash.
+    * **Frameworks:** Angular, Vue.js (can be progressive), Next.js.
+
+##### Personal Reflections
+This distinction is crucial for understanding architectural decisions in software development. Recognizing that a framework provides the "skeleton" and calls your custom code, while a library is a set of tools *you* use within *your* skeleton, clarifies their respective roles. It emphasizes that choosing between them depends heavily on the project's scale and desired level of structural guidance.
+
+##### Relevant Files:
+* (No relevant files from the lesson itself to cite as per new rule.)
+
+---

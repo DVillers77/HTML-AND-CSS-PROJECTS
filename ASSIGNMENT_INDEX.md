@@ -2990,4 +2990,43 @@ Deepened understanding of how JavaScript, despite being single-threaded, achieve
 
 ---
 
+#### Step 277: NODE.JS - Understanding Server-Side JavaScript
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Understand the purpose of Node.js as a JavaScript runtime environment outside the browser.
+* Explain how Node.js enables server-side JavaScript execution.
+* Identify the advantages of using JavaScript for both front-end and back-end development.
+
+### Core Course Concepts:
+* Node.js allows JavaScript to run on web servers.
+* Role of a "JavaScript Engine" in browsers and how Node.js provides it for servers.
+* Mechanism of installing and running Node.js for server-side code execution.
+* Advantage of language consistency across the full stack.
+
+### Relevant Files:
+* (No relevant files from the lesson itself to cite as per new rule.)
+
+---
+
+#### Step 278: DIFFERENCE BETWEEN LIBRARY AND FRAMEWORK - Control Flow Explained
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Differentiate between a "library" and a "framework" based on their purpose, usage, and control flow.
+* Understand the concept of "inversion of control" in frameworks.
+
+### Core Course Concepts:
+* Library: Collection of pre-made code, called by the user's program.
+* Framework: A reusable, often complete system that calls the user's code.
+* The primary program in a library scenario is the user's; in a framework scenario, it's the framework itself.
+* Examples illustrating how each is integrated and used.
+
+### Relevant Files:
+* (No relevant files from the lesson itself to cite as per new rule.)
+
+---
+
 

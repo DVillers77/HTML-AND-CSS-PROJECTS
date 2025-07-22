@@ -3100,4 +3100,27 @@ Explored how to use breakpoints effectively in browser developer tools, includin
 
 ---
 
+#### Step 282: VISUAL STUDIO CODE ASSIGNMENT - Editor Setup
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Download and successfully install Visual Studio Code.
+* Familiarize with its basic interface and functionality.
+
+### Core Course Concepts:
+* Installation process for Visual Studio Code.
+* Understanding VS Code as a primary development environment.
+
+### Relevant Files:
+* (No relevant files from the lesson itself to cite as per new rule.)
+
+### Reflection/Learning Note:
+This assignment was straightforward as I already use Visual Studio Code regularly. It's the core tool for managing my project files, writing code, and integrating with GitHub. The assignment reinforces the importance of a robust code editor.
+
+### Independent Research & Best Practices:
+Explored key VS Code extensions that significantly enhance HTML, CSS, and JavaScript development, such as Live Server and code formatters. Also reviewed its debugging capabilities, which are far more powerful than simple console logging.
+
+---
+
 

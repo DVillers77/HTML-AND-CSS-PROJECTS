@@ -2664,4 +2664,24 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 263: QUIZ
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Assess understanding of the correct `<img>` tag attributes for displaying images.
+
+### Core Course Concepts:
+* `<img>` tag: Embedding images in HTML.
+* `src` attribute: Specifying the image source URL or file path.
+* `alt` attribute: Providing alternative text for image accessibility.
+
+### Relevant Files:
+* (N/A - This step is a quiz assessment.)
+
+### Reflection/Learning Note:
+* Successfully completed the quiz, demonstrating comprehension of the correct syntax and attributes required for displaying images using the `<img>` tag in HTML, particularly the `src` attribute.
+
+---
+
 

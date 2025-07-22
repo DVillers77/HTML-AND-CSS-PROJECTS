@@ -2803,3 +2803,19 @@ This step concluded the "Basic HTML Website Challenge" by requiring the student 
 * **Live Previews (Beyond Submission):** While submitting the GitHub URL is the assignment, remember that GitHub Pages can be used to host static websites directly from a repository, providing a live, publicly accessible version of the project.
 
 ---
+
+#### QUIZ
+
+### Course Step Number: 263
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+This step involved completing a quiz focused on identifying the correct HTML syntax for displaying images, specifically the `<img>` tag and its `src` attribute. Successful completion indicates a clear understanding of how to correctly embed images into an HTML document.
+
+##### Independent Research / Notable Discoveries
+* (N/A - This step is a quiz assessment.)
+
+##### Learning Enhancements
+* (N/A - This step is a quiz assessment.)
+
+---

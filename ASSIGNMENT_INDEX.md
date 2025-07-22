@@ -3029,4 +3029,27 @@ Deepened understanding of how JavaScript, despite being single-threaded, achieve
 
 ---
 
+#### Step 279: QUIZ - Library vs. Framework Understanding
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Assess understanding of the differences between a programming library and a framework.
+
+### Core Course Concepts:
+* Library and framework are similar but distinct concepts.
+* Library: Your code calls library functions.
+* Framework: The framework calls your code (inversion of control).
+
+### Relevant Files:
+* (No relevant files from the lesson itself to cite as per new rule.)
+
+### Reflection/Learning Note:
+This quiz question directly tested the distinction between a library and a framework, confirming that I've grasped the concept of inversion of control. It's a fundamental difference that impacts how applications are structured and how code interacts with reusable components.
+
+### Independent Research & Best Practices:
+The quiz reinforced the practical implications of choosing between a library and a framework for a project. It's about deciding whether you want a set of tools to use freely or a structured system that guides your development.
+
+---
+
 

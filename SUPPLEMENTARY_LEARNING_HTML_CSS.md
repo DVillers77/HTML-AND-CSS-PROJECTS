@@ -3198,3 +3198,24 @@ This distinction is crucial for understanding architectural decisions in softwar
 * (No relevant files from the lesson itself to cite as per new rule.)
 
 ---
+
+#### QUIZ - library vs. framework concept check
+
+### Course Step Number: 279
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+* Reviewed a quiz question differentiating between a library and a framework.
+* Confirmed that while similar, a library and a framework have distinct meanings.
+
+##### Independent Research / Notable Discoveries
+* **Reinforced Distinction:** The quiz served as a good check on the understanding of "Inversion of Control" as the key differentiator (framework calls your code, your code calls a library).
+* **Practical Importance:** Solidifying this concept helps in choosing appropriate tools (e.g., React vs. Angular) for different project needs and architectural patterns.
+
+##### Personal Reflections
+It's reassuring to see a quiz immediately after the lesson on libraries and frameworks, as it confirms my understanding of this subtle but important difference. The question highlights the essence of control flow in each.
+
+##### Relevant Files:
+* (No relevant files from the lesson itself to cite as per new rule.)
+
+---

@@ -2636,3 +2636,41 @@ This step involved completing a quiz designed to test understanding of foundatio
 * (N/A - This step is a quiz assessment.)
 
 ---
+
+#### PNG
+
+### Course Step Number: 256
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+This lesson introduced **PNG (Portable Network Graphics)** as a prominent image file format for web use. Its defining characteristic is **lossless data compression**, meaning that images compressed as PNGs retain all their original quality without any pixel degradation. This makes PNG a highly recommended format for website images, particularly for graphics, logos, images with sharp lines, or those requiring transparent backgrounds.
+
+##### Independent Research / Notable Discoveries
+* **Lossless vs. Lossy Compression:** This step highlighted the critical distinction between lossless (PNG) and lossy (JPEG) compression. Lossless retains all original data, while lossy discards some data to achieve smaller file sizes, potentially impacting quality. This understanding guides appropriate image format selection.
+* **Alpha Channel (Transparency):** A significant advantage of PNG, particularly PNG-24/32, is its support for true alpha transparency. This allows for smooth, variable transparency levels (e.g., subtle shadows, anti-aliased edges) which is crucial for overlaying images cleanly on different backgrounds without jagged edges or white halos. GIFs only support binary transparency (on/off).
+* **Best Use Cases:** Solidified understanding that PNG is ideal for:
+    * Logos, icons, and graphical text.
+    * Screenshots and diagrams where pixel perfect reproduction is necessary.
+    * Any image requiring a transparent or semi-transparent background.
+* **File Size Considerations:** While lossless, PNG files can be considerably larger than equivalent JPEGs for photographic content due to the nature of their compression. This reinforces the need for choosing the *right* format for the *right* image.
+
+##### Learning Enhancements
+* **Optimal Image Format Selection (Best Practice):**
+    * **Use PNG for:** Images with text, sharp lines, solid blocks of color, logos, graphics, and any image that requires transparency.
+    * **Use JPEG for:** Photographs and complex images with continuous tones, where some minor quality loss is acceptable for significantly smaller file sizes.
+    * **Use GIF for:** Simple animations or very small, limited-color icons when animation is needed and WebP/AVIF are not suitable.
+* **Image Optimization Tools (Tip):** Always run PNG images through optimization tools (e.g., TinyPNG, ImageOptim, Compressor.io) before deployment. These tools remove unnecessary metadata, reduce color palettes, and apply other lossless optimizations to significantly decrease file size without affecting visual quality.
+* **Modern Image Formats: WebP and AVIF (Modernization & Performance):**
+    * **WebP:** A newer image format (developed by Google) offering superior lossless and lossy compression compared to JPEG and PNG. It also supports transparency. It's widely supported by modern browsers.
+    * **AVIF:** An even newer, highly efficient image format based on the AV1 video codec. It often provides even better compression than WebP for high-quality images. Browser support is growing rapidly.
+    * **Using `<picture>` for Progressive Enhancement:** To leverage these modern formats while providing fallbacks for older browsers, use the `<picture>` element with multiple `<source>` tags. This allows the browser to select the best available format.
+        ```html
+        <picture>
+          <source srcset="images/logo.avif" type="image/avif">
+          <source srcset="images/logo.webp" type="image/webp">
+          <img src="images/logo.png" alt="Company Logo" width="150" height="50">
+        </picture>
+        ```
+* **Accessibility for Images (Reminder):** Reiterate the importance of the `alt` attribute for all `<img>` tags, providing a text alternative for screen readers and when images fail to load.
+
+---

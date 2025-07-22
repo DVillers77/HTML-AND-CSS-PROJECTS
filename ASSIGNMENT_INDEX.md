@@ -2511,4 +2511,32 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 256: PNG
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Define PNG (Portable Network Graphics) as an image file format.
+* Understand its key characteristic: lossless data compression.
+* Recognize PNG as a suitable file type for website images.
+
+### Core Course Concepts:
+* PNG file format: Portable Network Graphics.
+* Lossless compression: Image quality is retained after compression.
+* Web image optimization: Choosing appropriate file formats for websites.
+
+### Relevant Files:
+* (N/A - This step is a conceptual learning point.)
+
+### Reflection/Learning Note:
+* This step clarified the advantages of PNG images, particularly their lossless compression and suitability for web use where image quality is paramount. Understanding the "lossless" aspect is key to differentiating it from other formats.
+
+### Independent Research & Best Practices:
+* **PNG vs. JPEG:** Deepened understanding of the trade-offs between PNG (lossless, transparency, good for graphics/text) and JPEG (lossy, smaller files for photos).
+* **PNG vs. GIF:** Compared PNG's superior color depth and alpha transparency to GIF's 256-color limit and 1-bit transparency (and animation support).
+* **PNG-8 vs. PNG-24/32:** Learned about different PNG bit depths and their implications for color and transparency support.
+* **Image Optimization:** Discovered the importance of using tools to further optimize PNG file sizes without quality loss.
+
+---
+
 

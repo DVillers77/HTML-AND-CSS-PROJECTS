@@ -2808,4 +2808,40 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 269: ONE-PAGE WEBSITE CODING ASSIGNMENT
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Code a simple, one-page HTML website named `one_page_website.html`.
+* Include all minimum project requirements:
+    * Home page section (heading tag, <p> tag, etc.).
+    * A section with pictures (<img> tags, etc.).
+    * Contact form (<form> tag, <input> tag, etc.).
+    * A section with a video(s) (<iframe> tag, src attribute, etc.).
+    * Footer (<footer> tag, etc.).
+    * A <nav> element that utilizes HTML bookmarks to allow the user to jump to various sections on the page.
+* Implement the chosen topic/subject matter ("weloveanimals.com" spin-off).
+
+### Core Course Concepts:
+* HTML document structuring: Applying semantic elements (`<header>`, `<nav>`, `<section>`, `<footer>`, `<form>`).
+* Embedding content: Using `<img>` for images and `<iframe>` for videos.
+* User input forms: Creating interactive forms with various input types.
+* Internal navigation: Implementing HTML bookmarks (`id` attributes and `href="#id"`).
+* Code reuse and modification: Adapting existing HTML elements for new projects.
+
+### Relevant Files:
+* [One-Page Website/one_page_website.html](One-Page Website/one_page_website.html)
+* [One-Page Website/images/](One-Page Website/images/)
+
+### Reflection/Learning Note:
+* This step successfully brought the one-page website plan to life by coding `one_page_website.html`. The project requirements were met by strategically copying and modifying relevant HTML elements from previous projects (`index.html`, `contact.html`). This approach allowed for rapid development of the foundational HTML structure while reinforcing understanding of each element's purpose and proper placement, especially for navigation, media embedding, and forms.
+
+### Independent Research & Best Practices:
+* **Efficient Development with Reusability:** Confirmed that adapting existing, well-structured HTML snippets significantly speeds up development, particularly for projects with similar components.
+* **Semantic Grouping of Sections:** Ensured that content sections were semantically grouped using `<section>` tags to prepare for potential HTML bookmarks and improve document outline.
+* **Form Structure Review:** Re-examined the structure of forms to ensure proper nesting of `<input>` and `<textarea>` elements within `<form>` and effective use of `placeholder` attributes.
+
+---
+
 

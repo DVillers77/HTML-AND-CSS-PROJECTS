@@ -1,11 +1,120 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--meta description-->
+    <meta name="description" content="placeholder for text" />
+    <title>weloveanimals.com</title>
+  </head>
+  <!--navbar-->
+  <nav>
+    <ul>
+      <a href="#cat"><li>Cats & Kittens</li></a>
+      <a href="#dog"><li>Dogs & Puppies</li></a>
+      <a href="#rabbit"><li>Rabbits</li></a>
+      <a href="#guineapig"><li>Guinea Pigs</li></a>
+      <a href="#fish"><li>Fish</li></a>
+      <a href="#reptile"><li>Reptiles</li></a>
+      <a href="#video"><li>Videos</li></a>
+    </ul>
+  </nav>
+  <!--header-->
+  <header>
+    <div>
+      <h1>Welcome to<em>"We Love Animals.com"</em></h1>
+    </div>
+  </header>
+
+  <body>
+    <!--pet images-->
+    <section>
+      <div>
+        <h2>Poplar Pets</h2>
+        <div>
+          <!--cat image-->
+          <div id="cat">
+            <h3>Cats & Kittens</h3>
+            <img src="images/cat.png" alt="Picture of kittens" />
+          </div>
+          <!--dog image-->
+          <div id="dog">
+            <h3>Dogs & Puppies</h3>
+            <img src="images/dog.png" alt="Picture of dogs" />
+          </div>
+          <!--rabbit image-->
+          <div id="rabbit">
+            <h3>Rabbits</h3>
+            <img src="images/rabbits.png" alt="Picture of rabbits" />
+          </div>
+          <!--guinea pig image-->
+          <div id="guineapig">
+            <h3>Guinea pigs</h3>
+            <img src="images/guineapigs.png" alt="Picture of guinea pigs" />
+          </div>
+          <!--fish image-->
+          <div id="fish">
+            <h3>Fish</h3>
+            <img src="images/fish.png" alt="Picture of gold fish" />
+          </div>
+          <!--reptile image-->
+          <div id="reptile">
+            <h3>Reptiles</h3>
+            <img
+              src="images/beardedDragon.png"
+              alt="Picture of a bearded dragon"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--videos-->
+    <section>
+      <!--dog video-->
+      <div id="video">
+        <h3>Videos</h3>
+        <iframe
+          width="1280"
+          height="720"
+          src="https://www.youtube.com/embed/ng58pNPDDW4"
+          frameborder="0"
+          title="Cute Dog Video from YouTube"
+        ></iframe>
+        <a
+          href="https://www.youtube.com/embed/ybhNTqetubQ?si=AqRnWeC6tvEGZQCg"
+          target="_blank"
+          rel="noopener noreferrer"
+          >Can I pet that dog?</a
+        >
+      </div>
+    </section>
+  </body>
+  <!--footer-->
+  <footer>
+    <!--FORM-->
+    <section>
+      <fieldset>
+        <h3>Tell us why you love animals.</h3>
+        <div>
+          <form action="">
+            <input type="text" placeholder="First Name" />
+            <input type="text" placeholder="Last Name" /><br />
+            <input type="email" placeholder="Email" /><br />
+            <input type="tell" placeholder="Phone Number" /><br />
+            <input type="checkbox" id="Newsletter" />
+            <label for="Newsletter"
+              >Would you like to receive our monthly newsletter?</label
+            ><br />
+            <textarea
+              name=""
+              id=""
+              placeholder="Type message here..."
+            ></textarea
+            ><br />
+            <input type="submit" value="Submit" />
+          </form>
+        </div>
+      </fieldset>
+    </section>
+  </footer>
 </html>

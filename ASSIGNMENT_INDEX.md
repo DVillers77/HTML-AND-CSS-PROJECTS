@@ -2905,8 +2905,7 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 * Examples of libraries as downloadable and importable code collections.
 
 ### Relevant Files:
-* [ai-assistant-project-guidelines.md](ai-assistant-project-guidelines.md)
-* [SUPPLEMENTARY_LEARNING_HTML_CSS.md](SUPPLEMENTARY_LEARNING_HTML_CSS.md)
+* N/A
 
 ### Reflection/Learning Note:
 This step introduced the concept of a "library," which is a fundamental aspect of modern coding. It's clear how leveraging existing code can significantly speed up development and improve code quality by using well-tested solutions. The idea of not having to "reinvent the wheel" for common functionalities is a huge advantage.
@@ -2933,8 +2932,7 @@ Explored the difference between libraries and frameworks, noting that libraries 
 * Runtime libraries implementing built-in language functions during execution.
 
 ### Relevant Files:
-* [ai-assistant-project-guidelines.md](ai-assistant-project-guidelines.md)
-* [SUPPLEMENTARY_LEARNING_HTML_CSS.md](SUPPLEMENTARY_LEARNING_HTML_CSS.md)
+* N/A
 
 ### Reflection/Learning Note:
 This step provided a clear distinction between compile-time and runtime, which is fundamental to how programs operate. The concept of runtime libraries, executing code I didn't explicitly write but is necessary, clarifies much about how programming languages work behind the scenes. The example about video loading really drove home the practical implications of optimizing when tasks occur.
@@ -2957,14 +2955,38 @@ Explored Just-In-Time (JIT) compilation in modern JavaScript, which shows how ru
 * Functions include memory allocation, variable access, data passing, and OS interaction.
 
 ### Relevant Files:
-* [ai-assistant-project-guidelines.md](ai-assistant-project-guidelines.md)
-* [SUPPLEMENTARY_LEARNING_HTML_CSS.md](SUPPLEMENTARY_LEARNING_HTML_CSS.md)
+* N/A
 
 ### Reflection/Learning Note:
 This step clarified that a "runtime environment" is much more than just the time a program is running; it's the entire ecosystem of processes that support its execution. The specifics of memory allocation, variable access, and OS interaction handled by this environment are crucial for a program's stability and functionality.
 
 ### Independent Research & Best Practices:
 Explored how different languages have unique runtimes (e.g., JVM, Node.js). Also investigated containerization (like Docker) as a modern best practice for ensuring consistent runtime environments, which is essential for reliable deployment.
+
+---
+
+#### Step 276: ASYNCHRONOUS - Understanding Non-Blocking Operations
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Define "synchronous" and "asynchronous" in the context of computer processes.
+* Understand how asynchronous actions allow programs to continue execution without waiting for long-running tasks to complete.
+
+### Core Course Concepts:
+* Synchronous: Sequential, step-by-step execution where each step finishes before the next.
+* Asynchronous: Non-sequential execution, allowing subsequent steps to proceed independently.
+* Benefits of asynchronous operations for program responsiveness.
+* Example of email notification as an asynchronous process.
+
+### Relevant Files:
+* N/A
+
+### Reflection/Learning Note:
+This step provided a very clear explanation of synchronous vs. asynchronous behavior. The idea that a program doesn't have to freeze while waiting for an external process is a fundamental concept for modern applications, especially web-based ones. It directly relates to creating a smoother user experience.
+
+### Independent Research & Best Practices:
+Deepened understanding of how JavaScript, despite being single-threaded, achieves concurrency through mechanisms like the event loop to handle asynchronous tasks (e.g., network requests, timers) non-blockingly. Explored common patterns like Callbacks, Promises, and the modern `async/await` syntax for managing asynchronous code.
 
 ---
 

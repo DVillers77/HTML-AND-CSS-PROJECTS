@@ -2241,3 +2241,7 @@ This assignment, though seemingly simple, effectively demonstrated the core loop
 * [index.html](the-pet-shop-website/index.html)
 
 ---
+
+### SUBSECTION D: CREATING A BASIC HTML WEBSITE PART 3
+
+---

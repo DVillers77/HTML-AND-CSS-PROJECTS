@@ -2539,4 +2539,33 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 257: NAMING CONVENTION
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Define "naming convention" in the context of coding.
+* Understand its purpose in ensuring consistency and improving code readability.
+* Differentiate between built-in and self-chosen/team-agreed conventions.
+
+### Core Course Concepts:
+* Naming convention: Rules for writing text in code (e.g., variable names, file names).
+* Consistency: Uniformity in coding style.
+* Readability: Code that is easy for humans to understand.
+* Visual scanning: Facilitating quick comprehension of code structure.
+
+### Relevant Files:
+* (N/A - This step is a conceptual learning point applicable to all coding practices.)
+
+### Reflection/Learning Note:
+* This step highlighted the often-overlooked but crucial aspect of naming conventions. Recognizing that consistency in naming greatly improves code readability, maintainability, and collaboration within a team is a key takeaway. It's not just about what the code *does*, but also how it's *presented*.
+
+### Independent Research & Best Practices:
+* **Common Conventions:** Explored popular naming styles like CamelCase, PascalCase, snake_case, kebab-case, and SCREAMING_SNAKE_CASE and their typical uses.
+* **Team Collaboration:** Understood the increased importance of conventions in team projects for reducing friction and enhancing understanding.
+* **File Naming for Web:** Learned the preference for `kebab-case` (hyphens) and lowercase for web asset file names to avoid cross-platform issues and for better SEO.
+* **Linting Tools:** Discovered linters as tools to automatically enforce naming conventions and coding styles.
+
+---
+
 

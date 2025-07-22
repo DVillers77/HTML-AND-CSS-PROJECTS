@@ -2782,3 +2782,24 @@ This step involved a practical challenge to enhance the `index.html` and `contac
 * **Incremental Saving and Testing:** For challenges involving multiple changes, it's good practice to save and test your code incrementally after each major addition (e.g., after adding meta description, then after adding blockquote) to quickly identify and troubleshoot any issues.
 
 ---
+
+#### BASIC HTML WEBSITE SUBMISSION ASSIGNMENT
+
+### Course Step Number: 262
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+This step concluded the "Basic HTML Website Challenge" by requiring the student to push their "The-Pet-Shop-Website" project folder to a specified GitHub repository ("HTML-AND-CSS-PROJECTS") and then submit the repository's URL. This task emphasizes the practical application of version control (Git) and project submission workflows in a real-world development context.
+
+##### Independent Research / Notable Discoveries
+* **Git Workflow Review:** Reviewed the standard Git workflow: `git add .` (staging changes), `git commit -m "Commit Message"` (saving changes to local history), `git push origin main` (uploading changes to remote repository).
+* **GitHub Repository Structure:** Recalled how GitHub repositories host project files and how their URLs serve as public access points.
+* **Importance of Remote Repositories:** Understood that pushing to GitHub serves as a backup, enables collaboration, and allows for easy sharing and deployment of web projects.
+
+##### Learning Enhancements
+* **Commit Messages (Reinforcement):** Reiterate the importance of clear, concise, and descriptive commit messages that accurately reflect the changes made since the last commit. This makes project history easier to navigate and understand for oneself and collaborators.
+* **`.gitignore` File (Best Practice):** For future projects, consider using a `.gitignore` file to specify intentionally untracked files that Git should ignore (e.g., build artifacts, temporary files, sensitive information). This keeps the repository clean and relevant.
+* **Repository Organization (Tip):** For multiple projects within one overarching repository (like "HTML-AND-CSS-PROJECTS"), ensure each project resides in its own distinct, well-named subfolder to maintain organization.
+* **Live Previews (Beyond Submission):** While submitting the GitHub URL is the assignment, remember that GitHub Pages can be used to host static websites directly from a repository, providing a live, publicly accessible version of the project.
+
+---

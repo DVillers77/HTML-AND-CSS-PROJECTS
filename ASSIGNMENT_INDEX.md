@@ -2643,4 +2643,25 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 262: BASIC HTML WEBSITE SUBMISSION ASSIGNMENT
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Push the "The-Pet-Shop-Website" folder to the designated "HTML-AND-CSS-PROJECTS" GitHub repository.
+* Submit the URL to the GitHub repository as proof of completion.
+
+### Core Course Concepts:
+* Version Control: Git and GitHub for managing code repositories.
+* Project Deployment: Basic steps for sharing web projects online.
+* File Management: Organizing project folders for submission.
+
+### Relevant Files:
+* (N/A - This step is a submission process for the entire project folder.)
+
+### Reflection/Learning Note:
+* This step marked the completion and submission of the "Basic HTML Website" project. It reinforced the practical workflow of using Git to push local project files to a remote GitHub repository, which is a fundamental skill for web development. The submission process acts as a final checkpoint for the HTML portion of the course.
+
+---
+
 

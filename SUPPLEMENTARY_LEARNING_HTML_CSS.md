@@ -2302,3 +2302,23 @@ This lesson focused on controlling how HTML hyperlinks (`<a>` tags) behave when 
 * **Consistency Across Projects:** Make `target="_blank" rel="noopener noreferrer"` your default approach for *any* external link. This builds a strong habit for secure web development.
 
 ---
+
+#### EMPHASIS
+
+### Course Step Number: 247
+### Date Researched: 2025-07-21
+
+##### Key Concepts / Summary
+This lesson introduced the `<em>` (emphasis) HTML tag, an inline semantic element used to convey stress emphasis to text. By default, browsers render text within `<em>` tags in italics. The primary takeaway is the semantic meaning of `<em>`: it indicates that the enclosed text has a subtle but significant change in meaning or importance when spoken, differentiating it from purely presentational italicization.
+
+##### Independent Research / Notable Discoveries
+* **Semantic vs. Presentational HTML (Revisited):** This step reinforced the ongoing theme of semantic HTML. While `<em>` visually resembles `<i>` (italic), `<em>` carries semantic weight, indicating that the content has added importance or a different meaning within the context. `<i>` is used for text that should stand out but doesn't necessarily carry extra importance (e.g., scientific names, foreign phrases).
+* **Impact on Screen Readers:** A key distinction is how assistive technologies like screen readers interpret these tags. `<em>` can prompt a change in vocalization (e.g., increased pitch or volume) to convey emphasis, whereas `<i>` typically does not. This makes `<em>` a vital tool for accessibility when emphasis is part of the content's meaning.
+* **Relationship with `<strong>`:** The `<strong>` tag is also for emphasis but denotes "strong importance" (usually rendered as bold). It's crucial to choose between `<em>` (subtle emphasis) and `<strong>` (strong importance) based on the intended meaning of the content.
+
+##### Learning Enhancements
+* **Styling Flexibility (Hint):** Do not rely on `<em>` solely for italic styling. Its visual appearance can be overridden and customized using CSS (e.g., making emphasized text bold, changing its color, or giving it a background) while preserving its semantic meaning.
+* **Contextual Emphasis (Tip):** Consider the intended meaning when choosing to use `<em>`. For example, "We *must* go to the store" emphasizes the necessity, while "We must go to the *store*" emphasizes the destination.
+* **Nesting for Greater Emphasis:** HTML allows nesting `<em>` tags (e.g., `<em>This is <em>very</em> important</em>`), which semantically implies an even greater degree of emphasis. While valid, excessive nesting can make text hard to read or for screen readers to convey effectively.
+
+---

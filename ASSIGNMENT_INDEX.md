@@ -2272,6 +2272,30 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 247: EMPHASIS
 
+### Date Completed: 2025-07-21
+
+### Objective:
+* Understand the semantic meaning and basic usage of the `<em>` tag for text emphasis.
+* Differentiate between `<em>` and visually similar tags like `<i>`.
+
+### Core Course Concepts:
+* `<em>` tag: Semantic inline element for stress emphasis.
+* Default rendering: Typically italic.
+* Semantic vs. presentational HTML.
+
+### Relevant Files:
+* (No specific file modifications as part of this conceptual step; conceptual learning for future application.)
+
+### Reflection/Learning Note:
+* This step clarified the use of the `<em>` tag, emphasizing its semantic role in conveying stress or importance rather than just applying italic styling. Understanding this distinction from presentational tags like `<i>` is important for accessibility and semantic HTML structure.
+
+### Independent Research & Best Practices:
+* **`<em>` vs. `<i>`:** Researched the distinct semantic differences: `<em>` for stress emphasis (changing meaning), `<i>` for alternative voice/mood, technical terms, foreign words, or thoughts (no added importance).
+* **Accessibility:** Confirmed that screen readers typically interpret `<em>` with vocal inflection, enhancing accessibility, unlike `<i>`.
+* **Strong Importance (`<strong>`):** Noted the related `<strong>` tag for strong importance (semantically distinct from `<em>`, usually bold by default).
+
+---
 
 

@@ -2476,7 +2476,7 @@ This lesson introduced the `<video>` HTML tag, providing a native and powerful m
 
     ---
 
-    #### BOOKMARKS
+#### BOOKMARKS
 
 ### Course Step Number: 252
 ### Date Researched: 2025-07-22
@@ -2515,4 +2515,8 @@ The lesson emphasized that `id` values must be unique within an HTML document to
     * Controlling scroll animations with more customization.
     * Dynamically adding or removing bookmarks based on user interaction.
 
-    ---
+---
+
+### Step 253: SUBSECTION E: CREATING A BASIC HTML WEBSITE PART 4
+
+---

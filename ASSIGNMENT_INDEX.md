@@ -2887,4 +2887,8 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+### Step 272: SUBSECTION A: VS CODE AND NODE.JS
+
+---
+
 

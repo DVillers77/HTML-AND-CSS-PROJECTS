@@ -3045,3 +3045,7 @@ This step concluded the "One-Page Website" assignment by requiring the student t
 * N/A
 
 ---
+
+### SUBSECTION A: VS CODE AND NODE.JS
+
+---

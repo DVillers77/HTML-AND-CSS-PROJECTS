@@ -2720,3 +2720,7 @@ This step involved completing a quiz designed to test understanding of the PNG (
 * (N/A - This step is a quiz assessment.)
 
 ---
+
+### SUBSECTION F: CHALLENGE AND SUBMITTING YOUR CODE
+
+---

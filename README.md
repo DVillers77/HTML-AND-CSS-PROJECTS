@@ -207,3 +207,6 @@ This assignment involved practically applying the `<em>` tag for text emphasis w
 
 #### 42. CHALLENGE - Defining and Using New Tags (Step 249)
 This challenge focused on defining and implementing new semantic HTML5 tags: `<article>`, `<details>`, `<summary>`, and `<time>` with its `datetime` attribute, enhancing content structure and functionality.
+
+#### 43. CREATING A BASIC HTML WEBSITE (PART 1-4)
+This comprehensive four-part video series guided the creation of a basic HTML website, progressively adding essential features. It covered initial HTML structure, adding text, images, internal and external links (including opening in new tabs with security best practices), embedding YouTube videos, implementing HTML bookmarks, and finally, building a functional contact form with various input types and accessibility considerations. This series provided hands-on experience in assembling foundational web page elements.

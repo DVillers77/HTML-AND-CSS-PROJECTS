@@ -3074,3 +3074,30 @@ Understanding libraries is key to efficient development. It highlights the colla
 * [FORMATTING_GUIDE_FOR_SUPPLEMENTING_LEARNING_HTML_CSS.md](FORMATTING_GUIDE_FOR_SUPPLEMENTARY_LEARNING_HTML_CSS.md)
 
 ---
+
+#### RUNTIME - understanding program execution time
+
+### Course Step Number: 274
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+* "Run" means to start or execute something in a computer.
+* A compiler converts human-readable code into computer-executable instructions.
+* Runtime is the period when a program or part of it is actively running or being executed by the computer.
+* Actions can occur either "at runtime" or "at compile time".
+* The term "runtime" can also refer to unwritten software or instructions (often from a "runtime library") necessary for a program's proper execution.
+* Examples illustrate how loading resources during runtime (on-demand) versus prior to runtime (pre-loaded) affects program load and wait times.
+
+##### Independent Research / Notable Discoveries
+* **Compile-time vs. Runtime Errors:** Errors caught by the compiler (e.g., syntax errors) are compile-time errors. Errors that only manifest when the program is executing (e.g., logic errors, division by zero) are runtime errors.
+* **Just-In-Time (JIT) Compilation:** Modern JavaScript engines use JIT compilers that compile and optimize code during execution, blurring the traditional compile-time/runtime distinction.
+* **Runtime Environment:** "Runtime" also refers to the specific environment where code executes (e.g., browser for client-side JS, Node.js for server-side JS), which provides resources and APIs.
+
+##### Personal Reflections
+Understanding runtime is critical for optimizing program performance and effectively debugging. Deciding when to load resources (e.g., lazy loading during runtime vs. eager loading prior to runtime) is a practical application of this concept. The role of the compiler in preparing code for runtime is also clearer.
+
+##### Relevant Files:
+* [ai-assistant-project-guidelines.md](ai-assistant-project-guidelines.md)
+* [FORMATTING_GUIDE_FOR_SUPPLEMENTARY_LEARNING_HTML_CSS.md](FORMATTING_GUIDE_FOR_SUPPLEMENTARY_LEARNING_HTML_CSS.md)
+
+---

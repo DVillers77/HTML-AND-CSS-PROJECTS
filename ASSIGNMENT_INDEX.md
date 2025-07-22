@@ -2916,4 +2916,32 @@ Explored the difference between libraries and frameworks, noting that libraries 
 
 ---
 
+#### Step 274: RUNTIME - Understanding Program Execution
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Define "runtime" and its relationship to compilers and program execution.
+* Differentiate between actions occurring "at compile time" and "at runtime".
+* Understand the concept of a "runtime library" and its role in program execution.
+
+### Core Course Concepts:
+* Meaning of "run" as execution.
+* Function of a compiler in converting code to executable instructions.
+* Definition of runtime as the period of program execution.
+* The term "runtime" encompassing implicitly executed software or instructions.
+* Runtime libraries implementing built-in language functions during execution.
+
+### Relevant Files:
+* [ai-assistant-project-guidelines.md](ai-assistant-project-guidelines.md)
+* [SUPPLEMENTARY_LEARNING_HTML_CSS.md](SUPPLEMENTARY_LEARNING_HTML_CSS.md)
+
+### Reflection/Learning Note:
+This step provided a clear distinction between compile-time and runtime, which is fundamental to how programs operate. The concept of runtime libraries, executing code I didn't explicitly write but is necessary, clarifies much about how programming languages work behind the scenes. The example about video loading really drove home the practical implications of optimizing when tasks occur.
+
+### Independent Research & Best Practices:
+Explored Just-In-Time (JIT) compilation in modern JavaScript, which shows how runtime compilation can be highly dynamic. Also reinforced the importance of differentiating compile-time vs. runtime errors for debugging. Considered lazy vs. eager loading as a key performance practice directly tied to runtime.
+
+---
+
 

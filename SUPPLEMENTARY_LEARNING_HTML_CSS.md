@@ -2724,3 +2724,25 @@ This step involved completing a quiz designed to test understanding of the PNG (
 ### SUBSECTION F: CHALLENGE AND SUBMITTING YOUR CODE
 
 ---
+
+#### ALT TAGS ASSIGNMENT
+
+### Course Step Number: 259
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+This step involved an assignment to ensure all `<img>` elements in `index.html` contained appropriate `alt` attributes. The `alt` attribute provides alternative text for an image, which is crucial for web accessibility (allowing screen readers to describe the image to visually impaired users) and for displaying descriptive text if the image fails to load. Upon inspection, it was confirmed that all images in `index.html` already had correctly filled and descriptive `alt` tags.
+
+##### Independent Research / Notable Discoveries
+* (N/A - This step primarily confirmed existing correct implementation.)
+
+##### Learning Enhancements
+* **`alt` Text Best Practices (Reinforcement):** Reaffirmed the guidelines for writing effective `alt` text:
+    * **Be concise and descriptive:** Convey the essential information or function of the image.
+    * **Avoid redundancy:** Don't start with "Image of..." or "Picture of...".
+    * **If decorative:** For purely decorative images that convey no information, an empty `alt=""` attribute is often appropriate so screen readers skip them.
+    * **Context is key:** The `alt` text should make sense in the context of the surrounding content.
+* **Impact on SEO (Reinforcement):** `alt` text also provides valuable information to search engines, helping them understand the content of images, which can contribute to image search rankings.
+* **Progressive Loading and Broken Images (Reinforcement):** The `alt` text serves as a crucial fallback for users on slow connections or when images are broken, providing a basic understanding of the content even without the visual element.
+
+---

@@ -2688,4 +2688,38 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 265: PLANNING AND EXECUTING A WEB APPLICATION
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Understand the importance of planning and organizing thoughts before coding a web project.
+* Grasp the definition of web pages as electronic documents consumed by browsers.
+* Recognize a website as a collection of interlinked electronic documents.
+* Identify the two major planning elements: overall structure (page connections) and graphical layout.
+* Acknowledge that the upcoming project requires planning but discourage excessive detailing, as it is not a final portfolio site.
+
+### Core Course Concepts:
+* Project Planning: The necessity of pre-coding organization.
+* Website Structure: How pages link and flow.
+* Graphical Layout: Visual design and element arrangement.
+* Web Page Definition: Electronic documents for browsers.
+* Website Definition: Collection of interlinked documents.
+* Iterative Development: Focus on core requirements over excessive detail for this specific project.
+
+### Relevant Files:
+* (N/A - This step is a conceptual learning point about project methodology.)
+
+### Reflection/Learning Note:
+* This step provided a crucial reminder that effective coding begins with effective planning. The adage "Weeks of coding can save you hours of planning" resonates strongly, emphasizing that a clear blueprint prevents significant rework. Understanding that this upcoming project is for practice, not portfolio, helps manage expectations regarding detail and time investment.
+
+### Independent Research & Best Practices:
+* **"Design First" Principle:** Reinforced the idea of starting with wireframes, mockups, and sitemaps.
+* **Sitemaps/User Flow Diagrams:** Identified these as tools for planning page connections.
+* **Wireframing/Mockups:** Recognized these as tools for planning graphical layout.
+* **MVP (Minimum Viable Product):** Connected the advice to avoid excessive detail to the MVP concept, focusing on core functionality.
+* **Planning Tools:** Explored various tools from pen-and-paper to digital wireframing software.
+
+---
+
 

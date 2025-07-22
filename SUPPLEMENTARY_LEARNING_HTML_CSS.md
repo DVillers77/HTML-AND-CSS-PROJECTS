@@ -2823,3 +2823,41 @@ This step involved completing a quiz focused on identifying the correct HTML syn
 ### SUBSECTION G: PLANNING AND EXECUTING A WEB APPLICATION
 
 ---
+
+#### PLANNING AND EXECUTING A WEB APPLICATION
+
+### Course Step Number: 265
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+This step profoundly emphasized the adage "Weeks of coding can save you hours of planning", stressing the critical importance of **pre-coding planning** for any web project. Key definitions provided include:
+* Web pages are formatted electronic documents consumed by web browsers.
+* A website is fundamentally a collection of interlinked electronic documents.
+Planning should specifically address two major elements:
+1.  The **overall structure** (how pages connect and flow).
+2.  The **graphical layout** of each individual page.
+The lesson also set expectations for the upcoming assignment, which will involve building a basic website quickly, without getting bogged down in excessive detail, as it serves as a foundational exercise for later CSS and JavaScript drills rather than a portfolio piece.
+
+##### Independent Research / Notable Discoveries
+* **Structured Project Phases:** Learned that project development commonly follows phases: **Planning** (requirements gathering, wireframing, sitemapping), **Design** (visual mockups), **Development** (coding), **Testing**, and **Deployment**. This step primarily focuses on the initial "Planning" phase.
+* **Information Architecture (IA):** This field specifically deals with organizing, structuring, and labeling content effectively and sustainably. Sitemaps and navigation flows are core IA tools and directly address the "overall structure" planning element.
+* **Wireframes vs. Mockups vs. Prototypes:** Differentiated these design artifacts:
+    * **Wireframes:** Low-fidelity, black-and-white layouts focusing on spacing, content, and functionality.
+    * **Mockups:** Mid-to-high fidelity static designs, adding colors, typography, and imagery.
+    * **Prototypes:** Interactive versions of designs, simulating user experience. For this HTML-focused project, wireframes are most relevant.
+* **Benefits of Upfront Planning:** Confirmed that thorough planning leads to:
+    * Reduced development time and costs.
+    * Fewer errors and reworks.
+    * Better alignment with project goals and user needs.
+    * Improved team communication and collaboration.
+
+##### Learning Enhancements
+* **Minimum Viable Planning (Practical Application for this Assignment):** Given the instruction to "work as quickly as you can and don’t get caught up in too many details" for this specific assignment, focus your planning on:
+    * **Simple Sitemap:** A basic list or quick sketch of all HTML pages you'll create and how they link (e.g., Home -> About, Home -> Contact).
+    * **Rough Wireframes:** Quick, hand-drawn sketches for the main pages to determine where headers, navigation, main content, and footers will go. No need for intricate designs or specific styling yet.
+    * **Content Placeholders:** Decide what kind of content will go on each page (e.g., "About Us text," "Product images," "Contact form").
+* **The Power of Pseudocode (Forward-looking tip):** While more common in programming logic, the concept of writing out steps in plain language before coding can also apply to HTML structure (e.g., "Div for header, inside that, h1 and nav, etc.").
+* **Version Control for Planning Files (Best Practice):** Consider adding your planning documents (even simple text files describing your structure, or images of your sketches) to your Git repository. This keeps your planning history alongside your code.
+* **Don't Fear the Blank Page (Mental Approach):** Breaking down a large project into smaller, planned components (like individual pages, then sections within pages) makes the overall task less daunting and more manageable.
+
+---

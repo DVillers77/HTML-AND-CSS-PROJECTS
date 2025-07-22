@@ -2419,4 +2419,37 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+---
+
+#### Step 252: BOOKMARKS
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Understand the core concept and purpose of HTML bookmarks (internal page links).
+* Learn how to create a bookmark target using the `id` attribute.
+* Learn how to create a hyperlink that navigates to a specific bookmark using the `#` symbol in the `href` attribute.
+* Reinforce the importance of unique `id` attributes.
+
+### Core Course Concepts:
+* HTML Bookmarks / Internal Links: Navigating within the same page.
+* `id` attribute: Uniquely identifying an HTML element to serve as a bookmark target.
+* `<a>` tag: Creating the link.
+* `href` attribute: Using `#` followed by the `id` name to link to a bookmark.
+* Uniqueness of `id`s: Each `id` value must be unique within the HTML document.
+
+### Relevant Files:
+* (No specific file modifications as this is a conceptual step with examples; knowledge applies to all HTML files.)
+
+### Reflection/Learning Note:
+* This step revisited and deepened the understanding of HTML bookmarks, a fundamental feature for user-friendly navigation on long web pages. The clear examples demonstrated how to set up both the target `id` and the linking `href`, emphasizing the critical role of the `#` symbol and the importance of precise case matching. This technique is invaluable for improving content accessibility and navigability.
+
+### Independent Research & Best Practices:
+* **Case Sensitivity:** Reconfirmed that the `id` attribute value and the fragment identifier in the `href` must match exactly, including case, for the bookmark to function correctly.
+* **Multiple Uses of `id`:** Reinforced that `id` attributes are also essential for CSS styling and JavaScript manipulation, making them versatile identifiers beyond just bookmarks.
+* **Deep Linking:** Understood that bookmarks facilitate "deep linking," allowing users or external sites to link directly to a specific section of a page.
+* **Semantic Tagging for Bookmarks:** Noted that placing `id` attributes on semantic sectioning elements (like `<section id="about">` or `<article id="post-title">`) is often preferred for better structure and accessibility.
+
+---
+
 

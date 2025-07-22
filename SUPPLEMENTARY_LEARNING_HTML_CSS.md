@@ -2819,3 +2819,7 @@ This step involved completing a quiz focused on identifying the correct HTML syn
 * (N/A - This step is a quiz assessment.)
 
 ---
+
+### SUBSECTION G: PLANNING AND EXECUTING A WEB APPLICATION
+
+---

@@ -2684,4 +2684,8 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+### Step 264: SUBSECTION G: PLANNING AND EXECUTING A WEB APPLICATION
+
+---
+
 

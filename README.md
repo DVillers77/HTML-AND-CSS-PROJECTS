@@ -213,3 +213,6 @@ This comprehensive four-part video series guided the creation of a basic HTML we
 
 #### 44. BASIC HTML WEBSITE CHALLENGE (Step 261)
 Implemented unique meta descriptions for homepage and contact page, and added a semantically correct blockquote with attribution to the homepage. This challenge reinforced key HTML elements for metadata and content display.
+
+#### 45. ONE-PAGE WEBSITE SETUP (Step 268)
+Initialized the "One-Page Website" project by creating its dedicated folder and the main HTML file with boilerplate, setting up the basic project structure.

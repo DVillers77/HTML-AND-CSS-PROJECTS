@@ -2780,4 +2780,32 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 268: ONE-PAGE WEBSITE FOLDER ASSIGNMENT
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Create a new folder named "One-Page Website" in the local repository.
+* Create a new HTML file named "one_page_website.html" within this folder.
+* Add the basic HTML boilerplate structure to "one_page_website.html".
+
+### Core Course Concepts:
+* File and folder organization: Structuring web projects.
+* Local repository management: Setting up project directories.
+* HTML boilerplate: Essential foundational structure for HTML documents.
+* Naming conventions: Applying consistent naming for files and folders.
+
+### Relevant Files:
+* (N/A - This step involves creating new files and folders.)
+
+### Reflection/Learning Note:
+* This step was a fundamental exercise in project setup, reinforcing the importance of proper file and folder organization. Creating a dedicated folder for a new project and immediately adding the HTML boilerplate are crucial first steps that establish a clean and functional foundation for development.
+
+### Independent Research & Best Practices:
+* **Command Line Usage:** Briefly considered practicing `mkdir` and `touch` commands for creating folders and files via the terminal.
+* **Initial HTML Structure:** Confirmed the necessary `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>` tags for a valid HTML document.
+* **Version Control Integration:** Recalled the importance of staging (`git add`) and committing (`git commit`) these new files and folders immediately to track project setup.
+
+---
+
 

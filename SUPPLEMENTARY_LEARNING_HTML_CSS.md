@@ -2951,3 +2951,24 @@ This step laid out the explicit **minimum project requirements** for the upcomin
 * **Placeholder Content (Efficiency Tip):** Don't get bogged down writing perfect copy or finding ideal images initially. Use placeholder text (e.g., "Lorem ipsum...") and temporary image links/placeholders to get the structure in place. You can fill in the real content later.
 
 ---
+
+#### ONE-PAGE WEBSITE FOLDER ASSIGNMENT
+
+### Course Step Number: 268
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+This step marked the initiation of the "One-Page Website" project by instructing the creation of a new folder named `"One-Page Website"` within the local repository, and subsequently, the creation of a new HTML file named `"one_page_website.html"` inside this folder. The user also correctly added the basic HTML boilerplate (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`) to the new HTML file. This foundational step is crucial for establishing proper project directory structure and preparing the main HTML document for content.
+
+##### Independent Research / Notable Discoveries
+* **Logical Project Organization:** Reaffirmed that placing all files related to a specific project within its own dedicated folder (e.g., `images/`, `css/`, `js/` subfolders within `One-Page Website/`) is an industry standard best practice. This avoids clutter, improves navigability, and simplifies deployment.
+* **Default Document Names:** While not required here, recalled that `index.html` is the default file name that web servers look for when a user navigates to a directory (e.g., `yourwebsite.com/`), which is why it's commonly used for homepages. For this single-page assignment, `one_page_website.html` is perfectly acceptable as it's directly specified.
+* **IDE/Editor Shortcuts:** Most modern Integrated Development Environments (IDEs) and text editors (like VS Code) have shortcuts (e.g., typing `!` then `Tab` or `Enter` for Emmet abbreviation) that quickly generate the HTML boilerplate, significantly speeding up initial setup.
+
+##### Learning Enhancements
+* **Consistency in Naming (Reinforcement):** The naming `One-Page Website` for the folder and `one_page_website.html` for the file demonstrates good consistency. If the project were larger and involved URLs, `kebab-case` (`one-page-website.html`) would generally be preferred for the file name for SEO and consistency with CSS class names. However, for a local file name that won't be directly accessed via a URL, `snake_case` is perfectly readable.
+* **Immediate Boilerplate Benefits:** Adding the boilerplate immediately after file creation is efficient. It ensures the document is always a valid HTML5 structure, preventing issues that might arise from missing essential tags like `<!DOCTYPE html>` or `<meta charset="UTF-8">`.
+* **Planning for Sub-Folders (Future Consideration):** Although not required yet, remember that as the project grows (e.g., adding images, CSS files, JavaScript files), you would typically create sub-folders within `One-Page Website/` like `images/`, `css/`, `js/` to keep those assets organized. This proactive mindset simplifies future development.
+* **Version Control: Staging New Files (Practical Tip):** When you create new files or folders, Git doesn't automatically track them. You must explicitly `git add` them (`git add .` or `git add "One-Page Website/"`) before you can include them in a commit. This is a common point of confusion for beginners.
+
+---

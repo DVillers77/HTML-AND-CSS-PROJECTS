@@ -204,3 +204,6 @@ This assignment involved directly dragging an HTML file into the browser for imm
 
 #### 41. EM TAG ASSIGNMENT - applying emphasis and external links (Step 248)
 This assignment involved practically applying the `<em>` tag for text emphasis within the `index.html` file, and creating an external hyperlink that opens in a new tab. Crucially, it reinforced the security best practice of including `rel="noopener noreferrer"` with `target="_blank"`.
+
+#### 42. CHALLENGE - Defining and Using New Tags (Step 249)
+This challenge focused on defining and implementing new semantic HTML5 tags: `<article>`, `<details>`, `<summary>`, and `<time>` with its `datetime` attribute, enhancing content structure and functionality.

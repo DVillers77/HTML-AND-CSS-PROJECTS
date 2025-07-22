@@ -2324,4 +2324,35 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 249: CHALLENGE - Defining and Using New Tags
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Define and understand the purpose of `<article>`, `<details>`, `<summary>`, and `<time>` HTML tags.
+* Learn how to use the `datetime` attribute with the `<time>` tag.
+* Implement all four tags within an HTML file to observe their default behavior and semantic structure.
+
+### Core Course Concepts:
+* `<article>` tag: Self-contained, independent content block.
+* `<details>` tag: Disclosure widget for expandable content.
+* `<summary>` tag: Visible heading for a `<details>` element.
+* `<time>` tag: Semantic element for dates, times, or durations.
+* `datetime` attribute: Machine-readable format for the `<time>` tag.
+* Semantic HTML: Structuring content with meaningful tags for better accessibility and SEO.
+
+### Relevant Files:
+* [index.html](the-pet-shop-website/index.html) (or relevant HTML file where changes were made)
+
+### Reflection/Learning Note:
+* This challenge was an excellent introduction to more advanced semantic HTML5 tags. The `<details>` and `<summary>` tags are particularly useful for creating interactive, collapsible content directly in HTML without JavaScript. Understanding the `datetime` attribute's importance for machine readability within the `<time>` tag is crucial for data interpretation. The `<article>` tag solidifies the concept of organizing independent content units on a page.
+
+### Independent Research & Best Practices:
+* **Default Interactivity:** Confirmed that `<details>` and `<summary>` provide native browser-level interactivity, which is a great example of progressive enhancement.
+* **Accessibility Benefits:** Researched how these semantic tags (especially `<article>` and `<time>`) improve accessibility for screen readers and other assistive technologies.
+* **`datetime` Formats:** Explored various valid `datetime` attribute formats (e.g., full dates, times, date-times with timezones, durations) to ensure proper machine parsing.
+* **Nesting `<article>`:** Learned that `<article>` elements can be nested, for example, for comments on a main article, where each comment is itself an independent piece of content.
+
+---
+
 

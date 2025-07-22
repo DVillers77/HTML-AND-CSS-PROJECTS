@@ -2923,3 +2923,31 @@ This step introduced the next practical coding assignment: constructing a **simp
     ```
 * **Iterative Development for Simple Projects (Practical Approach):** For this assignment, build it section by section. Get the HTML structure for one part working, then move to the next. Don't worry about styling until the HTML is complete and semantically correct.
 * **Preparation for Future Steps:** Consciously remember that the HTML structure and element IDs/classes you choose for this page will be important for targeting with CSS and manipulating with JavaScript later. Plan accordingly, keeping future integration in mind.
+
+---
+
+#### PROJECT REQUIREMENTS
+
+### Course Step Number: 267
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+This step laid out the explicit **minimum project requirements** for the upcoming one-page HTML website assignment. These required elements include: a home page section (with heading and paragraph), a section for images (`<img>`), a contact form (`<form>`, `<input>`), a section for video(s) (`<iframe>`), a `<footer>`, and a `<nav>` element utilizing HTML bookmarks for internal page navigation. The step also mandated two crucial **planning actions**: first, deciding on the website's topic, and second, creating a preliminary plan for the page layout and structure, which could be in any chosen format (e.g., hand-drawn, digital sketch).
+
+##### Independent Research / Notable Discoveries
+* **HTML Bookmark Implementation Detail:** Focused on how `id` attributes are used on target elements (e.g., `<section id="contact-form">`) and how `<a href="#contact-form">` links directly to them, enabling smooth-scrolling navigation within a single page.
+* **Semantic HTML for Structure:** The list of requirements naturally lends itself to using HTML5 semantic elements (e.g., `<section>`, `<footer>`, `<nav>`) to clearly define each distinct area of the page, improving both readability and accessibility.
+* **Form Element Checklist:** Mentally ran through common form elements required beyond just `<input>` tags, such as `<textarea>` for multi-line text, `<label>` for accessibility, and the `type` attribute for different input behaviors (e.g., `email`, `tel`).
+
+##### Learning Enhancements
+* **Structured Planning Process (Crucial for Success):** Before writing any code for the upcoming assignment, highly recommend a quick but deliberate planning session:
+    1.  **Choose Your Topic:** Select something simple and personally interesting to maintain motivation.
+    2.  **Outline Sections & IDs:** List the required sections and assign a clear, descriptive `id` to each. These IDs will be your HTML bookmarks.
+        * Example: `Home (id="home")`, `Pictures (id="gallery")`, `Contact (id="contact-form")`, `Video (id="video-embed")`, `Footer (id="page-footer")`.
+    3.  **Sketch Wireframe (Visual Layout):** Draw a simple box-and-line sketch of your single page. Divide it into your planned sections. Inside each box, draw placeholders for the required elements (e.g., "H1 here," "3 images," "Name/Email/Message fields," "YouTube embed"). This visual plan makes coding much more straightforward.
+    4.  **Content Brainstorm (Brief):** Jot down a few ideas for text content for the home page, what kind of pictures, a simple video concept, etc.
+* **Prioritize Semantic HTML (Best Practice):** As you code, remember to choose HTML tags based on their meaning, not just their default appearance. For example, use `<nav>` for navigation links, `<footer>` for footer content, and `<section>` to group related content.
+* **Iterative Approach to Requirements:** Build the page requirement by requirement. Get the home section working, then the picture section, and so on. This makes debugging easier and builds confidence.
+* **Placeholder Content (Efficiency Tip):** Don't get bogged down writing perfect copy or finding ideal images initially. Use placeholder text (e.g., "Lorem ipsum...") and temporary image links/placeholders to get the structure in place. You can fill in the real content later.
+
+---

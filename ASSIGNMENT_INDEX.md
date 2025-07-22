@@ -2751,4 +2751,33 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 267: PROJECT REQUIREMENTS
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Understand the minimum required elements for the one-page HTML website: a home section, pictures section, contact form, video section, footer, and navigation with HTML bookmarks.
+* Choose a topic/subject matter for the website.
+* Create a plan (hand-drawn, typed, or sketched) for the page based on the project requirements.
+
+### Core Course Concepts:
+* Project requirements: Non-negotiable elements for project completion.
+* One-page site elements: Key components of a single HTML document website.
+* HTML bookmarks: Internal page navigation using `id` attributes and `href`.
+* Pre-coding planning: Translating requirements into a concrete structure.
+
+### Relevant Files:
+* (N/A - This step defines requirements and initiates planning for an upcoming project.)
+
+### Reflection/Learning Note:
+* This step provided a clear checklist for the upcoming HTML project, ensuring all essential components are included. The freedom to choose the website's topic while adhering to structural requirements is a good balance between guidance and creativity. The planning phase is critical here to ensure all required elements are accounted for before coding begins.
+
+### Independent Research & Best Practices:
+* **Semantic Sectioning for Bookmarks:** Reconfirmed the importance of well-named `id` attributes for navigation targets.
+* **Iframe Security:** Explored `sandbox` and `allow` attributes for safer video embeds.
+* **Ethical Image Sourcing:** Briefly considered copyright and royalty-free image sources for the pictures section.
+* **Sitemap & Wireframe Creation:** Adopted these as recommended planning methods for organizing content and layout.
+
+---
+
 

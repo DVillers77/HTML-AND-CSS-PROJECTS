@@ -210,3 +210,6 @@ This challenge focused on defining and implementing new semantic HTML5 tags: `<a
 
 #### 43. CREATING A BASIC HTML WEBSITE (PART 1-4)
 This comprehensive four-part video series guided the creation of a basic HTML website, progressively adding essential features. It covered initial HTML structure, adding text, images, internal and external links (including opening in new tabs with security best practices), embedding YouTube videos, implementing HTML bookmarks, and finally, building a functional contact form with various input types and accessibility considerations. This series provided hands-on experience in assembling foundational web page elements.
+
+#### 44. BASIC HTML WEBSITE CHALLENGE (Step 261)
+Implemented unique meta descriptions for homepage and contact page, and added a semantically correct blockquote with attribution to the homepage. This challenge reinforced key HTML elements for metadata and content display.

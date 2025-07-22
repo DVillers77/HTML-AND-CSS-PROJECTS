@@ -2746,3 +2746,39 @@ This step involved an assignment to ensure all `<img>` elements in `index.html` 
 * **Progressive Loading and Broken Images (Reinforcement):** The `alt` text serves as a crucial fallback for users on slow connections or when images are broken, providing a basic understanding of the content even without the visual element.
 
 ---
+
+#### BASIC HTML WEBSITE CHALLENGE
+
+### Course Step Number: 261
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+This step involved a practical challenge to enhance the `index.html` and `contact.html` files. The primary tasks were:
+1.  Adding a unique `<meta name="description" content="...">` tag to the `<head>` of both pages. This tag is vital for SEO, providing a brief summary of the page for search engine results.
+2.  Incorporating a `<blockquote>` tag under the header of `index.html` to display an extended quotation. This tag semantically indicates quoted content. Best practices for `<blockquote>` often include attributing the quote within a `<footer>` or `<cite>` tag inside the blockquote itself.
+
+##### Independent Research / Notable Discoveries
+* **Meta Description Length and Purpose:** Reconfirmed that while meta descriptions don't directly influence search rankings as much as keywords, they are crucial for driving user clicks from search results. Optimal length is typically 150-160 characters before truncation.
+* **`<blockquote>` vs. `q`:** Reemphasized that `<blockquote>` is for block-level content (often multiple lines or paragraphs), whereas the `<q>` tag is used for shorter, inline quotations.
+* **`<footer>` for Attribution:** Recognized `<footer>` as a semantically appropriate element to contain the source of a `<blockquote>`, enhancing document structure and accessibility.
+
+##### Learning Enhancements
+* **Strategic Meta Descriptions (Best Practice):**
+    * Craft unique, compelling descriptions for each page.
+    * Include relevant keywords naturally.
+    * Aim for conciseness to avoid truncation in search engine results.
+    * Focus on what makes the page valuable to a user searching for its content.
+* **Complete Blockquote Implementation (Best Practice):**
+    * Always wrap the quoted text itself in `<p>` tags within the `<blockquote>`.
+    * Include proper attribution using a `<footer>` element, often containing the author's name and potentially a `<cite>` tag for the source title or URL.
+    * Example:
+        ```html
+        <blockquote>
+          <p>"Until one has loved an animal, a part of one's soul remains unawakened."</p>
+          <footer>— <cite>Anatole France</cite></footer>
+        </blockquote>
+        ```
+* **HTML Validation (Tip):** After making changes, consistently validate your HTML (e.g., using the W3C Markup Validation Service) to catch any syntax errors or misuse of tags.
+* **Incremental Saving and Testing:** For challenges involving multiple changes, it's good practice to save and test your code incrementally after each major addition (e.g., after adding meta description, then after adding blockquote) to quickly identify and troubleshoot any issues.
+
+---

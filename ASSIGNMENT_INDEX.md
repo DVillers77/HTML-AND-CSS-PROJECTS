@@ -2615,4 +2615,32 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 261: BASIC HTML WEBSITE CHALLENGE
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Add a unique meta description tag to the head section of both `index.html` and `contact.html`.
+* Add a `<blockquote>` element under the header section of `index.html` to feature a highlighted quote.
+
+### Core Course Concepts:
+* `<meta name="description">`: Providing a concise summary of page content for search engines and social media.
+* `<blockquote>`: Semantically marking up block-level quoted content.
+* Semantic HTML: Using tags that convey meaning about content.
+* Web accessibility: Enhancing content for all users.
+
+### Relevant Files:
+* [index.html](index.html)
+* [contact.html](contact.html)
+
+### Reflection/Learning Note:
+* Successfully implemented unique meta descriptions for both the home and contact pages, understanding their importance for SEO and content summary. The addition of the blockquote demonstrated the correct semantic use for extended quotations. This challenge reinforced practical application of HTML tags for both content and metadata.
+
+### Independent Research & Best Practices:
+* **Meta Description Optimization:** Reinforced guidelines for concise, keyword-rich, and compelling meta descriptions for improved search visibility and click-through rates.
+* **Blockquote Attribution:** Applied the best practice of including a `<footer>` element within the `<blockquote>` for clear attribution of the quote source.
+* **Semantic vs. Presentational HTML:** Further solidified the understanding of choosing HTML tags based on their semantic meaning rather than just their default visual presentation.
+
+---
+
 

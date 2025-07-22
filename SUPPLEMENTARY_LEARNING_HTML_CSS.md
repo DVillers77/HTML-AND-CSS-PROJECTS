@@ -2861,3 +2861,65 @@ The lesson also set expectations for the upcoming assignment, which will involve
 * **Don't Fear the Blank Page (Mental Approach):** Breaking down a large project into smaller, planned components (like individual pages, then sections within pages) makes the overall task less daunting and more manageable.
 
 ---
+
+#### ONE-PAGE SITE
+
+### Course Step Number: 266
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+This step introduced the next practical coding assignment: constructing a **simple, one-page HTML website**. The core requirements for this single page include a homepage with a dedicated **form for user input**. The assignment serves two main purposes: to teach the process of **planning a basic coding project** and to provide **further hands-on experience in writing HTML code**. It was also clarified that this foundational HTML page will be further developed with CSS and JavaScript in subsequent training modules, reinforcing the layered nature of web development.
+
+##### Independent Research / Notable Discoveries
+* **Architectural Simplicity of One-Page Sites:** Confirmed that for simple presentations (like a small business landing page, an event invite, or a basic portfolio preview), a one-page site can be highly effective, simplifying navigation and user experience by minimizing clicks.
+* **HTML5 Semantic Structure (Reinforcement):** The upcoming one-page site provides a perfect opportunity to rigorously apply HTML5 semantic elements like `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, and `<footer>` to logically organize content, even within a single `.html` file. This improves readability for developers and accessibility for screen readers.
+* **Form Element Recap:** The explicit mention of a "form for user input" served as a reminder to revisit the various `<input>` types (`text`, `email`, `tel`, `checkbox`, `radio`, `submit`), `<textarea>`, and crucially, their associated `<label>` tags for accessibility.
+
+##### Learning Enhancements
+* **Basic One-Page Site Structure (Guidance for Implementation):** When building this page, mentally (or quickly sketch) map out a logical flow of content. A common structure for a single page might include:
+    ```html
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Your One-Page Site</title>
+        </head>
+    <body>
+        <header>
+            <h1>Site Title / Logo</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <section id="hero">
+                </section>
+
+            <section id="about">
+                <h2>About Us</h2>
+                </section>
+
+            <section id="services">
+                <h2>Our Services</h2>
+                </section>
+
+            <section id="contact">
+                <h2>Contact Us</h2>
+                <form>
+                    </form>
+            </section>
+        </main>
+
+        <footer>
+            </footer>
+    </body>
+    </html>
+    ```
+* **Iterative Development for Simple Projects (Practical Approach):** For this assignment, build it section by section. Get the HTML structure for one part working, then move to the next. Don't worry about styling until the HTML is complete and semantically correct.
+* **Preparation for Future Steps:** Consciously remember that the HTML structure and element IDs/classes you choose for this page will be important for targeting with CSS and manipulating with JavaScript later. Plan accordingly, keeping future integration in mind.

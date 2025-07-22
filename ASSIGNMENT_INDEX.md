@@ -2202,4 +2202,43 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 245: CREATING A BASIC HTML WEBSITE PART 3 VIDEO
+
+### Date Completed: 2025-07-21
+
+### Objective:
+* Add multiple images to `index.html` for various animal categories.
+* Embed an external video (YouTube) into `index.html` using the `<iframe>` tag.
+* Implement internal page navigation (HTML bookmarks) using anchor links (`<a>` tags with `href="#ID"`) and `id` attributes.
+* Understand and troubleshoot case sensitivity in HTML attribute values.
+* Reinforce modular content organization with `div` and `section` tags.
+
+### Core Course Concepts:
+* `<img>` tag: continued use of `src` and `alt`.
+* `<iframe>` tag: embedding external content (videos), `width`, `height`, `src` attributes.
+* `id` attribute: uniquely identifying HTML elements for linking and scripting.
+* Anchor links (`<a>` tag): `href` attribute with hash (`#`) for internal page navigation.
+* `<ul>`, `<li>` tags: structuring navigation lists.
+* HTML comments: for code organization and readability.
+* Case sensitivity: critical matching between `href="#ID"` and `id="ID"`.
+* Regular code testing: importance of frequent browser checks.
+
+### Relevant Files:
+* [index.html](the-pet-shop-website/index.html)
+* [images/](the-pet-shop-website/images/) (folder containing referenced images)
+
+### Reflection/Learning Note:
+* This lesson transformed the homepage into a much richer and more interactive experience. The ability to embed external content with `<iframe>` is powerful, and mastering internal bookmarks is essential for long, single-page layouts. The troubleshooting exercise with the `guinea pig` link was a crucial practical lesson on the unforgiving nature of case sensitivity in HTML attributes, a detail easily overlooked but vital for functionality.
+
+### Independent Research & Best Practices:
+* Explored `<iframe>` `title` attribute for accessibility, providing a descriptive label for screen readers.
+* Researched best practices for `id` naming (e.g., unique, descriptive, no spaces, kebab-case is common).
+* Looked into the `<video>` tag for self-hosting videos versus `<iframe>` for external embeds, understanding their respective use cases.
+* Confirmed that while bookmarks are useful, complex single-page applications often use JavaScript routing for smoother navigation.
+* Investigated semantic `nav` element for navigation sections and its benefits for accessibility and SEO.
+
+---
+
+
+
 

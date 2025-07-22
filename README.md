@@ -198,3 +198,6 @@ This assignment involved a practical exercise in managing the development enviro
 
 #### 39. FILE STRUCTURE ASSIGNMENT - confirming project setup (Step 240)
 This assignment served as a crucial checkpoint to verify that all necessary files and folders for "The Pet Shop Website" were correctly created and organized within the local repository, reinforcing diligent file management practices.
+
+#### 40. DRAG AND DROP ASSIGNMENT - quick browser testing (Step 243)
+This assignment involved directly dragging an HTML file into the browser for immediate local viewing, making and reverting text changes, and using the browser's refresh function. This reinforced quick testing workflows for local HTML development.

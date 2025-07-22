@@ -2171,4 +2171,31 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 243: DRAG AND DROP ASSIGNMENT
+
+### Date Completed: 2025-07-21
+
+### Objective:
+* Learn and practice running local HTML files by dragging them directly into a web browser.
+* Understand the immediate effect of saving changes to an HTML file and refreshing the browser.
+* Reinforce basic local development workflow for quick testing.
+
+### Core Course Concepts:
+* Client-side rendering of HTML by web browsers.
+* Browser cache and refresh mechanisms.
+* Direct file system interaction with browsers.
+* Rapid iteration in web development.
+
+### Relevant Files:
+* [index.html](the-pet-shop-website/index.html) (viewed and modified for testing)
+
+### Reflection/Learning Note:
+* This practical assignment demonstrated the simplest way to view local HTML files and test changes quickly. Dragging the file into the browser and using the refresh button provides immediate visual feedback, which is crucial for efficient front-end development.
+
+### Independent Research & Best Practices:
+* Explored alternative methods for local HTML viewing, such as VS Code's "Live Preview" extension or simple local web servers (like Python's `http.server`), which offer automatic refreshing and more robust testing environments for larger projects.
+* Reinforced the understanding that a browser refresh retrieves the latest saved version of the local file, bypassing any browser-side caching of that specific file.
+
+---
+
 

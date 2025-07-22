@@ -2568,4 +2568,23 @@ This step highlights a key pedagogical approach of the bootcamp: intentional rep
 
 ---
 
+#### Step 258: QUIZ
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Assess understanding of the PNG image file format.
+
+### Core Course Concepts:
+* PNG definition and characteristics.
+* General HTML knowledge assessment.
+
+### Relevant Files:
+* (N/A - This step is a quiz assessment.)
+
+### Reflection/Learning Note:
+* Successfully completed the quiz, demonstrating comprehension of the PNG image file format.
+
+---
+
 

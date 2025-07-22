@@ -2704,3 +2704,19 @@ This lesson introduced the concept of **naming conventions** in programming, def
 * **Documentation and Style Guides:** For larger projects or teams, it's beneficial to create a `CONTRIBUTING.md` or `STYLEGUIDE.md` document that explicitly outlines the agreed-upon naming conventions and other coding style rules.
 
 ---
+
+#### QUIZ
+
+### Course Step Number: 258
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+This step involved completing a quiz designed to test understanding of the PNG (Portable Network Graphics) image file format, specifically its acronym. Successful completion indicates a grasp of this concept.
+
+##### Independent Research / Notable Discoveries
+* (N/A - This step is a quiz assessment.)
+
+##### Learning Enhancements
+* (N/A - This step is a quiz assessment.)
+
+---

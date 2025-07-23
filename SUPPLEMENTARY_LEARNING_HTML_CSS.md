@@ -3556,3 +3556,35 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * (No relevant files from the lesson itself to cite as new rule.)
 
 ---
+
+#### Step 295: UTILIZING THE GITHUB EXTENSION ASSIGNMENT - Git Workflow Deep Dive
+
+### Date: 2025-07-23
+
+### Key Learnings:
+
+* **Git Workflow (`add` -> `commit` -> `push`):** Gained a clearer understanding of the standard three-stage Git workflow, and how each command (`git add`, `git commit`, `git push`) serves a distinct purpose in managing changes from the working directory to the remote repository.
+    * **`git add` (Staging):** The act of selecting specific changes to be included in the *next* commit. It's the preparation step for a snapshot.
+    * **`git commit` (Local Repository):** Creating a permanent, version-controlled snapshot of the *staged* changes in the local Git history. This is a crucial checkpoint on the project's timeline on the local machine.
+    * **`git push` (Remote Repository):** Uploading new local commits from a local branch to its corresponding branch on a remote repository (e.g., GitHub), making changes visible and backed up online.
+
+* **VS Code UI vs. Terminal Commands:**
+    * Recognized that the VS Code Source Control UI (e.g., using the `+` icon to stage, and "Commit & Push" button) performs the exact same underlying Git operations as the explicit terminal commands. The UI offers convenience by streamlining these actions.
+    * Understood the value of using terminal commands for a deeper grasp of Git's mechanics, even if the UI is faster for daily tasks.
+
+* **Understanding Git Branches:**
+    * Clarified that a Git branch is not a physical folder on the file system, but rather a lightweight pointer to a specific commit, representing an independent line of development. Switching branches changes the contents of the working directory to reflect that branch's state.
+
+* **Local Save (`Ctrl+S`) vs. Local Commit (`git commit`):**
+    * **`Ctrl+S` (Save):** A file system operation that writes unsaved changes from the text editor's memory to the actual file on the hard drive, making them persistent. Git *detects* these saved changes.
+    * **`git commit` (Commit):** A Git version control operation that takes a formal, permanent snapshot of *staged* changes and records them in the project's historical timeline within the local Git repository. A file must be saved before its changes can be committed.
+
+* **Relevance for UX Design:** Discussed how understanding Git and development workflows is highly valuable for UX Designers, fostering better collaboration with developers, providing a foundation for design asset versioning, and enhancing overall technical literacy in the tech industry.
+
+---
+
+### `README.md` Entry Update for Step 295
+
+* **Step 295: UTILIZING THE GITHUB EXTENSION ASSIGNMENT:** Successfully integrated the GitHub Pull Requests and Issues extension with VS Code, and practiced fundamental Git command-line operations (`git add`, `git commit`, `git push`) to manage changes and push a new branch (`github-assignment`) to the remote repository. This step also clarified core Git concepts, distinguishing local saves from commits, and understanding branch mechanics.
+
+---

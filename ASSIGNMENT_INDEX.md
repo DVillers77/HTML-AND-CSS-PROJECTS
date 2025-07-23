@@ -3418,4 +3418,41 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 295: UTILIZING THE GITHUB EXTENSION ASSIGNMENT
+
+### Date Completed: 2025-07-23
+
+### Objective:
+* Activated and authorized the GitHub Pull Requests and Issues extension within VS Code.
+* Created a new branch named `github-assignment`.
+* Modified `BasicHTML.html` by adding a new paragraph.
+* Used terminal commands (`git add`, `git commit`, `git push`) to stage, commit to local repository, and push the changes and the new branch to the remote repository.
+
+### Core Course Concepts:
+* GitHub Pull Requests and Issues extension integration with VS Code.
+* Branch creation and switching (`git branch`, `git checkout`).
+* Git workflow: staging (`git add`), local committing (`git commit`), and pushing to remote (`git push`).
+* Understanding the difference between local file saves (`Ctrl+S`), staging, local commits, and remote pushes.
+* Differentiating Git branches from file system folders.
+
+### Relevant Files:
+* [BasicHTML.html](BasicHTML.html)
+* [ai-assistant-project-guidelines.md](ai-assistant-project-guidelines.md)
+* [ASSIGNMENT_INDEX.md](ASSIGNMENT_INDEX.md)
+* [SUPPLEMENTARY_LEARNING_HTML_CSS.md](SUPPLEMENTARY_LEARNING_HTML_CSS.md)
+
+### Insights from Chat Discussion summary
+* Identified that the `BasicHTML.html` file, as instructed by the lesson, did not exist from previous steps and was created.
+* Clarified the distinction between VS Code UI Git operations (like "Commit and Push") and explicit command-line Git commands (`git add`, `git commit`, `git push`).
+* Understood that Git branches are not physical folders but pointers to commit histories.
+* Gained clarity on the difference between saving a file locally (`Ctrl + S`) and performing a Git local commit (`git commit`).
+* Discussed the value of learning command-line Git operations for UX designers, emphasizing collaboration, deeper understanding, and broader technical foundation.
+
+### Independent Research & Best Practices:
+* Ensured the `github-assignment` branch was successfully created and active before making changes.
+* Verified `git status` output after each command to confirm the state of the repository.
+* Used a clear and concise commit message to describe the changes made in this assignment.
+
+---
+
 

@@ -3225,4 +3225,27 @@ Recognized the benefit of video tutorials for visual learners and for quickly ab
 
 ---
 
+#### Step 287: VISUAL STUDIO CODE FEATURES ASSIGNMENT - UI Exploration
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Locate and understand the purpose of key Visual Studio Code user interface features.
+* Familiarize with the navigation and layout of the VS Code editor.
+
+### Core Course Concepts:
+* Activity Bar, Editor Bar, Panels (Problems, Output, Debug Console, Terminal), Status Bar, Command Palette.
+* Accessing and utilizing these UI components for development tasks.
+
+### Relevant Files:
+* (No relevant files from the lesson itself to cite as new rule.)
+
+### Reflection/Learning Note:
+Successfully navigated and identified all specified VS Code features. This hands-on exploration reinforced my understanding of the editor's layout and how to quickly find essential tools. The Command Palette continues to be a standout feature for its efficiency.
+
+### Independent Research & Best Practices:
+Explored how the visibility of panels and sidebars can be toggled for a cleaner workspace and how to customize the Activity Bar. Recognized that efficient use of these UI elements is critical for a smooth development workflow.
+
+---
+
 

@@ -231,3 +231,6 @@ Personalized the Visual Studio Code editor by exploring and applying preferred t
 
 #### 50. INSTALLING THE GITHUB EXTENSION ASSIGNMENT (Step 293)
 Installed the "Git Pull Requests and Issues" extension in Visual Studio Code, significantly enhancing the editor's capabilities for direct GitHub pull request and issue management, and clarifying the role of extensions versus built-in features.
+
+#### 51. OPENING GIT PULL REQUESTS AND ISSUES EXTENSION ASSIGNMENT (Step 294)
+Successfully activated and authorized the "Git Pull Requests and Issues" extension in Visual Studio Code, connecting it to the GitHub account for integrated pull request and issue management.

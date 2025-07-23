@@ -3533,3 +3533,26 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * (No relevant files from the lesson itself to cite as new rule.)
 
 ---
+
+#### OPENING GIT PULL REQUESTS AND ISSUES EXTENSION ASSIGNMENT - activating GitHub integration
+
+### Course Step Number: 294
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+* Assignment to activate and authorize the "Git Pull Requests and Issues" extension within Visual Studio Code.
+* Required actions include opening the "HTML-AND-CSS-PROJECTS" repository, locating the GitHub icon on the Activity Bar, and completing the sign-in and authorization process for the extension.
+
+##### Independent Research / Notable Discoveries
+* **Seamless Workflow Continuation:** Recognized this step as essential for bridging the extension installation with its practical use in managing GitHub workflows directly from the editor.
+* **Authorization Importance:** Understood that authorization grants the extension necessary permissions to interact securely with GitHub account data and perform actions like fetching PRs and issues.
+* **Extension Interface:** Anticipated the appearance of dedicated sections within the extension's sidebar for managing pull requests and issues once successfully opened and authorized.
+* **Leveraging Prior Setup:** Connected the steps to previous learning on VS Code's UI (Activity Bar), repository management, and GitHub authentication processes.
+
+##### Insights from Chat Discussion summary
+* (To be filled by the learner based on their actual experience with this specific step)
+
+##### Relevant Files:
+* (No relevant files from the lesson itself to cite as new rule.)
+
+---

@@ -3393,4 +3393,29 @@ Explored the specific features of the extension, such as inline commenting for P
 
 ---
 
+#### Step 294: OPENING GIT PULL REQUESTS AND ISSUES EXTENSION ASSIGNMENT - Activation & Authorization
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Successfully open the "Git Pull Requests and Issues" extension within Visual Studio Code.
+* Complete the necessary GitHub sign-in and authorization steps for the extension.
+* Ensure the extension is fully functional and connected to the GitHub account.
+
+### Core Course Concepts:
+* Locating and interacting with new extension icons in the VS Code Activity Bar.
+* Opening specific repositories within VS Code for Git context.
+* Authorizing third-party tools (extensions) to access GitHub account data.
+
+### Relevant Files:
+* (No relevant files from the lesson itself to cite as new rule.)
+
+### Insights from Chat Discussion summary
+* (To be filled by the learner based on their actual experience with this specific step)
+
+### Independent Research & Best Practices:
+Considered the security implications of authorizing extensions and the importance of only granting necessary permissions to trusted tools. Reflected on the seamless integration this provides for a more unified development environment.
+
+---
+
 

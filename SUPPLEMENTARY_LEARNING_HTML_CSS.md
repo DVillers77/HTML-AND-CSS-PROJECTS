@@ -3438,3 +3438,25 @@ This assignment was a practical and enjoyable way to make VS Code truly my own. 
 * (No relevant files from the lesson itself to cite as new rule.)
 
 ---
+
+#### PUBLISHING TO GITHUB WITH VS CODE - Introduction to terms
+
+### Course Step Number: 289
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+* Introduction to an upcoming series of steps focused on pushing code to GitHub directly from within Visual Studio Code.
+* The immediate goal is to cover key terms associated with this process.
+
+##### Independent Research / Notable Discoveries
+* **Workflow Streamlining:** Noted the significant efficiency gains from integrating Git/GitHub operations directly into VS Code, eliminating context switching.
+* **Core Git Terminology:** Anticipated reviewing fundamental Git terms like repository, commit, push, pull, branch, remote, and clone, which are essential for effective version control.
+* **Building on Prior Knowledge:** Recognized that this topic directly leverages previous learning on Git, GitHub, and VS Code's existing Source Control features.
+
+##### Personal Reflections
+I'm looking forward to this series of steps. Automating Git and GitHub interactions within VS Code will undoubtedly make my workflow much smoother and more professional. Understanding the terminology upfront will be key to mastering the process.
+
+##### Relevant Files:
+* (No relevant files from the lesson itself to cite as new rule.)
+
+---

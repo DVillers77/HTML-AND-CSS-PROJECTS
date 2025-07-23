@@ -3273,4 +3273,27 @@ Identified specific types of extensions (e.g., formatters, linters, live servers
 
 ---
 
+#### Step 289: PUBLISHING TO GITHUB WITH VS CODE - Terminology Intro
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Understand the introductory scope of upcoming lessons on publishing code to GitHub using VS Code.
+* Prepare to learn key terminology related to this process.
+
+### Core Course Concepts:
+* Integration of Git/GitHub operations within Visual Studio Code.
+* Anticipation of terms like repository, commit, push, pull, branch, and remote.
+
+### Relevant Files:
+* (No relevant files from the lesson itself to cite as new rule.)
+
+### Reflection/Learning Note:
+This step sets the stage for a highly practical series on VS Code's Git integration. I appreciate the emphasis on terminology first, which will ensure a solid foundation for the hands-on process.
+
+### Independent Research & Best Practices:
+Considered how direct Git integration within an editor like VS Code contributes to a more efficient and consistent development workflow compared to using separate tools.
+
+---
+
 

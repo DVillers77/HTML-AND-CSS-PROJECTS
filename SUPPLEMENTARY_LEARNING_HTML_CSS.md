@@ -3484,3 +3484,26 @@ This explanation clarified the explicit connection between my local branches and
 * (No relevant files from the lesson itself to cite as new rule.)
 
 ---
+
+#### GITHUB ISSUE - project task tracking
+
+### Course Step Number: 292
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+* Defined a GitHub Issue as a task for a project.
+* Understood that the Issues section in a GitHub repository is used for tracking tasks.
+* Noted that Issues can be shared among developers and assigned to specific individuals.
+
+##### Independent Research / Notable Discoveries
+* **Versatile Use:** Realized Issues are used beyond simple tasks, commonly for bug tracking, feature requests, general discussions, and improvements.
+* **Collaborative Features:** Identified key features like labels (for categorization), milestones (for grouping tasks), assignees (for responsibility), and comment threads (for centralized communication).
+* **Project Management Tool:** Understood that Issues serve as a fundamental project management tool, promoting transparency, accountability, and enabling structured contributions.
+
+##### Personal Reflections
+Learning about GitHub Issues clarifies how larger projects are organized and managed on GitHub. The ability to track, share, and assign tasks directly within the repository is a powerful feature for both individual organization and team collaboration.
+
+##### Relevant Files:
+* (No relevant files from the lesson itself to cite as new rule.)
+
+---

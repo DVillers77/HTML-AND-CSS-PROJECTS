@@ -3343,4 +3343,27 @@ Considered how the upstream setup streamlines daily Git operations like `push` a
 
 ---
 
+#### Step 292: GITHUB ISSUE - Task Management
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Understand the definition and purpose of a GitHub Issue.
+* Recognize its role in task tracking and collaboration within a repository.
+
+### Core Course Concepts:
+* Issues as project tasks.
+* Tracking, sharing, and assigning tasks in GitHub's Issues section.
+
+### Relevant Files:
+* (No relevant files from the lesson itself to cite as new rule.)
+
+### Reflection/Learning Note:
+This step provided a clear explanation of GitHub Issues. It's evident how crucial they are for organizing work, especially in collaborative environments.
+
+### Independent Research & Best Practices:
+Considered how labels and milestones could be used to effectively manage issues in a personal project, improving organization and progress tracking.
+
+---
+
 

@@ -3439,22 +3439,22 @@ This assignment was a practical and enjoyable way to make VS Code truly my own. 
 
 ---
 
-#### PUBLISHING TO GITHUB WITH VS CODE - Introduction to terms
+#### UNIFORM RESOURCE IDENTIFIER (URI) - identifying web resources
 
-### Course Step Number: 289
+### Course Step Number: 290
 ### Date Researched: 2025-07-22
 
 ##### Key Concepts / Summary
-* Introduction to an upcoming series of steps focused on pushing code to GitHub directly from within Visual Studio Code.
-* The immediate goal is to cover key terms associated with this process.
+* Defined Uniform Resource Identifier (URI) as a series of unique characters used to identify any resource on the World Wide Web (e.g., people, places, web pages).
+* Clarified that a Uniform Resource Locator (URL) is the most common form of a URI, specifically describing the location of a website.
 
 ##### Independent Research / Notable Discoveries
-* **Workflow Streamlining:** Noted the significant efficiency gains from integrating Git/GitHub operations directly into VS Code, eliminating context switching.
-* **Core Git Terminology:** Anticipated reviewing fundamental Git terms like repository, commit, push, pull, branch, remote, and clone, which are essential for effective version control.
-* **Building on Prior Knowledge:** Recognized that this topic directly leverages previous learning on Git, GitHub, and VS Code's existing Source Control features.
+* **URI vs. URL Analogy:** Understood the relationship through an analogy: URI is like a name (identifies), URL is like an address (locates). Every URL is a URI, but not vice-versa.
+* **Non-URL URI Examples:** Explored examples of URIs that are not URLs, such as `mailto:` for email addresses or `urn:` for persistent, location-independent identifiers (e.g., ISBNs).
+* **Broad Identification:** Realized that URIs facilitate the unique identification of diverse types of information and entities on the web, extending beyond just web pages.
 
 ##### Personal Reflections
-I'm looking forward to this series of steps. Automating Git and GitHub interactions within VS Code will undoubtedly make my workflow much smoother and more professional. Understanding the terminology upfront will be key to mastering the process.
+This step provided a clearer, more technical understanding of how resources are identified on the web. While I primarily work with URLs, grasping the broader concept of URIs helps build a more complete mental model of internet architecture and resource referencing.
 
 ##### Relevant Files:
 * (No relevant files from the lesson itself to cite as new rule.)

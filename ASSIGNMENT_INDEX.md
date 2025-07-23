@@ -3296,4 +3296,27 @@ Considered how direct Git integration within an editor like VS Code contributes 
 
 ---
 
+#### Step 290: UNIFORM RESOURCE IDENTIFIER (URI) - Definition
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Understand the definition and purpose of a Uniform Resource Identifier (URI).
+* Differentiate between a URI and a Uniform Resource Locator (URL).
+
+### Core Course Concepts:
+* Unique identification of resources on the World Wide Web.
+* The relationship where URL is a specific type of URI.
+
+### Relevant Files:
+* (No relevant files from the lesson itself to cite as new rule.)
+
+### Reflection/Learning Note:
+This lesson provided a foundational understanding of URIs and clarified their relationship to URLs. The distinction between identifying and locating a resource is now clear.
+
+### Independent Research & Best Practices:
+Explored practical examples of non-URL URIs to solidify the conceptual difference. This knowledge enhances my overall understanding of how resources are referenced on the internet beyond simple web addresses.
+
+---
+
 

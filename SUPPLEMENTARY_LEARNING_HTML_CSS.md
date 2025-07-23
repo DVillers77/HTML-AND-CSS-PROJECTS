@@ -3315,3 +3315,29 @@ Completing the Node.js installation locally feels like unlocking a new dimension
 * (No relevant files from the lesson itself to cite as per new rule.)
 
 ---
+
+#### AN INTRODUCTION TO VISUAL STUDIO CODE VIDEO - editor basics and workflow
+
+### Course Step Number: 284
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+* Explored fundamental VS Code interface elements: Activity Bar (Explorer, Source Control, Run and Debug, Extensions), Editor Area (split mode), and Panel (Terminal, Problems, Debug Console).
+* Learned basic file management: opening folders/repositories, opening/saving files, creating new files.
+* Practiced running an active HTML file in the browser directly from VS Code.
+* Gained hands-on experience with integrated Git/Source Control for staging, committing, and pushing changes to a remote repository.
+* Reviewed setting breakpoints for debugging and customizing editor themes.
+
+##### Independent Research / Notable Discoveries
+* **Workflow Centralization:** VS Code significantly streamlines the development workflow by integrating essential tools (file explorer, terminal, Git, debugger) into a single environment, reducing context switching.
+* **Direct Git Integration:** The ability to perform Git operations (stage, commit, push, branch management) without external tools like GitHub Desktop is a major efficiency boost.
+* **Debugging Power:** The video reinforced the practical application of breakpoints (from Step 281) within VS Code's debugger, highlighting its superiority over simple `console.log()` for complex issues.
+* **Extensibility:** The Extensions marketplace allows for vast customization and integration of languages, frameworks, and productivity tools (e.g., Live Server).
+
+##### Personal Reflections
+This video was incredibly practical and cemented my understanding of how to effectively use VS Code for web development. The hands-on walkthrough of opening repositories, managing files, using the integrated terminal, and especially the Git integration, directly enhances my current workflow. Seeing debugging with breakpoints in action within the editor makes the theoretical knowledge from previous steps much more concrete.
+
+##### Relevant Files:
+* (No relevant files from the lesson itself to cite as per new rule.)
+
+---

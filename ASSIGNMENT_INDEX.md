@@ -3148,4 +3148,30 @@ Confirmed that Node.js comes with `npm`, which is vital for project dependency m
 
 ---
 
+#### Step 284: AN INTRODUCTION TO VISUAL STUDIO CODE VIDEO - Editor Walkthrough
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Familiarize with the core interface and functionalities of Visual Studio Code.
+* Understand how to manage files, run code, and utilize integrated development tools.
+
+### Core Course Concepts:
+* Activity Bar (Explorer, Source Control, Run and Debug, Extensions).
+* Editor Area (single and split views).
+* Integrated Terminal and Debug Console.
+* Basic Git operations (staging, committing, pushing) within VS Code.
+* Setting breakpoints and changing editor themes.
+
+### Relevant Files:
+* (No relevant files from the lesson itself to cite as per new rule.)
+
+### Reflection/Learning Note:
+This video provided an excellent, practical introduction to VS Code's essential features. I particularly appreciated the walkthrough of the integrated Git features, which will streamline my version control workflow immensely. The demonstration of running an HTML file and setting breakpoints also reinforced previously learned concepts within the context of the editor.
+
+### Independent Research & Best Practices:
+Explored additional VS Code keyboard shortcuts and the utility of the Command Palette for quick access to features. Realized the power of extensions for customizing the editor for specific development needs (e.g., Live Server, linters).
+
+---
+
 

@@ -234,3 +234,6 @@ Installed the "Git Pull Requests and Issues" extension in Visual Studio Code, si
 
 #### 51. OPENING GIT PULL REQUESTS AND ISSUES EXTENSION ASSIGNMENT (Step 294)
 Successfully activated and authorized the "Git Pull Requests and Issues" extension in Visual Studio Code, connecting it to the GitHub account for integrated pull request and issue management.
+
+#### 52. UTILIZING THE GITHUB EXTENSION ASSIGNMENT (Step 295)
+Successfully integrated the GitHub Pull Requests and Issues extension with VS Code, and practiced fundamental Git command-line operations (`git add`, `git commit`, `git push`) to manage changes and push a new branch (`github-assignment`) to the remote repository. This step also clarified core Git concepts, distinguishing local saves from commits, and understanding branch mechanics.

@@ -54,8 +54,8 @@ This document outlines the precise Markdown heading hierarchy and formatting con
     ### Relevant Files:
     * [Your Markdown file links]
 
-    ### Reflection/Learning Note:
-    * [Your reflection text]
+    ### Insights from Chat Discussion summary
+    * [Your summary of insights from chat]
 
     ### Independent Research & Best Practices:
     * [Your research text]
@@ -67,7 +67,7 @@ This document outlines the precise Markdown heading hierarchy and formatting con
     * `### Objective:`
     * `### Core Course Concepts:`
     * `### Relevant Files:`
-    * `### Reflection/Learning Note:`
+    * `### Insights from Chat Discussion summary`
     * `### Independent Research & Best Practices:`
 
 ---

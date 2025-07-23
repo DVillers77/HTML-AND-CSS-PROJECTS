@@ -60,7 +60,7 @@ This document outlines the precise Markdown heading hierarchy and formatting con
 * **Examples:**
     * `##### Key Concepts / Summary`
     * `##### Independent Research / Notable Discoveries`
-    * `##### Personal Reflections`
+    * `##### Insights from Chat Discussion summary`
     * `##### Relevant Files:`
 
 ---

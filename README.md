@@ -225,3 +225,6 @@ Successfully pushed the "One-Page Website" folder to the GitHub repository, mark
 
 #### 48. VISUAL STUDIO CODE FEATURES ASSIGNMENT - UI elements and navigation (Step 287)
 Successfully identified and navigated the core user interface features of Visual Studio Code, including the Activity Bar, Editor Bar, Panels, Status Bar, and Command Palette, as instructed by the assignment.
+
+#### 49. VISUAL STUDIO CODE CUSTOMIZATION ASSIGNMENT (Step 288)
+Personalized the Visual Studio Code editor by exploring and applying preferred themes, settings, and extensions to optimize the development environment.

@@ -3248,4 +3248,29 @@ Explored how the visibility of panels and sidebars can be toggled for a cleaner 
 
 ---
 
+#### Step 288: VISUAL STUDIO CODE CUSTOMIZATION ASSIGNMENT - Personalization
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Personalize the Visual Studio Code editor according to individual preferences.
+* Explore and apply various customization options, including themes and settings.
+
+### Core Course Concepts:
+* Customizing editor appearance (Color, File Icon, Product Icon themes).
+* Adjusting user and workspace settings.
+* Installing and managing extensions for added functionality.
+* Modifying keyboard shortcuts.
+
+### Relevant Files:
+* (No relevant files from the lesson itself to cite as new rule.)
+
+### Reflection/Learning Note:
+Successfully personalized my VS Code setup. This assignment was valuable for understanding the depth of customization available, from visual themes to key bindings and extensions. It reinforced the idea that a tailored environment contributes significantly to coding comfort and speed.
+
+### Independent Research & Best Practices:
+Identified specific types of extensions (e.g., formatters, linters, live servers) that would immediately benefit HTML/CSS/JS development. Began thinking about which settings would optimize my coding habits (e.g., auto-save, font size).
+
+---
+
 

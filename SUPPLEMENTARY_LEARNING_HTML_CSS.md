@@ -3460,3 +3460,27 @@ This step provided a clearer, more technical understanding of how resources are 
 * (No relevant files from the lesson itself to cite as new rule.)
 
 ---
+
+#### UPSTREAM BRANCH - relationship between local and remote branches
+
+### Course Step Number: 291
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+* Defined an upstream branch as a remote branch connected to a local branch.
+* Explained that local and upstream branches are separate but linked, enabling Git to know where to push local changes to the remote repository.
+* Noted that a local branch doesn't exist remotely until explicitly tracked, sending its data "upstream."
+
+##### Independent Research / Notable Discoveries
+* **Simplified Git Commands:** Realized that setting an upstream branch allows for simpler `git push` and `git pull` commands without always specifying remote/branch names.
+* **Tracking Status:** Understood that the upstream relationship enables Git to track if local branches are ahead or behind their remote counterparts.
+* **First Push Mechanism:** Connected the concept to the `git push -u` command used to establish this initial tracking relationship.
+* **Workflow Importance:** Recognized the critical role of upstream branches in synchronizing local work with remote repositories for backup, accessibility, and collaboration.
+
+##### Personal Reflections
+This explanation clarified the explicit connection between my local branches and their remote counterparts on GitHub. Understanding the "upstream" concept makes the push/pull process more logical and highlights how Git manages synchronization across different environments.
+
+##### Relevant Files:
+* (No relevant files from the lesson itself to cite as new rule.)
+
+---

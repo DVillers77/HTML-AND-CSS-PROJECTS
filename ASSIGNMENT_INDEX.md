@@ -3319,4 +3319,28 @@ Explored practical examples of non-URL URIs to solidify the conceptual differenc
 
 ---
 
+#### Step 291: UPSTREAM BRANCH - Local-Remote Branch Relationship
+
+### Date Completed: 2025-07-22
+
+### Objective:
+* Understand the definition of an "upstream branch."
+* Comprehend the relationship between local and remote branches in Git.
+
+### Core Course Concepts:
+* Upstream branch as a linked remote branch.
+* How Git uses this relationship for pushing changes to a remote repository.
+* The independent nature of local branches until explicitly tracked remotely.
+
+### Relevant Files:
+* (No relevant files from the lesson itself to cite as new rule.)
+
+### Reflection/Learning Note:
+This lesson provided a clear definition of an upstream branch, which is crucial for understanding how local Git repositories communicate with remote ones. The concept of explicit tracking for new local branches is now clear.
+
+### Independent Research & Best Practices:
+Considered how the upstream setup streamlines daily Git operations like `push` and `pull` by providing Git with default targets for synchronization.
+
+---
+
 

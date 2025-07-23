@@ -3341,3 +3341,27 @@ This video was incredibly practical and cemented my understanding of how to effe
 * (No relevant files from the lesson itself to cite as per new rule.)
 
 ---
+
+#### DOCUMENTATION - Official Visual Studio Code Guide
+
+### Course Step Number: 285
+### Date Researched: 2025-07-22
+
+##### Key Concepts / Summary
+* Reviewed Microsoft's official comprehensive documentation for Visual Studio Code.
+* Explored sections on setup, basic editing, configuration, debugging, source control, terminal usage, and extensions.
+* Noted coverage of advanced topics like language-specific guides, container tools, and remote development.
+
+##### Independent Research / Notable Discoveries
+* **Comprehensive Resource:** Confirmed the documentation as the authoritative source for deep dives into VS Code features.
+* **Reinforced Prior Learning:** Found detailed explanations for features previously introduced, such as integrated Git, debugging with breakpoints, and the terminal, strengthening understanding.
+* **Extensibility Focus:** The documentation's emphasis on extensions and language support highlights VS Code's adaptability for diverse development needs beyond core web technologies.
+* **Effective Use of Documentation:** Practiced navigating extensive technical documentation to extract relevant information, a crucial skill for continuous learning.
+
+##### Personal Reflections
+Consulting the official VS Code documentation provided a holistic view of the editor's capabilities, affirming its status as a robust development environment. It clarified many underlying concepts for features I've started using and opened my eyes to its broader applications. This step reinforced the importance of leveraging official resources for accurate and in-depth learning.
+
+##### Relevant Files:
+* (No relevant files from the lesson itself to cite as new rule.)
+
+---

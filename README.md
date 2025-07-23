@@ -237,3 +237,6 @@ Successfully activated and authorized the "Git Pull Requests and Issues" extensi
 
 #### 52. UTILIZING THE GITHUB EXTENSION ASSIGNMENT (Step 295)
 Successfully integrated the GitHub Pull Requests and Issues extension with VS Code, and practiced fundamental Git command-line operations (`git add`, `git commit`, `git push`) to manage changes and push a new branch (`github-assignment`) to the remote repository. This step also clarified core Git concepts, distinguishing local saves from commits, and understanding branch mechanics.
+
+#### 53. CREATING A PULL REQUEST WITH THE GITHUB EXTENSION ASSIGNMENT (Step 296)
+Successfully navigated the process of creating, reviewing, and merging a Pull Request using the VS Code GitHub extension. This included setting upstream branches and synchronizing local and remote main branches after merge, solidifying the collaborative workflow.

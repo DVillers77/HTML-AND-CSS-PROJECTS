@@ -3455,4 +3455,38 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 296: CREATING A PULL REQUEST WITH THE GITHUB EXTENSION ASSIGNMENT
+
+### Date Completed: 2025-07-23
+
+### Objective:
+* Used the GitHub Pull Requests and Issues extension in VS Code to create a Pull Request.
+* Set the upstream for the `github-assignment` branch.
+* Reviewed and merged the Pull Request from `github-assignment` into the `main` branch on GitHub.
+* Updated the local `main` branch by pulling changes from the remote repository.
+
+### Core Course Concepts:
+* Pull Request creation workflow in VS Code's GitHub extension.
+* Setting upstream branches (`git branch --set-upstream-to`).
+* Reviewing and merging Pull Requests ("Create a merge commit").
+* Synchronizing local `main` branch with remote changes (`git checkout main`, `git pull origin main`).
+
+### Relevant Files:
+* [BasicHTML.html](Basichtml.html)
+* [ai-assistant-project-guidelines.md](ai-assistant-project-guidelines.md)
+* [ASSIGNMENT_INDEX.md](ASSIGNMENT_INDEX.md)
+* [SUPPLEMENTARY_LEARNING_HTML_CSS.md](SUPPLEMENTARY_LEARNING_HTML_CSS.md)
+
+### Insights from Chat Discussion summary
+* Troubleshot issues with the VS Code extension's "Publish branch" and "Create Pull Request" functionality, eventually using `git branch --set-upstream-to` to resolve upstream tracking.
+* Confirmed the successful creation and merging of the Pull Request on GitHub.
+* Verified the final synchronization of the local `main` branch using `git pull`.
+
+### Independent Research & Best Practices:
+* Confirmed Pull Request creation and merge status directly on GitHub.com when VS Code UI was not immediately responsive.
+* Ensured the `main` branch was checked out locally before pulling the merged changes.
+* Used the `git pull origin main` command to update the local repository after a remote merge.
+
+---
+
 

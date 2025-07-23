@@ -228,3 +228,6 @@ Successfully identified and navigated the core user interface features of Visual
 
 #### 49. VISUAL STUDIO CODE CUSTOMIZATION ASSIGNMENT (Step 288)
 Personalized the Visual Studio Code editor by exploring and applying preferred themes, settings, and extensions to optimize the development environment.
+
+#### 50. INSTALLING THE GITHUB EXTENSION ASSIGNMENT (Step 293)
+Installed the "Git Pull Requests and Issues" extension in Visual Studio Code, significantly enhancing the editor's capabilities for direct GitHub pull request and issue management, and clarifying the role of extensions versus built-in features.

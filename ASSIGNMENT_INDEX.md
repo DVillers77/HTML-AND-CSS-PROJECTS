@@ -3520,4 +3520,23 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 299: VISUAL STUDIO CODE INTEGRATED TERMINAL CHALLENGE
+
+### Date Completed: 2025-07-24
+
+### Objective:
+* Demonstrated the ability to write and execute a command-line command within Visual Studio Code's Integrated Terminal.
+
+### Core Course Concepts:
+* Visual Studio Code Integrated Terminal functionality.
+* Execution of basic command-line interface (CLI) commands (e.g., `dir` for Windows).
+
+### Relevant Files:
+* No specific code files were directly modified in this challenge.
+
+### Independent Research & Best Practices:
+* Understood the importance of the integrated terminal for common development tasks (Git operations, running scripts, package management) without leaving the IDE.
+
+---
+
 

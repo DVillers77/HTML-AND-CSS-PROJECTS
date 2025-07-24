@@ -3425,7 +3425,7 @@ Considered the security implications of authorizing extensions and the importanc
 ### Objective:
 * Activated and authorized the GitHub Pull Requests and Issues extension within VS Code.
 * Created a new branch named `github-assignment`.
-* Modified `BasicHTML.html` by adding a new paragraph.
+* Modified `basichtml.html` by adding a new paragraph.
 * Used terminal commands (`git add`, `git commit`, `git push`) to stage, commit to local repository, and push the changes and the new branch to the remote repository.
 
 ### Core Course Concepts:
@@ -3436,24 +3436,14 @@ Considered the security implications of authorizing extensions and the importanc
 * Differentiating Git branches from file system folders.
 
 ### Relevant Files:
-* [BasicHTML.html](BasicHTML.html)
-* [ai-assistant-project-guidelines.md](ai-assistant-project-guidelines.md)
-* [ASSIGNMENT_INDEX.md](ASSIGNMENT_INDEX.md)
-* [SUPPLEMENTARY_LEARNING_HTML_CSS.md](SUPPLEMENTARY_LEARNING_HTML_CSS.md)
-
-### Insights from Chat Discussion summary
-* Identified that the `BasicHTML.html` file, as instructed by the lesson, did not exist from previous steps and was created.
-* Clarified the distinction between VS Code UI Git operations (like "Commit and Push") and explicit command-line Git commands (`git add`, `git commit`, `git push`).
-* Understood that Git branches are not physical folders but pointers to commit histories.
-* Gained clarity on the difference between saving a file locally (`Ctrl + S`) and performing a Git local commit (`git commit`).
-* Discussed the value of learning command-line Git operations for UX designers, emphasizing collaboration, deeper understanding, and broader technical foundation.
+* [basichtml.html](basichtml.html)
 
 ### Independent Research & Best Practices:
 * Ensured the `github-assignment` branch was successfully created and active before making changes.
 * Verified `git status` output after each command to confirm the state of the repository.
 * Used a clear and concise commit message to describe the changes made in this assignment.
 
----
+----
 
 #### Step 296: CREATING A PULL REQUEST WITH THE GITHUB EXTENSION ASSIGNMENT
 
@@ -3472,15 +3462,7 @@ Considered the security implications of authorizing extensions and the importanc
 * Synchronizing local `main` branch with remote changes (`git checkout main`, `git pull origin main`).
 
 ### Relevant Files:
-* [BasicHTML.html](Basichtml.html)
-* [ai-assistant-project-guidelines.md](ai-assistant-project-guidelines.md)
-* [ASSIGNMENT_INDEX.md](ASSIGNMENT_INDEX.md)
-* [SUPPLEMENTARY_LEARNING_HTML_CSS.md](SUPPLEMENTARY_LEARNING_HTML_CSS.md)
-
-### Insights from Chat Discussion summary
-* Troubleshot issues with the VS Code extension's "Publish branch" and "Create Pull Request" functionality, eventually using `git branch --set-upstream-to` to resolve upstream tracking.
-* Confirmed the successful creation and merging of the Pull Request on GitHub.
-* Verified the final synchronization of the local `main` branch using `git pull`.
+* [basichtml.html](basichtml.html)
 
 ### Independent Research & Best Practices:
 * Confirmed Pull Request creation and merge status directly on GitHub.com when VS Code UI was not immediately responsive.

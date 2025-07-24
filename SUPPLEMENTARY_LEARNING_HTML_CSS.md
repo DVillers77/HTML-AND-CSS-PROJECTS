@@ -3676,3 +3676,15 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
     * **Configuring Settings (Ctrl+, / Cmd+,):** Encouraged customizing editor settings (e.g., word wrap, tab size, auto-save) for a personalized and efficient coding environment.
 
 ---
+
+#### Step 301: HTML IN VISUAL STUDIO CODE CHALLENGE - First HTML Page Execution
+
+### Date: 2025-07-24
+
+### Key Learnings:
+
+* **HTML File Creation Workflow:** Reinforced the fundamental steps of creating a new HTML file in VS Code, typing basic HTML structure, and saving it with the correct `.html` extension.
+* **Local Browser Execution:** Practiced opening and viewing an HTML file directly in a web browser from the local file system, confirming the rendering of the HTML content.
+* **Project Folder Requirement:** Understood the necessity of saving HTML files within a designated project folder for VS Code to properly manage and execute them.
+
+---

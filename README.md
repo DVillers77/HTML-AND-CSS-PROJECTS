@@ -249,3 +249,6 @@ Personalized the Visual Studio Code editor's appearance, including themes, icons
 
 #### 56. VISUAL STUDIO CODE INTEGRATED TERMINAL CHALLENGE (Step 299)
 Successfully executed a command-line command within Visual Studio Code's Integrated Terminal, demonstrating basic command-line interface proficiency.
+
+#### 57. HTML IN VISUAL STUDIO CODE CHALLENGE (Step 301)
+Successfully created, saved, and ran a simple HTML page in a web browser using Visual Studio Code, confirming basic HTML development workflow.

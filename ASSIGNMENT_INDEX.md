@@ -3557,4 +3557,24 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 301: HTML IN VISUAL STUDIO CODE CHALLENGE
+
+### Date Completed: 2025-07-24
+
+### Objective:
+* Demonstrated the ability to create, save, and run a simple HTML page in a web browser using Visual Studio Code.
+
+### Core Course Concepts:
+* Basic file creation and saving within VS Code.
+* Understanding the `.html` file extension for web pages.
+* Running HTML files directly in a web browser from the local file system.
+
+### Relevant Files:
+* [basichtml.html](basichtml.html)
+
+### Independent Research & Best Practices:
+* Ensured HTML files are saved within a project folder for proper execution and organization.
+
+---
+
 

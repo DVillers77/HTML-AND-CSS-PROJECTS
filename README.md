@@ -240,3 +240,6 @@ Successfully integrated the GitHub Pull Requests and Issues extension with VS Co
 
 #### 53. CREATING A PULL REQUEST WITH THE GITHUB EXTENSION ASSIGNMENT (Step 296)
 Successfully navigated the process of creating, reviewing, and merging a Pull Request using the VS Code GitHub extension. This included setting upstream branches and synchronizing local and remote main branches after merge, solidifying the collaborative workflow.
+
+#### 54. CREATING AN ISSUE WITH THE GITHUB EXTENSION ASSIGNMENT (Step 297)
+Successfully created, labeled, assigned, and closed a test issue within the GitHub repository using the VS Code GitHub extension, demonstrating fundamental issue management skills.

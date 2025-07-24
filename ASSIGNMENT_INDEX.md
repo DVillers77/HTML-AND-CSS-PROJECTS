@@ -3471,4 +3471,29 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 297: CREATING AN ISSUE WITH THE GITHUB EXTENSION ASSIGNMENT
+
+### Date Completed: 2025-07-24
+
+### Objective:
+* Used the GitHub Pull Requests and Issues extension in VS Code to create a new issue.
+* Assigned the issue to self and added relevant labels.
+* Opened the created issue on GitHub.com and subsequently closed it.
+
+### Core Course Concepts:
+* Issue creation workflow using VS Code GitHub extension.
+* Assigning issues to users.
+* Applying labels to categorize issues (e.g., `documentation`, `good first issue`).
+* Opening issues directly on GitHub from VS Code.
+* Closing issues on GitHub.
+
+### Relevant Files:
+* No specific code files were directly modified in this assignment.
+
+### Independent Research & Best Practices:
+* Identified common issue labeling conventions for project management and collaboration.
+* Learned to navigate VS Code's GitHub extension for issue management.
+
+---
+
 

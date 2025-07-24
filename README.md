@@ -243,3 +243,6 @@ Successfully navigated the process of creating, reviewing, and merging a Pull Re
 
 #### 54. CREATING AN ISSUE WITH THE GITHUB EXTENSION ASSIGNMENT (Step 297)
 Successfully created, labeled, assigned, and closed a test issue within the GitHub repository using the VS Code GitHub extension, demonstrating fundamental issue management skills.
+
+#### 55. CUSTOMIZATION ASSIGNMENT (Step 298)
+Personalized the Visual Studio Code editor's appearance, including themes, icons, and font settings, to create a more comfortable and efficient development environment.

@@ -3496,4 +3496,28 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 298: CUSTOMIZATION ASSIGNMENT
+
+### Date Completed: 2025-07-24
+
+### Objective:
+* Personalized the appearance of Visual Studio Code to suit individual preferences.
+* Explored various VS Code customization options including color themes, file icon themes, and editor settings.
+
+### Core Course Concepts:
+* Visual Studio Code UI customization.
+* Preferences and Settings (`Ctrl+,` or `Cmd+,`).
+* Command Palette usage for quick settings access (`Ctrl+Shift+P` or `Cmd+Shift+P`).
+* Extension marketplace for additional themes and icon packs.
+
+### Relevant Files:
+* No specific code files were directly modified in this assignment, as it pertains to editor settings.
+
+### Independent Research & Best Practices:
+* Explored different theme categories (light, dark, high contrast) to find an optimal coding environment.
+* Adjusted font styles and sizes for improved readability.
+* Considered extensions that enhance visual appeal and workflow.
+
+---
+
 

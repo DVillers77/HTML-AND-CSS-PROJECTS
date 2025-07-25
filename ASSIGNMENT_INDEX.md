@@ -3577,4 +3577,31 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 302: VS CODE ASSIGNMENT
+
+### Date Completed: 2025-07-25
+
+### Objective:
+* Opened a new, empty project folder named `vs-code-assignment` in VS Code, located within the `HTML-AND-CSS-PROJECTS` root directory.
+* Created a JavaScript file (`hello-world.js`) within this new project folder.
+* Wrote and saved simple JavaScript code.
+* Executed the JavaScript code using Node.js in VS Code's Integrated Terminal.
+
+### Core Course Concepts:
+* VS Code's "Open Folder" for project management.
+* Creating new files within a project folder.
+* Automatic language detection in VS Code (e.g., JavaScript).
+* Basic JavaScript variable declaration and console output.
+* Utilizing Node.js as a runtime environment to execute JavaScript code outside a browser.
+* Running commands in the Integrated Terminal (`node filename.js`).
+
+### Relevant Files:
+* [hello-world.js](vs-code-assignment/hello-world.js)
+
+### Independent Research & Best Practices:
+* Ensured the new JavaScript file was created within a dedicated, new project folder (`vs-code-assignment`) to maintain clean project separation.
+* Applied consistent kebab-case naming convention for the JavaScript file.
+
+---
+
 

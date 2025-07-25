@@ -252,3 +252,6 @@ Successfully executed a command-line command within Visual Studio Code's Integra
 
 #### 57. HTML IN VISUAL STUDIO CODE CHALLENGE (Step 301)
 Successfully created, saved, and ran a simple HTML page in a web browser using Visual Studio Code, confirming basic HTML development workflow.
+
+#### 58. VS CODE ASSIGNMENT (Step 302)
+Set up a new JavaScript project in VS Code, created a simple JavaScript file, and successfully executed it using Node.js in the Integrated Terminal.

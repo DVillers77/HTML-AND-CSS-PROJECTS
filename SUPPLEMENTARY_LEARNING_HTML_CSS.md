@@ -3688,3 +3688,17 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Project Folder Requirement:** Understood the necessity of saving HTML files within a designated project folder for VS Code to properly manage and execute them.
 
 ---
+
+#### Step 302: VS CODE ASSIGNMENT - JavaScript Execution with Node.js
+
+### Date: 2025-07-25
+
+### Key Learnings:
+
+* **VS Code Project Setup:** Gained experience in setting up new, independent project folders in VS Code, specifically creating `vs-code-assignment` within the main repository, which is crucial for organizing different coding tasks or separate mini-projects.
+* **JavaScript File Handling:** Practiced creating and saving `.js` files within the VS Code environment, observing its automatic language detection capabilities.
+* **Basic JavaScript Syntax:** Wrote and understood a fundamental JavaScript script involving variable declaration (`let`) and output to the console (`console.log()`).
+* **Node.js as a JavaScript Runtime:** Learned about Node.js's role in executing JavaScript code outside of a web browser, particularly important for server-side scripting or standalone tools.
+* **Running Code via Integrated Terminal:** Applied previous knowledge of the Integrated Terminal to execute a JavaScript file using the `node` command, seeing direct output.
+
+---

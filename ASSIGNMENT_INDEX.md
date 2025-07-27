@@ -3729,4 +3729,30 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 309: LIVE SHARE SUBMISSION ASSIGNMENT
+
+### Date Completed: 2025-07-27
+
+### Objective:
+* Successfully installed the Visual Studio Live Share extension.
+* Opened/created a folder and a basic HTML webpage in VS Code.
+* Initiated a Live Share collaboration session.
+* Obtained and submitted the collaboration URL to the instructor.
+
+### Core Course Concepts:
+* Practical application of the Live Share extension.
+* Steps involved in starting a collaborative session.
+* Understanding the role of the shared URL for remote access.
+
+### Relevant Files:
+* [live-share-assignment.html](live-share-assignment.html)
+
+### Insights from Chat Discussion summary
+* Noted minor UI differences in VS Code's Live Share flow compared to the lesson's description, specifically regarding automatic GitHub token usage for sign-in and post-session-start link options (read-only/recopy). These did not impede successful session initiation.
+
+### Independent Research & Best Practices:
+* Gained hands-on experience with real-time code sharing, a fundamental tool for remote collaboration and support.
+
+---
+
 

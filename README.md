@@ -258,3 +258,6 @@ Set up a new JavaScript project in VS Code, created a simple JavaScript file, an
 
 #### 59. RUN AND DEBUG A PROGRAM WITH VS CODE ASSIGNMENT (Step 305)
 Successfully utilized VS Code's debugger to set breakpoints, navigate code execution, identify a `ReferenceError`, and fix it, gaining hands-on debugging experience.
+
+#### 60. LIVE SHARE SUBMISSION ASSIGNMENT (Step 309)
+Successfully installed and utilized Visual Studio Code's Live Share extension to share a basic HTML webpage, demonstrating real-time code collaboration.

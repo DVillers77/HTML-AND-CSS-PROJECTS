@@ -3790,3 +3790,18 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Efficiency and Accessibility:** Re-emphasized the ease of initiating collaborative sessions and the quick access it provides to shared development environments.
 
 ---
+
+#### LIVE SHARE SUBMISSION ASSIGNMENT - Practical Session Sharing
+
+### Course Step Number: 309
+### Date Researched: 2025-07-27
+
+### Key Learnings:
+
+* **Live Share Setup & Initiation:** Successfully installed the Live Share extension and navigated the process of starting a collaboration session within VS Code, from creating a basic HTML file to obtaining the shareable URL.
+* **Streamlined Authentication:** Observed that existing GitHub authentication through VS Code automatically handled Live Share sign-in, simplifying the setup experience.
+* **Session Confirmation:** Understood that the display of the screen name in the status bar, the URL generation, and the "shared" status indicate a successful collaboration session has begun.
+* **Practical Application:** Gained direct, hands-on experience in using Live Share, reinforcing its value for scenarios like remote debugging and code sharing as described in previous conceptual steps.
+* **Real-world UI Variations:** Experienced minor UI differences in the Live Share prompts (e.g., immediate link options like read-only/recopy) compared to initial documentation, highlighting the evolving nature of software interfaces.
+
+---

@@ -3745,3 +3745,14 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
     * Crucially, understanding that the error is thrown and displayed in the **"Debug Console"** *after* the debugger attempts to execute the problematic line, requiring an additional "Continue" click past the breakpoint on that line. This emphasized the difference between pausing *at* a line and executing *past* it.
 
 ---
+
+#### SUBSECTION B: UTILIZING LIVESHARE AND GITHUB IN VISUAL STUDIO CODE - New Section
+
+### Course Step Number: 306
+### Date Researched: 2025-07-27
+
+### Key Learnings:
+
+* **Course Structure Navigation:** Noted the transition to a new major section focusing on utilizing Live Share and GitHub within Visual Studio Code, as indicated by the course's subsection heading.
+
+---

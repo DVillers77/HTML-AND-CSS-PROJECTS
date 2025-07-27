@@ -3805,3 +3805,17 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Real-world UI Variations:** Experienced minor UI differences in the Live Share prompts (e.g., immediate link options like read-only/recopy) compared to initial documentation, highlighting the evolving nature of software interfaces.
 
 ---
+
+#### ZOOM SUBMISSION ASSIGNMENT - Setting Up for Remote Support
+
+### Course Step Number: 310
+### Date Researched: 2025-07-27
+
+### Key Learnings:
+
+* **Remote Support Tool:** Understood Zoom as a primary tool for receiving real-time troubleshooting assistance from instructors via screen sharing, complementing Live Share by offering a view-only collaboration option.
+* **Account and Client Setup:** Successfully completed the necessary steps to create a Zoom account, download, install, and sign into the "Zoom Client for Meetings" application.
+* **Communication Protocol:** Followed the protocol to email instructors to signal readiness for Zoom contact and understood the subsequent steps of accepting contact invites.
+* **Proactive Troubleshooting:** Recognized the emphasis on screen shares as an effective and quick method for resolving coding issues, encouraging proactive engagement with instructors.
+
+---

@@ -261,3 +261,6 @@ Successfully utilized VS Code's debugger to set breakpoints, navigate code execu
 
 #### 60. LIVE SHARE SUBMISSION ASSIGNMENT (Step 309)
 Successfully installed and utilized Visual Studio Code's Live Share extension to share a basic HTML webpage, demonstrating real-time code collaboration.
+
+#### 61. ZOOM SUBMISSION ASSIGNMENT (Step 310)
+Successfully set up a Zoom account and client, and initiated contact with instructors for future screen-sharing troubleshooting sessions.

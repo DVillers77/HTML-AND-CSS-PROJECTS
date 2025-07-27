@@ -3755,4 +3755,27 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 310: ZOOM SUBMISSION ASSIGNMENT
+
+### Date Completed: 2025-07-27
+
+### Objective:
+* Set up a Zoom account and installed the Zoom Client for Meetings.
+* Signed into the Zoom application.
+* Emailed instructors to initiate contact for future screen sharing sessions.
+* Understood the process for accepting contact invites and scheduling screen shares for troubleshooting.
+
+### Core Course Concepts:
+* Practical setup and usage of Zoom for remote collaboration.
+* Importance of screen sharing for instructor assistance and troubleshooting.
+* Workflow for initiating support requests via Zoom.
+
+### Relevant Files:
+* Not applicable (no code files created/modified for this step).
+
+### Independent Research & Best Practices:
+* Proactive setup of essential communication tools for bootcamp support.
+
+---
+
 

@@ -3689,4 +3689,23 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 307: VISUAL STUDIO CODE LIVE SHARE
+
+### Date Completed: 2025-07-27
+
+### Objective:
+* Understood the basic functionality and primary purpose of the Visual Studio Code Live Share extension for collaborative coding.
+
+### Core Course Concepts:
+* Definition of Live Share as a VS Code extension.
+* Its utility in allowing others to access and interact with a live coding session (e.g., for remote debugging).
+
+### Relevant Files:
+* Not applicable.
+
+### Independent Research & Best Practices:
+* No specific research or practices for this conceptual overview.
+
+---
+
 

@@ -3756,3 +3756,22 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Course Structure Navigation:** Noted the transition to a new major section focusing on utilizing Live Share and GitHub within Visual Studio Code, as indicated by the course's subsection heading.
 
 ---
+
+#### VISUAL STUDIO CODE LIVE SHARE - Collaborative Coding
+
+### Course Step Number: 307
+### Date Researched: 2025-07-27
+
+### Key Learnings:
+
+* **Core Functionality:** Understood that Visual Studio Code Live Share is an extension enabling real-time collaboration on coding projects by allowing users to share their current workspace with others, such as instructors, for purposes like remote debugging.
+* **Enhanced Understanding of Use Cases:** Recognized Live Share's broader applications beyond just debugging, including:
+    * **Pair/Mob Programming:** Collaboratively writing code together.
+    * **Code Reviews:** Conducting live walkthroughs and discussions of code.
+    * **Technical Interviews:** Facilitating interactive coding assessments.
+    * **Teaching/Mentoring:** Providing direct, hands-on guidance within a student's environment.
+* **Key Collaborative Features:** Learned about its integrated features such as real-time collaborative editing, shared terminal access, shared server hosting, and integrated debugging sessions, all contributing to efficient teamwork.
+* **Efficiency and Setup:** Appreciated its ease of setup, making quick collaborative sessions highly feasible.
+* **Security Awareness:** Noted the importance of being mindful of whom sessions are shared with, given potential access to local resources.
+
+---

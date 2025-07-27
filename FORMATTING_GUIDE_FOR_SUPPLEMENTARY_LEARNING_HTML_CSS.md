@@ -27,6 +27,7 @@ This document outlines the precise Markdown heading hierarchy and formatting con
 * **Format:** Follows the "[LESSON TITLE] - [short descriptive phrase]" format.
 * **Blank Lines:** Must be followed by a single blank line.
 * **Example:** `#### CREATING A FORM - input tags and attributes`
+* **Note on Subsection Headings as Entries:** When a course step specifically designates a new subsection (e.g., "SUBSECTION B: UTILIZING LIVESHARE AND GITHUB IN VISUAL STUDIO CODE"), its corresponding entry in `SUPPLEMENTARY_LEARNING_HTML_CSS.md` should still be formatted as an `####` H4 "Individual Learning Entry" as per this section's guidelines. The `### Course Step Number:` metadata will link it to the specific step.
 
 ---
 

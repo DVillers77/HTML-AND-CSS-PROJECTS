@@ -3643,4 +3643,32 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 305: RUN AND DEBUG A PROGRAM WITH VS CODE ASSIGNMENT
+
+### Date Completed: 2025-07-27
+
+### Objective:
+* Added new JavaScript code to `hello-world.js` to introduce a deliberate error.
+* Set and utilized breakpoints within VS Code's debugger.
+* Navigated code execution using debugger controls (Continue).
+* Identified and resolved a `ReferenceError` using the Debug Console.
+* Understood the purpose of various debugger panels: Variables, Watch, Call Stack, Loaded Scripts, and Breakpoints.
+
+### Core Course Concepts:
+* Debugging workflow in VS Code.
+* Setting and managing breakpoints.
+* Debugging toolbar commands: Continue, Step Over, Step Into, Step Out, Restart, Stop.
+* Interpreting output in the Debug Console.
+* Understanding common runtime errors (e.g., `ReferenceError`).
+* Functions of the Debug view panels (Variables, Watch, Call Stack, Loaded Scripts, Breakpoints).
+
+### Relevant Files:
+* [vs-code-assignment/hello-world.js](vs-code-assignment/hello-world.js)
+
+### Independent Research & Best Practices:
+* Applied systematic debugging steps to isolate and fix code errors.
+* Learned to differentiate between syntax errors (often caught by editor/linter) and runtime errors (caught by debugger).
+
+---
+
 

@@ -255,3 +255,6 @@ Successfully created, saved, and ran a simple HTML page in a web browser using V
 
 #### 58. VS CODE ASSIGNMENT (Step 302)
 Set up a new JavaScript project in VS Code, created a simple JavaScript file, and successfully executed it using Node.js in the Integrated Terminal.
+
+#### 59. RUN AND DEBUG A PROGRAM WITH VS CODE ASSIGNMENT (Step 305)
+Successfully utilized VS Code's debugger to set breakpoints, navigate code execution, identify a `ReferenceError`, and fix it, gaining hands-on debugging experience.

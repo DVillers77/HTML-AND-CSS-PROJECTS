@@ -3725,3 +3725,23 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Purpose in Debugging:** Gained clarity on how the console is used to output messages, log variable values, and show error messages, which are crucial for diagnosing problems in real-time.
 
 ---
+
+#### Step 305: RUN AND DEBUG A PROGRAM WITH VS CODE ASSIGNMENT - Practical Debugging
+
+### Date: 2025-07-27
+
+### Key Learnings:
+
+* **Hands-on Debugging Flow:** Gained practical experience in initiating and controlling a debugging session for a Node.js application in VS Code.
+* **Breakpoints Mastery:** Learned to strategically place breakpoints to pause code execution at specific lines, allowing for inspection of the program's state.
+* **Debugger Controls Application:** Utilized the "Continue" command to efficiently navigate between breakpoints, observing the flow of execution and output.
+* **Error Identification:** Successfully reproduced and identified a `ReferenceError` caused by a typo, highlighting how debuggers expose runtime issues that simple console logging might miss.
+* **Debugger Panel Utility:** Understood the individual functions of the "Variables," "Watch," "Call Stack," "Loaded Scripts," and "Breakpoints" panels, recognizing their collective power in providing a comprehensive view of the program's state during debugging.
+
+### Insights from Chat Discussion summary
+* **Troubleshooting Debugger Output:** Encountered an initial challenge where the expected `ReferenceError` was not immediately visible. This was resolved by:
+    * Re-verifying that the deliberate typo (`sentenceOne`) was present and the file was saved.
+    * Ensuring the debugger session was fully restarted after making code changes.
+    * Crucially, understanding that the error is thrown and displayed in the **"Debug Console"** *after* the debugger attempts to execute the problematic line, requiring an additional "Continue" click past the breakpoint on that line. This emphasized the difference between pausing *at* a line and executing *past* it.
+
+---

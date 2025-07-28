@@ -3778,4 +3778,24 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 311: INSTALL GIT IN VISUAL STUDIO CODE
+
+### Date Completed: 2025-07-27
+
+### Objective:
+* Installed Git integration for Visual Studio Code to enhance version control capabilities directly within the IDE. Specifically, installed the recommended 'GitLens - Git supercharged' extension by GitKraken.
+
+### Core Course Concepts:
+* Importance of integrating version control (Git) with the IDE for a streamlined development workflow.
+* Utilizing specialized extensions (like GitLens) to augment VS Code's built-in Git features for advanced insights and productivity.
+
+### Relevant Files:
+* Not applicable (software installation and configuration).
+
+### Independent Research & Best Practices:
+* Identified and opted for 'GitLens' as a modern and actively maintained alternative to outdated extension packs, ensuring compatibility and optimal functionality with the latest VS Code versions.
+* Recognized GitLens's capabilities such as inline blame, rich history views, and powerful comparison commands as essential for understanding code evolution and collaboration.
+
+---
+
 

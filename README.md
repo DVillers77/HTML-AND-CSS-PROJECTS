@@ -264,3 +264,6 @@ Successfully installed and utilized Visual Studio Code's Live Share extension to
 
 #### 61. ZOOM SUBMISSION ASSIGNMENT (Step 310)
 Successfully set up a Zoom account and client, and initiated contact with instructors for future screen-sharing troubleshooting sessions.
+
+#### 62. INSTALL GIT IN VISUAL STUDIO CODE (Step 311)
+Enhanced VS Code's Git integration by installing GitLens by GitKraken for advanced version control insights and workflow improvements.

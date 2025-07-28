@@ -3819,3 +3819,21 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Proactive Troubleshooting:** Recognized the emphasis on screen shares as an effective and quick method for resolving coding issues, encouraging proactive engagement with instructors.
 
 ---
+
+#### INSTALL GIT IN VISUAL STUDIO CODE - Enhanced Git Integration
+
+### Course Step Number: 311
+### Date Researched: 2025-07-27
+
+### Key Learnings:
+
+* **IDE Integration for Git:** Confirmed the necessity of integrating Git functionality directly into Visual Studio Code to improve development efficiency.
+* **Modern Extension Adoption:** Learned that while general "Git Extension Packs" might be referenced, it's crucial to evaluate their currency. Opted for the actively developed and highly recommended 'GitLens - Git supercharged' by GitKraken for comprehensive Git features within VS Code.
+* **GitLens Capabilities:** Explored core features of GitLens, including:
+    * **Inline blame annotations:** Quickly seeing who last modified each line of code.
+    * **Rich history views:** Visualizing commit history, branches, and tags.
+    * **Powerful comparison commands:** Analyzing changes between different versions or branches.
+    * **Enhanced navigation:** Streamlining the process of exploring a repository's evolution.
+* **Optimized Workflow:** Understood how GitLens significantly enhances VS Code's built-in Git capabilities, providing deeper insights and a more efficient version control workflow for both individual and collaborative coding.
+
+---

@@ -3843,4 +3843,25 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 314: CSS - Introduction and Purpose
+
+### Date Completed: 2025-07-28
+
+### Objective:
+* Understood the primary purpose of CSS as a styling language for websites.
+* Recognized the historical context of HTML's limitations in styling, leading to the development of CSS.
+
+### Core Course Concepts:
+* CSS's role in beautifying websites.
+* The principle of separating styling (CSS) from structure (HTML).
+* Early HTML's basic, text-centric nature (e.g., ASCII art imagery).
+
+### Relevant Files:
+* Not applicable (conceptual introduction).
+
+### Independent Research & Best Practices:
+* Gained foundational knowledge on the "why" behind CSS, preparing for in-depth learning.
+
+---
+
 

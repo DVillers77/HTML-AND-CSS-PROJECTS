@@ -3870,3 +3870,19 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Preparatory Phase:** Recognized this as a conceptual step to mentally prepare for the upcoming deep dive into Cascading Style Sheets, their syntax, properties, and application.
 
 ---
+
+#### CSS - Purpose, History, and Core Concepts
+
+### Course Step Number: 314
+### Date Researched: 2025-07-28
+
+### Key Learnings:
+
+* **Core Purpose:** Reaffirmed CSS's role in enhancing website aesthetics and, critically, in establishing a clear separation of concerns by handling presentation independently from HTML's structural markup.
+* **Historical Necessity:** Understood that early HTML's limitation to static, text-based content (demonstrated by ASCII art examples) necessitated the creation of a dedicated styling language.
+* **Problem Solved (Separation of Concerns):** Deepened understanding of how CSS addressed the issues of messy, unmaintainable HTML (due to inline styling), inconsistent design, and limited visual capabilities that plagued early web development. This separation is fundamental for modern web practices like maintainability, reusability, and accessibility.
+* **"Cascading" Principles:** Gained initial insight into the "cascading" nature of CSS, involving the hierarchy of style application (browser defaults, user, author styles) and the concepts of specificity and inheritance that determine which styles take precedence.
+* **"Style Sheet" Mechanics:** Learned that CSS rules, defined in style sheets, use selectors to target HTML elements and declaration blocks (`property: value;`) to apply specific styles, enabling the transformation of static documents into visually dynamic web pages.
+* **Enabling Modern Web Design:** Recognized CSS as the enabling technology for advanced features like responsive design and complex layouts (e.g., Flexbox, Grid), which are impossible with HTML alone.
+
+---

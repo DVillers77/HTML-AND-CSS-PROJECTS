@@ -3864,4 +3864,25 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 315: CSS AND HTML - The Need for Separation
+
+### Date Completed: 2025-07-28
+
+### Objective:
+* Understood the driving forces behind the development of CSS due to the growth of the internet and limitations of HTML for styling large websites.
+* Recognized the issue of mixed styling and functionality in pre-CSS HTML-only websites.
+
+### Core Course Concepts:
+* Historical evolution of web development needs.
+* The problem CSS was designed to solve: managing complex styling and separating presentation from structure.
+* Challenges of maintaining large websites with HTML-driven styling.
+
+### Relevant Files:
+* Not applicable (conceptual).
+
+### Independent Research & Best Practices:
+* Appreciated CSS as a solution for web scalability and maintainability, emphasizing the "separation of concerns" principle.
+
+---
+
 

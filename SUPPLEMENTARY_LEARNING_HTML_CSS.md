@@ -3858,3 +3858,15 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Version Control for Content:** Applied Git principles to update user-facing content within an HTML file, demonstrating its utility beyond just code changes.
 
 ---
+
+#### CSS FUNDAMENTALS - New Subsection Commencement
+
+### Course Step Number: 313
+### Date Researched: 2025-07-28
+
+### Key Learnings:
+
+* **Curriculum Structure:** Identified the official start of "SUBSECTION C: CSS FUNDAMENTALS," signaling the shift from HTML structure and version control to the styling aspects of web development.
+* **Preparatory Phase:** Recognized this as a conceptual step to mentally prepare for the upcoming deep dive into Cascading Style Sheets, their syntax, properties, and application.
+
+---

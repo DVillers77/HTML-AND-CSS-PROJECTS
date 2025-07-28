@@ -3885,4 +3885,26 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 316: THE ARRIVAL OF CSS - Centralized Styling & Classes
+
+### Date Completed: 2025-07-28
+
+### Objective:
+* Understood the significant improvements CSS brought to web development upon its arrival in 1998.
+* Recognized the benefits of centralized styling through `.css` documents and the concept of HTML classes for efficient, site-wide style changes.
+
+### Core Course Concepts:
+* CSS enabling fewer lines of code for styling larger websites.
+* Introduction of the `.css` document (style sheet) as a centralized location for styles.
+* The utility of grouping HTML elements into "classes" for mass styling adjustments across multiple pages.
+* Practical example of efficiency gained by changing styles once in CSS.
+
+### Relevant Files:
+* Not applicable (conceptual).
+
+### Independent Research & Best Practices:
+* Gained appreciation for CSS as a solution for scalability and maintainability in web design, particularly for large-scale projects.
+
+---
+
 

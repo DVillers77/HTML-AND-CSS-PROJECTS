@@ -3907,4 +3907,28 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 317: THE BASIC CSS SYNTAX
+
+### Date Completed: 2025-07-28
+
+### Objective:
+* Understood the fundamental components of CSS syntax: selectors, properties, values, declarations, and rule-sets.
+* Learned the definition of "CSS targeting" as the process of matching selectors to HTML elements.
+
+### Core Course Concepts:
+* **CSS Selector:** Points to the HTML element for styling.
+* **Property:** An identifier specifying a style feature (e.g., `color`).
+* **Value:** Describes how a property is handled (e.g., `blue`).
+* **CSS Declaration:** A `property: value;` statement.
+* **CSS Rule-set:** A block consisting of a selector and a declaration block (`{ property: value; ... }`).
+* **CSS Targeting:** The act of matching selectors to HTML elements.
+
+### Relevant Files:
+* Not applicable (conceptual).
+
+### Independent Research & Best Practices:
+* Gained foundational knowledge for writing effective CSS rules and understanding how styles are applied.
+
+---
+
 

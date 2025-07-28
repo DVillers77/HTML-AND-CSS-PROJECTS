@@ -267,3 +267,6 @@ Successfully set up a Zoom account and client, and initiated contact with instru
 
 #### 62. INSTALL GIT IN VISUAL STUDIO CODE (Step 311)
 Enhanced VS Code's Git integration by installing GitLens by GitKraken for advanced version control insights and workflow improvements.
+
+#### 63. GITHUB ASSIGNMENT (Step 312)
+Completed a full GitHub workflow: forked a repository, made local changes, committed, pushed, and submitted a pull request.

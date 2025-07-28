@@ -3798,4 +3798,31 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 312: GITHUB ASSIGNMENT - Forking, Modifying, and Pull Request
+
+### Date Completed: 2025-07-28
+
+### Objective:
+* Successfully forked The Tech Academy's `virtual_dr` repository to personal GitHub account.
+* Cloned the forked repository to local machine using GitHub Desktop.
+* Modified `virtual_dr.html` to update mobile platform status from "COMING SOON" to "AVAILABLE NOW".
+* Committed changes locally and pushed to personal GitHub fork.
+* Created a Pull Request from personal fork to The Tech Academy's original repository, demonstrating a standard contribution workflow.
+
+### Core Course Concepts:
+* Understanding Git/GitHub workflow: forking, cloning, committing, pushing, and creating pull requests.
+* Practical application of version control for collaborative development and content updates.
+* Using GitHub Desktop for streamlined Git operations.
+
+### Relevant Files:
+* `virtual_dr.html` (modified)
+
+### Independent Research & Best Practices:
+* Utilized the updated "Preview and Create a Pull Request" feature within GitHub Desktop for a more modern workflow, noting its efficiency compared to the web-based initiation (as originally described in some older lesson contexts).
+* Practiced crafting clear and concise commit messages.
+* Maintained organized local file structure by cloning the repository into a dedicated `HTML-AND-CSS-PROJECTS` folder within `Documents`.
+* Ensured "Allow edits by maintainers" was checked during PR creation, facilitating collaboration.
+
+---
+
 

@@ -4206,3 +4206,21 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Indispensable Tool:** Concluded that MDN Web Docs is an indispensable tool for any web developer, serving as the go-to encyclopedia for all aspects of web creation.
 
 ---
+
+#### QUIZ - Reinforcing OOP: Classes and Inheritance
+
+### Course Step Number: 331
+### Date Researched: 2025-07-29
+
+### Key Learnings:
+
+* **Class Components:** Reaffirmed that classes are defined by **properties** (characteristics/data) and **behaviors** (actions/methods), forming the blueprint for objects.
+* **Inheritance Hierarchy:** Confirmed understanding that a **child class** (subclass) inherits the structure and behavior from its **parent class** (superclass), promoting code reuse and maintainability.
+* **Pillars of OOP (Conceptual Overview):** Gained a high-level understanding of the four fundamental principles of Object-Oriented Programming:
+    * **Encapsulation:** Bundling data and methods within a class.
+    * **Inheritance:** Reusing code by creating hierarchical relationships between classes.
+    * **Polymorphism:** Allowing objects of different classes to be treated as objects of a common type, with varied specific implementations.
+    * **Abstraction:** Hiding complex implementation details, presenting a simplified interface.
+* **Relevance to Web Development:** Recognized how these OOP principles, particularly encapsulation and inheritance, provide a robust mental model for structuring not only JavaScript applications but also influencing the organization of HTML (semantic elements) and modular CSS design (component-based styling).
+
+---

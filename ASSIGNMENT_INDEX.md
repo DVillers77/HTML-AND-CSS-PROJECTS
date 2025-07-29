@@ -4152,4 +4152,26 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 328: KEBAB CASE - Naming Convention
+
+### Date Completed: 2025-07-29
+
+### Objective:
+* Understood the definition of kebab case as a naming convention using hyphens.
+* Recognized its primary use cases in CSS selectors and file names.
+* Grasped the origin of the term "kebab case."
+
+### Core Course Concepts:
+* **Kebab Case:** Words separated by hyphens (`-`).
+* Used for readability and consistency.
+* Common for CSS selectors, IDs, and file names.
+
+### Relevant Files:
+* Not applicable (conceptual).
+
+### Independent Research & Best Practices:
+* Gained awareness of common naming conventions in web development, emphasizing their importance for code readability, consistency, and maintenance.
+
+---
+
 

@@ -4151,3 +4151,24 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Impact on Portability:** Highlighted that relative paths make web projects highly portable, as the entire project folder can be moved without breaking internal links.
 
 ---
+
+#### KEBAB CASE - A Naming Convention for Web Development
+
+### Course Step Number: 328
+### Date Researched: 2025-07-29
+
+### Key Learnings:
+
+* **Definition:** Solidified understanding of **kebab case** as a word-formatting convention where words are delimited by hyphens (`-`), resembling skewered items.
+* **Primary Use Cases:** Recognized its critical application in web development for:
+    * **CSS Selectors:** Standard practice for class names (`.my-class`), ID names (`#main-header`), and CSS custom properties (`--primary-color`).
+    * **File Names:** Highly recommended for HTML, CSS, JavaScript, image, and other asset files (`about-us.html`, `product-image.jpg`) due to its compatibility with URLs and avoidance of problematic spaces.
+    * **URLs/Slugs:** Frequently used in web page addresses for improved readability and SEO (`/blog/my-latest-post`).
+    * **HTML `data-` attributes:** Often adopted for custom data attributes (`data-item-id`).
+* **Benefits of Naming Conventions:** Understood that adhering to naming conventions like kebab case significantly enhances:
+    * **Code Readability:** Makes code easier to scan and comprehend for developers.
+    * **Consistency:** Promotes a uniform style across projects and teams.
+    * **Maintainability:** Reduces errors and simplifies long-term updates.
+* **Distinction from Other Conventions:** Gained awareness that kebab case is distinct from other common programming naming styles like `camelCase` (e.g., for JavaScript variables), `PascalCase` (e.g., for JavaScript classes), and `snake_case`.
+
+---

@@ -4131,4 +4131,25 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 327: ABSOLUTE AND RELATIVE PATHS - File Location Fundamentals
+
+### Date Completed: 2025-07-29
+
+### Objective:
+* Recalled the definition of an absolute path as a full and complete file description.
+* Recalled the definition of a relative path, assuming the current directory as the starting point.
+* Understood the distinct characteristics and examples of both path types.
+
+### Core Course Concepts:
+* **Absolute Path:** Full, explicit location from root (e.g., `C:\...` or `https://...`).
+* **Relative Path:** Location defined relative to the current file's directory.
+
+### Relevant Files:
+* Not applicable (conceptual).
+
+### Independent Research & Best Practices:
+* Reinforced foundational knowledge of file paths, critical for correctly linking assets and navigating projects in web development.
+
+---
+
 

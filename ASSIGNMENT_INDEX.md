@@ -3990,4 +3990,25 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 321: GAUSSIAN BLUR - Visual Effect in CSS
+
+### Date Completed: 2025-07-28
+
+### Objective:
+* Understood the concept of Gaussian blur as a visual effect for images.
+* Learned that Gaussian blur can be applied using CSS.
+
+### Core Course Concepts:
+* **Gaussian Blur/Smoothing:** A blurring effect named after Carl Friedrich Gauss.
+* Application of a specific visual effect to images.
+* CSS capability to create image filters.
+
+### Relevant Files:
+* Not applicable (conceptual).
+
+### Independent Research & Best Practices:
+* Gained foundational knowledge on a practical CSS filter property and its visual outcomes.
+
+---
+
 

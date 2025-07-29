@@ -3996,3 +3996,34 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Foundational for Layout:** Recognized that a clear grasp of this coordinate system is absolutely essential for mastering any form of web layout and element positioning in CSS.
 
 ---
+
+#### GAUSSIAN BLUR - Implementing Smooth Blurring with CSS
+
+### Course Step Number: 321
+### Date Researched: 2025-07-28
+
+### Key Learnings:
+
+* **Definition:** Understood Gaussian blur as a smooth image diffusion effect, mathematically derived from the Gaussian function (named after Carl Friedrich Gauss), resulting in a natural-looking blur.
+* **CSS Implementation:** Learned that Gaussian blur is achieved in CSS primarily using the `filter` property with the `blur()` function, where the pixel value defines the blur radius.
+    ```css
+    img.blurred {
+        filter: blur(5px); /* Applies a 5-pixel Gaussian blur */
+    }
+
+    /* You can also use it on other elements, not just images */
+    .blurred-background {
+        background-image: url('my-image.jpg');
+        filter: blur(10px);
+    }
+    ```
+* **Mechanism:** Grasped the conceptual mechanism of Gaussian blur, involving weighted averaging of pixel colors based on their proximity, leading to a smooth transition.
+* **Practical Web Design Applications:** Explored various real-world uses for Gaussian blur:
+    * Improving text readability over complex background images.
+    * Creating aesthetic visual effects for sections or UI elements.
+    * Simulating privacy or censorship (for visual effects, not security).
+    * Implementing "blur-up" image loading techniques.
+    * Adding depth to UI elements like modals and overlays.
+* **Performance Awareness:** Gained awareness that while powerful, `filter: blur()` can be computationally intensive, especially on large elements or less powerful devices, necessitating performance testing.
+
+---

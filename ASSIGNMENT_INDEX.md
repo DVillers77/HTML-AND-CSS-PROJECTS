@@ -4058,4 +4058,24 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 324: NTH - Unspecified Item in a Series
+
+### Date Completed: 2025-07-29
+
+### Objective:
+* Understood the meaning of "nth" as an unspecified number or item in a sequence.
+* Recognized its usage in general language and as a concept applicable to ordered series.
+
+### Core Course Concepts:
+* **Nth:** Denotes an unspecified position or instance within a series.
+* Concept of systematic selection or repetition.
+
+### Relevant Files:
+* Not applicable (conceptual).
+
+### Independent Research & Best Practices:
+* Gained foundational vocabulary for describing positions in sequences, relevant for programming concepts like indexing and CSS pseudo-classes.
+
+---
+
 

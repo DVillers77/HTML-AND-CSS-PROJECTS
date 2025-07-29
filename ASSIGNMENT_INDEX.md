@@ -4104,4 +4104,31 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 326: CHILD AND PARENT - Inheritance in OOP
+
+### Date Completed: 2025-07-29
+
+### Objective:
+* Understood the concept of "inheritance" in object-oriented programming.
+* Learned the terms "parent class" and "child class" and their relationship.
+* Grasped how child classes inherit properties and behaviors from parent classes.
+* Recognized the ability of child classes to add new, specialized properties and behaviors.
+* Identified code reuse and improved maintainability as key benefits of inheritance.
+
+### Core Course Concepts:
+* **Inheritance:** Mechanism for a class to acquire features from another.
+* **Parent Class (Superclass):** The class being inherited from.
+* **Child Class (Subclass):** The class that inherits.
+* Automatic inheritance of structure and behavior.
+* Extension of functionality in child classes.
+* Benefits: code reusability and easier maintenance.
+
+### Relevant Files:
+* Not applicable (conceptual).
+
+### Independent Research & Best Practices:
+* Gained foundational knowledge in OOP inheritance, a critical principle for building modular, extensible, and maintainable software.
+
+---
+
 

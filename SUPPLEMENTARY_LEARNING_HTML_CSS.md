@@ -4094,3 +4094,23 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Foundational for OOP:** Recognized that classes and objects are the core building blocks of Object-Oriented Programming (OOP), a dominant paradigm in languages like JavaScript, which will be critical for developing complex and maintainable web applications.
 
 ---
+
+#### CHILD AND PARENT CLASSES - Object-Oriented Inheritance
+
+### Course Step Number: 326
+### Date Researched: 2025-07-29
+
+### Key Learnings:
+
+* **Inheritance Defined:** Solidified understanding of **inheritance** as a core OOP concept where a class (the **child class** or subclass) can derive properties and behaviors from another class (the **parent class** or superclass).
+* **Parent-Child Relationship:** Clearly defined the hierarchy: the child class "is a" type of the parent class (e.g., an `Airplane` *is a* `Vehicle`).
+* **Automatic Feature Acquisition:** Understood that child classes automatically gain all the properties (structure) and behaviors (methods) of their parent class without needing to rewrite that code.
+* **Specialization and Extension:** Learned that while inheriting, child classes can also introduce their own unique, specialized properties and behaviors, effectively extending the parent's functionality.
+* **Key Benefits:** Reinforced the primary advantages of inheritance:
+    * **Code Reusability:** Reduces redundant code writing by allowing common features to be defined once in a parent class.
+    * **Improved Maintainability:** Changes or bug fixes in a parent class automatically propagate to all its child classes, simplifying updates and reducing errors across the codebase.
+    * **Hierarchical Organization:** Enables the creation of logical class hierarchies that mirror real-world relationships, making code more organized and easier to understand.
+* **Method Overriding (Conceptual):** Gained an initial understanding that child classes can not only add new behaviors but also provide their own specific implementation for methods inherited from the parent.
+* **Relevance to JavaScript:** Acknowledged the direct application of these concepts in modern JavaScript through the `class` and `extends` keywords, vital for future programming endeavors.
+
+---

@@ -3940,13 +3940,15 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **"CSS Targeting" Defined:** Understood this term as the fundamental process of accurately matching CSS selectors to the intended HTML elements, which is critical for precise styling.
 * **Syntactic Rules:** Internalized the importance of key syntactic elements such as the colon (`:`) separating property and value, the semicolon (`;`) terminating each declaration, and the curly braces (`{}`) enclosing all declarations within a rule-set.
 * **Practical Application:** Reinforced learning with a practical example (`h1 { color: red; text-align: center; }`) that explicitly labels each component, solidifying the theoretical understanding of CSS syntax.
- ```css
-    /* This entire block is a CSS Rule-Set */
-    h1 { /* This is the Selector, pointing to all <h1> elements */
-        color: red; /* This is a Declaration: 'color' is the Property, 'red' is the Value */
-        text-align: center; /* This is another Declaration: 'text-align' is the Property, 'center' is the Value */
-    }
+
+    ```css
+        /* This entire block is a CSS Rule-Set */
+        h1 { /* This is the Selector, pointing to all <h1> elements */
+            color: red; /* This is a Declaration: 'color' is the Property, 'red' is the Value */
+            text-align: center; /* This is another Declaration: 'text-align' is the Property, 'center' is the Value */
+        }
     ```
+
 * **Foundational Knowledge:** Recognized that a solid grasp of basic CSS syntax is the prerequisite for effectively writing, debugging, and maintaining stylesheets, and for understanding more complex CSS concepts like specificity and the box model.
 
 ---

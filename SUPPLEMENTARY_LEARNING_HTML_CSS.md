@@ -4172,3 +4172,20 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Distinction from Other Conventions:** Gained awareness that kebab case is distinct from other common programming naming styles like `camelCase` (e.g., for JavaScript variables), `PascalCase` (e.g., for JavaScript classes), and `snake_case`.
 
 ---
+
+#### MOZILLA FOUNDATION - Guardians of the Open Web
+
+### Course Step Number: 329
+### Date Researched: 2025-07-29
+
+### Key Learnings:
+
+* **Non-Profit Mission:** Understood that the **Mozilla Foundation** is a non-profit entity primarily dedicated to upholding the internet's status as a free, open, and public resource accessible to everyone.
+* **Core Contributions:** Recognized its commitment to developing and providing free, open-source software and online resources.
+* **Flagship Product (Firefox):** Identified the Firefox web browser as its most widely known product, embodying its principles of user control and an open web platform.
+* **Advocacy and Principles:** Learned about Mozilla's broader role in advocating for critical internet principles, including net neutrality, user privacy, interoperability, and the decentralization of web control.
+* **Key Developer Resource (MDN Web Docs):** Discovered the significance of the **Mozilla Developer Network (MDN) Web Docs** as an invaluable, comprehensive, and open-source documentation resource for HTML, CSS, JavaScript, and various Web APIs, which is indispensable for web developers.
+* **Open Source Ethos:** Appreciated Mozilla's deep commitment to open-source development, fostering transparency, community contribution, and innovation.
+* **Role in Web Ecosystem:** Understood its importance as a counterbalancing force in the tech industry, promoting user-centric values against increasing corporate dominance of the web.
+
+---

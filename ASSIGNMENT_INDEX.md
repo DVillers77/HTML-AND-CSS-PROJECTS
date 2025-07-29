@@ -4174,4 +4174,28 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 329: MOZILLA FOUNDATION - Open Internet Advocacy
+
+### Date Completed: 2025-07-29
+
+### Objective:
+* Understood that the Mozilla Foundation is a non-profit organization.
+* Learned its core mission: to maintain an open and public internet.
+* Recognized its role in creating free online resources and software.
+* Identified Firefox as a key product developed by the Mozilla Foundation.
+
+### Core Course Concepts:
+* **Mozilla Foundation:** Non-profit organization.
+* **Mission:** Open internet for public use.
+* **Contributions:** Free online resources and software.
+* **Example:** Firefox web browser.
+
+### Relevant Files:
+* Not applicable (conceptual).
+
+### Independent Research & Best Practices:
+* Gained awareness of a significant advocate for an open, private, and accessible web, and its contributions to web development resources.
+
+---
+
 

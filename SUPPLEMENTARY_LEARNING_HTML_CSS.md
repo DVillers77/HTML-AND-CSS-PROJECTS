@@ -3974,3 +3974,25 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Preparatory Phase:** Recognized this as a conceptual step to prepare for understanding the essential vocabulary that underpins all CSS operations and subsequent tutorial videos.
 
 ---
+
+#### AXIS - The Coordinate System of Web Layout
+
+### Course Step Number: 320
+### Date Researched: 2025-07-28
+
+### Key Learnings:
+
+* **Coordinates and Axes Defined:** Solidified the understanding of coordinates as numerical pairs for precise location and axes as the lines (X for horizontal, Y for vertical) that measure these coordinates on a plane.
+* **Cartesian System Review:** Reviewed the standard Cartesian coordinate system and its use in plotting points.
+* **Web Development Coordinate System Nuances:** Crucially understood the differences in applying axis concepts to web development (CSS positioning):
+    * The **origin (0,0)** is typically the **top-left corner** of the viewport or parent element, not necessarily the center.
+    * The **Y-axis increases downwards**, meaning positive values for `top` or `margin-top` move elements lower on the page, contrary to standard mathematical graphs.
+* **Direct CSS Relevance:** Connected the X and Y axes directly to fundamental CSS properties and concepts:
+    * **Positioning:** `left`, `right` (X-axis), `top`, `bottom` (Y-axis).
+    * **Transforms:** `translateX()` (X-axis), `translateY()` (Y-axis).
+    * **Box Model:** Margins and padding affect spacing along both axes.
+    * **Layout Systems:** Flexbox and CSS Grid rely heavily on understanding primary and secondary axes for content distribution.
+* **Units of Measurement:** Recalled that CSS uses various units like pixels (`px`), percentages (`%`), `em`, `rem`, `vw`, and `vh` to define distances and sizes along these axes.
+* **Foundational for Layout:** Recognized that a clear grasp of this coordinate system is absolutely essential for mastering any form of web layout and element positioning in CSS.
+
+---

@@ -3967,4 +3967,27 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 320: AXIS - Understanding Coordinate Systems
+
+### Date Completed: 2025-07-28
+
+### Objective:
+* Understood the fundamental concepts of coordinates and axes for locating points on a grid.
+* Learned the definitions of X-axis (horizontal) and Y-axis (vertical).
+
+### Core Course Concepts:
+* **Coordinates:** Pairs of numbers used for precise location.
+* **Axis:** A line used to measure coordinates.
+* **X-axis:** Horizontal line for left-right measurement.
+* **Y-axis:** Vertical line for up-down measurement.
+* Application of coordinates to plot points on a Cartesian grid.
+
+### Relevant Files:
+* Not applicable (conceptual).
+
+### Independent Research & Best Practices:
+* Gained foundational knowledge in coordinate systems, essential for understanding positioning and layout in web development.
+
+---
+
 

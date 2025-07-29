@@ -4078,4 +4078,30 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 325: MORE INFORMATION ON CLASSES - Object-Oriented Concepts
+
+### Date Completed: 2025-07-29
+
+### Objective:
+* Understood the concept of a "class" as a blueprint for creating objects.
+* Learned about "properties" as structural elements (characteristics) of a class/object.
+* Learned about "behaviors" (actions) associated with a class/object.
+* Grasped the process of "instantiating" an object from a class definition.
+* Understood that objects are instances of a class with specific property values (state).
+
+### Core Course Concepts:
+* **Class:** A blueprint or definition for objects.
+* **Properties:** Attributes or characteristics of an object.
+* **Behaviors:** Actions or functions an object can perform.
+* **Object:** An instance of a class, with a specific state defined by its property values.
+* **Instantiate:** The act of creating an object from a class.
+
+### Relevant Files:
+* Not applicable (conceptual).
+
+### Independent Research & Best Practices:
+* Gained foundational knowledge in Object-Oriented Programming (OOP) concepts, crucial for understanding how data and logic are structured in many programming languages.
+
+---
+
 

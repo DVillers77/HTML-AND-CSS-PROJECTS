@@ -4077,3 +4077,20 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Iterative Operations:** Connected the "nth" concept to the broader idea of looping and iteration in programming, where operations are performed on specific, recurring items in a sequence.
 
 ---
+
+#### CLASSES AND OBJECTS - Blueprints and Instances in Programming
+
+### Course Step Number: 325
+### Date Researched: 2025-07-29
+
+### Key Learnings:
+
+* **Class as a Blueprint:** Solidified the understanding of a **class** as a template or definition that describes the common structure and behaviors shared by a group of objects. It's a conceptual design, not a tangible entity itself.
+* **Object as an Instance:** Understood that an **object** is a concrete realization or "instance" of a class. Each object created from the same class blueprint is unique, with its own set of data (property values) defining its specific "state."
+* **Properties (Attributes):** Distinguished **properties** as the data points or attributes that describe the characteristics of an object (e.g., `energy source`, `speed`). They define *what* the object is or has.
+* **Behaviors (Methods):** Defined **behaviors** (often called methods or functions in programming) as the actions that an object can perform or that can be performed on an object (e.g., `accelerate`, `steer`). They define *what* the object can do.
+* **Instantiation:** Learned that the process of creating an object from a class is called **instantiation**.
+* **Encapsulation Principle:** Gained initial exposure to the concept of encapsulation, where properties and behaviors are bundled together within a class, promoting modular and organized code.
+* **Foundational for OOP:** Recognized that classes and objects are the core building blocks of Object-Oriented Programming (OOP), a dominant paradigm in languages like JavaScript, which will be critical for developing complex and maintainable web applications.
+
+---

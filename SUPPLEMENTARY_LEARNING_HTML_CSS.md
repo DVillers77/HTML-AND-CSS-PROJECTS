@@ -3962,3 +3962,15 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Learning Methodology Shift:** Recognized this as an indicator to prepare for visual and auditory learning content, which often complements textual explanations for practical skills like CSS.
 
 ---
+
+#### FUNDAMENTAL TERMS AND CONCEPTS - New Subsection Commencement
+
+### Course Step Number: 319
+### Date Researched: 2025-07-28
+
+### Key Learnings:
+
+* **Curriculum Structure:** Identified the official start of "SUBSECTION A: FUNDAMENTAL TERMS AND CONCEPTS," signaling a focused segment on the basic terminology and core ideas in CSS.
+* **Preparatory Phase:** Recognized this as a conceptual step to prepare for understanding the essential vocabulary that underpins all CSS operations and subsequent tutorial videos.
+
+---

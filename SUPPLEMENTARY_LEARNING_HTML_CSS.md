@@ -4482,3 +4482,18 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Efficiency of Grouped Selectors:** Reinforced that combining multiple CSS selectors on one line (e.g., `h1, h2, h3 { ... }`) is a best practice that **saves time by applying the same styles to multiple elements simultaneously**. This approach reduces code redundancy, improves stylesheet readability, and significantly enhances maintainability by centralizing common style declarations. It's also vital to remember that the CSS cascade still applies, meaning more specific rules will override these grouped styles where applicable.
 
 ---
+
+#### SUBSECTION E: BASIC CSS PART 4 - Introducing Pseudo-Elements
+
+### Course Step Number: 343
+### Date Researched: 2025-07-30
+
+### Key Learnings:
+
+* **Progression in CSS Fundamentals:** Marked the commencement of the fourth part of the basic CSS series within Subsection E.
+* **Focus on Pseudo-elements:** Anticipating detailed learning and application of CSS **pseudo-elements** (e.g., `::before`, `::after`), which allow for styling specific parts of an element or inserting content before/after an element without adding extra HTML.
+* **Continuation of Video Series:** Expecting further practical application and expansion of CSS knowledge through the ongoing video lessons.
+* **Upcoming Assessment:** Prepared for a short quiz to test understanding of the concepts covered in this subsection.
+* **Building on Previous Parts:** Recognized that this section will integrate and build upon the foundational and advanced basic CSS concepts covered in Parts 1, 2, and 3.
+
+---

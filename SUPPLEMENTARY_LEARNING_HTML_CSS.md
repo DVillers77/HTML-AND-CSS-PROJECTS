@@ -4382,3 +4382,58 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Building on Previous Parts:** Recognized that this section will build upon and integrate knowledge from Basic CSS Parts 1 and 2, enabling the creation of more sophisticated and adaptable web designs.
 
 ---
+
+#### KEYFRAMES - Defining and Controlling CSS Animations
+
+### Course Step Number: 340
+### Date Researched: 2025-07-30
+
+### Key Learnings:
+
+* **Purpose of `@keyframes`:** Understood that `@keyframes` is an at-rule in CSS used to define the specific stages (keyframes) and styles that an element will animate through over a specified duration.
+* **Animation Construction:** Learned that an animation is built by specifying CSS properties at various points within the animation sequence, typically defined by percentages (`0%` to `100%`) or keywords (`from` and `to`). The browser interpolates between these defined keyframes to create smooth motion.
+    * **Example `@keyframes` Definition:**
+        ```css
+        @keyframes slideIn {
+            0% {
+                transform: translateX(-100%); /* Start off-screen to the left */
+                opacity: 0;
+            }
+            50% {
+                transform: translateX(20%); /* Come partly in */
+                opacity: 0.5;
+            }
+            100% {
+                transform: translateX(0); /* End at original position */
+                opacity: 1;
+            }
+        }
+        ```
+* **Connecting Keyframes to Elements:** Grasping that for a defined `@keyframes` animation to affect an HTML element, it must be linked using the `animation-name` property.
+* **Comprehensive Animation Control Properties:** Explored the full suite of CSS `animation` properties that control the animation's behavior:
+    * `animation-duration`: Sets the length of time an animation takes to complete one cycle.
+    * `animation-iteration-count`: Specifies how many times an animation should play (e.g., `1`, `infinite`, or a number).
+    * `animation-timing-function`: Defines the speed curve of the animation (e.g., `linear`, `ease`, `ease-in-out`).
+    * `animation-delay`: Sets a delay before the animation begins.
+    * `animation-direction`: Controls whether the animation plays forwards, backwards, or alternates.
+    * `animation-fill-mode`: Determines the styles applied to the element before and after the animation runs.
+    * **Example Individual Animation Properties:**
+        ```css
+        .my-animated-element {
+            animation-name: slideIn;
+            animation-duration: 2s;
+            animation-timing-function: ease-out;
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards; /* Element stays at 100% styles after animation */
+        }
+        ```
+    * **`animation` shorthand:** Recognized the convenience of the `animation` shorthand property for combining these individual controls.
+        ```css
+        .my-animated-element-shorthand {
+            animation: slideIn 2s ease-out forwards;
+        }
+        ```
+* **`@keyframes` vs. `transition` Distinction:** Differentiated `@keyframes` animations (for complex, multi-stage sequences) from CSS `transitions` (for simple, single-step property changes between two states, often triggered by pseudo-classes like `:hover`).
+* **Practical Applications:** Identified that CSS animations enabled by `@keyframes` are used for a wide range of dynamic effects, from subtle UI feedback to complex visual storytelling and decorative motion.
+
+---

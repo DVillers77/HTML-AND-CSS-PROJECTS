@@ -4420,4 +4420,26 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 340: KEYFRAMES - Introduction to CSS Animations
+
+### Date Completed: 2025-07-30
+
+### Objective:
+* Understood that `@keyframes` are used to specify animations in CSS.
+* Learned that animations are created by defining changes from one set of CSS styles to another over time.
+* Grasping the concept that this enables effects like moving images across the screen.
+
+### Core Course Concepts:
+* **`@keyframes` Rule:** The foundation for defining CSS animations.
+* **Animation Definition:** Changing styles across defined points (keyframes).
+* **Basic Animation Concept:** Creating motion through sequential style changes.
+
+### Relevant Files:
+* Not applicable (conceptual introduction).
+
+### Independent Research & Best Practices:
+* Explored the full range of `animation` properties (duration, iteration-count, timing-function, delay, direction, fill-mode) and the shorthand `animation` property, understanding how to control and apply defined keyframe animations to elements. Differentiated `@keyframes` animations from simple CSS transitions.
+
+---
+
 

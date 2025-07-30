@@ -4479,4 +4479,24 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 342: QUIZ - CSS Keyframes and Selector Grouping
+
+### Date Completed: 2025-07-30
+
+### Objective:
+* Successfully completed the quiz, demonstrating understanding of the purpose of the `@keyframes` rule in CSS.
+* Confirmed knowledge of the benefit of combining multiple CSS selectors on one line.
+
+### Core Course Concepts:
+* **CSS Animations:** Purpose of `@keyframes` for defining animation sequences.
+* **CSS Selectors:** Efficiency and benefits of grouping multiple selectors to apply shared styles.
+
+### Relevant Files:
+* Not applicable (quiz completion).
+
+### Independent Research & Best Practices:
+* Reaffirmed understanding of how `@keyframes` define animation stages independently from their application, and the advantages of grouped selectors for CSS efficiency, readability, and maintainability, while recalling the impact of CSS cascade.
+
+---
+
 

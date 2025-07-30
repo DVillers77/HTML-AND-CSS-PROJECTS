@@ -4470,3 +4470,15 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Best Practices for Code Organization:** Continued to emphasize the importance of adding descriptive CSS comments for code clarity and maintainability.
 
 ---
+
+#### QUIZ - Keyframes and Grouped Selectors: Efficiency and Dynamism
+
+### Course Step Number: 342
+### Date Researched: 2025-07-30
+
+### Key Learnings:
+
+* **`@keyframes` for Animation Definition:** Confirmed that the `@keyframes` CSS at-rule is used to **define the step-by-step sequence of an animation**. It specifies the styles an element will have at different points (percentages or `from`/`to` keywords) during the animation's execution. It's crucial to distinguish this definition from the `animation` properties applied directly to an HTML element, which control how the defined animation plays out (e.g., duration, iteration count).
+* **Efficiency of Grouped Selectors:** Reinforced that combining multiple CSS selectors on one line (e.g., `h1, h2, h3 { ... }`) is a best practice that **saves time by applying the same styles to multiple elements simultaneously**. This approach reduces code redundancy, improves stylesheet readability, and significantly enhances maintainability by centralizing common style declarations. It's also vital to remember that the CSS cascade still applies, meaning more specific rules will override these grouped styles where applicable.
+
+---

@@ -4246,7 +4246,7 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 
 #### BASIC CSS PART 1 VIDEO - Practical CSS Application
 
-### Course Step Number: 332
+### Course Step Number: 333
 ### Date Researched: 2025-07-29
 
 ### Key Learnings:

@@ -4259,7 +4259,7 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
-#### Step 332: BASIC CSS PART 1 VIDEO - Foundational Styling Practice
+#### Step 333: BASIC CSS PART 1 VIDEO - Foundational Styling Practice
 
 ### Date Completed: 2025-07-29
 

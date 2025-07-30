@@ -4345,3 +4345,21 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Best Practices for Code Organization:** Continued to emphasize the importance of adding descriptive CSS comments for code clarity and maintainability.
 
 ---
+
+#### QUIZ - CSS Selectors: Targeting Elements
+
+### Course Step Number: 338
+### Date Researched: 2025-07-30
+
+### Key Learnings:
+
+* **Definition of CSS Selector:** Confirmed that a CSS **selector** is the pattern used to select the HTML elements you want to style, serving as the crucial link between HTML structure and CSS rules.
+* **Review of Selector Types Encountered:**
+    * **Type/Element Selectors:** (e.g., `p`, `body`) target all elements of a given HTML tag.
+    * **Class Selectors:** (e.g., `.nav-bar`) target elements with a specified `class` attribute, highly reusable and flexible.
+    * **ID Selectors:** (e.g., `#nav-border`) target a unique element with a specific `id` attribute, providing the highest specificity among these types, though generally reserved for unique elements rather than broad styling.
+    * **Pseudo-classes:** (e.g., `:hover`, `:focus`) target elements based on their state or position, enabling dynamic and interactive styling without JavaScript.
+* **Specificity Connection:** Reinforced the concept that different selectors have varying levels of specificity (ID > Class > Type), which dictates which style rules are applied when conflicts arise.
+* **Strategic Selector Choice:** Emphasized the importance of choosing the most appropriate selector for a given task, balancing specificity, reusability, and code maintainability.
+
+---

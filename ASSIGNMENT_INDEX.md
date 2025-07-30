@@ -4310,4 +4310,22 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 335: SUBSECTION C: BASIC CSS PART 2
+
+### Date Completed: 2025-07-29
+
+### Objective:
+* Commenced studies within Subsection C, advancing to the second part of foundational CSS concepts.
+
+### Core Course Concepts:
+* Continuation and expansion of basic CSS principles, properties, and selectors.
+
+### Relevant Files:
+* Not applicable (subsection transition).
+
+### Independent Research & Best Practices:
+* Prepared to deepen knowledge in CSS properties, advanced selectors, various units of measurement, and practical debugging techniques, building upon Part 1.
+
+---
+
 

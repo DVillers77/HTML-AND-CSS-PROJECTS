@@ -4282,3 +4282,20 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Situational Best Practices:** Recognized that the choice of color format depends on the specific context: keywords for quick tests, hex for design fidelity, RGB/RGBA for precise control and transparency, and HSL/HSLA for intuitive color adjustments.
 
 ---
+
+#### SUBSECTION C: BASIC CSS PART 2 - Expanding Your Styling Toolkit
+
+### Course Step Number: 335
+### Date Researched: 2025-07-29
+
+### Key Learnings:
+
+* **Progression in CSS Fundamentals:** Marked the continuation of foundational CSS learning, indicating an upcoming focus on a broader range of styling properties, more specific selector types, and deeper layout control.
+* **Anticipated Topics:** Prepared to explore areas such as:
+    * **Extended CSS Properties:** Including text-based properties (`text-align`, `text-decoration`), comprehensive box model properties (`margin`, `border`, `width`, `height`), and advanced background properties (`background-image`, `background-position`).
+    * **Diverse CSS Selectors:** Moving beyond basic type selectors to include descendant, child, sibling, attribute, pseudo-class (`:hover`, `:focus`), and pseudo-element (`::before`, `::after`) selectors for precise element targeting.
+    * **Units of Measurement:** Understanding the application of both absolute (`px`, `pt`) and relative (`em`, `rem`, `%`, `vw`, `vh`) units for responsive and scalable design.
+    * **Debugging Principles:** Implicitly, the importance of using browser developer tools to inspect and troubleshoot CSS styling issues.
+* **Building on Part 1:** Recognized that this section will reinforce and extend the concepts from Basic CSS Part 1, providing a more comprehensive understanding of how to control the visual presentation of web content.
+
+---

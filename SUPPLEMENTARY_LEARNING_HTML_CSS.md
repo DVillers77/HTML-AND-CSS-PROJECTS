@@ -4322,3 +4322,26 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Distinction from Pseudo-Elements (Conceptual):** Briefly noted that pseudo-classes (`:`) are distinct from pseudo-elements (`::`), with the former targeting states/relationships and the latter targeting parts of an element or injecting content.
 
 ---
+
+#### BASIC CSS VIDEO PART 2 - Deep Dive into Styling and Layout
+
+### Course Step Number: 337
+### Date Researched: 2025-07-30
+
+### Key Learnings:
+
+* **Comprehensive Text Styling:** Mastered various CSS properties to control text appearance, including `font-size`, `font-weight` (numerical values 100-900), `text-shadow` (offset-x, offset-y, blur-radius, color), `color`, and `text-decoration: none;` for removing default link underlines.
+* **Advanced Selector Usage:** Gained practical experience with:
+    * **Class Selectors (`.class-name`):** Used to apply styles to multiple elements, offering higher specificity than type selectors.
+    * **ID Selectors (`#id-name`):** Employed for unique element styling, possessing the highest specificity among type, class, and ID selectors.
+    * Reinforced the concept of **CSS Specificity** and how browsers resolve conflicting styles.
+* **Interactive Styling with Pseudo-Classes:** Applied the `:hover` pseudo-class to create dynamic visual feedback when a user's mouse hovers over an element, enhancing user experience.
+* **Box Model Mastery (Advanced):**
+    * Utilized precise `padding-top` and `padding-bottom` for vertical spacing.
+    * Explored **negative `margin` values** (`margin-top`, `margin-left`, `margin-right`) to force elements to expand beyond their containers or overlap, effectively stretching backgrounds to the viewport edges.
+    * Applied `border-bottom` to create a distinct separator line.
+* **CSS Positioning (`position: sticky; top: 0;`):** Learned to use `position: sticky;` in conjunction with `top: 0;` to create a navigation bar that remains at the top of the viewport after the user scrolls past its initial position, a common and effective UI pattern.
+* **Overflow Management (`overflow-x: hidden;`):** Understood the purpose of the `overflow` property, specifically `overflow-x: hidden;`, to prevent unwanted horizontal scrollbars when content (like that affected by negative margins) extends beyond the viewport's boundaries.
+* **Best Practices for Code Organization:** Continued to emphasize the importance of adding descriptive CSS comments for code clarity and maintainability.
+
+---

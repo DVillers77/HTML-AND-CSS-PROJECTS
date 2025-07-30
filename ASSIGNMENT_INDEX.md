@@ -4349,4 +4349,37 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 337: BASIC CSS VIDEO PART 2 - Advanced Basic Styling & Layout
+
+### Date Completed: 2025-07-30
+
+### Objective:
+* Watched and followed the instructor's video on basic CSS Part 2.
+* Applied advanced basic CSS concepts to style the PetShop website's navigation bar and links.
+* Utilized `font-size`, `font-weight`, `text-shadow`, `color`, and `text-decoration` for text styling.
+* Implemented `:hover` pseudo-class for interactive link effects.
+* Created and applied CSS class selectors (`.nav-bar`) and ID selectors (`#nav-border`).
+* Used `background-color`, `padding-top/bottom`, and negative `margin-top/left/right` for navigation bar styling and layout.
+* Positioned the navigation bar using `position: sticky;` and `top: 0;` for a fixed-on-scroll effect.
+* Addressed overflow issues with `overflow-x: hidden;` on the body.
+* Practiced extensive use of CSS comments for code documentation.
+
+### Core Course Concepts:
+* **CSS Selectors:** Type, Class, and ID selectors, and their specificity.
+* **CSS Properties:** `font-size`, `font-weight`, `text-shadow`, `text-decoration`, `border-bottom`, `position`, `top`, `overflow-x`, `background-color`, `padding`, `margin`.
+* **Box Model:** Practical application of padding, negative margins, and borders.
+* **Pseudo-classes:** `:hover` for interactive styling.
+* **Layout Techniques:** Sticky positioning and overflow control.
+* **Code Documentation:** Importance of CSS comments.
+
+### Relevant Files:
+* `HTML-AND-CSS-PROJECTS/PetShop website/CSS/style.css`
+* `HTML-AND-CSS-PROJECTS/PetShop website/index.html`
+* `HTML-AND-CSS-PROJECTS/PetShop website/contact.html`
+
+### Independent Research & Best Practices:
+* Enhanced understanding of CSS specificity rules and their practical impact on style application. Explored advanced box model manipulations, including negative margins for precise layout. Gained proficiency in sticky positioning for dynamic UI elements. Reinforced the use of pseudo-classes for interactivity and `overflow` for layout management.
+
+---
+
 

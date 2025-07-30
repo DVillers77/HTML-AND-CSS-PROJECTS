@@ -4437,3 +4437,36 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Practical Applications:** Identified that CSS animations enabled by `@keyframes` are used for a wide range of dynamic effects, from subtle UI feedback to complex visual storytelling and decorative motion.
 
 ---
+
+#### BASIC CSS VIDEO PART 3 - Deep Dive into Styling, Layout, and Animation
+
+### Course Step Number: 341
+### Date Researched: 2025-07-30
+
+### Key Learnings:
+
+* **Comprehensive Text Styling:** Mastered various CSS properties to control text appearance, including `font-size`, `font-weight` (numerical values 100-900), `text-shadow` (offset-x, offset-y, blur-radius, color), `color`, and `text-decoration: none;` for removing default link underlines.
+* **Advanced Selector Usage:** Gained practical experience with:
+    * **Class Selectors (`.class-name`):** Used to apply styles to multiple elements, offering higher specificity than type selectors.
+    * **ID Selectors (`#id-name`):** Employed for unique element styling, possessing the highest specificity among type, class, and ID selectors.
+    * Reinforced the concept of **CSS Specificity** and how browsers resolve conflicting styles.
+* **Interactive Styling with Pseudo-Classes:** Applied the `:hover` pseudo-class to create dynamic visual feedback when a user's mouse hovers over an element, enhancing user experience.
+* **Box Model Mastery (Advanced):**
+    * Utilized precise `padding-top` and `padding-bottom` for vertical spacing.
+    * Explored **negative `margin` values** (`margin-top`, `margin-left`, `margin-right`) to force elements to expand beyond their containers or overlap, effectively stretching backgrounds to the viewport edges.
+    * Applied `border-bottom` to create a distinct separator line.
+    * **Box Shadow Detail:** Deepened understanding of `box-shadow` syntax: `offset-x offset-y blur-radius spread-radius color`. Noted that the `spread-radius` value controls expansion/contraction, and emphasized that the `rgba` alpha channel value must be between `0.0` (fully transparent) and `1.0` (fully opaque) for correct transparency.
+    * Understood various **Margin Shorthands**: `margin: top right bottom left;`, `margin: vertical horizontal;`, and `margin: all-sides;`, and how individual margin properties override shorthand.
+* **CSS Positioning (`position: sticky; top: 0;`):** Learned to use `position: sticky;` in conjunction with `top: 0;` to create a navigation bar that remains at the top of the viewport after the user scrolls past its initial position, a common and effective UI pattern.
+* **Overflow Management (`overflow-x: hidden;`):** Understood the purpose of the `overflow` property, specifically `overflow-x: hidden;`, to prevent unwanted horizontal scrollbars when content extends beyond the viewport's boundaries.
+* **CSS Animations with `@keyframes`:**
+    * Defined multi-stage animations using `@keyframes` to specify style changes at various percentages (`0%` to `100%`).
+    * Applied these animations to elements using the `animation` property (e.g., `animation: [name] [duration] [timing-function] [fill-mode];`).
+    * Grasped that `@keyframes` animations enable complex, multi-step motion sequences, differentiating them from simpler CSS `transitions`.
+* **Font Unit Choices for Responsiveness:** Recognized the distinction between:
+    * **Absolute Unit (`px`):** Fixed size, not responsive to user or root settings.
+    * **Relative Units (`em`, `rem`):** `em` is relative to parent's font size; `rem` is relative to the root HTML element's font size, offering better scalability and accessibility for responsive designs.
+* **Font Import Methods (`@import` vs. `<link>`):** Compared the `@import` rule (used in CSS files, loads serially) with the `<link>` tag (used in HTML `<head>`, allows parallel loading), recognizing `<link>` as generally more performant for external resources like fonts and stylesheets.
+* **Best Practices for Code Organization:** Continued to emphasize the importance of adding descriptive CSS comments for code clarity and maintainability.
+
+---

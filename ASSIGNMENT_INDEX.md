@@ -4442,4 +4442,41 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 341: BASIC CSS VIDEO PART 3 - Advanced Basic Styling & Layout
+
+### Date Completed: 2025-07-30
+
+### Objective:
+* Watched and followed the instructor's video on basic CSS Part 3.
+* Applied advanced basic CSS concepts to style the PetShop website's headers, navigation bar, links, and images.
+* Utilized `font-size`, `font-weight`, `text-shadow`, `color`, and `text-decoration` for text styling.
+* Implemented `:hover` pseudo-class for interactive link effects.
+* Created and applied CSS class selectors (`.nav-bar`, `.animate-text`) and an ID selector (`#nav-border`, `#contact-h3`).
+* Used `background-color`, `padding-top/bottom`, and negative `margin-top/left/right` for navigation bar styling and layout.
+* Positioned the navigation bar using `position: sticky;` and `top: 0;` for a fixed-on-scroll effect.
+* Addressed overflow issues with `overflow-x: hidden;` on the body.
+* Defined and applied a CSS animation using `@keyframes` for header text color change.
+* Styled images with `width`, `height`, `border-radius`, `border: none;`, and `box-shadow`.
+* Practiced extensive use of CSS comments for code documentation.
+
+### Core Course Concepts:
+* **CSS Selectors:** Type, Class, and ID selectors, and their specificity.
+* **CSS Properties:** `font-size`, `font-weight`, `text-shadow`, `text-decoration`, `border-bottom`, `position`, `top`, `overflow-x`, `background-color`, `padding`, `margin`, `border-radius`, `box-shadow`, `animation`.
+* **Box Model:** Practical application of padding, negative margins, borders, and `box-shadow`.
+* **Pseudo-classes:** `:hover` for interactive styling.
+* **Layout Techniques:** Sticky positioning and overflow control.
+* **CSS Animations:** Definition with `@keyframes` and application with `animation` properties.
+* **Font Management:** Importing fonts via `@import` rule.
+* **Code Documentation:** Importance of CSS comments.
+
+### Relevant Files:
+* `HTML-AND-CSS-PROJECTS/PetShop website/CSS/style.css`
+* `HTML-AND-CSS-PROJECTS/PetShop website/index.html`
+* `HTML-AND-CSS-PROJECTS/PetShop website/contact.html`
+
+### Independent Research & Best Practices:
+* Enhanced understanding of CSS specificity rules, advanced box model manipulations (including negative margins), and sticky positioning for dynamic UI elements. Explored the detailed syntax of `box-shadow` and its various parameters (offset, blur, spread, color), noting the importance of valid `rgba` alpha values (0.0-1.0). Consolidated knowledge of different margin shorthand syntaxes. Gained insight into choosing appropriate font units (`px`, `em`, `rem`) for responsive and accessible design, and recognized performance considerations between `@import` and `<link>` for external resources.
+
+---
+
 

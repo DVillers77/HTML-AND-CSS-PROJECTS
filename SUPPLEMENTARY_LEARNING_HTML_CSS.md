@@ -4363,3 +4363,22 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Strategic Selector Choice:** Emphasized the importance of choosing the most appropriate selector for a given task, balancing specificity, reusability, and code maintainability.
 
 ---
+
+#### SUBSECTION D: BASIC CSS PART 3 - Towards More Complex Layouts
+
+### Course Step Number: 339
+### Date Researched: 2025-07-30
+
+### Key Learnings:
+
+* **Progression in CSS Fundamentals:** Marked the continuation of foundational CSS learning into its third part, suggesting an upcoming focus on more intricate styling techniques and potentially an introduction to modern layout systems.
+* **Anticipated Topics:** Prepared to explore areas such as:
+    * **Modern Layout Models:** Potential introduction to Flexbox (for 1D layouts) or CSS Grid (for 2D layouts), which are standard for complex web page structures.
+    * **Advanced Box Model Concepts:** Deeper dive into properties like `box-sizing`.
+    * **Visibility and Overflow Control:** Further properties like `overflow-y` or other `overflow` values.
+    * **Z-index:** For managing stacking order of overlapping elements.
+    * **Responsive Design Basics:** Possible introduction to `@media` queries for adapting layouts to different screen sizes.
+    * **CSS Resets/Normalize:** Understanding their role in cross-browser consistency.
+* **Building on Previous Parts:** Recognized that this section will build upon and integrate knowledge from Basic CSS Parts 1 and 2, enabling the creation of more sophisticated and adaptable web designs.
+
+---

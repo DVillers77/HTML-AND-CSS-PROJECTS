@@ -4299,3 +4299,26 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Building on Part 1:** Recognized that this section will reinforce and extend the concepts from Basic CSS Part 1, providing a more comprehensive understanding of how to control the visual presentation of web content.
 
 ---
+
+#### PSEUDO-CLASS - Styling Element States and Relationships
+
+### Course Step Number: 336
+### Date Researched: 2025-07-29
+
+### Key Learnings:
+
+* **Definition of "Pseudo":** Understood that "pseudo" means "to resemble or imitate," indicating that a pseudo-class targets an element's *implied* or *conditional* state rather than a direct, explicit HTML attribute.
+* **Pseudo-Class Functionality:** Grasping that a **pseudo-class** is a CSS keyword appended to a selector (e.g., `selector:keyword`) that applies special styling effects when an element is in a specific state or fulfills a particular condition, often related to user interaction.
+* **Syntax:** Clearly identified the syntax as a **single colon (`:`)** followed immediately by the pseudo-class keyword (e.g., `:hover`, `:active`, `:focus`).
+* **Common Interactive Pseudo-Classes:**
+    * `:hover`: Styles an element when the mouse cursor is over it.
+    * `:active`: Styles an element while it is being pressed or activated.
+    * `:focus`: Styles an element when it receives keyboard or mouse focus (common for form inputs).
+    * `:link` and `:visited`: For unvisited and visited hyperlinks, respectively.
+* **Common Structural/Positional Pseudo-Classes:**
+    * `:first-child`, `:last-child`: Selects the first or last child element among siblings.
+    * `:nth-child(n)`: Selects child elements based on a numerical position or pattern (e.g., `odd`, `even`, `2n+1`).
+* **Importance in UI/UX:** Recognized the vital role of pseudo-classes in creating dynamic, responsive, and intuitive user interfaces without requiring JavaScript, enhancing the user experience through visual feedback.
+* **Distinction from Pseudo-Elements (Conceptual):** Briefly noted that pseudo-classes (`:`) are distinct from pseudo-elements (`::`), with the former targeting states/relationships and the latter targeting parts of an element or injecting content.
+
+---

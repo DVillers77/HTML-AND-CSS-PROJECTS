@@ -4328,4 +4328,25 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 336: PSEUDO-CLASS - Dynamic CSS Styling
+
+### Date Completed: 2025-07-29
+
+### Objective:
+* Understood the definition of a pseudo-class as a CSS keyword adding special effects to elements based on user action or state.
+* Learned the syntax for pseudo-classes: a single colon (`:`) followed by the keyword.
+
+### Core Course Concepts:
+* **Pseudo-class:** Keyword resembling an element's state or relationship.
+* **Syntax:** `:keyword`.
+* **Purpose:** Adds dynamic styling without altering HTML.
+
+### Relevant Files:
+* Not applicable (conceptual).
+
+### Independent Research & Best Practices:
+* Gained awareness of common interactive pseudo-classes (e.g., `:hover`, `:active`, `:focus`) and structural pseudo-classes (e.g., `:first-child`, `:nth-child`), and their role in creating interactive and state-dependent UI.
+
+---
+
 

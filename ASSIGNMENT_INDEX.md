@@ -4522,4 +4522,26 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 344: PSEUDO-ELEMENT - Styling Specific Parts of Elements
+
+### Date Completed: 2025-07-30
+
+### Objective:
+* Understood the definition of a pseudo-element as a CSS keyword used to style a specific part of an element.
+* Learned that pseudo-elements can create content before or after an element, or style its first/last line.
+* Identified the syntax for pseudo-elements: a double colon (`::`) after a CSS selector.
+
+### Core Course Concepts:
+* **Pseudo-element:** A CSS feature to target specific parts of an element or generate content.
+* **Syntax:** `::keyword` (e.g., `::before`, `::after`, `::first-line`, `::first-letter`, `::selection`).
+* **Content Generation:** Use of the `content` property with `::before` and `::after`.
+
+### Relevant Files:
+* Not applicable (conceptual).
+
+### Independent Research & Best Practices:
+* Explored common pseudo-elements and their use cases, such as adding decorative elements, icons, or specific text styling without altering the HTML structure, leading to cleaner and more semantic code.
+
+---
+
 

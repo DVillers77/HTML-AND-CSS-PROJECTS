@@ -4497,3 +4497,43 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Building on Previous Parts:** Recognized that this section will integrate and build upon the foundational and advanced basic CSS concepts covered in Parts 1, 2, and 3.
 
 ---
+
+#### PSEUDO-ELEMENT - Precise Styling and Content Injection
+
+### Course Step Number: 344
+### Date Researched: 2025-07-30
+
+### Key Learnings:
+
+* **Definition of Pseudo-element:** Understood that a **pseudo-element** is a CSS keyword, denoted by a **double colon (`::`)** (e.g., `::before`, `::after`), that styles a *specific part* of an element or inserts content that isn't explicitly in the HTML document. This is distinct from pseudo-classes (single colon), which target an element's *state*.
+* **Common Pseudo-elements and Use Cases:**
+    * **`::before` and `::after` (Content Generation):**
+        * **Purpose:** To insert content *before* or *after* the actual content of an element. This content becomes part of the DOM tree, but is not in the source HTML.
+        * **Syntax:** `selector::before { content: "Your Text"; /* other styles */ }`
+            `selector::after { content: "Your Text"; /* other styles */ }`
+        * **Crucial `content` Property:** The `content` property is mandatory. It can contain strings, URLs (for images), or be empty (`""`) if only decorative styling (e.g., `background-color`, `width`, `height`) is desired.
+        * **Applications:** Adding icons (e.g., font icons), decorative shapes, automatic numbering, or clearing floats.
+        * **Example:**
+            ```css
+            p::before {
+                content: "Note: ";
+                color: purple;
+                font-weight: bold;
+            }
+            /* Renders: Note: This is a paragraph. */
+            ```
+    * **`::first-line`:**
+        * **Purpose:** Styles the first formatted line of a block-level element. The length of the "first line" dynamically adjusts with the element's width.
+        * **Syntax:** `selector::first-line { /* styles */ }`
+        * **Applications:** Creating specific textual effects for opening lines.
+    * **`::first-letter`:**
+        * **Purpose:** Styles the first letter of a block-level element.
+        * **Syntax:** `selector::first-letter { /* styles */ }`
+        * **Applications:** Classic "drop cap" effects, or adding decorative flair to initial letters.
+    * **`::selection`:**
+        * **Purpose:** Styles the portion of an element that the user has selected (highlighted) with their mouse or keyboard.
+        * **Syntax:** `::selection { background-color: blue; color: white; }`
+        * **Applications:** Customizing the look of highlighted text for branding or aesthetics.
+* **Advantages:** Pseudo-elements promote cleaner HTML by offloading purely decorative or dynamically generated content into the CSS, separating presentation from structure.
+
+---

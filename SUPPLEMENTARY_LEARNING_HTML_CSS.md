@@ -4243,3 +4243,26 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Importance of Fundamentals:** Reinforced the understanding that a strong grasp of these basic CSS principles is critical for effectively controlling webpage appearance and for progressing to more advanced styling techniques.
 
 ---
+
+#### BASIC CSS PART 1 VIDEO - Practical CSS Application
+
+### Course Step Number: 332
+### Date Researched: 2025-07-29
+
+### Key Learnings:
+
+* **Project Structure for CSS:** Gained practical experience in establishing a dedicated `CSS` folder within a project's root and creating an external `style.css` file, aligning with industry standards for organizing stylesheets.
+* **External Stylesheet Linking:** Solidified the process of linking an external CSS file to HTML documents using the `<link rel="stylesheet" href="path/to/style.css">` tag within the HTML's `<head>`, understanding its benefits for code modularity and efficient updates across multiple pages.
+* **Core CSS Syntax & Rules:** Applied fundamental CSS syntax, including writing **type selectors** (e.g., `body`, `li`, `a`), defining **declarations** with **properties** (e.g., `background-color`, `display`, `padding`, `font-family`), and assigning **values**, correctly terminating with semicolons.
+* **Initial Styling & Layout Control:**
+    * Set `background-color` for the `body` element.
+    * Utilized the `display` property (`display: inline;`) to alter the default block-level behavior of list items (`<li>`), enabling horizontal arrangement for navigation.
+    * Applied `padding` to elements to create internal spacing around content, demonstrating both multi-value and shorthand syntax for the Box Model.
+* **CSS Comments:** Practiced adding single-line (`/* comment */`) and multi-line comments within CSS for code documentation and improved readability, emphasizing their importance for collaboration and future reference.
+* **Custom Font Integration:**
+    * Learned to import custom fonts (e.g., Roboto from Google Fonts) into CSS files using the `@import` at-rule: `@import url('...')`.
+    * Understood the necessity of importing fonts (rather than just downloading locally) to ensure consistent display for all users, regardless of their local font availability.
+    * Grasped the concept of **font stacks** within `font-family` declarations (e.g., `"Roboto", sans-serif`), providing fallback generic font families (like `sans-serif` or `serif`) if the preferred font fails to load.
+* **VS Code Productivity Features:** Benefited from integrated VS Code features such as color swatches for visual color representation, distinct file type icons, and hover-over descriptions for CSS properties with direct links to MDN Web Docs.
+
+---

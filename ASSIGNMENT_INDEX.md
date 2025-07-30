@@ -4259,4 +4259,34 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 332: BASIC CSS PART 1 VIDEO - Foundational Styling Practice
+
+### Date Completed: 2025-07-29
+
+### Objective:
+* Watched and followed the instructor's video on basic CSS Part 1.
+* Practiced creating a dedicated `CSS` folder and `style.css` file.
+* Applied initial CSS styling (background-color, display, padding) to the PetShop website.
+* Learned to link external CSS files to HTML documents using the `<link>` tag.
+* Explored importing custom fonts from Google Fonts using the `@import` rule.
+* Understood the use of CSS comments and basic CSS syntax (selectors, properties, values).
+
+### Core Course Concepts:
+* **External CSS:** Best practices for project organization and reusability.
+* **CSS Syntax:** Type selectors, declarations (property: value;).
+* **CSS Properties:** `background-color`, `display`, `padding`, `font-family`.
+* **CSS Layout:** Basic control with `display: inline;` and `padding`.
+* **Font Management:** Importing web fonts and using font stacks.
+* **Code Organization:** CSS comments and folder structure.
+
+### Relevant Files:
+* `HTML-AND-CSS-PROJECTS/PetShop website/CSS/style.css`
+* `HTML-AND-CSS-PROJECTS/PetShop website/index.html`
+* `HTML-AND-CSS-PROJECTS/PetShop website/contact.html`
+
+### Independent Research & Best Practices:
+* Gained practical experience applying fundamental CSS concepts, reinforcing the importance of external stylesheets for maintainability and the use of the box model for layout. Utilized web fonts to enhance typography.
+
+---
+
 

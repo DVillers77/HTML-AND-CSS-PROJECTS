@@ -4645,3 +4645,34 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 349: BASIC CSS VIDEO PART 5 - Z-index, Backgrounds, and Overlays
+
+### Date Completed: 2025-07-30
+
+### Objective:
+* Watched and followed the instructor's video on basic CSS Part 5.
+* Corrected an image overlap issue with the navigation bar by applying `z-index` to the `.nav-bar` class.
+* Applied specific background colors to the `div` elements holding each image using their unique ID selectors.
+* Implemented a semi-transparent overlay with a hover effect.
+
+### Core Course Concepts:
+* **`z-index`:** Practical application of `z-index: 9;` to ensure a `position: sticky;` navigation bar stays on top of other content.
+* **CSS Selectors:** Continued use of ID selectors (`#cat`, `#dog`, etc.) for specific element styling.
+* **Pseudo-elements:** Introduction to the `:hover` pseudo-class for triggering visual effects.
+* **Opacity:** Controlling the transparency of an element.
+* **CSS Positioning:** Practical application of `position: absolute;` for overlays and `position: relative;` for parent containers to establish positioning context.
+
+### Relevant Files:
+* `PetShop website/CSS/style.css`
+* `PetShop website/index.html`
+
+### Independent Research & Best Practices:
+* Gained hands-on experience with `z-index` for managing the visual stacking order of elements. Practiced creating interactive hover effects using `:hover` and `opacity`.
+* **Debugging & Corrective Actions:** The course lesson's approach to the image overlay presented several issues that required debugging and correction. This involved:
+    1.  **Correcting HTML Structure:** Properly nesting the `<img>` and the `.overlay` `div` inside a new `<div class="image-wrapper">` to create a correct positioning context for the overlay.
+    2.  **CSS Refactoring:** Moving the `width`, `height`, and `border-radius` from the `img` selector to the new `.image-wrapper` parent class.
+    3.  **Dynamic Image Sizing:** Setting the `img` rule to `width: 100%;` and `height: 100%;` to dynamically fill its parent container.
+    4.  **Fixing Spacing:** Adding a more specific CSS rule (`.image-container h3 { margin-bottom: 0px; }`) to remove the unwanted space between the image titles and the images without affecting other `h3` tags.
+
+---
+

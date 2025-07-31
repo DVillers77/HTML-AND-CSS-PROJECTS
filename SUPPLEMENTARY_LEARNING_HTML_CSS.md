@@ -4625,3 +4625,21 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Stacking Context (Advanced Note):** Understood that `z-index` values only have meaning within a "stacking context." A new stacking context is created by any positioned element with a `z-index` other than `auto`. This is a crucial concept for debugging scenarios where an element with a high `z-index` might still appear behind another element with a lower `z-index` because they are in different contexts.
 
 ---
+
+#### BASIC CSS VIDEO PART 5 - `z-index` and Advanced Visual Effects
+
+### Course Step Number: 349
+### Date Researched: 2025-07-30
+
+### Key Learnings:
+
+* **Practical Application of `z-index`:** Learned to use `z-index` to solve a real-world layout problem. By setting `z-index: 9;` on the `position: sticky;` navigation bar, it was guaranteed to appear on top of other content as the user scrolls, preventing the images from overlapping it. This reinforces the rule that `z-index` is only effective on positioned elements.
+* **Specific Styling with ID Selectors:** Continued to use ID selectors (`#cat`, `#dog`, etc.) to apply unique styling (in this case, different `background-color` values) to individual `div` elements, demonstrating the high specificity of ID selectors.
+* **Interactive Hover Effects:**
+    * **Principle:** Utilized the `:hover` pseudo-class to change the `opacity` of an element from `0` (invisible) to a semi-transparent value.
+* **Debugging and Refactoring Course Material:** The course's approach to the image overlay introduced several functional and structural issues that were resolved through refactoring, providing valuable insights into debugging real-world CSS.
+    * **Issue 1: Overlay Misalignment:** The video's method of using a manual `margin-top` on the absolutely positioned overlay was not robust, causing misalignment. The correct fix was to establish a proper positioning context by nesting the `img` and `overlay` inside a new `<div class="image-wrapper">` with `position: relative;`. The `overlay` was then positioned absolutely relative to this new parent, ensuring perfect alignment.
+    * **Issue 2: Incorrect Image Sizing:** The images became too large when their dimensions were removed from the `img` selector. The fix was to move the `width` and `height` properties to the new `.image-wrapper` parent container and use `width: 100%;` and `height: 100%;` on the `img` itself, making the image responsive to its parent's dimensions.
+    * **Issue 3: Unwanted Spacing:** Unnecessary vertical space between the `h3` titles and images was caused by a general `margin-bottom` on all `h3` elements. This was solved by creating a more specific CSS rule, `.image-container h3`, to override the general rule and set the margin to `0px`, eliminating the gap.
+
+---

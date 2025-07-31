@@ -4696,3 +4696,23 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 351: SUBSECTION G: BASIC CSS PART 6
+
+### Date Completed: 2025-07-30
+
+### Objective:
+* Commenced studies within Subsection G, advancing to the sixth part of the basic CSS concepts.
+* Preparing to watch the Basic CSS Part 6 video (Step 352) and complete the quiz (Step 353).
+
+### Core Course Concepts:
+* **Continuing Basic CSS Skills:** Transitioning to the next segment of the basic CSS curriculum.
+* **Practical Application & Assessment:** Anticipating a video and quiz to continue building and testing knowledge.
+
+### Relevant Files:
+* Not applicable (subsection transition).
+
+### Independent Research & Best Practices:
+* Prepared to continue learning new CSS concepts and applying them in the video lesson, with an eye towards the upcoming quiz.
+
+---
+

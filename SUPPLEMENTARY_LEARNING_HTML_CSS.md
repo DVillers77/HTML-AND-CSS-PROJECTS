@@ -4656,3 +4656,16 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Combined Use:** The video lesson demonstrated how `z-index` is essential for ensuring a `position: sticky;` navigation bar always remains on top of other content, even when scrolling.
 
 ---
+
+#### SUBSECTION G: BASIC CSS PART 6 - Continuing CSS Fundamentals
+
+### Course Step Number: 351
+### Date Researched: 2025-07-30
+
+### Key Learnings:
+
+* **Progression in CSS Fundamentals:** Marked the start of the sixth part of the basic CSS video series.
+* **Upcoming Focus:** The upcoming video (Step 352) and quiz (Step 353) will continue to build on the foundational CSS knowledge from previous parts.
+* **Preparation:** Recognizing the importance of reviewing previous concepts in preparation for the upcoming video lesson and quiz.
+
+---

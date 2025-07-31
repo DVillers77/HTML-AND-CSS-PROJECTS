@@ -4621,3 +4621,27 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 348: Z-INDEX - Controlling Element Stacking Order
+
+### Date Completed: 2025-07-30
+
+### Objective:
+* Understood that the `z-index` property specifies the stacking order of elements.
+* Confirmed that `z-index` only works on positioned elements (`position: absolute`, `relative`, `fixed`, or `sticky`).
+* Learned that a higher `z-index` value places an element in front of elements with lower values.
+* Applied a `z-index` of `-1` to an image in a code example to place it behind text content.
+
+### Core Course Concepts:
+* **`z-index`:** A CSS property for managing the stacking order on the z-axis.
+* **Positioned Elements:** The required prerequisite for `z-index` to function.
+* **Stacking Order:** The hierarchy of elements from back to front.
+* **Negative `z-index`:** Placing elements behind the default content layer.
+
+### Relevant Files:
+* Not applicable (conceptual).
+
+### Independent Research & Best Practices:
+* Reaffirmed the critical relationship between `z-index` and `position` properties. Explored the concept of stacking contexts and how elements with `z-index` values are only compared within the same context, which helps in debugging stacking issues in more complex layouts.
+
+---
+

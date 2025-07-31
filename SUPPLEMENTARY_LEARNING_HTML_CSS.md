@@ -4593,3 +4593,35 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Upcoming Assessment:** Prepared for a quiz (Step 350) to test understanding of the concepts covered, particularly related to `z-index` and any new techniques introduced in the video.
 
 ---
+
+#### Z-INDEX - The Third Dimension in CSS
+
+### Course Step Number: 348
+### Date Researched: 2025-07-30
+
+### Key Learnings:
+
+* **Purpose of `z-index`:** Confirmed that the `z-index` property is used to control the stacking order of elements on the z-axis, determining which elements appear to be in front of or behind others. This is essential for creating layered effects, such as a modal dialog box appearing over a page or a fixed navigation bar staying on top of content.
+* **The `position` Prerequisite:** Learned that `z-index` has no effect on elements unless their `position` property is set to a value other than `static` (i.e., `relative`, `absolute`, `fixed`, or `sticky`). This is a critical rule for its proper application.
+* **Stacking Order Values:**
+    * **Higher number, higher stack:** An element with a `z-index: 10;` will appear on top of an element with a `z-index: 5;` (within the same stacking context).
+    * **Default Layer (`z-index: 0` or `auto`):** Elements without a `z-index` value (or with `auto`) are placed on the default layer, which can be thought of as `z-index: 0`.
+    * **Negative Values:** A `z-index` of `-1` or less will place an element *behind* the default layer, as demonstrated by placing a background image behind text.
+* **Example Code Analysis:**
+    * The code snippet demonstrated how to use `z-index: -1;` in conjunction with `position: absolute;` to place an image behind a paragraph of text, effectively using it as a background for a single section of content.
+    * The correct syntax for the example was identified as:
+      ```html
+      <style>
+      img {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        z-index: -1;
+      }
+      </style>
+      <img src="Insert_URL_to_image_here">
+      <p>SURF</p>
+      ```
+* **Stacking Context (Advanced Note):** Understood that `z-index` values only have meaning within a "stacking context." A new stacking context is created by any positioned element with a `z-index` other than `auto`. This is a crucial concept for debugging scenarios where an element with a high `z-index` might still appear behind another element with a lower `z-index` because they are in different contexts.
+
+---

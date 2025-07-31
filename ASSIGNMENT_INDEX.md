@@ -4578,4 +4578,24 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 346: QUIZ - HTML to CSS Linking Fundamentals
+
+### Date Completed: 2025-07-30
+
+### Objective:
+* Successfully completed the quiz, demonstrating understanding of how HTML files are linked to CSS files using the `<link>` tag.
+* Confirmed knowledge that the `<link rel="stylesheet" type="text/css" href="stylesheet.css">` code links an HTML file to a CSS file.
+
+### Core Course Concepts:
+* **External Stylesheets:** The method of linking external CSS files to HTML documents.
+* **`<link>` Tag:** Its attributes (`rel`, `type`, `href`) and purpose in web development.
+
+### Relevant Files:
+* Not applicable (quiz completion).
+
+### Independent Research & Best Practices:
+* Reaffirmed understanding of the benefits of separating HTML structure from CSS presentation for maintainability, efficiency, and readability, and the role of the `<link>` tag in achieving this separation.
+
+---
+
 

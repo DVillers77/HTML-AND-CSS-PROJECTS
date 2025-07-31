@@ -4561,3 +4561,19 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
     * **Negative Margins:** These pull elements closer to adjacent elements, or even cause them to overlap. They can be used to stretch elements to the viewport edges when nested within containers that have positive padding, as observed with the `.nav-bar` or `.container` stretching. This is an advanced technique for precise layout control.
 
 ---
+
+#### QUIZ - HTML to CSS Linking: The `<link>` Tag
+
+### Course Step Number: 346
+### Date Researched: 2025-07-30
+
+### Key Learnings:
+
+* **Purpose of `<link>` Tag:** Confirmed that the HTML `<link>` tag, specifically with `rel="stylesheet"`, is the standard and most performant method to **link an external CSS file to an HTML document**. This allows for the separation of content (HTML) from presentation (CSS), which is a fundamental best practice in web development.
+* **Key Attributes:**
+    * `rel="stylesheet"`: Specifies that the linked document is a stylesheet.
+    * `type="text/css"`: (Optional in HTML5) Indicates the content type of the linked resource.
+    * `href="path/to/stylesheet.css"`: Provides the URL or path to the external CSS file.
+* **Benefits of External Stylesheets:** Reiterated that linking CSS externally improves code organization, makes styles reusable across multiple HTML pages, enhances maintainability (changes made in one CSS file reflect everywhere), and leverages browser caching for faster page loads.
+
+---

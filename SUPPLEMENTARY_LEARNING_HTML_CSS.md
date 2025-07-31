@@ -4643,3 +4643,16 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
     * **Issue 3: Unwanted Spacing:** Unnecessary vertical space between the `h3` titles and images was caused by a general `margin-bottom` on all `h3` elements. This was solved by creating a more specific CSS rule, `.image-container h3`, to override the general rule and set the margin to `0px`, eliminating the gap.
 
 ---
+
+#### QUIZ - Z-index and Sticky Positioning
+
+### Course Step Number: 350
+### Date Researched: 2025-07-30
+
+### Key Learnings:
+
+* **`z-index`:** The `z-index` property controls the stacking or layering order of positioned elements. A higher value places an element in front of an element with a lower value.
+* **`position: sticky;`:** The `position: sticky;` property keeps an element "stuck" in a specific position within its container based on the user's scroll position. It requires an offset property (e.g., `top`, `bottom`, `left`, or `right`) to function.
+* **Combined Use:** The video lesson demonstrated how `z-index` is essential for ensuring a `position: sticky;` navigation bar always remains on top of other content, even when scrolling.
+
+---

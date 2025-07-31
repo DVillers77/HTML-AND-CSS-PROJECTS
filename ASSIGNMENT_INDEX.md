@@ -4676,3 +4676,23 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 350: QUIZ - Z-index and Sticky Positioning
+
+### Date Completed: 2025-07-30
+
+### Objective:
+* Successfully completed the quiz, demonstrating a clear understanding of the `z-index` and `position: sticky;` properties in CSS.
+* Confirmed knowledge of the purpose and behavior of both properties.
+
+### Core Course Concepts:
+* **`z-index`:** The property used to control the stacking order of elements.
+* **`position: sticky;`:** A CSS positioning value that keeps an element in a specific position relative to the viewport after a certain scroll offset is reached.
+
+### Relevant Files:
+* Not applicable (quiz completion).
+
+### Independent Research & Best Practices:
+* Reaffirmed the prerequisite for `z-index` (that the element must be positioned) and the hybrid nature of `position: sticky;`. These are fundamental concepts for building dynamic and layered web interfaces.
+
+---
+

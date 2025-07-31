@@ -4598,4 +4598,26 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 347: SUBSECTION F: BASIC CSS PART 5
+
+### Date Completed: 2025-07-30
+
+### Objective:
+* Commenced studies within Subsection F, advancing to the fifth part of basic CSS concepts.
+* Preparing to learn about the `z-index` property (Step 348).
+* Anticipating a continuation of the basic CSS video series (Step 349).
+* Expecting a quiz to assess understanding of the covered material (Step 350).
+
+### Core Course Concepts:
+* **`z-index`:** Introduction to controlling the stacking order of positioned elements.
+* **Practical CSS Application:** Further development through video instruction.
+* **Assessment:** Evaluation of learned concepts via quiz.
+
+### Relevant Files:
+* Not applicable (subsection transition).
+
+### Independent Research & Best Practices:
+* Prepared to focus on `z-index` and its requirement for `position` property, understanding how it affects the visual layering of elements. Anticipating further practical application and consolidation of basic CSS knowledge.
+
+---
 

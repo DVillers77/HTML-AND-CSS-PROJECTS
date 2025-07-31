@@ -4577,3 +4577,19 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Benefits of External Stylesheets:** Reiterated that linking CSS externally improves code organization, makes styles reusable across multiple HTML pages, enhances maintainability (changes made in one CSS file reflect everywhere), and leverages browser caching for faster page loads.
 
 ---
+
+#### SUBSECTION F: BASIC CSS PART 5 - Introduction to `z-index`
+
+### Course Step Number: 347
+### Date Researched: 2025-07-30
+
+### Key Learnings:
+
+* **Progression in CSS Fundamentals:** Marked the commencement of the fifth part of the basic CSS series within Subsection F.
+* **Upcoming Focus on `z-index`:** Anticipating detailed learning about the `z-index` property, which is crucial for managing the stacking order (front-to-back layering) of elements on a webpage. This property is particularly important when elements overlap due to positioning.
+* **Prerequisite for `z-index`:** Understood that `z-index` only applies to **positioned elements** (those with `position` set to `relative`, `absolute`, `fixed`, or `sticky`). It has no effect on elements with `position: static;` (the default).
+* **Concept of Stacking Contexts:** While advanced, recognized the importance of understanding "stacking contexts," as `z-index` values are only compared within the same stacking context. New stacking contexts are created by positioned elements with a `z-index` other than `auto`, or by other CSS properties (e.g., `opacity`, `transform`).
+* **Continuation of Video Series:** Expecting further practical application and expansion of CSS knowledge through the ongoing video lessons, likely incorporating `z-index` into layout scenarios.
+* **Upcoming Assessment:** Prepared for a quiz (Step 350) to test understanding of the concepts covered, particularly related to `z-index` and any new techniques introduced in the video.
+
+---

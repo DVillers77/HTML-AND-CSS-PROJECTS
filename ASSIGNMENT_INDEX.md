@@ -4834,3 +4834,24 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 357: SUBSECTION I: FAVICONS
+
+### Date Completed: 2025-07-31
+
+### Objective:
+* Commenced studies within Subsection I, which focuses on favicons and other advanced styling concepts.
+* Preparing to learn about favicons, version control with GitHub, and advanced CSS properties like `visibility`.
+
+### Core Course Concepts:
+* **Favicons:** Learning about these small branding icons and how to implement them.
+* **Version Control:** Anticipating a GitHub submission assignment to learn how to manage and share code.
+* **Advanced CSS:** Preparing to learn about the `visibility` property and its use in creating effects like rollovers.
+
+### Relevant Files:
+* Not applicable (subsection transition).
+
+### Independent Research & Best Practices:
+* Recognized the upcoming GitHub submission as a major milestone and a critical opportunity to learn version control, a key skill for professional development.
+
+---
+

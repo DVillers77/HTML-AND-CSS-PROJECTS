@@ -4796,3 +4796,16 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **The Box Model and `box-sizing`:** The `box-sizing: border-box;` property is a fundamental part of modern CSS. It simplifies element sizing by including padding and borders within the specified `width` and `height`, preventing unwanted layout shifts and making responsive design much easier. This property effectively addresses the classic box model problem where padding and borders would add to the total dimensions of an element.
 
 ---
+
+#### SUBSECTION I: FAVICONS - Favicons and Advanced CSS
+
+### Course Step Number: 357
+### Date Researched: 2025-07-31
+
+### Key Learnings:
+
+* **Favicon Integration:** This section will cover the importance of favicons for branding and user experience, as well as the HTML and file types required to add them to a website.
+* **Project Submission with Git/GitHub:** The upcoming submission assignment will be a practical introduction to version control systems, a standard tool for collaborating on and managing codebases.
+* **Advanced Styling Concepts:** The lessons on `visibility` and `rollover` will provide insight into more nuanced CSS properties that control an element's appearance without affecting its position in the layout, which is distinct from properties like `display: none;`.
+
+---

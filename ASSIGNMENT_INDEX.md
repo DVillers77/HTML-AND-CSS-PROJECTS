@@ -4855,3 +4855,23 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 358: FAVICON
+
+### Date Completed: 2025-08-01
+
+### Objective:
+* Defined what a favicon is and its purpose.
+* Understood the role of favicons in providing a recognizable visual identity for a website.
+
+### Core Course Concepts:
+* **Favicons:** A small icon used to represent a website in browser tabs and bookmarks.
+* **Branding:** Recognizing favicons as a key component of a website's brand identity.
+
+### Relevant Files:
+* Not applicable (conceptual step).
+
+### Independent Research & Best Practices:
+* Recognized that a favicon is a small but critical detail for improving user experience and reinforcing brand recognition.
+
+---
+

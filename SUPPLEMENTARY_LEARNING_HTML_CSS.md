@@ -4809,3 +4809,16 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Advanced Styling Concepts:** The lessons on `visibility` and `rollover` will provide insight into more nuanced CSS properties that control an element's appearance without affecting its position in the layout, which is distinct from properties like `display: none;`.
 
 ---
+
+#### FAVICON - Favorite Icon
+
+### Course Step Number: 358
+### Date Researched: 2025-08-01
+
+### Key Learnings:
+
+* **Favicon Definition:** A favicon, or "favorite icon," is a small image that graphically represents a website.
+* **Functionality:** Favicons are displayed in various parts of a web browser, including the address bar, browser tabs, and bookmarks menu, to help users easily identify and navigate to a specific site.
+* **Branding:** Favicons are a fundamental aspect of a website's visual identity, similar to a logo, and contribute to a professional and polished user experience.
+
+---

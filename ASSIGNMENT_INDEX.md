@@ -4787,3 +4787,30 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 355: BASIC CSS VIDEO PART 7 - Form, Focus, and Submit Button Styling
+
+### Date Completed: 2025-07-31
+
+### Objective:
+* Watched and followed the instructor's video, completing the styling for the contact form.
+* Used the `:focus` pseudo-class to create dynamic styling for input fields and text areas.
+* Applied `transition` properties to create smooth visual effects for color and borders.
+* Styled the submit button with custom colors, padding, and a pointer cursor.
+* Implemented a `:hover` pseudo-class to change the submit button's background color.
+
+### Core Course Concepts:
+* **Pseudo-classes (`:focus` and `:hover`):** Understanding how to apply styles based on a user's interaction with an element.
+* **`transition` property:** Learning to create smooth, animated changes to CSS properties.
+* **`box-sizing` property:** Using `border-box` to ensure elements maintain a consistent size regardless of padding or border values.
+* **Advanced Form Styling:** Applying a variety of CSS properties to make form elements more visually appealing and user-friendly.
+
+### Relevant Files:
+* `the-pet-shop-website/index.html`
+* `the-pet-shop-website/contact.html`
+* `the-pet-shop-website/css/style.css`
+
+### Independent Research & Best Practices:
+* Successfully implemented all video instructions, demonstrating a strong grasp of the concepts covered in this final basic CSS video. The code is well-structured and functional.
+
+---
+

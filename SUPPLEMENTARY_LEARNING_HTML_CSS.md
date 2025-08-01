@@ -4784,3 +4784,15 @@ While your code is correct according to the video, here are a few suggestions ba
 Overall, you've done a fantastic job completing this step. The code is clean and demonstrates a strong understanding of CSS properties and how to apply them.
 
 ---
+
+#### QUIZ - Focus and Box-Sizing
+
+### Course Step Number: 356
+### Date Researched: 2025-07-31
+
+### Key Learnings:
+
+* **Interactive Styling with `:focus`:** The `:focus` pseudo-class is essential for creating an intuitive and accessible user interface, particularly for form inputs, buttons, and links.
+* **The Box Model and `box-sizing`:** The `box-sizing: border-box;` property is a fundamental part of modern CSS. It simplifies element sizing by including padding and borders within the specified `width` and `height`, preventing unwanted layout shifts and making responsive design much easier. This property effectively addresses the classic box model problem where padding and borders would add to the total dimensions of an element.
+
+---

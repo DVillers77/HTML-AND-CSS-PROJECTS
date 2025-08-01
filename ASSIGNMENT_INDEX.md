@@ -4814,3 +4814,23 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 356: QUIZ - Focus and Box-Sizing
+
+### Date Completed: 2025-07-31
+
+### Objective:
+* Successfully completed the quiz, demonstrating a clear understanding of the `:focus` pseudo-class and the `box-sizing: border-box;` property.
+* Confirmed knowledge of how to apply styles on user interaction and manage the CSS box model effectively.
+
+### Core Course Concepts:
+* **`:focus` Pseudo-class:** The property used to style elements when they are in a focused state.
+* **`box-sizing: border-box;`:** The property that ensures an element's padding and border are included in its total dimensions.
+
+### Relevant Files:
+* Not applicable (quiz completion).
+
+### Independent Research & Best Practices:
+* Reaffirmed the importance of `:focus` for accessibility and the practical utility of `box-sizing: border-box;` for creating predictable and robust layouts.
+
+---
+

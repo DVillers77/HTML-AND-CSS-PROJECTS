@@ -4629,7 +4629,7 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 #### BASIC CSS VIDEO PART 5 - `z-index` and Advanced Visual Effects
 
 ### Course Step Number: 349
-### Date Researched: 2025-07-30
+### Date Researched: 2025-07-31
 
 ### Key Learnings:
 
@@ -4647,7 +4647,7 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 #### QUIZ - Z-index and Sticky Positioning
 
 ### Course Step Number: 350
-### Date Researched: 2025-07-30
+### Date Researched: 2025-07-31
 
 ### Key Learnings:
 
@@ -4660,7 +4660,7 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 #### SUBSECTION G: BASIC CSS PART 6 - Continuing CSS Fundamentals
 
 ### Course Step Number: 351
-### Date Researched: 2025-07-30
+### Date Researched: 2025-07-31
 
 ### Key Learnings:
 

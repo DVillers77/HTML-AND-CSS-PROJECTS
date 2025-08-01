@@ -4647,7 +4647,7 @@ Considered the security implications of authorizing extensions and the importanc
 
 #### Step 349: BASIC CSS VIDEO PART 5 - Z-index, Backgrounds, and Overlays
 
-### Date Completed: 2025-07-30
+### Date Completed: 2025-07-31
 
 ### Objective:
 * Watched and followed the instructor's video on basic CSS Part 5.
@@ -4678,7 +4678,7 @@ Considered the security implications of authorizing extensions and the importanc
 
 #### Step 350: QUIZ - Z-index and Sticky Positioning
 
-### Date Completed: 2025-07-30
+### Date Completed: 2025-07-31
 
 ### Objective:
 * Successfully completed the quiz, demonstrating a clear understanding of the `z-index` and `position: sticky;` properties in CSS.
@@ -4698,7 +4698,7 @@ Considered the security implications of authorizing extensions and the importanc
 
 #### Step 351: SUBSECTION G: BASIC CSS PART 6
 
-### Date Completed: 2025-07-30
+### Date Completed: 2025-07-31
 
 ### Objective:
 * Commenced studies within Subsection G, advancing to the sixth part of the basic CSS concepts.

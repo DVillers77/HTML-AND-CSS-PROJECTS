@@ -4747,3 +4747,23 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 353: QUIZ - Margin and Border-radius
+
+### Date Completed: 2025-07-31
+
+### Objective:
+* Successfully completed the quiz, demonstrating a clear understanding of the `margin: auto;` and `border-radius` properties.
+* Confirmed knowledge of how to center a block-level element and create rounded corners using CSS.
+
+### Core Course Concepts:
+* **`margin: auto;`:** The property used for horizontally centering a block-level element with a defined width.
+* **`border-radius`:** The property used to create rounded corners on any element, adding a modern visual touch.
+
+### Relevant Files:
+* Not applicable (quiz completion).
+
+### Independent Research & Best Practices:
+* Reaffirmed the prerequisite for `margin: auto;` (a defined width) and the aesthetic power of `border-radius`. These concepts are fundamental for controlling layout and visual style.
+
+---
+

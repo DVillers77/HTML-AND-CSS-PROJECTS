@@ -4690,3 +4690,15 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
     * **Design Consistency:** Used `text-align: right;` on a nested citation (`<p>`) to align it perfectly with the edge of the parent `<blockquote>`.
 
 ---
+
+#### QUIZ - Margin and Border-radius
+
+### Course Step Number: 353
+### Date Researched: 2025-07-31
+
+### Key Learnings:
+
+* **Centering with `margin: auto;`:** The `margin: auto;` property is a robust way to horizontally center block-level elements like forms and videos. It works by automatically distributing the available horizontal space equally to the left and right margins.
+* **Rounded Corners with `border-radius`:** The `border-radius` property is essential for creating modern, soft-edged designs. It can be applied to any element, including images, iframes, and buttons, to give them a polished appearance. The video lesson applied this property to the video `<iframe>` to make it visually consistent with the pet images.
+
+---

@@ -4716,3 +4716,34 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 352: BASIC CSS VIDEO PART 6 - Video, Footer, and Form Styling
+
+### Date Completed: 2025-07-31
+
+### Objective:
+* Watched and followed the instructor's video, completing the styling for the video section, footer, and contact form.
+* Centered the video iframe using `display: table;` and `margin: auto;`.
+* Styled the footer with a background color, negative margins for full width, and used table properties to align and distribute content.
+* Implemented base styling for the contact form, including centering and styling of input fields.
+* Removed a `<br>` tag from `contact.html` to align input fields on a single line.
+
+### Core Course Concepts:
+* **CSS Layout:** Practical application of `display`, `margin`, and `width` for centering and distributing elements.
+* **Footer Styling:** Creating a full-width footer using negative margins and styling nested elements (table, td, p).
+* **Form Styling:** Applying CSS to form elements for improved appearance and user experience.
+* **Refactoring:** Continued to use best practices to solve previously identified code issues.
+
+### Relevant Files:
+* `the-pet-shop-website/index.html`
+* `the-pet-shop-website/contact.html`
+* `the-pet-shop-website/css/style.css`
+
+### Independent Research & Best Practices:
+* Reaffirmed the use of `display: table;` and `margin: auto;` as a reliable method for centering block-level elements. Understood the importance of specific selectors (e.g., `td p`) to apply styles to nested elements without affecting global rules.
+* **Semantic HTML:** Refactored the video link to use a clickable `<a>` tag around an `<h3>` to maintain proper heading semantics while allowing for a full-width clickable area.
+* **Readability and Design:** Implemented a fixed `max-width` on the `<blockquote>` and `<article>` elements to ensure optimal text readability on large screens, a crucial best practice for user experience.
+* **Content Accuracy:** Updated the video link title to accurately reflect the video's content ("Can I pet that dog?") to prevent user confusion.
+* **Logical Structure:** Restructured the `blockquote` to include the citation within its own element, making it more semantically correct and easier to style for perfect alignment.
+
+---
+

@@ -4669,3 +4669,24 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Preparation:** Recognizing the importance of reviewing previous concepts in preparation for the upcoming video lesson and quiz.
 
 ---
+
+#### BASIC CSS PART 6 - Video, Footer, and Form Styling
+
+### Course Step Number: 352
+### Date Researched: 2025-07-31
+
+### Key Learnings:
+
+* **Video Styling:** Learned to center an iframe using `display: table;` and `margin: auto;`. This technique is effective because it treats the element as a block with a set width, allowing `auto` margins to push equally from both sides.
+* **Footer Layout:** Gained experience styling the footer using a full-width background achieved with negative `margin-left` and `margin-right`. The internal layout was controlled by styling the `<table>` and `<td>` elements.
+* **Footer Text Styling:** Used a specific CSS selector, `td p`, to target and style the paragraph text inside the `<td>` elements, demonstrating a precise method of applying styles to nested elements.
+* **Form Formatting:** Applied CSS to the `<form>` and `<input>` elements to center the form on the page and style the input fields, improving their appearance and functionality.
+* **HTML Refactoring:** Practiced a small but important HTML refactoring by removing a `<br>` tag from the contact form to keep input fields on the same line, demonstrating the importance of managing HTML structure for layout.
+* **Debugging and Corrective Actions:** The previously identified issues with image sizing, overlay alignment, and vertical spacing have now been resolved, resulting in a clean and functional design. This reinforces the importance of using a nested HTML structure (`image-wrapper`) and specific CSS rules to achieve precise control over the layout.
+* **Advanced Best Practices:**
+    * **Semantic HTML:** Independently refactored the video link's HTML to be semantically correct by nesting the heading inside a link.
+    * **Readability:** Set a fixed `max-width` on article and blockquote elements, recognizing that long lines of text are difficult to read on large screens.
+    * **Content Accuracy:** Edited the video title to accurately reflect the content of the linked video, improving user experience.
+    * **Design Consistency:** Used `text-align: right;` on a nested citation (`<p>`) to align it perfectly with the edge of the parent `<blockquote>`.
+
+---

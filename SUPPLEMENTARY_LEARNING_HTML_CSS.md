@@ -4702,3 +4702,16 @@ Learning about GitHub Issues clarifies how larger projects are organized and man
 * **Rounded Corners with `border-radius`:** The `border-radius` property is essential for creating modern, soft-edged designs. It can be applied to any element, including images, iframes, and buttons, to give them a polished appearance. The video lesson applied this property to the video `<iframe>` to make it visually consistent with the pet images.
 
 ---
+
+#### SUBSECTION H: BASIC CSS PART 7 - Continuing CSS Fundamentals
+
+### Course Step Number: 354
+### Date Researched: 2025-07-31
+
+### Key Learnings:
+
+* **Progression in CSS Fundamentals:** Marked the start of the seventh part of the basic CSS video series.
+* **Upcoming Focus:** The upcoming video (Step 355) and quiz (Step 356) will continue to build on the foundational CSS knowledge from previous parts.
+* **Preparation:** Recognizing the importance of reviewing previous concepts in preparation for the upcoming video lesson and quiz.
+
+---

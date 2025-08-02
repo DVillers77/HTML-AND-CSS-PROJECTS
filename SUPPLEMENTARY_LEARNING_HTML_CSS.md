@@ -4835,3 +4835,16 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Creative and Technical Problem-Solving:** Independently identified a user experience issue (poor favicon visibility) and solved it by using an external image editor to modify the favicon's color. This demonstrated the ability to use external tools to solve development problems and improve a project's quality.
 
 ---
+
+#### PET-SHOP WEBSITE GITHUB SUBMISSION ASSIGNMENT
+
+### Course Step Number: 360
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Git Workflow:** Reaffirmed the core Git commands (`git add`, `git commit`, `git push`) for updating a repository with new code.
+* **Professional Commit Messages:** Practiced writing a descriptive and organized commit message, a key best practice for maintaining a clear and useful project history.
+* **GitHub Repository Structure:** Understood how to navigate and link to a specific subdirectory within a GitHub repository.
+
+---

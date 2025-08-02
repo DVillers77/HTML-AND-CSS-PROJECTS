@@ -4899,3 +4899,25 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 360: PET-SHOP WEBSITE GITHUB SUBMISSION ASSIGNMENT
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* Pushed all updated files of the "The-Pet-Shop-Website" project to the GitHub repository.
+* The repository now contains the completed HTML and CSS files, including all independent edits and the newly added favicon files.
+
+### Core Course Concepts:
+* **Version Control with Git:** Practiced the standard workflow of adding, committing, and pushing changes to a remote repository.
+* **Project Management:** Confirmed that the local project directory and the remote repository are in sync.
+
+### Relevant Files:
+* All files in the `The-Pet-Shop-Website` directory.
+
+### Independent Research & Best Practices:
+* Identified the correct process for submitting updated code via Git, bypassing the potentially misleading "Releases" links provided in the lesson.
+* Wrote a professional and descriptive Git commit message to clearly document all the changes made to the project.
+* Confirmed the correct GitHub URL to link to the submitted project folder.
+
+---
+

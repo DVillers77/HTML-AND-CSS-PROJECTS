@@ -4921,3 +4921,24 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 361: VISIBILITY
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* Understood the purpose and function of the CSS `visibility` property.
+* Learned the key difference between `visibility: hidden;` and `display: none;`.
+
+### Core Course Concepts:
+* **`visibility` Property:** The CSS property used to show or hide an element without removing its allocated space in the layout.
+* **`visible` vs. `hidden`:** The two main values for the `visibility` property.
+* **Layout Management:** Recognized that `visibility: hidden;` retains the element's space, whereas `display: none;` removes it from the document flow entirely.
+
+### Relevant Files:
+* Not applicable (conceptual step).
+
+### Independent Research & Best Practices:
+* Gained a deeper understanding of the differences between `visibility`, `opacity`, and `display` for various use cases, including accessibility.
+
+---
+

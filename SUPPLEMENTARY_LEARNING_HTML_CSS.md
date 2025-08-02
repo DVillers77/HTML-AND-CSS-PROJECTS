@@ -4848,3 +4848,16 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **GitHub Repository Structure:** Understood how to navigate and link to a specific subdirectory within a GitHub repository.
 
 ---
+
+#### VISIBILITY - The CSS visibility property
+
+### Course Step Number: 361
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Function:** The `visibility` property in CSS is used to control the visibility of an HTML element without affecting its layout.
+* **Property Values:** `visibility: visible;` is the default and makes the element appear. `visibility: hidden;` makes the element invisible.
+* **Distinction from `display: none;`:** A key learning is the difference between `visibility: hidden;` and `display: none;`. The former hides an element while still occupying its original space on the page, whereas the latter removes the element entirely from the document flow, causing the layout to reflow.
+
+---

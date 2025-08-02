@@ -2,9 +2,15 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <link rel="stylesheet" href="css/style.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Index</title>
-    <!--META DESCRIPTION-->
+    <title>Home</title>
+    <!--FAVICONS-->
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon-paws.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-paws-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-paws-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="icon" type="image/x-icon" href="favicon-paws.ico">
     <meta
       name="description"
       content="Welcome to The Pet Shop! Find your perfect furry, scaly, or finned friend. Explore our wide selection of cats, dogs, rabbits, guinea pigs, fish, and reptiles."
@@ -12,8 +18,8 @@
   </head>
   <body>
     <!--NAVBAR-->
-    <nav>
-      <ul>
+    <nav class="nav-bar">
+      <ul id="nav-border">
         <li><a href="index.html">Home</a></li>
         <li><a href="contact.html">Contact</a></li>
       </ul>
@@ -30,22 +36,23 @@
     <!--HEADER-->
     <header>
       <div>
-        <h1>Welcome to the pet shop</h1>
-        <h2>We <em>Love</em> Animals!</h2>
+        <h1 class="animate-text">Welcome to the pet shop</h1>
+        <!--Challenge element-->
+        <h3>We <em>Love</em> Animals!</h3>
       </div>
     </header>
-    <!--BLOCK QUOTE-->
+    <!--BLOCK QUOTE-challenge element-->
     <blockquote
       cite="https://www.goodreads.com/quotes/1025-happiness-is-a-warm-puppy#:~:text=Quote%20by%20Charles%20M.,Happiness%20is%20a%20warm%20puppy.%E2%80%9D"
     >
-      <p>"Happiness is a warm puppy.</p>
+      <p>"Happiness is a warm puppy"</p>
+      <p class="source-attribution">&mdash; Charles M. Schulz</p>
     </blockquote>
-    <p class="source-attribution">&mdash; Charles M. Schulz</p>
 
     <!--CHALLENGE STEP 249-->
     <section>
-      <article>
-        <h2>My Latest Article about pets.</h2>
+      <article class="challenge-article">
+        <h3>Latest Article about pets</h3>
         <p>Published on <time datetime="2025-07-22">July 22, 2025</time></p>
         <p>This is the main content of my article...</p>
 
@@ -57,41 +64,71 @@
     </section>
     <!--PET IMAGES-->
     <section>
-      <div>
+      <div class="container">
         <h2>Choose a pet</h2>
         <div>
           <!--CAT IMAGE-->
-          <div id="cat">
-            <h3>Cats & Kittens</h3>
-            <img src="images/cat.png" alt="Picture of kittens" />
+          <div id="cat" class="column">
+            <div class="image-container">
+              <h3>Cats & Kittens</h3>
+              <div class="image-wrapper">
+                <img src="images/cat.png" alt="Picture of kittens" />
+                <div class="overlay"></div>
+              </div>
+            </div>
           </div>
           <!--DOG IMAGE-->
-          <div id="dog">
-            <h3>Dogs & Puppies</h3>
-            <img src="images/dog.png" alt="Picture of dogs" />
+          <div id="dog" class="column">
+            <div class="image-container">
+              <h3>Dogs & Puppies</h3>
+              <div class="image-wrapper">
+                <img src="images/dog.png" alt="Picture of dogs" />
+                <div class="overlay"></div>
+              </div>
+            </div>
           </div>
           <!--RABBIT IMAGE-->
-          <div id="rabbit">
-            <h3>Rabbits</h3>
-            <img src="images/rabbits.png" alt="Picture of rabbits" />
+          <div id="rabbit" class="column">
+            <div class="image-container">
+              <h3>Rabbits</h3>
+              <div class="image-wrapper">
+                <img src="images/rabbits.png" alt="Picture of rabbits" />
+                <div class="overlay"></div>
+              </div>
+            </div>
           </div>
           <!--GUINEA PIG IMAGE-->
-          <div id="guineapig">
-            <h3>Guinea pigs</h3>
-            <img src="images/guineapigs.png" alt="Picture of guinea pigs" />
+          <div id="guineapig" class="column">
+            <div class="image-container">
+              <h3>Guinea pigs</h3>
+              <div class="image-wrapper">
+                <img src="images/guineapigs.png" alt="Picture of guinea pigs" />
+                <div class="overlay"></div>
+              </div>
+            </div>
           </div>
           <!--FISH IMAGE-->
-          <div id="fish">
-            <h3>Fish</h3>
-            <img src="images/fish.png" alt="Picture of gold fish" />
+          <div id="fish" class="column">
+            <div class="image-container">
+              <h3>Fish</h3>
+              <div class="image-wrapper">
+                <img src="images/fish.png" alt="Picture of gold fish" />
+                <div class="overlay"></div>
+              </div>
+            </div>
           </div>
           <!--REPTILE IMAGE-->
-          <div id="reptile">
-            <h3>Reptiles</h3>
-            <img
-              src="images/beardedDragon.png"
-              alt="Picture of a bearded dragon"
-            />
+          <div id="reptile" class="column">
+            <div class="image-container">
+              <h3>Reptiles</h3>
+              <div class="image-wrapper">
+                <img
+                  src="images/beardedDragon.png"
+                  alt="Picture of a bearded dragon"
+                />
+                <div class="overlay"></div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -99,7 +136,7 @@
     <!--VIDEOS-->
     <section>
       <!--DOG VIDEO-->
-      <div id="video">
+      <div id="video" class="container video-container">
         <h3>Videos</h3>
         <iframe
           width="1280"
@@ -109,11 +146,12 @@
           title="Cute Dog Video from YouTube"
         ></iframe>
         <a
-          href="https://www.youtube.com/embed/ybhNTqetubQ?si=AqRnWeC6tvEGZQCg"
+          href="https://youtu.be/mZH5gIGoLQk?si=_8QaiSfYOTRhTG08"
           target="_blank"
-          rel="noopener noreferrer"
-          >Can I pet that dog?</a
+          class="video-link"
         >
+          Can I pet that dog?
+        </a>
       </div>
     </section>
     <!--FOOTER-->

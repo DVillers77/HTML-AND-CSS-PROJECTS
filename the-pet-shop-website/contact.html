@@ -2,8 +2,15 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <link rel="stylesheet" href="css/style.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Contact Us!</title>
+    <!--FAVICONS-->
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon-paws.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-paws-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-paws-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="icon" type="image/x-icon" href="favicon-paws.ico">
     <!--META DESCRIPTION-->
     <meta
       name="description"
@@ -12,7 +19,7 @@
   </head>
   <body>
     <!--NAVBAR-->
-    <nav>
+    <nav class="nav-bar">
       <ul>
         <li><a href="index.html">Home</a></li>
         <li><a href="contact.html">Contact</a></li>
@@ -21,18 +28,21 @@
     <!--HEADER-->
     <header>
       <div>
-        <h1>Contact Us!</h1>
+        <h1 class="animate-text">Contact Us!</h1>
       </div>
     </header>
     <!--FORM-->
     <section>
       <fieldset>
-        <h3>Please provide a brief message of your inquiry.</h3>
+        <h3 id="contact-h3">
+          Please provide your contact information and a brief message of your
+          inquiry.
+        </h3>
         <div>
           <form action="">
             <input type="text" placeholder="First Name" />
             <input type="text" placeholder="Last Name" /><br />
-            <input type="email" placeholder="Email" /><br />
+            <input type="email" placeholder="Email" />
             <input type="tell" placeholder="Phone Number" /><br />
             <input type="checkbox" id="Newsletter" />
             <label for="Newsletter"

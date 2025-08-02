@@ -271,9 +271,9 @@ Enhanced VS Code's Git integration by installing GitLens by GitKraken for advanc
 #### 63. GITHUB ASSIGNMENT (Step 312)
 Completed a full GitHub workflow: forked a repository, made local changes, committed, pushed, and submitted a pull request.
 
-#### 64. FAVICON IMPLEMENTATION ASSIGNMENT
+#### 64. FAVICON IMPLEMENTATION CHALLENGE
 
-This assignment involved creating and implementing a full set of favicons for the "The Pet Shop Website." The task included generating icons for various platforms and screen sizes, configuring the `site.webmanifest` file, and integrating the icons into the project's HTML. This assignment reinforced best practices for web branding and file management.
+This challenge involved creating and implementing a full set of favicons for the "The Pet Shop Website." The task included generating icons for various platforms and screen sizes, configuring the `site.webmanifest` file, and integrating the icons into the project's HTML. This challenge reinforced best practices for web branding and file management.
 
 #### 65. BASIC CSS (PART 1-7)
 

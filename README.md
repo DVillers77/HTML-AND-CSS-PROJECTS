@@ -273,3 +273,7 @@ Completed a full GitHub workflow: forked a repository, made local changes, commi
 
 #### 64. BASIC CSS (PART 1-7) & INDEPENDENT EDITS
 Completed the seven-part video series on Basic CSS, styling the pet shop website. This included learning the box model, various selectors, transitions, and the implementation of a functional contact form. Key independent edits were made to improve layout, correct color inconsistencies for better accessibility (e.g., the favicon), and optimize the project's file structure and manifest file for best practices.
+
+#### 65. <COL> TAG CHALLENGE & FLEXBOX IMPLEMENTATION
+
+This challenge focused on creating a basic column layout using the `<col>` tag within an HTML table. As an independent learning exercise, the same layout was recreated using modern CSS Flexbox. This exercise highlighted the key differences and advantages of modern CSS layout techniques over traditional table-based methods, and demonstrated the use of Flexbox properties (`display: flex`, `flex-direction`, `align-items`) in combination with standard CSS (`margin`, `width`) to create a centered, staggered "staircase" pattern.

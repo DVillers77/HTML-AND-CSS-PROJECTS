@@ -5044,3 +5044,27 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 367: <COL> TAG CHALLENGE
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* Successfully created a basic column layout using the HTML `<col>` tag within a table structure.
+* Independently recreated the same layout using modern CSS Flexbox to create a centered, staggered "staircase" pattern.
+
+### Core Course Concepts:
+* **`<col>` Tag:** Understood the usage of the `<col>` tag to apply properties to columns within a `<colgroup>`.
+* **HTML Table Structure:** Practiced the proper structure for HTML tables, including `<table>`, `<colgroup>`, `<tr>`, and `<td>`.
+* **Flexbox:** Gained practical experience with a modern layout system, applying `display: flex`, `flex-direction`, `align-items`, `margin`, and `width: fit-content` to achieve a complex layout.
+
+### Relevant Files:
+* `367-challenge-col-tag.html`
+* `367-challenge-flexbox.html`
+
+### Independent Research & Best Practices:
+* Demonstrated a deep understanding of the differences between table-based layouts and modern Flexbox layouts.
+* Experimented with CSS properties to solve a specific layout challenge, showing a strong ability to iterate and problem-solve.
+* Separated the two solutions into distinct HTML files for clarity and to showcase the different approaches.
+
+---
+

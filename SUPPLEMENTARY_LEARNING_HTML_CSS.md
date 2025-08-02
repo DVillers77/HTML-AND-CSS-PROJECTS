@@ -4925,3 +4925,16 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Specificity:** A key learning is that ID selectors have a higher specificity than class selectors, a concept that is crucial for understanding the cascade in CSS.
 
 ---
+
+#### <COL> TAG CHALLENGE - Table vs. Flexbox Layout
+
+### Course Step Number: 367
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Table-based Layout:** Learned the proper use of the `<col>` and `<colgroup>` tags for styling columns within an HTML table, a legacy method for layout.
+* **Modern CSS Layout:** Independently applied Flexbox to achieve a similar column-based layout, reinforcing the superiority and flexibility of modern CSS techniques.
+* **Flexbox Mastery:** Gained practical experience using a combination of Flexbox properties (`display: flex`, `flex-direction`, `align-items`) and standard CSS (`margin-left`, `width: fit-content`, `margin: 0 auto`) to create a custom, centered layout.
+
+---

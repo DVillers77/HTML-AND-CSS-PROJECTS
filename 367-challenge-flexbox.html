@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      #my-flex-container {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start; /* Aligns all items to the start of the cross-axis */
+        margin: 0 auto;
+        width: fit-content;
+      }
+      .child-div-1 {
+        margin-left: 0;
+      }
+      .child-div-2 {
+        margin-left: 20px; /* Pushes the second child 20px to the right */
+      }
+      .child-div-3 {
+        margin-left: 40px; /* Pushes the third child 40px to the right */
+      }
+    </style>
+    <title>Flexbox</title>
+  </head>
+  <body>
+    <div id="my-flex-container">
+      <div class="child-div-1">
+        <p>tick</p>
+      </div>
+      <div class="child-div-2">
+        <p>tac</p>
+      </div>
+      <div class="child-div-3">
+        <p>toe</p>
+      </div>
+    </div>
+  </body>
+</html>

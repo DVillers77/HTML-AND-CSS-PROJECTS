@@ -4874,3 +4874,16 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Practical Application:** Rollovers are essential for enhancing user experience, confirming that an element is interactive, and can be used on images, links, buttons, and other elements.
 
 ---
+
+#### SECTION 8: CSS EFFECTS - Introduction and Roadmap
+
+### Course Step Number: 363
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Section Overview:** Began Section 8, which will cover a range of CSS effects and advanced layout techniques.
+* **Upcoming Topics:** The roadmap includes key topics such as Flexbox, the distinction between classes and IDs, the rules of CSS precedence and specificity, and various quizzes to reinforce the learning.
+* **Modern CSS:** This section represents a significant step towards modern CSS development by introducing Flexbox, a crucial tool for responsive design.
+
+---

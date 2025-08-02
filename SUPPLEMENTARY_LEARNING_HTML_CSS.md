@@ -4887,3 +4887,15 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Modern CSS:** This section represents a significant step towards modern CSS development by introducing Flexbox, a crucial tool for responsive design.
 
 ---
+
+#### SUBSECTION A: CREATING CSS EFFECTS PART 1
+
+### Course Step Number: 364
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Subsection Start:** Commenced a new subsection, marking a transition into a deeper exploration of CSS effects and their implementation.
+* **Future Lessons:** The upcoming lessons will likely focus on practical application of CSS properties to create visually engaging elements.
+
+---

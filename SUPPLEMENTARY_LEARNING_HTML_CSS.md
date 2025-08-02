@@ -4822,3 +4822,16 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Branding:** Favicons are a fundamental aspect of a website's visual identity, similar to a logo, and contribute to a professional and polished user experience.
 
 ---
+
+#### FAVICON CHALLENGE - Adding a Favicon to a Website
+
+### Course Step Number: 359
+### Date Researched: 2025-08-01
+
+### Key Learnings:
+
+* **Favicon Implementation:** Learned to add a complete set of favicon links to an HTML document's `<head>` section, ensuring compatibility with various browsers and devices.
+* **File Management and Paths:** Confirmed that placing favicon files in the root directory and using relative paths (`href="filename.png"`) is the standard practice. Differentiated this from the paths in a `site.webmanifest` file, which typically use absolute paths (`src="/filename.png"`).
+* **Creative and Technical Problem-Solving:** Independently identified a user experience issue (poor favicon visibility) and solved it by using an external image editor to modify the favicon's color. This demonstrated the ability to use external tools to solve development problems and improve a project's quality.
+
+---

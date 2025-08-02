@@ -4875,3 +4875,27 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 359: FAVICON CHALLENGE (Independent Edit)
+
+### Date Completed: 2025-08-01
+
+### Objective:
+* Created a favicon for the pet shop website.
+* Implemented a comprehensive set of favicon links for broad browser and device support.
+* Independently identified and corrected a design flaw (poor visibility in dark mode) by modifying the favicon color.
+
+### Core Course Concepts:
+* **Favicon Implementation:** Learned the HTML syntax for linking a favicon file to a webpage, including multiple links for different file types and sizes.
+* **File Structure:** Confirmed the best practice of placing favicon files in the project's root directory.
+
+### Relevant Files:
+* `the-pet-shop-website/index.html`
+* `the-pet-shop-website/contact.html`
+* `the-pet-shop-website/favicon-paws.ico` (and associated files)
+
+### Independent Research & Best Practices:
+* **Advanced File Editing:** Used an external tool (GIMP) to modify the favicon color to improve visibility and accessibility.
+* **File Naming & Organization:** Used a consistent naming convention (`-paws`) and correctly managed the `href` paths in HTML versus the `src` paths in the `site.webmanifest` file. This demonstrates a strong understanding of file paths and project structure.
+
+---
+

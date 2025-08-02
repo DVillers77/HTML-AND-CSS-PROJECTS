@@ -4899,3 +4899,16 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Future Lessons:** The upcoming lessons will likely focus on practical application of CSS properties to create visually engaging elements.
 
 ---
+
+#### FLEXBOX - A Flexible Layout Structure
+
+### Course Step Number: 365
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Function:** Flexbox is a one-dimensional CSS layout module that allows for efficient distribution of space and alignment of items in a container, either in a row or a column.
+* **Implementation:** The `display: flex` property is used on a parent container to enable Flexbox behavior for its child elements.
+* **Key Properties:** Gained an overview of properties like `flex-direction`, `justify-content`, and `align-items` to control the alignment and flow of elements.
+
+---

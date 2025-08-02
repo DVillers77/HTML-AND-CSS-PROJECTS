@@ -5000,3 +5000,25 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 365: FLEXBOX
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* Understood the purpose and functionality of Flexbox as a modern CSS layout tool.
+* Gained a conceptual understanding of how Flexbox simplifies responsive design.
+
+### Core Course Concepts:
+* **Flexbox (Flexible Box):** A one-dimensional layout model for arranging items within a container.
+* **Flex Container vs. Flex Items:** Learned the fundamental relationship between the parent container and its child items.
+* **Key Properties:** Began to understand core properties like `display: flex`, `flex-direction`, `justify-content`, and `align-items`.
+
+### Relevant Files:
+* Not applicable (conceptual step).
+
+### Independent Research & Best Practices:
+* Reviewed an animated guide to Flexbox to visually comprehend its core principles.
+* Recognized the superiority of Flexbox over older layout methods like floats and the importance of using it for modern, responsive web design.
+
+---
+

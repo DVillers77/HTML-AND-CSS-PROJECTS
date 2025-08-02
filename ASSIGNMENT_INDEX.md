@@ -5022,3 +5022,25 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 366: CLASSES VS IDS
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* Understood the key differences between using a CSS `class` and an `id`.
+* Learned the different use cases for each selector.
+
+### Core Course Concepts:
+* **Classes:** Reusable selectors that can be applied to multiple elements.
+* **IDs:** Unique identifiers that can only be used once per page.
+* **Purpose:** Recognized that classes are primarily for styling, while IDs are for unique identification and targeting.
+
+### Relevant Files:
+* Not applicable (conceptual step).
+
+### Independent Research & Best Practices:
+* Gained a deeper understanding of CSS specificity and why classes are preferred for most styling purposes in modern web development.
+* Acknowledged how IDs are used for non-styling purposes like URL hash values for in-page navigation.
+
+---
+

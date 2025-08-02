@@ -4912,3 +4912,16 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Key Properties:** Gained an overview of properties like `flex-direction`, `justify-content`, and `align-items` to control the alignment and flow of elements.
 
 ---
+
+#### CLASSES VS IDS - Selector Differences
+
+### Course Step Number: 366
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Distinction:** A class can be used on multiple elements, while an ID must be unique to a single element on a page.
+* **Functionality:** Class selectors are ideal for applying the same styles to multiple elements, while ID selectors are used for targeting a single element, such as with JavaScript or for in-page navigation.
+* **Specificity:** A key learning is that ID selectors have a higher specificity than class selectors, a concept that is crucial for understanding the cascade in CSS.
+
+---

@@ -4942,3 +4942,23 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 362: ROLLOVER
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* Understood the concept of a "rollover" effect and how it's used in web design.
+* Learned that the `:hover` pseudo-class is the key to creating these effects.
+
+### Core Course Concepts:
+* **Rollover Effect:** A visual change to an element when a mouse hovers over it.
+* **`:hover` Pseudo-class:** The CSS pseudo-class used to apply styles to an element's hover state.
+
+### Relevant Files:
+* Not applicable (conceptual step).
+
+### Independent Research & Best Practices:
+* Recognized the importance of hover effects for providing user feedback and learned about modern techniques like CSS transitions and filters for creating smooth and engaging effects.
+
+---
+

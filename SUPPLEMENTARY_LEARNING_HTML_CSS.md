@@ -4861,3 +4861,16 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Distinction from `display: none;`:** A key learning is the difference between `visibility: hidden;` and `display: none;`. The former hides an element while still occupying its original space on the page, whereas the latter removes the element entirely from the document flow, causing the layout to reflow.
 
 ---
+
+#### ROLLOVER - The Rollover Effect
+
+### Course Step Number: 362
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Function:** A rollover effect, or hover state, provides visual feedback to the user when their mouse cursor is over an interactive element.
+* **Implementation:** This effect is created using the `:hover` pseudo-class in CSS, which allows a developer to define a new set of styles that will be applied to an element on mouseover.
+* **Practical Application:** Rollovers are essential for enhancing user experience, confirming that an element is interactive, and can be used on images, links, buttons, and other elements.
+
+---

@@ -5187,3 +5187,20 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 374: START SUBSECTION B - CREATING CSS EFFECTS PART 2
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* The student began a new section of the course focused on creating CSS effects.
+* The student has been introduced to the upcoming steps in this section.
+
+### Core Course Concepts:
+* **Curriculum Navigation:** Acknowledged the start of a new subsection, "CREATING CSS EFFECTS PART 2."
+* **Upcoming Topics:** Noted the topics to be covered in this subsection: Descendant Combinators, an instructional video, and a quiz.
+
+### Relevant Files:
+* Not applicable (conceptual step).
+
+---
+

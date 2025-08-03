@@ -5040,3 +5040,15 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Element Identification:** Confirmed that the `id` attribute is essential for giving an HTML element a unique name, which is necessary for creating targeted internal links, as well as for styling and scripting.
 
 ---
+
+#### START SUBSECTION B - CREATING CSS EFFECTS PART 2
+
+### Course Step Number: 374
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **New Section:** Began a new major section of the curriculum.
+* **Topic Preview:** Gained an overview of the upcoming topics, which will focus on building upon the foundational HTML created in the previous steps to add various CSS effects.
+
+---

@@ -5065,3 +5065,21 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Practical Use:** Provides a powerful way to apply CSS rules to specific elements within a certain context, which is essential for creating clean and organized stylesheets.
 
 ---
+
+#### CREATING CSS EFFECTS PART 2 - Navbar & Dropdown
+
+### Course Step Number: 376
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Navbar Implementation:** Gained practical experience in creating a sticky navbar that remains visible as the user scrolls.
+* **Dropdown Menu Logic:** Understood the mechanics of creating a hidden dropdown menu that appears on hover, utilizing a combination of `display: none;` and the `:hover` pseudo-class with a descendant combinator.
+* **Flexbox for Navigation:** Confirmed the utility of Flexbox for easily aligning navigation links horizontally.
+
+### Independent Research & Best Practices:
+* **Code Robustness:** Identified opportunities for enhanced learning, including improving the accessibility of the dropdown menu with ARIA attributes and restructuring the HTML with a nested `<ul>` for better semantics.
+* **Maintainability:** Recognized the value of using more specific class selectors and CSS variables for a more maintainable stylesheet.
+* **Responsive Design:** Acknowledged the need for media queries to ensure the layout is responsive on different screen sizes.
+
+---

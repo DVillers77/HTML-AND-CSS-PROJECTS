@@ -5220,3 +5220,23 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 376: CREATING CSS EFFECTS PART 2 VIDEO
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* The student learned how to style a navigation bar and create a functional dropdown menu.
+
+### Core Course Concepts:
+* **Positioning:** Used `position: sticky;` to keep the navbar at the top of the viewport.
+* **Layout:** Implemented `display: flex;` on the `<ul>` to align navigation links horizontally.
+* **Descendant Combinator:** Used the descendant combinator (`.drop:hover .rollover-menu`) to reveal a hidden dropdown menu.
+* **Pseudo-classes:** Applied the `:hover` pseudo-class to create rollover effects with transitions and box shadows.
+* **Styling:** Applied various CSS properties to style text, remove default link decorations, and adjust margins and padding.
+
+### Relevant Files:
+* `creating-css-effects/index.html`
+* `creating-css-effects/css/style.css`
+
+---
+

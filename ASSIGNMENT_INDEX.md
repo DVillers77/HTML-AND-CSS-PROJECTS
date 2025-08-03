@@ -5131,3 +5131,20 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 371: QUIZ
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* The student successfully completed a quiz testing their understanding of CSS precedence and specificity.
+
+### Core Course Concepts:
+* **Precedence:** Demonstrated an understanding that for rules of equal specificity, the order in which they appear in the HTML document determines precedence.
+* **Specificity:** Correctly identified that a more specific selector (ID) will override a less specific one (class).
+* **Inline CSS:** Confirmed that inline CSS has the highest precedence over all other CSS placements.
+
+### Relevant Files:
+* Not applicable (conceptual step).
+
+---
+

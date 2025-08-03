@@ -4997,3 +4997,15 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Implications:** A style applied with an ID selector will override a style applied with a class selector, even if the class selector's rule is written later in the CSS file. This is a crucial concept for understanding and debugging the cascade in CSS.
 
 ---
+
+#### QUIZ - Precedence & Specificity
+
+### Course Step Number: 371
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Confirmation of Concepts:** The quiz served as a confirmation of understanding for the recently learned concepts of CSS precedence and specificity.
+* **Recall:** Successfully recalled that inline styles take highest priority, an ID selector is more specific than a class selector, and the last-parsed rule wins in cases of equal specificity.
+
+---

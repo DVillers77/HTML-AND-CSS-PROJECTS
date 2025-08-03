@@ -5028,3 +5028,15 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Alt Text:** Researched and confirmed the best practices for writing effective `alt` text, focusing on describing the image's content and function rather than its stylistic details.
 
 ---
+
+#### QUIZ - HTML Attributes
+
+### Course Step Number: 373
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Internal Navigation:** Reinforced the purpose of the `href` attribute, specifically the use of the hash symbol (`#`) to create an internal link that navigates to the top of the current page.
+* **Element Identification:** Confirmed that the `id` attribute is essential for giving an HTML element a unique name, which is necessary for creating targeted internal links, as well as for styling and scripting.
+
+---

@@ -5171,3 +5171,19 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 373: QUIZ
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* The student successfully completed a quiz testing their understanding of key HTML attributes.
+
+### Core Course Concepts:
+* **`href` Attribute:** Confirmed that `href="#"` is used to scroll a page to the top.
+* **`id` Attribute:** Verified that the `id` attribute provides a unique identifier for an element, allowing it to be targeted.
+
+### Relevant Files:
+* Not applicable (conceptual step).
+
+---
+

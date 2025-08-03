@@ -5091,3 +5091,22 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 369: CSS PRECEDENCE
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* The student learned how a browser resolves conflicting styles between internal and external CSS.
+
+### Core Course Concepts:
+* **Sequencing Precedence:** Understood that when internal and external styles have the same level of specificity, the style rule that appears later in the HTML document's `<head>` takes precedence.
+* **Conflicting Styles:** Demonstrated how a rule in an external stylesheet can override an internal style, and vice versa, depending on the order of the `<link>` and `<style>` tags.
+
+### Relevant Files:
+* Not applicable (conceptual step).
+
+### Independent Research & Best Practices:
+* Gained a deeper understanding of the importance of file and element order within an HTML document, especially when dealing with CSS.
+
+---
+

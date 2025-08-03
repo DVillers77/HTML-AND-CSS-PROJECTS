@@ -4951,3 +4951,15 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Best Practice:** The best practice is to use external stylesheets to keep HTML and CSS code separate, which improves code organization and simplifies maintenance.
 
 ---
+
+#### CSS PRECEDENCE - The importance of file order
+
+### Course Step Number: 369
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Precedence Rule:** Discovered a key rule of CSS precedence: for styles with equal specificity, the one that is parsed last by the browser is the one that is applied.
+* **Practical Application:** This means that the placement of the `<link>` tag for an external stylesheet relative to the `<style>` tag for internal CSS is critical. A change in their order can completely change the visual outcome of a webpage.
+
+---

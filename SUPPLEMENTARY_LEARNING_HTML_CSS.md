@@ -5083,3 +5083,15 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Responsive Design:** Acknowledged the need for media queries to ensure the layout is responsive on different screen sizes.
 
 ---
+
+#### QUIZ - Navbar Styling
+
+### Course Step Number: 377
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **List Styling:** The quiz reinforced the use of `list-style-type` to remove visual markers from list items, a common practice for styling navigation menus.
+* **Element Stacking:** Confirmed the function of the `z-index` property in managing the visual depth of elements on a page, ensuring important elements like a sticky navbar remain on top of other content.
+
+---

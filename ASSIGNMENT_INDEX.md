@@ -5240,3 +5240,19 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 377: QUIZ
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* The student successfully completed a quiz testing their understanding of key CSS properties used for styling a navigation bar.
+
+### Core Course Concepts:
+* **`list-style-type`:** Confirmed that `list-style-type: none;` is used to remove bullet points from list items.
+* **`z-index`:** Verified that the `z-index` property controls the stacking order of elements, which is crucial for a sticky navbar.
+
+### Relevant Files:
+* Not applicable (conceptual step).
+
+---
+

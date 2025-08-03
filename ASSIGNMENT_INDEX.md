@@ -5110,3 +5110,24 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 370: LEVEL OF SPECIFICITY
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* The student learned that CSS specificity determines which style rules are applied when there are conflicting declarations.
+* The student gained an understanding of the hierarchy of selectors from least to most specific.
+
+### Core Course Concepts:
+* **Specificity Hierarchy:** Understood the order of specificity: Type selectors < Class selectors < ID selectors < Inline styles.
+* **Precedence:** Recognized that a more specific selector will always override a less specific one, regardless of where the rule is placed in the stylesheet.
+
+### Relevant Files:
+* Not applicable (conceptual step).
+
+### Independent Research & Best Practices:
+* Gained a clearer understanding of how selectors are weighted, which is a crucial skill for debugging CSS.
+* Reviewed external resources to deepen the understanding of how specificity is calculated.
+
+---
+

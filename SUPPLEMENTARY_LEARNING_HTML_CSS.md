@@ -4963,3 +4963,37 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Practical Application:** This means that the placement of the `<link>` tag for an external stylesheet relative to the `<style>` tag for internal CSS is critical. A change in their order can completely change the visual outcome of a webpage.
 
 ---
+
+#### LEVEL OF SPECIFICITY - The selector hierarchy
+
+### Course Step Number: 370
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Specificity:** CSS specificity is the algorithm used by browsers to determine which style declaration is most relevant to an element and therefore should be applied.
+* **Hierarchy:** The order of specificity from least to most specific is:
+    * **Type selectors** (`p`, `h1`)
+    * **Class selectors** (`.my-class`)
+    * **ID selectors** (`#my-id`)
+    * **Inline styles** (`<p style="...">`)
+* **Code Snippets:**
+    ```css
+    p {
+      color: blue;
+    }
+
+    .my-class {
+      color: green;
+    }
+
+    #my-id {
+      color: red;
+    }
+    ```
+    ```html
+    <p style="color: yellow;">This text will be yellow.</p>
+    ```
+* **Implications:** A style applied with an ID selector will override a style applied with a class selector, even if the class selector's rule is written later in the CSS file. This is a crucial concept for understanding and debugging the cascade in CSS.
+
+---

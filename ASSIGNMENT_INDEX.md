@@ -5256,3 +5256,20 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 378: START SUBSECTION C - CREATING CSS EFFECTS PART 3
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* The student began a new section of the course focused on creating more advanced CSS effects.
+* The student has been introduced to the upcoming steps in this section.
+
+### Core Course Concepts:
+* **Curriculum Navigation:** Acknowledged the start of a new subsection, "CREATING CSS EFFECTS PART 3."
+* **Upcoming Topics:** Noted the topics to be covered in this subsection: `nth-child`, an instructional video, and a quiz.
+
+### Relevant Files:
+* Not applicable (conceptual step).
+
+---
+

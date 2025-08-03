@@ -5095,3 +5095,15 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Element Stacking:** Confirmed the function of the `z-index` property in managing the visual depth of elements on a page, ensuring important elements like a sticky navbar remain on top of other content.
 
 ---
+
+#### START SUBSECTION C - CREATING CSS EFFECTS PART 3
+
+### Course Step Number: 378
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **New Section:** Began a new major section of the curriculum.
+* **Topic Preview:** Gained an overview of the upcoming topics, which will focus on using advanced selectors to apply a variety of visual effects.
+
+---

@@ -5009,3 +5009,22 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Recall:** Successfully recalled that inline styles take highest priority, an ID selector is more specific than a class selector, and the last-parsed rule wins in cases of equal specificity.
 
 ---
+
+#### CREATING CSS EFFECTS PART 1 - HTML Foundation
+
+### Course Step Number: 372
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **HTML Scaffolding:** Reinforced the process of creating the basic HTML boilerplate for a new project.
+* **Semantic Tag Usage:** Gained practical experience in using semantic tags to create a logical and accessible document structure.
+* **Internal Navigation:** Understood the mechanics of linking to specific elements on the same page using `id` attributes and hash (`#`) references.
+* **File Creation:** Correctly created and linked an empty external stylesheet (`style.css`) in preparation for future lessons.
+
+### Independent Research & Best Practices:
+* **Lesson Clarity:** Noted the lack of clarity in the video lesson regarding the provision of image files and their required size.
+* **Image Creation:** Independently created and resized image files to meet the video's implicit requirements for achieving the intended visual effects.
+* **Alt Text:** Researched and confirmed the best practices for writing effective `alt` text, focusing on describing the image's content and function rather than its stylistic details.
+
+---

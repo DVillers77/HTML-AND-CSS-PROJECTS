@@ -5148,3 +5148,26 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 372: CREATING CSS EFFECTS PART 1 VIDEO
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* Built the foundational HTML structure for a multi-page website that will be used to demonstrate CSS effects.
+* Created a project folder structure, including separate folders for CSS and images.
+
+### Core Course Concepts:
+* **HTML Structure:** Created a standard HTML document with `<head>` and `<body>` tags.
+* **Semantic HTML:** Used semantic tags such as `<nav>`, `<section>`, and `<footer>` to structure the page content.
+* **Internal Linking:** Implemented internal navigation by linking `href` attributes in the navbar to `id` attributes on the images.
+* **File Management:** Practiced linking an external CSS stylesheet and referencing image files from different directories.
+
+### Relevant Files:
+* `creating-css-effects/index.html`
+* `creating-css-effects/css/style.css`
+* `creating-css-effects/images/1a.png`
+* `creating-css-effects/images/2b.png`
+* `creating-css-effects/images/3c.png`
+
+---
+

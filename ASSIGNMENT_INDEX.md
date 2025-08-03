@@ -5068,3 +5068,26 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 368: PLACEMENT OF CSS
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* Understood the three primary methods for placing CSS code: inline, internal, and external.
+* Gained a fundamental understanding of CSS precedence, and that inline styles take the highest priority.
+
+### Core Course Concepts:
+* **Inline CSS:** CSS code written directly within an element's `style` attribute.
+* **Internal CSS:** CSS code placed inside a `<style>` tag within the `<head>` of an HTML document.
+* **External CSS:** CSS code located in a separate `.css` file and linked to the HTML document.
+* **CSS Precedence:** Learned that the placement of CSS dictates its priority, with inline styles having the highest precedence.
+
+### Relevant Files:
+* Not applicable (conceptual step).
+
+### Independent Research & Best Practices:
+* Identified external stylesheets as the best practice for modern web development due to separation of concerns and ease of maintenance.
+* Gained a preliminary understanding of CSS specificity as a more nuanced concept than simple precedence.
+
+---
+

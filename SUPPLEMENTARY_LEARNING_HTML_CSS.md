@@ -4938,3 +4938,16 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Flexbox Mastery:** Gained practical experience using a combination of Flexbox properties (`display: flex`, `flex-direction`, `align-items`) and standard CSS (`margin-left`, `width: fit-content`, `margin: 0 auto`) to create a custom, centered layout.
 
 ---
+
+#### PLACEMENT OF CSS - Methods for applying styles
+
+### Course Step Number: 368
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Three Methods:** There are three distinct ways to apply CSS: inline, internal, and external.
+* **Precedence Hierarchy:** Inline styling has the highest precedence, followed by internal and then external styles. This hierarchy determines which style rule is applied in case of a conflict.
+* **Best Practice:** The best practice is to use external stylesheets to keep HTML and CSS code separate, which improves code organization and simplifies maintenance.
+
+---

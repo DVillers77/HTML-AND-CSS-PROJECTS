@@ -5052,3 +5052,16 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Topic Preview:** Gained an overview of the upcoming topics, which will focus on building upon the foundational HTML created in the previous steps to add various CSS effects.
 
 ---
+
+#### DESCENDANT COMBINATOR - Targeted CSS
+
+### Course Step Number: 375
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Syntax:** A descendant combinator is a space (` `) placed between two selectors.
+* **Function:** This combinator targets an element that is a descendant (nested anywhere inside) another specified element.
+* **Practical Use:** Provides a powerful way to apply CSS rules to specific elements within a certain context, which is essential for creating clean and organized stylesheets.
+
+---

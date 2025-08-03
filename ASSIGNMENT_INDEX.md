@@ -5204,3 +5204,19 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 375: DESCENDANT COMBINATOR
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* The student learned how to use a descendant combinator to target and style elements nested inside another element.
+
+### Core Course Concepts:
+* **Descendant Combinator:** Understood that a space between two selectors (e.g., `div p`) targets the second element only when it is a descendant of the first.
+* **Targeted Styling:** Recognized that this method allows for more specific styling without using classes or IDs.
+
+### Relevant Files:
+* Not applicable (conceptual step).
+
+---
+

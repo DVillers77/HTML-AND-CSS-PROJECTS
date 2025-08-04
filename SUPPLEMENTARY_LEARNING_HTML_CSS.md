@@ -5107,3 +5107,16 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Topic Preview:** Gained an overview of the upcoming topics, which will focus on using advanced selectors to apply a variety of visual effects.
 
 ---
+
+#### NTH CHILD - Positional Styling
+
+### Course Step Number: 379
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Syntax:** The `nth-child` pseudo-class uses the syntax `:nth-child()`, where the value in the parentheses specifies which child to select.
+* **Parent-Child Relationship:** Confirmed that `nth-child` counts elements relative to their parent, not across the entire page, which is a crucial distinction.
+* **Dynamic Styling:** Learned that this pseudo-class is a powerful tool for styling elements in a repetitive pattern, such as alternating row colors in a table.
+
+---

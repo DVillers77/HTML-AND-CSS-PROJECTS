@@ -5273,3 +5273,20 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 379: NTH CHILD
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* The student learned how to use the `nth-child` pseudo-class to precisely target and style elements based on their position within their parent element.
+
+### Core Course Concepts:
+* **`nth-child`:** Understood that this pseudo-class targets an element based on its position in a group of siblings.
+* **Child Element:** Recalled the definition of a child element as an element nested within a parent element.
+* **Targeted Styling:** Recognized that `nth-child` allows for highly specific and dynamic styling without the need for additional classes or IDs.
+
+### Relevant Files:
+* Not applicable (conceptual step).
+
+---
+

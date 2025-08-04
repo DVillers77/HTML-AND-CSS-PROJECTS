@@ -5163,3 +5163,15 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Topic Preview:** Gained an overview of the upcoming topics, which will focus on using advanced techniques to apply a variety of visual effects and culminate in a challenge and final project submission.
 
 ---
+
+#### SCREEN COORDINATES - Position on the Screen
+
+### Course Step Number: 383
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Positional Grid:** Understood that a computer screen functions as a grid, with element positions defined by a coordinate system starting at the top-left corner.
+* **Negative vs. Positive:** Clarified the distinction between an element's positive coordinate location on the screen and the use of negative values in CSS (e.g., negative margins) as a layout tool to manipulate that position.
+
+---

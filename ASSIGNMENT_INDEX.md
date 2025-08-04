@@ -5342,3 +5342,20 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 383: SCREEN COORDINATES (COMPUTER GRAPHICS)
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* The student learned the fundamental concept of screen coordinates in computer graphics.
+
+### Core Course Concepts:
+* **Coordinates:** Understood that coordinates are a set of numbers (pixels) that indicate an element's position on a computer screen.
+* **Axes:** Recognized that screen coordinates are defined by the x-axis (left-to-right) and y-axis (top-to-bottom).
+* **Origin:** Confirmed that the top-left corner of the screen is the origin point for coordinates at `(0, 0)`.
+
+### Relevant Files:
+* Not applicable (conceptual step).
+
+---
+

@@ -5309,3 +5309,19 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 381: QUIZ
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* The student successfully completed a quiz testing their understanding of CSS properties used for layout and precise element selection.
+
+### Core Course Concepts:
+* **Negative Margins:** Confirmed the use of negative margins to extend a block element's background to the edges of the viewport.
+* **`nth-child`:** Verified that the `nth-child` pseudo-class is used to target an element based on its position within a parent element.
+
+### Relevant Files:
+* Not applicable (conceptual step).
+
+---
+

@@ -5139,3 +5139,15 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Transition Functions:** Explored the difference between `ease` and `ease-in` transition timing functions, understanding how they affect the visual outcome of an animation.
 
 ---
+
+#### QUIZ - Layout & Selectors
+
+### Course Step Number: 381
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Layout Techniques:** Reinforced the use of negative margins as a specific technique for creating full-width backgrounds, a practical application of margin properties.
+* **Advanced Selectors:** Confirmed the function of the `nth-child` pseudo-class, solidifying its role as a powerful tool for dynamic and targeted styling.
+
+---

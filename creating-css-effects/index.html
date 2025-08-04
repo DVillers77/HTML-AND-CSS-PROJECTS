@@ -17,12 +17,17 @@
     <title>Creating effects with CSS</title>
   </head>
   <body>
+    <!--========================================================================
+                                    NAVBAR
+    =========================================================================-->
     <nav class="nav-bar">
       <ul>
         <li>
           <a href="#">Home</a>
         </li>
         <li class="drop">
+          < !--HOVEROVER TIRGGERS "DROP/REVEAL"EFFECT OF ELEMENTS IN DIV TAGS
+          BELOW-->
           <a href="#">Images</a>
           <div class="rollover-menu">
             <a href="#image1"> image 1</a>
@@ -32,11 +37,16 @@
         </li>
       </ul>
     </nav>
+    <!--========================================================================
+                                    IMAGES
+    =========================================================================-->
     <section>
+      < !--IMAGE ONE-->
       <div class="image-container" id="image1">
         <img src="images/1a.png" alt="large blue sans-serif capitol A" />
         <div class="overlay"></div>
       </div>
+      < !--IMAGE TWO-->
       <div class="image-container" id="image2">
         <img
           src="images/2b.png"
@@ -44,12 +54,16 @@
           class="zoom"
         />
       </div>
+      < !--IMAGE THREE-->
       <div class="image-container" id="image3">
         <div class="circle">
           <img src="images/3c.png" alt="large blue sans-serif capitol C" />
         </div>
       </div>
     </section>
+    <!--========================================================================
+                                    FOOTER
+    =========================================================================-->
     <footer>
       <div class="footer-text">
         <p>The Tech Academy &copy;</p>

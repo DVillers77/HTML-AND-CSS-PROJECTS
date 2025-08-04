@@ -5151,3 +5151,15 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Advanced Selectors:** Confirmed the function of the `nth-child` pseudo-class, solidifying its role as a powerful tool for dynamic and targeted styling.
 
 ---
+
+#### START SUBSECTION D - CREATING CSS EFFECTS PART 4
+
+### Course Step Number: 382
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **New Section:** Began a new major section of the curriculum.
+* **Topic Preview:** Gained an overview of the upcoming topics, which will focus on using advanced techniques to apply a variety of visual effects and culminate in a challenge and final project submission.
+
+---

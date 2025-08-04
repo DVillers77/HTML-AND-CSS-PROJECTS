@@ -6442,3 +6442,23 @@ Considered the security implications of authorizing extensions and the importanc
 - `creating-css-effects/css/style.css`
 
 ---
+
+#### Step 385: QUIZ
+
+### Date Completed: 2025-08-04
+
+### Objective:
+
+- The student successfully completed a quiz testing their understanding of CSS `transform` and `scale` properties.
+
+### Core Course Concepts:
+
+- **`transform: scale`:** Confirmed the function of the `scale()` property to resize an element.
+- **`scale(1)`:** Verified that `scale(1)` sets an element to its original, default size.
+- **`:hover` Pseudo-class:** Confirmed the use of the `:hover` pseudo-class to trigger a visual effect when the user's mouse is over an element.
+
+### Relevant Files:
+
+- Not applicable (conceptual step).
+
+---

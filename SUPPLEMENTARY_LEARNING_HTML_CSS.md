@@ -5872,3 +5872,16 @@ The code created during this series is a strong foundation, and our discussions 
 - **Accessibility:** Acknowledging the need for accessibility considerations (e.g., for dropdowns) in future projects.
 
 ---
+
+#### QUIZ - CSS Transforms
+
+### Course Step Number: 385
+
+### Date Researched: 2025-08-04
+
+### Key Learnings:
+
+- **Transform Property:** Reinforced the understanding of the `transform` property as a powerful tool for manipulating the visual appearance of an element.
+- **Scaling:** Solidified the use of the `scale()` function as a simple yet effective way to create interactive effects like zooming.
+
+---

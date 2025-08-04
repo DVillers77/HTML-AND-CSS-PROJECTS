@@ -5120,3 +5120,22 @@ Overall, you've done a fantastic job completing this step. The code is clean and
 * **Dynamic Styling:** Learned that this pseudo-class is a powerful tool for styling elements in a repetitive pattern, such as alternating row colors in a table.
 
 ---
+
+#### CREATING CSS EFFECTS PART 3 - Final Styling
+
+### Course Step Number: 380
+### Date Researched: 2025-08-02
+
+### Key Learnings:
+
+* **Targeted Hover Effects:** Gained a practical understanding of how to combine a class selector with a pseudo-class and `nth-child` to apply unique hover effects to individual child elements.
+* **Layout and Spacing:** Reinforced the use of Flexbox for horizontal alignment and learned to use padding and ID selectors to correct spacing inconsistencies.
+* **Image Overlays:** Implemented a dynamic image overlay using `position: absolute;` and `opacity` with a `transition` for a smooth fade-in and fade-out effect.
+
+### Independent Research & Best Practices:
+* **Code Robustness and Modernization:** Identified key areas for improvement, including the use of CSS variables to replace hard-coded values, which greatly improves maintainability.
+* **Code Structure:** Discussed how to refactor redundant code into reusable classes to adhere to the DRY (Don't Repeat Yourself) principle.
+* **Semantic Code:** Noted how CSS methodologies like BEM and the use of relative units could make the code more scalable and robust.
+* **Transition Functions:** Explored the difference between `ease` and `ease-in` transition timing functions, understanding how they affect the visual outcome of an animation.
+
+---

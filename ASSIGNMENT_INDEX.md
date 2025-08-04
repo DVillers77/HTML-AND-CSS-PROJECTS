@@ -5290,3 +5290,22 @@ Considered the security implications of authorizing extensions and the importanc
 
 ---
 
+#### Step 380: CREATING CSS EFFECTS PART 3 VIDEO
+
+### Date Completed: 2025-08-02
+
+### Objective:
+* The student learned how to finish styling a dropdown menu, style a footer, and create a basic image hover effect.
+
+### Core Course Concepts:
+* **Dropdown Menu:** Completed the dropdown menu by styling text and using `nth-child` to apply unique hover effects to each link.
+* **Footer Styling:** Created a footer with styling that mirrors the navbar for visual consistency.
+* **Image Layout:** Used Flexbox to center images and applied padding to control spacing.
+* **Image Hover Effect:** Implemented a fading transparent overlay using `opacity`, `transition`, and a hover pseudo-class.
+
+### Relevant Files:
+* `creating-css-effects/index.html`
+* `creating-css-effects/css/style.css`
+
+---
+

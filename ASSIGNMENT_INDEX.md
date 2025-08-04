@@ -6462,3 +6462,26 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable (conceptual step).
 
 ---
+
+#### Step 386: CSS EFFECTS CHALLENGE
+
+### Date Completed: 2025-08-04
+
+### Objective:
+
+- The student successfully completed the challenge to enhance typography and customize image hover effects.
+- Custom web fonts were imported and applied to the project.
+- The image hover effects were modified using CSS transformations.
+
+### Core Course Concepts:
+
+- **Google Fonts:** Learned to import and link to custom fonts from Google Fonts using the `<link>` tag in the HTML `<head>`.
+- **`font-family`:** Applied the new custom font to the `body` element in CSS to enhance the site's typography.
+- **CSS Transformations:** Customized the image hover effects, including changing the `background-color` of the overlay effect and adding a `rotate` transformation to the zoom effect.
+
+### Relevant Files:
+
+- `creating-css-effects/index.html`
+- `creating-css-effects/css/style.css`
+
+---

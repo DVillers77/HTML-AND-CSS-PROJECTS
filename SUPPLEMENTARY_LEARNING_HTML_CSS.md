@@ -5885,3 +5885,21 @@ The code created during this series is a strong foundation, and our discussions 
 - **Scaling:** Solidified the use of the `scale()` function as a simple yet effective way to create interactive effects like zooming.
 
 ---
+
+#### CSS EFFECTS CHALLENGE - Custom Fonts & Transformations
+
+### Course Step Number: 386
+
+### Date Researched: 2025-08-04
+
+### Key Learnings:
+
+- **Web Fonts:** Gained practical experience in using `<link>` tags to import custom fonts, which are a key component of modern web design.
+- **Applying Fonts with CSS:** Confirmed how to apply the imported fonts using the `font-family` property.
+- **Transformations on `:hover`:** Solidified the ability to combine multiple transformations (like `scale` and `rotate`) to create more dynamic and engaging hover effects.
+
+### Final Commentary:
+
+This challenge provided an opportunity to apply knowledge from previous lessons in a creative and independent manner. The successful implementation of custom fonts and the customization of hover effects demonstrate a strong understanding of foundational CSS principles.
+
+---

@@ -5903,3 +5903,16 @@ The code created during this series is a strong foundation, and our discussions 
 This challenge provided an opportunity to apply knowledge from previous lessons in a creative and independent manner. The successful implementation of custom fonts and the customization of hover effects demonstrate a strong understanding of foundational CSS principles.
 
 ---
+
+#### GITHUB SUBMISSION ASSIGNMENT - Final Push
+
+### Course Step Number: 387
+
+### Date Researched: 2025-08-04
+
+### Key Learnings:
+
+- **Finalizing a Project:** Solidified the process of completing a project by pushing all final code to a remote repository.
+- **Collaboration & Sharing:** Understood the importance of a well-organized and publicly accessible GitHub repository for sharing work with others, including potential employers.
+
+---

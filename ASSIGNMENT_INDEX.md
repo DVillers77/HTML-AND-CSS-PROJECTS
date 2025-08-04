@@ -6485,3 +6485,27 @@ Considered the security implications of authorizing extensions and the importanc
 - `creating-css-effects/css/style.css`
 
 ---
+
+#### Step 387: CSS EFFECTS GITHUB SUBMISSION ASSIGNMENT
+
+### Date Completed: 2025-08-04
+
+### Objective:
+
+- The student successfully pushed the completed "Creating-CSS-Effects" project to their online GitHub repository.
+- The student confirmed the correct URL for the project folder on GitHub.
+
+### Core Course Concepts:
+
+- **`git push`:** Demonstrated the final step in the version control workflow, pushing local changes to an online repository.
+- **GitHub Repository Structure:** Verified the file path for a specific project folder within a larger repository.
+
+### Relevant Files:
+
+- Not applicable (conceptual step).
+
+### Submission URL:
+
+[https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/tree/main/creating-css-effects](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/tree/main/creating-css-effects)
+
+---

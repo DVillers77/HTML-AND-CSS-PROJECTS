@@ -6509,3 +6509,21 @@ Considered the security implications of authorizing extensions and the importanc
 [https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/tree/main/creating-css-effects](https://github.com/DVillers77/HTML-AND-CSS-PROJECTS/tree/main/creating-css-effects)
 
 ---
+
+#### Step 388: SECTION 9: CREATING AN HTML AND CSS WEBSITE
+
+### Date Completed: 2025-08-04
+
+### Objective:
+
+- The student is beginning a new section on "CREATING AN HTML AND CSS WEBSITE." This is a conceptual step with no content to document.
+
+### Core Course Concepts:
+
+- Not applicable.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

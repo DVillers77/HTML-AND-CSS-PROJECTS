@@ -6964,3 +6964,29 @@ Considered the security implications of authorizing extensions and the importanc
 - `style.css`
 
 ---
+
+#### Step 410: QUIZ
+
+### Date Completed: 2025-08-05
+
+### Objective:
+
+- The student successfully completed a quiz on the `text-decoration` and `display` CSS properties.
+
+### Core Course Concepts:
+
+- **`text-decoration` Property:** The `text-decoration: underline;` property adds a line below the text of an element.
+- **`display: inline-block` Property:** This property allows an element to have a defined `width` and `height` while still flowing with other content like an inline element.
+
+### Quiz Questions and Answers:
+
+- **Question 1:** What does the `text-decoration: underline;` property do to a header element?
+- **Answer 1:** It adds a line below the text.
+- **Question 2:** How does `display: inline-block;` affect an element's layout?
+- **Answer 2:** It allows the element to have width and height while flowing with text.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

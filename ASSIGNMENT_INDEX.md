@@ -6819,3 +6819,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 403: TRANSFORM-ORIGIN
+
+### Date Completed: 2025-08-05
+
+### Objective:
+
+- The student learned about the `transform-origin` CSS property and its use in altering the position of an image's transformation.
+
+### Core Course Concepts:
+
+- **`transform-origin` Property:** This property is used to change the origin point of a transformation on an element.
+- **Functionality:** It can be used to control how an image is turned or scaled (zoomed in or out).
+
+### Relevant Files:
+
+- Not applicable.
+
+---

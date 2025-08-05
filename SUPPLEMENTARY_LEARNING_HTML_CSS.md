@@ -6121,3 +6121,17 @@ This challenge provided an opportunity to apply knowledge from previous lessons 
 - The start of a new subsection. The student has been provided with a list of the upcoming topics to be covered in this section of the course.
 
 ---
+
+#### TRANSFORM-ORIGIN
+
+### Course Step Number: 403
+
+### Date Researched: 2025-08-05
+
+### Key Learnings:
+
+- **The `transform-origin` property** defines the pivot point for any CSS `transform` applied to an element.
+- By default, the transformation pivot is at the center of the element (`50% 50%`).
+- Changing the `transform-origin` allows for custom rotation or scaling effects from a different point, such as a corner or an edge.
+
+---

@@ -6941,3 +6941,26 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 409: CREATING AN HTML AND CSS WEBSITE PART 5 VIDEO
+
+### Date Completed: 2025-08-05
+
+### Objective:
+
+- The student added styling to the header and paragraph text and began formatting the images to create a two-column layout. The student also learned about the `display: inline-block` property and the `nth-child` pseudo-class.
+
+### Core Course Concepts:
+
+- **`display` Property:** Used `display: inline-block` on the `.container` class to create a new formatting context that allows elements to flow inline but still have block-level properties like `width` and `padding`.
+- **Google Fonts:** Imported a new font, "Sacramento," and applied it to the `h1` element, while using the previously imported "Josefin Slab" for other headers and paragraphs.
+- **Text Styling:** Applied styling to all headers (`h1`, `h2`, `h3`, `h4`) and paragraphs, including properties like `font-family`, `font-size`, `text-align`, `text-decoration`, and `text-transform`.
+- **Image and Layout:** Created a `.column` class with `float: left` to position content side-by-side.
+- **`nth-child` Pseudo-class:** Used the `nth-child(-n + 7)` pseudo-class to specifically target and style the first seven image elements within the columns, giving them a specific `width`, `height`, and `box-shadow`.
+
+### Relevant Files:
+
+- `index.html`
+- `style.css`
+
+---

@@ -6650,3 +6650,26 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 395: CREATING AN HTML AND CSS WEBSITE PART 2 VIDEO
+
+### Date Completed: 2025-08-04
+
+### Objective:
+
+- The student completed the "Simple Recipes" website by adding the remaining recipe cards and a contact form. The student also implemented internal page navigation by linking the navbar to the corresponding sections on the page.
+
+### Core Course Concepts:
+
+- **HTML Structure:** Expanded the website by adding seven recipe cards and a new `section` for a contact form.
+- **HTML Elements:** Used various HTML elements to build the recipe cards and the form, including `h3`, `h4`, `p`, `img`, `input`, `form`, and `textarea`.
+- **Internal Page Navigation:** Created internal links using `href` attributes in the navbar's anchor tags that correspond to `id` attributes on the recipe card `div` tags. This allows for smooth navigation within the single-page site.
+- **HTML Attributes:** Utilized `id` attributes to uniquely identify sections and form elements, and `type` and `placeholder` attributes for form inputs.
+- **Accessibility:** The `label` tag was correctly linked to a checkbox using the `for` and `id` attributes.
+
+### Relevant Files:
+
+- `index.html`
+- `style.css`
+
+---

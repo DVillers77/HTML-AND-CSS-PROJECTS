@@ -6004,3 +6004,28 @@ This challenge provided an opportunity to apply knowledge from previous lessons 
 - **Ampersand (`&`):** The ampersand symbol is used in CSS, particularly in preprocessors like Sass or Less, as a selector for a parent element. It allows you to nest rules, making the CSS more organized and readable. In a nested context, the ampersand refers to the selector of the parent rule.
 
 ---
+
+#### CREATING AN HTML AND CSS WEBSITE PART 2 VIDEO
+
+### Course Step Number: 395
+
+### Date Researched: 2025-08-04
+
+### Key Learnings:
+
+- **Copy-and-Paste Best Practices:** Learned how to efficiently build out a webpage by copying and pasting existing code blocks, and then making the necessary modifications to avoid errors.
+- **IDs and `href` for In-Page Navigation:** Understood the fundamental concept of using the `id` attribute on an element and linking to it with the `href` attribute of an anchor tag for creating internal links on a single page.
+- **Form Input Types:** Explored the use of different HTML input types, such as `text`, `email`, `tel`, `checkbox`, and `submit`, to create a more functional and user-friendly form.
+
+### Best Practices & Recommendations:
+
+- **Meaningful `alt` Text:** The `alt` attributes on images should be more descriptive for better accessibility and SEO. For example, instead of `alt="image of skillet-pizza"`, use a descriptive phrase like `alt="A golden-crusted deep dish skillet pizza topped with melted cheese and fresh basil."`.
+- **Semantic HTML:** For the recipe cards, a more semantic approach would be to use `<article>` tags instead of `<div>`s, as each recipe is a self-contained piece of content.
+- **Form Accessibility:** Provide a `name` attribute for the subscription checkbox (`name="newsletter-subscription"`) to ensure the data is properly sent to the server.
+- **CSS for Styling:** Use generic tags like `<span>` or `<p>` with a CSS class for non-hierarchical text like "Prep Time," instead of using `h4` tags.
+
+### Notes on Modernization:
+
+- **Form Labels:** For even greater simplicity and accessibility, you can wrap the `<input>` element inside its `<label>` tag.
+
+---

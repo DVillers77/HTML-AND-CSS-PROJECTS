@@ -6752,3 +6752,26 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 400: QUIZ
+
+### Date Completed: 2025-08-05
+
+### Objective:
+
+- The student successfully completed a quiz on the `z-index` property in CSS.
+
+### Core Course Concepts:
+
+- **CSS `z-index`:** The `z-index` property specifies the stack order of a positioned element and its children. An element with a higher `z-index` is placed higher on the "stack" and will be displayed in front of elements with a lower `z-index`.
+
+### Quiz Questions and Answers:
+
+- **Question:** Using the `z-index` property on an image, which number would place the image on top (i.e., highest on the “stack”)?
+- **Answer:** `4`
+
+### Relevant Files:
+
+- Not applicable.
+
+---

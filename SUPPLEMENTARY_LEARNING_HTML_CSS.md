@@ -6080,3 +6080,16 @@ This challenge provided an opportunity to apply knowledge from previous lessons 
 - **Modern CSS Standards:** In modern web development, it is a best practice to use standard CSS properties (e.g., `text-align`, `word-spacing`) instead of vendor-prefixed ones for greater compatibility and maintainability.
 
 ---
+
+#### QUIZ
+
+### Course Step Number: 400
+
+### Date Researched: 2025-08-05
+
+### Key Learnings:
+
+- **Stacking Context:** The `z-index` property only works on elements that have a `position` property other than `static` (e.g., `relative`, `absolute`, `fixed`, or `sticky`).
+- **Higher Value, Higher on Stack:** A higher `z-index` value places an element in front of other elements with a lower value.
+
+---

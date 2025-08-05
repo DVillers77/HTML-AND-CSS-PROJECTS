@@ -6876,3 +6876,27 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 406: CREATING AN HTML AND CSS WEBSITE PART 4 VIDEO
+
+### Date Completed: 2025-08-05
+
+### Objective:
+
+- The student created a CSS-based dropdown menu for the navbar, styled the footer, and implemented smooth scrolling for anchor links.
+
+### Core Course Concepts:
+
+- **Dropdown Menu:** Implemented a dropdown menu using a combination of HTML structure and CSS `display` properties.
+- **CSS Positioning:** Used `position: absolute` for the dropdown menu to position it relative to its parent element.
+- **Pseudo-classes:** Utilized the `:only-of-type` and `:hover` pseudo-classes to control the visibility and styling of the dropdown menu and its parent link.
+- **CSS Layout:** Applied `display: block` to anchor elements to override the `display: flex` property of the `<ul>` and make the dropdown links vertical.
+- **Smooth Scrolling:** Added `scroll-behavior: smooth` to the `html` element for a smooth scrolling effect when navigating to anchor links.
+- **Footer Styling:** Styled the footer to match the navbar's appearance, including `background-color`, `border-top`, and margins.
+
+### Relevant Files:
+
+- `index.html`
+- `style.css`
+
+---

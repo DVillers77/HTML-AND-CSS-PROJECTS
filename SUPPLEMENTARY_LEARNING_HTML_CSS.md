@@ -5992,3 +5992,15 @@ This challenge provided an opportunity to apply knowledge from previous lessons 
 - The start of a new subsection, with no new content to document.
 
 ---
+
+#### AMPERSAND
+
+### Course Step Number: 394
+
+### Date Researched: 2025-08-04
+
+### Key Learnings:
+
+- **Ampersand (`&`):** The ampersand symbol is used in CSS, particularly in preprocessors like Sass or Less, as a selector for a parent element. It allows you to nest rules, making the CSS more organized and readable. In a nested context, the ampersand refers to the selector of the parent rule.
+
+---

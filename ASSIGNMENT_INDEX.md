@@ -6631,3 +6631,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 394: AMPERSAND
+
+### Date Completed: 2025-08-04
+
+### Objective:
+
+- The student learned about the ampersand symbol and its application in CSS syntax.
+
+### Core Course Concepts:
+
+- **Terminology:** The `&` symbol is called an ampersand.
+- **CSS Syntax:** Ampersands are included as part of some CSS syntax.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

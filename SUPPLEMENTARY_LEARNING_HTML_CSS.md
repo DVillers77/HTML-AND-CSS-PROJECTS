@@ -6109,3 +6109,15 @@ This challenge provided an opportunity to apply knowledge from previous lessons 
 - **Font Imports:** Explored how to import and use custom fonts from external sources like Google Fonts.
 
 ---
+
+#### SUBSECTION D: CREATING AN HTML AND CSS WEBSITE PART 4
+
+### Course Step Number: 402
+
+### Date Researched: 2025-08-05
+
+### Key Learnings:
+
+- The start of a new subsection. The student has been provided with a list of the upcoming topics to be covered in this section of the course.
+
+---

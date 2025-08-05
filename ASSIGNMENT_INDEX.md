@@ -6801,3 +6801,21 @@ Considered the security implications of authorizing extensions and the importanc
 - `style.css`
 
 ---
+
+#### Step 402: SUBSECTION D: CREATING AN HTML AND CSS WEBSITE PART 4
+
+### Date Completed: 2025-08-05
+
+### Objective:
+
+- The student is beginning a new subsection on "CREATING AN HTML AND CSS WEBSITE PART 4." This step outlines the upcoming topics to be covered in this subsection: `transform-origin`, `sibling element`, `only-of-type`, a video on creating the website's fourth part, and a quiz.
+
+### Core Course Concepts:
+
+- **Upcoming Topics:** The student is preparing to learn about advanced CSS properties and concepts, including `transform-origin`, sibling selectors, and pseudo-classes like `only-of-type`. This will be followed by a video and a quiz to test their knowledge.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

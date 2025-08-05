@@ -6185,3 +6185,15 @@ This summary consolidates the key principles from the "CREATING AN HTML AND CSS 
 - **Separation of Concerns:** The lesson reinforced the principle of separating HTML for structure from CSS for styling and interactive effects like hover and transitions. This clear division of responsibilities is a cornerstone of clean, maintainable web development.
 
 ---
+
+#### QUIZ
+
+### Course Step Number: 407
+
+### Date Researched: 2025-08-05
+
+### Key Learnings:
+
+- **`border-radius`:** A fundamental CSS property for visual design that allows developers to create rounded corners on any element with a border. It can be applied to all four corners at once or to individual corners.
+
+---

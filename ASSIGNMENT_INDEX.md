@@ -6900,3 +6900,26 @@ Considered the security implications of authorizing extensions and the importanc
 - `style.css`
 
 ---
+
+#### Step 407: QUIZ
+
+### Date Completed: 2025-08-05
+
+### Objective:
+
+- The student successfully completed a quiz on the `border-radius` CSS property.
+
+### Core Course Concepts:
+
+- **`border-radius` Property:** This CSS property is used to create rounded corners on an element. The value specifies the radius of the curve.
+
+### Quiz Questions and Answers:
+
+- **Question:** What does the `border-radius` property do?
+- **Answer:** Creates rounded corners
+
+### Relevant Files:
+
+- Not applicable.
+
+---

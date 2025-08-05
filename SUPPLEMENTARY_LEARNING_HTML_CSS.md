@@ -6148,3 +6148,16 @@ This challenge provided an opportunity to apply knowledge from previous lessons 
 - **CSS Selectors:** An understanding of sibling relationships is essential for using advanced CSS selectors like the adjacent sibling (`+`) and general sibling (`~`) selectors.
 
 ---
+
+#### ONLY-OF-TYPE
+
+### Course Step Number: 405
+
+### Date Researched: 2025-08-05
+
+### Key Learnings:
+
+- **Structural Pseudo-classes:** The `only-of-type` selector is part of a family of advanced CSS selectors that target elements based on their position within a parent.
+- **Code Maintenance:** Using pseudo-classes like `only-of-type` can lead to cleaner HTML, as it reduces the need for extra classes or IDs for styling purposes.
+
+---

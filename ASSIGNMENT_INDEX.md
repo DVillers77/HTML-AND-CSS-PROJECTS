@@ -6857,3 +6857,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 405: ONLY-OF-TYPE
+
+### Date Completed: 2025-08-05
+
+### Objective:
+
+- The student learned about the `only-of-type` CSS pseudo-class, which is used to select an element that is the only one of its type among its siblings.
+
+### Core Course Concepts:
+
+- **`only-of-type` Pseudo-class:** A CSS selector that targets an element with no sibling elements of the same type.
+- **Application:** This is a useful tool for applying unique styling to elements that are the sole child of a specific type within a parent element.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

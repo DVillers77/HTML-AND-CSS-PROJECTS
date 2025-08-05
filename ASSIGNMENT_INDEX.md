@@ -6838,3 +6838,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 404: SIBLING ELEMENT
+
+### Date Completed: 2025-08-05
+
+### Objective:
+
+- The student learned the definition of sibling elements in HTML and how they relate to a common parent element.
+
+### Core Course Concepts:
+
+- **Sibling Elements:** These are elements of the same type that share the same parent element.
+- **Parent-Child Relationship:** A parent element can have multiple child elements, which are then considered siblings to each other.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

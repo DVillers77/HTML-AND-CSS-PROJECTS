@@ -6135,3 +6135,16 @@ This challenge provided an opportunity to apply knowledge from previous lessons 
 - Changing the `transform-origin` allows for custom rotation or scaling effects from a different point, such as a corner or an edge.
 
 ---
+
+#### SIBLING ELEMENT
+
+### Course Step Number: 404
+
+### Date Researched: 2025-08-05
+
+### Key Learnings:
+
+- **Defining Siblings:** Sibling elements are at the same level in the HTML document tree, under the same parent element.
+- **CSS Selectors:** An understanding of sibling relationships is essential for using advanced CSS selectors like the adjacent sibling (`+`) and general sibling (`~`) selectors.
+
+---

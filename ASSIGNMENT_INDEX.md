@@ -6673,3 +6673,26 @@ Considered the security implications of authorizing extensions and the importanc
 - `style.css`
 
 ---
+
+#### Step 396: QUIZ
+
+### Date Completed: 2025-08-04
+
+### Objective:
+
+- The student successfully completed a quiz on CSS layout properties.
+
+### Core Course Concepts:
+
+- **CSS Flexbox:** The `flex-box` layout is a powerful CSS tool that allows for more responsive web design. It gives HTML elements the ability to arrange and re-size themselves based on the dimensions of the screen or window. This is a fundamental concept for modern, responsive web development.
+
+### Quiz Questions and Answers:
+
+- **Question:** True or false?: The CSS flex-box layout allows for more responsive web design; it gives HTML elements the capability to rearrange themselves based on the size of the screen or window.
+- **Answer:** True
+
+### Relevant Files:
+
+- Not applicable.
+
+---

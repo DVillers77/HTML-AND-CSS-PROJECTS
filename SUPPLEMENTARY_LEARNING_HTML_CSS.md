@@ -6029,3 +6029,15 @@ This challenge provided an opportunity to apply knowledge from previous lessons 
 - **Form Labels:** For even greater simplicity and accessibility, you can wrap the `<input>` element inside its `<label>` tag.
 
 ---
+
+#### QUIZ
+
+### Course Step Number: 396
+
+### Date Researched: 2025-08-04
+
+### Key Learnings:
+
+- **Flexbox (`display: flex`):** A CSS layout model that provides a more efficient way to arrange, align, and distribute space among items in a container, even when their size is unknown or dynamic. Flexbox is essential for creating responsive and adaptive layouts without using floats or positioning.
+
+---

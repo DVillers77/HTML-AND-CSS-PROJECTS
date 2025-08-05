@@ -6197,3 +6197,15 @@ This summary consolidates the key principles from the "CREATING AN HTML AND CSS 
 - **`border-radius`:** A fundamental CSS property for visual design that allows developers to create rounded corners on any element with a border. It can be applied to all four corners at once or to individual corners.
 
 ---
+
+#### SUBSECTION E: CREATING AN HTML AND CSS WEBSITE PART 5
+
+### Course Step Number: 408
+
+### Date Researched: 2025-08-05
+
+### Key Learnings:
+
+- The start of a new subsection. The student has been provided with a list of the upcoming topics to be covered in this section of the course.
+
+---

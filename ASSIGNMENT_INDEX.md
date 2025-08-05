@@ -6714,3 +6714,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 398: WEBKIT
+
+### Date Completed: 2025-08-05
+
+### Objective:
+
+- The student learned about the `Webkit` browser engine, its function, and its use by companies like Apple.
+
+### Core Course Concepts:
+
+- **Browser Engine:** The primary function of a browser engine is to transform HTML documents and other resources of a web page into an interactive visual representation on a user's device.
+- **Webkit:** A browser engine used by many companies, including Apple.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

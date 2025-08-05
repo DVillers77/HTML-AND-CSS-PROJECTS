@@ -6053,3 +6053,17 @@ This challenge provided an opportunity to apply knowledge from previous lessons 
 - The start of a new subsection. The student has been provided with a list of the upcoming topics to be covered in this section of the course.
 
 ---
+
+#### WEBKIT
+
+### Course Step Number: 398
+
+### Date Researched: 2025-08-05
+
+### Key Learnings:
+
+- **Browser Engines:** These are the underlying technologies that render HTML, CSS, and other web resources into a viewable webpage.
+- **Webkit:** An open-source browser engine used by Apple for Safari and its other products, which has also served as the basis for other modern browser engines.
+- **Vendor Prefixes:** A practice of adding a prefix to a CSS property (e.g., `-webkit-`) to ensure a new or experimental feature works in a specific browser engine.
+
+---

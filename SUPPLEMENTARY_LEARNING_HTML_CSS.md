@@ -5940,3 +5940,16 @@ This challenge provided an opportunity to apply knowledge from previous lessons 
 - The start of a new subsection, with no new content to document.
 
 ---
+
+#### PREPARING FOR THE NEXT VIDEO
+
+### Course Step Number: 390
+
+### Date Researched: 2025-08-04
+
+### Key Learnings:
+
+- **Prerequisites for Projects:** Understood the importance of preparing all necessary assets, such as text and image files, before starting a new coding video or project.
+- **GitHub as a Resource:** Used a GitHub repository as a source for project files, a common practice in web development. Understood that entire folders cannot always be downloaded, sometimes requiring the download of individual files within a folder.
+
+---

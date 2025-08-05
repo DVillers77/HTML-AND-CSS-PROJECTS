@@ -6545,3 +6545,23 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 390: PREPARING FOR THE NEXT VIDEO
+
+### Date Completed: 2025-08-04
+
+### Objective:
+
+- The student downloaded the `recipes.txt` file and the individual image files from the provided GitHub URLs in preparation for the next video.
+
+### Core Course Concepts:
+
+- **Resource Acquisition:** Demonstrated the ability to locate and download external resources (text files and image assets) required for a project.
+- **File Management:** Organized downloaded files into the local project structure.
+
+### Relevant Files:
+
+- `recipes.txt` from [https://github.com/laceymorganw/Simple-Recipes/blob/main/recipes-text.TXT](https://github.com/laceymorganw/Simple-Recipes/blob/main/recipes-text.TXT)
+- `images` (individual files) from [https://github.com/laceymorganw/Simple-Recipes/tree/main/images](https://github.com/laceymorganw/Simple-Recipes/tree/main/images)
+
+---

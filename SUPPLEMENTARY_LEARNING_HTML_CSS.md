@@ -6093,3 +6093,19 @@ This challenge provided an opportunity to apply knowledge from previous lessons 
 - **Higher Value, Higher on Stack:** A higher `z-index` value places an element in front of other elements with a lower value.
 
 ---
+
+#### CREATING AN HTML AND CSS WEBSITE PART 3 VIDEO
+
+### Course Step Number: 401
+
+### Date Researched: 2025-08-05
+
+### Key Learnings:
+
+- **Sticky Positioning:** Understood how to use `position: sticky` to keep an element visible at the top of the viewport during scrolling.
+- **Flexbox for Layout:** Utilized Flexbox to create a flexible, horizontal layout for the navbar links.
+- **CSS Hover Effects:** Learned to use the `:hover` pseudo-class and the `transition` property to add interactive visual feedback to links.
+- **HTML Entities:** Understood the use of HTML entities for special characters like the copyright symbol.
+- **Font Imports:** Explored how to import and use custom fonts from external sources like Google Fonts.
+
+---

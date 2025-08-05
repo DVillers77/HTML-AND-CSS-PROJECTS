@@ -6775,3 +6775,29 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 401: CREATING AN HTML AND CSS WEBSITE PART 3 VIDEO
+
+### Date Completed: 2025-08-05
+
+### Objective:
+
+- The student added a footer to the `index.html` file and began applying CSS styling to the navbar. The styling included making the navbar sticky, using Flexbox for a horizontal layout, importing a font from Google Fonts, and creating hover effects on the links.
+
+### Core Course Concepts:
+
+- **HTML Elements:** Implemented the `<footer>` and `<table>` elements for the footer.
+- **HTML Entities:** Used the `&copy;` HTML entity to display the copyright symbol.
+- **CSS `position` Property:** Used `position: sticky` and `top: 0` to create a sticky navigation bar.
+- **CSS `z-index`:** Applied a `z-index` to the navbar to ensure it appears on top of other content.
+- **CSS Flexbox:** Utilized `display: flex` on the `<ul>` to align the list items horizontally.
+- **Google Fonts:** Imported a custom font using the `@import` rule from Google Fonts.
+- **Pseudo-classes and Transitions:** Created hover effects with the `:hover` pseudo-class and used the `transition` property for a smooth animation effect.
+- **Overflow:** Set `overflow-x: hidden` to prevent a horizontal scrollbar caused by negative margins.
+
+### Relevant Files:
+
+- `index.html`
+- `style.css`
+
+---

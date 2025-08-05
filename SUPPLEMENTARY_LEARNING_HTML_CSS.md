@@ -5928,3 +5928,15 @@ This challenge provided an opportunity to apply knowledge from previous lessons 
 - The start of a new project section, with no new content to document.
 
 ---
+
+#### SUBSECTION A: CREATING AN HTML AND CSS WEBSITE PART 1
+
+### Course Step Number: 389
+
+### Date Researched: 2025-08-04
+
+### Key Learnings:
+
+- The start of a new subsection, with no new content to document.
+
+---

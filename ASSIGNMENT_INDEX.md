@@ -6565,3 +6565,28 @@ Considered the security implications of authorizing extensions and the importanc
 - `images` (individual files) from [https://github.com/laceymorganw/Simple-Recipes/tree/main/images](https://github.com/laceymorganw/Simple-Recipes/tree/main/images)
 
 ---
+
+#### Step 391: CREATING AN HTML AND CSS WEBSITE PART 1 VIDEO
+
+### Date Completed: 2025-08-04
+
+### Objective:
+
+- The student followed along with the instructor to create the foundational HTML and CSS files for a new one-page website project. The student also structured the HTML with a navbar, a header, and the beginnings of a recipe section.
+
+### Core Course Concepts:
+
+- **HTML Structure:** Learned to create a complete HTML document from the `<!DOCTYPE html>` declaration to the `body` and `head` tags.
+- **File and Directory Management:** Created a new project folder, a `css` folder, and the `index.html` and `style.css` files within VS Code.
+- **HTML Elements:** Implemented key HTML tags including `nav`, `ul`, `li`, `a`, `div`, `header`, `h1`, `h2`, `h3`, `h4`, `p`, `img`, and `input`.
+- **CSS Linking:** Linked the `style.css` file to the `index.html` file using the `link` tag within the `head` section.
+- **HTML Attributes:** Utilized various attributes, such as `src`, `alt`, `href`, `id`, `class`, `type`, `value`, `rel`, and `charset`.
+- **Code Comments:** Used HTML comments to organize and label different sections of the code, such as the `NAVBAR`, `HEADER`, and `RECIPES`.
+- **File Inclusion:** Included pre-downloaded files, such as the `recipes.txt` file and `images`, into the project directory.
+
+### Relevant Files:
+
+- `index.html`
+- `style.css`
+
+---

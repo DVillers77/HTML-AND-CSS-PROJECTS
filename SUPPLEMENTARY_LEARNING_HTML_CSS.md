@@ -5953,3 +5953,18 @@ This challenge provided an opportunity to apply knowledge from previous lessons 
 - **GitHub as a Resource:** Used a GitHub repository as a source for project files, a common practice in web development. Understood that entire folders cannot always be downloaded, sometimes requiring the download of individual files within a folder.
 
 ---
+
+#### CREATING AN HTML AND CSS WEBSITE PART 1 VIDEO
+
+### Course Step Number: 391
+
+### Date Researched: 2025-08-04
+
+### Key Learnings:
+
+- **Project Initialization:** The video demonstrated the proper workflow for starting a new web project, including creating a dedicated folder and the necessary `index.html` and `style.css` files.
+- **Semantic HTML:** Learned how to use semantic HTML elements like `<nav>` and `<header>` to give meaning to the structure of a webpage.
+- **HTML Best Practices:** Reinforced the importance of using comments to outline sections of code and explain functionality, making the code more readable and maintainable for oneself and other developers.
+- **Basic Page Layout:** Implemented the fundamental building blocks of a webpage, including a navigation bar, a main header, and content sections with text, images, and buttons.
+
+---

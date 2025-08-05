@@ -6067,3 +6067,16 @@ This challenge provided an opportunity to apply knowledge from previous lessons 
 - **Vendor Prefixes:** A practice of adding a prefix to a CSS property (e.g., `-webkit-`) to ensure a new or experimental feature works in a specific browser engine.
 
 ---
+
+#### MS-TEXT
+
+### Course Step Number: 399
+
+### Date Researched: 2025-08-05
+
+### Key Learnings:
+
+- **Vendor Prefixes:** Learned that browser vendors, such as Microsoft, sometimes create proprietary CSS properties for specific features or to support early-stage specifications.
+- **Modern CSS Standards:** In modern web development, it is a best practice to use standard CSS properties (e.g., `text-align`, `word-spacing`) instead of vendor-prefixed ones for greater compatibility and maintainability.
+
+---

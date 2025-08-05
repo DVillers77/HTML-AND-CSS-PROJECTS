@@ -6733,3 +6733,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 399: MS-TEXT
+
+### Date Completed: 2025-08-05
+
+### Objective:
+
+- The student learned that `Ms-text` is a CSS property from Microsoft used to specify spacing and adjustment of text.
+
+### Core Course Concepts:
+
+- **CSS Properties:** `Ms-text` is a property for text spacing and adjustment.
+- **Microsoft:** This property is specifically from Microsoft.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

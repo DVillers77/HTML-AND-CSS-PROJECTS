@@ -6696,3 +6696,21 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 397: SUBSECTION C: CREATING AN HTML AND CSS WEBSITE PART 3
+
+### Date Completed: 2025-08-04
+
+### Objective:
+
+- The student is beginning a new subsection on "CREATING AN HTML AND CSS WEBSITE PART 3." This step outlines the upcoming topics to be covered in this subsection: WebKit, MS-TEXT, a quiz, and a video on creating the website's third part.
+
+### Core Course Concepts:
+
+- **Upcoming Topics:** The student is preparing to learn about browser-specific CSS prefixes (`-webkit-`, `-ms-`), and a quiz, followed by the next video in the website creation series.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

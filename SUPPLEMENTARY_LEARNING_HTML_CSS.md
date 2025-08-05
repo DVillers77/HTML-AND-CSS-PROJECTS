@@ -6041,3 +6041,15 @@ This challenge provided an opportunity to apply knowledge from previous lessons 
 - **Flexbox (`display: flex`):** A CSS layout model that provides a more efficient way to arrange, align, and distribute space among items in a container, even when their size is unknown or dynamic. Flexbox is essential for creating responsive and adaptive layouts without using floats or positioning.
 
 ---
+
+#### SUBSECTION C: CREATING AN HTML AND CSS WEBSITE PART 3
+
+### Course Step Number: 397
+
+### Date Researched: 2025-08-04
+
+### Key Learnings:
+
+- The start of a new subsection. The student has been provided with a list of the upcoming topics to be covered in this section of the course.
+
+---

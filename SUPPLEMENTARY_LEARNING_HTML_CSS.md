@@ -5980,3 +5980,15 @@ This challenge provided an opportunity to apply knowledge from previous lessons 
 - The `<div>` tag is a foundational HTML element used for creating divisions or sections in a document, serving as a generic container for grouping other elements. This is a common practice for applying CSS styling to a block of content.
 
 ---
+
+#### SUBSECTION B: CREATING AN HTML AND CSS WEBSITE PART 2
+
+### Course Step Number: 393
+
+### Date Researched: 2025-08-04
+
+### Key Learnings:
+
+- The start of a new subsection, with no new content to document.
+
+---

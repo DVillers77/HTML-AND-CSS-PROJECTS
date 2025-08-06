@@ -7072,3 +7072,26 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 415: CREATING AN HTML AND CSS WEBSITE PART 7 VIDEO
+
+### Date Completed: 2025-08-05
+
+### Objective:
+
+- The student adjusted the background colors of the recipe cards for smaller screen sizes, styled the featured recipe card with a custom font and justified text, and created responsive styling adjustments for various screen widths. The student also learned how to style a button with a custom hover effect.
+
+### Core Course Concepts:
+
+- **Media Queries and IDs:** Used `@media` queries in combination with ID selectors (`#pork`, `#biscuits`) to apply specific styles, like changing the background color of a card, for smaller screen sizes (e.g., `max-width: 1200px`).
+- **Selector Specificity:** Learned that ID selectors have a higher level of specificity than class or element selectors, allowing the `#featured-header` ID to override the general `h3` styling.
+- **Text Alignment:** Applied `text-align: justify` to the paragraph text to create a straight edge on both the left and right margins.
+- **Negative Margins:** Used negative `margin-top` to fine-tune the position of the featured image within its container to center it correctly on a mobile screen.
+- **Button Styling:** Styled a form button by setting its `display` to `block` and using `margin: auto` to center it. Also learned to use `border-radius` and `border: none` to create a custom button without a default border.
+
+### Relevant Files:
+
+- `index.html`
+- `style.css`
+
+---

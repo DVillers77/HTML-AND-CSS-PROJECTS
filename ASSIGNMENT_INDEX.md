@@ -7031,3 +7031,26 @@ Considered the security implications of authorizing extensions and the importanc
 - `style.css`
 
 ---
+
+#### Step 413: QUIZ
+
+### Date Completed: 2025-08-05
+
+### Objective:
+
+- The student successfully completed a quiz on the `box-shadow` CSS property.
+
+### Core Course Concepts:
+
+- **`box-shadow` Property:** This CSS property is used to add a shadow effect outside an element's frame.
+
+### Quiz Questions and Answers:
+
+- **Question:** What is the function of the `box-shadow` property in CSS?
+- **Answer:** It adds a shadow outside the element.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

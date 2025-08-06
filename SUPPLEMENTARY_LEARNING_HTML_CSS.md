@@ -6276,3 +6276,17 @@ This summary consolidates the key principles from the "CREATING AN HTML AND CSS 
 - **Separation of Concerns:** The lesson continues to reinforce the principle of keeping HTML focused on structure and content while delegating all presentation and layout to CSS, including complex logic for responsive design within `@media` queries.
 
 ---
+
+#### QUIZ
+
+### Course Step Number: 413
+
+### Date Researched: 2025-08-05
+
+### Robust Summary of Best Practices and Modernization
+
+This summary consolidates the key principles from the quiz, focusing on modern web development practices that lead to cleaner, more efficient, and more accessible code.
+
+- **`box-shadow` Property:** The `box-shadow` property is a powerful and performant CSS feature for adding depth and visual hierarchy to a design. By using multiple comma-separated shadows, as demonstrated in a previous lesson, you can create complex effects with a single property, which is a modern and efficient practice. It is a native CSS solution that is more performant than using images for shadow effects.
+
+---

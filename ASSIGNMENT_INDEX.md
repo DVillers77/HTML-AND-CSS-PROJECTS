@@ -7095,3 +7095,29 @@ Considered the security implications of authorizing extensions and the importanc
 - `style.css`
 
 ---
+
+#### Step 416: QUIZ
+
+### Date Completed: 2025-08-05
+
+### Objective:
+
+- The student successfully completed a quiz covering the `text-transform` and `margin-top` CSS properties.
+
+### Core Course Concepts:
+
+- **`text-transform` Property:** This property is used to capitalize all letters in the text within a selector.
+- **`margin-top` Property:** Using a negative value for `margin-top` moves an element upwards on the page.
+
+### Quiz Questions and Answers:
+
+- **Question 1:** What does `text-transform: uppercase;` do to the text in a CSS selector?
+- **Answer 1:** It capitalizes all letters in the text.
+- **Question 2:** What does `margin-top: -20px;` do to an element in CSS?
+- **Answer 2:** It moves the element 20px upwards.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

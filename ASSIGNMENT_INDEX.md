@@ -7008,3 +7008,26 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 412: CREATING AN HTML AND CSS WEBSITE PART 6 VIDEO
+
+### Date Completed: 2025-08-05
+
+### Objective:
+
+- The student continued styling the website's recipe images, learned how to use `margin: auto` for centering, and implemented responsive design using `@media` queries for different screen sizes.
+
+### Core Course Concepts:
+
+- **`margin` Property:** Used `margin: 100px auto 180px` to horizontally center the `.recipe-container` elements within their parent `div`.
+- **Media Queries:** Introduced the `@media` rule to apply specific CSS styles based on screen size, using `max-width` to target smaller screens.
+- **Responsive Layout:** Created two media queries: one for screens 1200px or smaller to switch to a single-column layout, and one for screens 600px or smaller to adjust image sizes for mobile devices.
+- **Multiple Classes:** Applied multiple class selectors to a single element in the `index.html` file (e.g., `class="column recipe-card-background"`) to combine different styles.
+- **Background Colors:** Added a `.recipe-card-background` class to apply a tiled background color effect behind specific images.
+
+### Relevant Files:
+
+- `index.html`
+- `style.css`
+
+---

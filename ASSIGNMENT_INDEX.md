@@ -7139,3 +7139,30 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 418: CREATING AN HTML AND CSS WEBSITE PART 8 VIDEO
+
+### Date Completed: 2025-08-07
+
+### Objective:
+
+- The student created a CSS image flip effect for all of the recipe cards on the webpage. This involved adding new CSS properties for 3D transformations and backface visibility, as well as updating the HTML structure to enable the effect.
+
+### Core Course Concepts:
+
+- **CSS Image Flip:** Created a flip effect using CSS by applying the `transform` property with `rotateY(-180deg)` on hover.
+- **3D Transformations:** Used `transform-style: preserve-3d` to treat elements as 3D objects, allowing the image and text to be separated during the flip.
+- **Backface Visibility:** Used `backface-visibility: hidden` on the `.flip-front` class to hide the reversed image, ensuring a clean transition to the recipe text.
+- **HTML Structure:** Wrapped the recipe images and text in a new `div` with the `.flip` class in the `index.html` file to apply the CSS effect correctly.
+
+### Relevant Files:
+
+- `index.html`
+- `css/style.css`
+
+##### Expanded Learning: Insights from Chat Discussion
+
+- **Revised Workflow for "Expanded Learning":** We have refined the workflow to place all "Expanded Learning" content—which includes "Best Practices," "Modernization," and "Enhanced Learning"—into the `SUPPLEMENTARY_LEARNING_HTML_CSS.md` file under the new `### Robust Summary of Best Practices and Modernization` heading. This change helps keep the `ASSIGNMENT_INDEX.md` focused on core assignment requirements while consolidating all advanced learning into a single, comprehensive log.
+- **Commit Message and Formatting:** For all future log entries, I will provide a dedicated commit message formatted in a `Plaintext` code block to simplify the commit process. We will continue to use the established Markdown formatting for all log entries and file paths.
+
+---

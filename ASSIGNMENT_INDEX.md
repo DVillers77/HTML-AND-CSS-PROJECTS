@@ -7304,3 +7304,27 @@ Considered the security implications of authorizing extensions and the importanc
 - `css/style.css`
 
 ---
+
+#### Step 425: QUIZ
+
+### Date Completed: 2025-08-08
+
+### Objective:
+
+- The student successfully completed a quiz on the `outline` CSS property.
+
+### Core Course Concepts:
+
+- **`outline` property:** This CSS property is used to draw an outline around an element, outside of its border. It is often used by browsers to indicate that an element is focused.
+- **`outline: none;`:** This property removes the default outline that browsers add to elements when they are in a focused state (e.g., when clicked or tabbed to).
+
+### Quiz Questions and Answers:
+
+- **Question 1:** What does the `outline: none;` property do in CSS?
+- **Answer 1:** It removes the default outline from focused elements.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

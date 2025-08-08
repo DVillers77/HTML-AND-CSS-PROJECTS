@@ -7280,3 +7280,27 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 424: CREATING AN HTML AND CSS WEBSITE PART 10 VIDEO
+
+### Date Completed: 2025-08-08
+
+### Objective:
+
+- The student completed the styling of the contact form for the Simple Recipes website. This involved styling input fields, a text area, a checkbox, and the submit button, as well as adding focus effects and transitions.
+
+### Core Course Concepts:
+
+- **Form Centering:** Used `display: block` and `margin: auto` on the `#contact` ID, and `display: table` on the `form` selector to center the form on the page.
+- **Form Element Styling:** Used attribute and type selectors (`form input`, `label`, `textarea`) to style the form elements with custom fonts, colors, and borders.
+- **Focus Pseudo-class:** Used the `:focus` pseudo-class to add a visual feedback effect, changing the border and text color when a user clicks on an input field or text area.
+- **Transitions:** Applied the `transition` property to the form elements to create a smooth fade effect for the border and text color changes.
+- **`box-sizing: border-box;`:** Used this property on the text area to ensure the padding and border are included in the element's width, preventing overflow issues.
+- **Responsive Design:** Used a media query to remove `padding-top` from the text container for small screens.
+
+### Relevant Files:
+
+- `index.html`
+- `css/style.css`
+
+---

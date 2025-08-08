@@ -7213,3 +7213,25 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 421: CREATING AN HTML AND CSS WEBSITE PART 9 VIDEO
+
+### Date Completed: 2025-08-07
+
+### Objective:
+
+- The student completed the styling for the recipe card flip effect and the recipe buttons. This involved styling the back of the card, adding 3D perspective to the container, and creating a responsive button style with a hover effect.
+
+### Core Course Concepts:
+
+- **Back-of-Card Styling:** Created the `.flip-back` class to style the back of the card, including a background color and a `transform: rotateY(180deg)` to correctly orient the text.
+- **Combined Selectors:** Used a combined selector (`.flip-front, .flip-back`) to apply shared properties to both sides of the flip card.
+- **3D Perspective:** Added the `perspective: 1000px` property to the `.recipe-container` to create a 3D effect for the flip animation.
+- **Responsive Button Styling:** Used an attribute selector `input[type="button"]` to style the buttons and added a media query to remove `padding-top` for small screens, ensuring the button is properly positioned.
+
+### Relevant Files:
+
+- `index.html`
+- `css/style.css`
+
+---

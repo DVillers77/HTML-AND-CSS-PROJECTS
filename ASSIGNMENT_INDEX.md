@@ -7350,3 +7350,31 @@ Considered the security implications of authorizing extensions and the importanc
 - `css/style.css`
 
 ---
+
+#### Step 427: HTML AND CSS WEBSITE SUBMISSION ASSIGNMENT
+
+### Date Completed: 2025-08-08
+
+### Objective:
+
+- The student successfully pushed the completed "Simple-Recipes" website project to their GitHub repository. The project was then submitted to the instructor for review.
+
+### Core Course Concepts:
+
+- **Git Workflow:** Used Git commands to commit local changes and push them to a remote GitHub repository.
+- **Project Submission:** Completed the final step of the project by submitting the repository URL for review.
+- **Project Requirements:** Ensured the project met the minimum requirements of a complete "Simple Recipes" website with the additional "About" section.
+
+### Relevant Files:
+
+- `index.html`
+- `css/style.css`
+- `images/baked-cod.jpeg`
+- `images/cheddar-biscuits.jpeg`
+- `images/chicken-thighs.jpeg`
+- `images/pork-katsu.jpeg`
+- `images/skillet-pizza.jpeg`
+- `images/smores.jpeg`
+- `images/tortelloni.jpeg`
+
+---

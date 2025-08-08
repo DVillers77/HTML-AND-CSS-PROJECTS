@@ -357,3 +357,7 @@ This video series provided a comprehensive guide to building a web page from scr
 #### 69. ABOUT PAGE CHALLENGE
 
 This challenge involved adding a new "About" section to the "Simple Recipes" website. The task required creating a new `<section>` element with an `id`, adding corresponding text content, and integrating a new navigation link in the header. The student also had to style the new section to match the site's design and ensure smooth scrolling to the new content. This challenge reinforced best practices for HTML structure, CSS styling, and site navigation.
+
+#### 70. HTML AND CSS WEBSITE SUBMISSION ASSIGNMENT
+
+This final assignment involved pushing the completed "Simple-Recipes" website project to a GitHub repository. The project included the full website as developed in the tutorial series, along with a new "About" section created as part of an earlier challenge. The project was submitted to the instructor for review, completing the course module.

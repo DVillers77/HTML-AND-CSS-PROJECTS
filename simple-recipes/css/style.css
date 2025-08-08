@@ -1,0 +1,468 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Slab:ital,wght@0,100..700;1,100..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
+
+/* This rule ensures that horizontal scrollbars are hidden and smooth-scrolling is enabled. */
+html {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+/*--======================================================================
+                                NAVBAR
+========================================================================*/
+
+/* This class makes the navigation bar sticky at the top of the page. */
+.nav-bar {
+  position: sticky;
+  top: 0;
+  z-index: 9;
+}
+
+/* This styles the main list of the navigation bar. */
+ul {
+  display: flex; /* Arranges the list items in a row. */
+  list-style: none; /* Removes the default bullet points. */
+  align-items: center; /* Vertically centers the list items. */
+  /* Negative margins are used to make the navbar span the full width of the browser. */
+  margin: -8px -8px 0px -8px;
+  background-color: rgb(1, 128, 106);
+  border-bottom: 5px solid rgb(247, 177, 188);
+}
+
+/* This styles the navigation links. */
+a {
+  display: block; /* Makes the links fill their parent <li>, creating a larger clickable area. */
+  font-family: "Josefin Slab", serif; /*Font from fonts.google.com*/
+  font-size: 25px;
+  font-weight: 800;
+  color: rgb(247, 177, 188);
+  text-align: center;
+  width: 100px;
+  padding: 20px;
+  text-decoration: none; /* Removes the default underline from links. */
+  transition: background-color 0.3s ease-in; /* Adds a smooth transition for the hover effect. */
+}
+
+/* This is a combined selector for the hover effects on the main navigation links. */
+a:hover,
+.drop:hover a:only-of-type {
+  background-color: rgb(149, 238, 223);
+  color: white;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.7); /* Adds a shadow for a pop-out effect. */
+  transition: background-color 0.3s ease-in;
+}
+
+/* This hides the rollover (dropdown) menu by default. */
+.rollover-menu {
+  display: none;
+  position: absolute;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.2);
+}
+
+/* This displays the rollover menu when the parent list item is hovered over. */
+.drop:hover .rollover-menu {
+  display: block;
+}
+
+/* Styles for the links inside the rollover menu. */
+.rollover-menu a {
+  color: rgb(0, 80, 67);
+}
+
+.rollover-menu a:hover {
+  color: white;
+  box-shadow: 0px 8px 16px 0px rgba(90, 90, 90, 0.2);
+}
+
+.rollover-menu a:nth-child(1) {
+  border-top: 5px solid rgb(238, 118, 136);
+}
+
+/*--======================================================================
+                              FOOTER
+========================================================================*/
+
+/* This styles the footer section. */
+footer {
+  align-items: center;
+  margin: 0px -8px -8px -8px;
+  background-color: rgb(1, 128, 106);
+  border-top: 5px solid rgb(247, 177, 188);
+  bottom: 0;
+}
+
+/* This makes the footer table span the full width. */
+table {
+  width: 100%;
+}
+
+/* This gives each table cell an equal width. */
+td {
+  width: 33%;
+}
+
+/* This styles the paragraph text inside the footer. */
+td p {
+  font-family: "Josefin Slab", serif; /*Font from fonts.google.com*/
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  color: rgb(247, 177, 188);
+}
+
+/*--======================================================================
+                              BODY
+========================================================================*/
+
+/* This creates a formatting context that allows elements to flow inline while having block-level properties. */
+.container {
+  display: inline-block;
+  background-size: 100%;
+  padding-top: 60px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+/*--======================================================================
+                              HEADER
+========================================================================*/
+
+/* Styles for the main header (h1). */
+h1 {
+  font-family: "Sacramento", cursive; /*Font from fonts.google.com*/
+  font-size: 80px;
+  color: rgb(0, 80, 67);
+  text-align: center;
+}
+
+/* General styles for headers h2, h3, and h4. */
+h2,
+h3,
+h4 {
+  font-family: "Josefin Slab", serif; /*Font from fonts.google.com*/
+  text-align: center;
+}
+
+/* Specific styles for h2. */
+h2 {
+  color: rgb(0, 80, 67);
+  font-size: 60px;
+  text-decoration: underline; /* Adds an underline. */
+  text-decoration-color: rgb(
+    247,
+    177,
+    188
+  ); /* Sets the color of the underline. */
+}
+
+/* Specific styles for h3. */
+h3 {
+  font-size: 30px;
+}
+
+/* Specific styles for h4. */
+h4 {
+  font-size: 15px;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+/*--======================================================================
+                            PARAGRAPHS
+========================================================================*/
+
+/* General styles for all paragraph elements. */
+p {
+  font-family: "Josefin Slab", serif; /*Font from fonts.google.com*/
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(0, 80, 67);
+  text-align: center;
+}
+
+/*--======================================================================
+                              IMAGES
+========================================================================*/
+
+/* This class creates a two-column layout using floats. */
+.column {
+  float: left;
+  width: 48%;
+  padding: 10px;
+}
+
+/* Media query to adjust the column layout for screens smaller than 1200px. */
+@media screen and (max-width: 1200px) {
+  .column {
+    width: 100%; /* Makes columns full width to stack them. */
+    padding: 0px;
+    margin-left: -15px; /* Adjusts margin to center the content. */
+  }
+}
+
+/* This styles the first 7 images within the .column class. */
+.column img:nth-child(-n + 7) {
+  width: 500px;
+  height: 350px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* This is the container for the images and their descriptions. */
+.recipe-container {
+  width: 500px;
+  height: 350px;
+  /* Shorthand for margin: top (100px), left/right (auto), bottom (180px). Auto centers the element horizontally. */
+  margin: 100px auto 180px;
+  perspective: 1000px; /*Tells the browser how much 3 dimenstional space to take up on the screen*/
+}
+
+/* Media query to adjust image and container sizes for mobile screens. */
+@media screen and (max-width: 600px) {
+  .column img:nth-child(-n + 7) {
+    width: 350px;
+    height: 225px;
+  }
+  .recipe-container {
+    width: 350px;
+    height: 225px;
+  }
+}
+
+/* This class adds a background color to the recipe card. */
+.recipe-card-background {
+  background-color: rgb(149, 238, 223);
+}
+
+/* Alternates the blue tile background on smaller screen sizes. */
+@media screen and (max-width: 1200px) {
+  /* This changes the pork recipe card to have a white background. */
+  #pork {
+    background-color: rgb(255, 255, 255);
+  }
+  /* This changes the biscuit recipe card to have a blue background. */
+  #biscuits {
+    background-color: rgb(149, 238, 223);
+  }
+}
+
+/*--======================================================================
+                            FEATURED RECIPE
+========================================================================*/
+
+/* Styles the H3 tag of the featured recipe to override previous styles using an ID selector. */
+#featured-header {
+  font-family: "Sacramento", cursive; /*Font from fonts.google.com*/
+  font-size: 60px;
+  color: rgb(0, 80, 67);
+}
+
+/* Styles the main paragraph text of the featured recipe. */
+#featured-main-text {
+  text-align: justify; /* Aligns text to both the left and right margins. */
+  padding-top: 20px;
+  margin-left: 40px;
+}
+
+/* Sets margin left to 0 because it is not needed on a small screen and centers the text */
+@media screen and (max-width: 1200px) {
+  #featured-main-text {
+    margin-left: 0;
+  }
+}
+
+/* Specifically styles the img tag nested within the #featured div in the Featured Recipe section. */
+@media screen and (min-width: 1600px) {
+  #featured img {
+    width: 700px;
+    height: auto; /* Automatically calculates the image height based on the width. */
+    margin-left: -100px;
+    margin-top: -20px; /* Negative margins are used to override the .recipe-container margins and center the image. */
+  }
+}
+
+/* Adjusts the position of the featured image to be centered in its div when the width of the browser is 1599px or less. */
+@media screen and (max-width: 1599px) {
+  #featured img {
+    margin-left: 0px;
+    margin-top: 40px;
+  }
+}
+
+/* Media query for mobile devices. */
+@media screen and (max-width: 600px) {
+  /* Adjusts the height of the background for mobile. */
+  #featured .recipe-card-background {
+    height: 300px;
+  }
+  /* Moves the image up to center it in the new background height. */
+  #featured img {
+    margin-top: -65px;
+  }
+}
+
+/* This is the ID selector for the featured recipe's button. */
+#featured-button {
+  display: block; /* Positions the recipe button on its own line from the other elements. */
+  margin: 60px auto 0px;
+  background-color: rgb(1, 128, 106);
+  border-radius: 35px;
+  border: none; /* Removes the default border set by the browser. */
+  font-family: "Josefin Slab", serif; /*Font from fonts.google.com*/
+  font-size: 30px;
+  font-weight: bold;
+  padding: 15px 25px; /* Shorthand: top/bottom (15px), left/right (25px). */
+  color: white;
+  cursor: pointer;
+}
+
+/* Specifically styles the hover effect of the recipe button. */
+#featured-button:hover {
+  background-color: rgb(247, 177, 188);
+}
+
+/*IMAGE FLIP*/
+
+/*Positions the flip effect, defines transition time, ans defines a 3D effect*/
+.flip {
+  position: relative;
+  width: 100%;
+  height: 100%; /*Setting the width and height to 100% will allow the effect to take up 100% of the available space*/
+  text-align: center;
+  transition: 0.5s ease-in-out; /*The ease-in-out defines a slow start and end of the transition*/
+  transform-style: preserve-3d; /*Treats elements as 3D objects instead of flat 2D objects*/
+}
+
+.flip:hover {
+  transform: rotateY(
+    -180deg
+  ); /* transform property is used to
+give an element a 2D or 3D transformation. Rotate Y means the element will rotate horizontally on the Y-axis. Deg is short for degrees. A full circle is 360° 180° means that the element will rotate 180° counterclockwise*/
+}
+
+.flip-front,
+.flip-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+.flip-back {
+  background-color: rgb(149, 238, 223);
+  border: 2px solid white;
+  transform: rotateY(
+    180deg
+  ); /*Adds 180 deg back from the previously subtracted -180 deg it moved to previously so the text can be read properly*/
+}
+
+.text-container {
+  padding-top: 70px;
+}
+
+@media screen and (max-width: 600px) {
+  .text-container {
+    padding-top: 0px;
+  }
+}
+/*RECIPE BUTTON*/
+
+input[type="button"] {
+  background-color: #fff;
+  border: none;
+  border-radius: 20px;
+  font-family: "Josefin Slab" serif; /*Font from fonts.google.com*/
+  font-weight: bold;
+  font-size: 22px;
+  padding: 11px 17px;
+  color: rgb(1, 128, 106);
+  cursor: pointer;
+}
+
+input[type="button"]:hover {
+  background-color: rgb(247, 177, 188);
+  color: white;
+}
+
+/*--======================================================================
+                          CONTACT FORM
+========================================================================*/
+
+/*Sets of the conent within the div tag containg the ID contact to be centered on the webpage*/
+
+#contact {
+  display: block;
+  margin-bottom: 70px;
+}
+
+form {
+  display: table; /*This will display the form in a table format as rows and columns*/
+  padding: 15px;
+  margin-left: auto;
+  margin-right: auto; /*The browser will automatically calculate margins to center the form on the screen*/
+}
+
+/*This will specifically target the input tags that are nested within the form tags*/
+form input {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 15px;
+  color: rgb(165, 165, 165);
+  border: 2px solid rgb(165, 165, 165);
+  border-radius: 5px;
+  padding: 3px;
+  margin: 10px 15px 10px 0px;
+  transition: 0.3s ease-out; /*Transitions back to light gray when a user clicks away from an input field*/
+}
+
+form input:focus {
+  border: 2px solid rgb(1, 128, 106);
+  color: black;
+  outline: none; /*Removes default border added when the focus pseudo class is triggered*/
+  transition: 0.3s ease-out;
+}
+
+label {
+  font-family: "Josefin Slab", serif; /*Fon from fonts.google.com*/
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+textarea {
+  width: 100%;
+  height: 200px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  resize: both; /*Will allow the user to resize the text area both width and height*/
+  border: 3px solid rgb(165, 165, 165);
+  border-radius: 5px;
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(165, 165, 165);
+  font-size: 15px;
+  transition: 0.3s ease-out; /*Will transition back to light gray*/
+}
+
+textarea:focus {
+  border: 2px solid rgb(1, 128, 106);
+  color: black;
+  outline: none; /*Removes default border added when the focus pseudo class is triggered*/
+  transition: 0.3s ease-out;
+}
+
+input[type="submit"] {
+  background-color: rgb(1, 128, 106);
+  color: #fff;
+  border: none;
+  border-radius: 35px;
+  font-family: "Josefin Slab", serif; /*Fon from fonts.google.com*/
+  font-size: 20px;
+  font-weight: bold;
+  padding: 15px 25px;
+  margin-top: 20px;
+  cursor: pointer;
+  float: right; /*Positions the submit button to the bottom right of the form*/
+}
+
+input[type="submit"]:hover {
+  background-color: rgb(247, 177, 188);
+}

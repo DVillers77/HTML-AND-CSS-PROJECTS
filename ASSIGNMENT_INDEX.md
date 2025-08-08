@@ -7367,15 +7367,15 @@ Considered the security implications of authorizing extensions and the importanc
 
 ### Relevant Files:
 
-- `index.html`
-- `css/style.css`
-- `images/baked-cod.jpeg`
-- `images/cheddar-biscuits.jpeg`
-- `images/chicken-thighs.jpeg`
-- `images/pork-katsu.jpeg`
-- `images/skillet-pizza.jpeg`
-- `images/smores.jpeg`
-- `images/tortelloni.jpeg`
+- [index.html](simple-recipes/index.html)
+- [css/style.css](simple-recipes/css/style.css)
+- [images/baked-cod.jpeg](simple-recipes/images/baked-cod.jpeg)
+- [images/cheddar-biscuits.jpeg](simple-recipes/images/cheddar-biscuits.jpeg)
+- [images/chicken-thighs.jpeg](simple-recipes/images/chicken-thighs.jpeg)
+- [images/pork-katsu.jpeg](simple-recipes/images/pork-katsu.jpeg)
+- [images/skillet-pizza.jpeg](simple-recipes/images/skillet-pizza.jpeg)
+- [images/smores.jpeg](simple-recipes/images/smores.jpeg)
+- [images/tortelloni.jpeg](simple-recipes/images/tortelloni.jpeg)
 
 ---
 

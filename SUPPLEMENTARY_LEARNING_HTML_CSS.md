@@ -6443,3 +6443,15 @@ This summary consolidates the key principles from the "CREATING AN HTML AND CSS 
 - **Refining the Hover Effect:** We could explore how to improve the transition of the button's hover effect. While the lesson uses a simple color change, we could add a `transition` property to the button's base style to make the color change smooth instead of instantaneous, which is a common best practice for user experience.
 
 ---
+
+#### QUIZ
+
+### Course Step Number: 422
+
+### Date Researched: 2025-08-07
+
+### Robust Summary of Best Practices and Modernization
+
+This quiz reinforced key concepts related to CSS styling and 3D effects. The `perspective` property is a crucial part of modern CSS for creating immersive 3D experiences, while the `border` property is a fundamental and widely used tool for adding visual structure to elements. The combination of these properties, and the understanding of their correct application, are essential for modern web development.
+
+---

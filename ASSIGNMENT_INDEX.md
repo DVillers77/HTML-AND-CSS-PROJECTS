@@ -7235,3 +7235,29 @@ Considered the security implications of authorizing extensions and the importanc
 - `css/style.css`
 
 ---
+
+#### Step 422: QUIZ
+
+### Date Completed: 2025-08-07
+
+### Objective:
+
+- The student successfully completed a quiz on the `perspective` and `border` CSS properties.
+
+### Core Course Concepts:
+
+- **`perspective` property:** This property is used to set the depth and 3D effect for elements in the scene.
+- **`border` property:** This property is used to add a border to an element, with customizable thickness, style, and color.
+
+### Quiz Questions and Answers:
+
+- **Question 1:** What does the `perspective` property do in CSS?
+- **Answer 1:** It sets the depth and 3D effect for elements in the scene.
+- **Question 2:** How does `border: 2px solid white;` affect an element?
+- **Answer 2:** It adds a white border with a thickness of 2px.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

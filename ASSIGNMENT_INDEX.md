@@ -7328,3 +7328,25 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 426: ABOUT PAGE CHALLENGE
+
+### Date Completed: 2025-08-08
+
+### Objective:
+
+- The student successfully completed the "About Page Challenge" by adding a new "About" section to the Simple Recipes website. This involved creating a new section in the HTML, adding a corresponding navigation link, and styling the new content in CSS.
+
+### Core Course Concepts:
+
+- **HTML Structure:** Created a new `<section>` with the `id="about"` and added content including an `<h2>` heading.
+- **Navigation Links:** Added a new `<li>` element with an `<a>` tag in the navbar, linking to `#about`.
+- **CSS Styling:** Reused the `.container` class and added `padding-right` to it, ensuring the new section's styling matched the rest of the site.
+- **Smooth Scrolling:** Confirmed that the `scroll-behavior: smooth` property correctly applied the smooth scrolling effect to the new "About" link.
+
+### Relevant Files:
+
+- `index.html`
+- `css/style.css`
+
+---

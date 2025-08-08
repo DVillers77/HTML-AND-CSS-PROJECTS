@@ -353,3 +353,7 @@ This challenge involved a number of tasks to enhance the "Creating CSS Effects" 
 #### 68. CREATING CSS EFFECTS VIDEO SERIES SUMMARY
 
 This video series provided a comprehensive guide to building a web page from scratch and applying advanced CSS effects. The project began with foundational HTML structure and progressed to styling with CSS. Throughout the series, students learned how to create a full-page layout using Flexbox, implement smooth visual changes with `transition` and `transform` properties, and add complex animations using `@keyframes` and pseudo-elements. The series culminated with the implementation of custom web fonts and a final submission of the completed project to a GitHub repository.
+
+#### 69. ABOUT PAGE CHALLENGE
+
+This challenge involved adding a new "About" section to the "Simple Recipes" website. The task required creating a new `<section>` element with an `id`, adding corresponding text content, and integrating a new navigation link in the header. The student also had to style the new section to match the site's design and ensure smooth scrolling to the new content. This challenge reinforced best practices for HTML structure, CSS styling, and site navigation.

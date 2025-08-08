@@ -360,4 +360,4 @@ This challenge involved adding a new "About" section to the "Simple Recipes" web
 
 #### 70. HTML AND CSS WEBSITE SUBMISSION ASSIGNMENT
 
-This final assignment involved pushing the completed "Simple-Recipes" website project to a GitHub repository. The project included the full website as developed in the tutorial series, along with a new "About" section created as part of an earlier challenge. The project was submitted to the instructor for review, completing the course module.
+This final assignment marks the completion of the "Simple Recipes" project, a multi-part video series that guided the creation of a responsive one-page website using HTML and CSS. The project covered fundamental concepts, including HTML structure, modern CSS layouts, and the implementation of interactive features like a drop-down navigation menu and a 3D image flip effect. The final submission included the website with a newly created "About" section, reinforcing best practices for project-based learning, version control, and GitHub repository management.

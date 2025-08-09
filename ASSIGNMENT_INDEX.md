@@ -7737,3 +7737,21 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 447: SUBSECTION C: CSS BEST PRACTICES
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student is beginning a new subsection focused on "CSS BEST PRACTICES." The following lessons will cover a series of best practices and an assignment.
+
+### Core Course Concepts:
+
+- Not applicable.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

@@ -7642,3 +7642,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 442: COMMON MISTAKES TO AVOID WITH HTML POINT FOUR
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned the fourth common HTML mistake to avoid: placing elements in incorrect locations.
+
+### Core Course Concepts:
+
+- **Document Structure:** The lesson explained the importance of code sequence and how a tag like `<title>` must be placed within the `<head>`.
+- **Header and Body:** It covered the distinct roles of the `<head>` (for metadata) and the `<body>` (for visible content) in a document.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

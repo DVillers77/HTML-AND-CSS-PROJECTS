@@ -7793,3 +7793,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 450: CSS BEST PRACTICES POINT THREE
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned the third common CSS best practice: keeping code organized, using indentation, and commenting thoroughly.
+
+### Core Course Concepts:
+
+- **Code Readability:** The lesson emphasized that organized code is easier to read and understand.
+- **Style Guides and Consistency:** The student learned that a style guide is a set of rules used to maintain a consistent code style across a project, and they critiqued the video assignments for their lack of consistency.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

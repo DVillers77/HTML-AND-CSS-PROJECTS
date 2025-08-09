@@ -7585,3 +7585,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 439: COMMON MISTAKES TO AVOID WITH HTML POINT ONE
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned the first common HTML mistake to avoid: failing to use the correct doctype declaration.
+
+### Core Course Concepts:
+
+- **Doctype Declaration:** The lesson explained that the `<!DOCTYPE html>` tag is essential for telling a browser to use modern HTML5 standards.
+- **Browser Rendering:** It covered how a missing doctype can lead to inconsistent or broken layouts across different browsers.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

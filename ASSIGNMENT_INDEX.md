@@ -7508,3 +7508,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 435: VIEWPORT
+
+### Date Completed: 2025-08-08
+
+### Objective:
+
+- The student learned the purpose of the viewport meta tag in HTML5 and its role in making websites responsive on different devices.
+
+### Core Course Concepts:
+
+- **Viewport Defined:** The lesson defined the viewport as the visible area of a webpage on a user's screen.
+- **Viewport Meta Tag:** It explained how to use the `<meta>` tag with attributes like `width="device-width"` and `initial-scale=1` to ensure a website's display size is handled correctly on various devices.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

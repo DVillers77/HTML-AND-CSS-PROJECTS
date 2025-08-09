@@ -7718,3 +7718,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 446: QUIZ
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student successfully passed a quiz covering common HTML mistakes.
+
+### Core Course Concepts:
+
+- **Accessibility Attributes:** The quiz tested knowledge of the `alt` attribute's necessity for images.
+- **Testing Best Practices:** It reinforced the importance of regularly saving and testing code during development.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

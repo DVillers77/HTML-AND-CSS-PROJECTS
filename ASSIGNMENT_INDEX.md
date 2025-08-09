@@ -7604,3 +7604,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 440: COMMON MISTAKES TO AVOID WITH HTML POINT TWO
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned the second common HTML mistake to avoid: failing to specify the document's character set.
+
+### Core Course Concepts:
+
+- **Character Encoding:** The lesson explained that the `<meta charset="UTF-8">` tag is crucial for telling a browser how to properly display text and symbols.
+- **Inconsistent Rendering:** It covered how a missing character set can lead to text being displayed as "garbled" symbols across different browsers and devices.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

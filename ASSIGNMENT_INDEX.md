@@ -7527,3 +7527,23 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 436: ACCESSIBILITY EXAMPLES
+
+### Date Completed: 2025-08-08
+
+### Objective:
+
+- The student analyzed and understood the differences between an inaccessible and an accessible HTML webpage.
+
+### Core Course Concepts:
+
+- **Semantic HTML:** The lesson demonstrated the use of tags like `<header>`, `<main>`, and `<nav>` to improve structure.
+- **Accessibility Attributes:** It showed the practical application of `alt` attributes, `aria-label`, and `<label for="...">` tags to enhance accessibility.
+- **Responsiveness:** The example included the `<meta name="viewport">` tag as a foundational step for responsive design.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

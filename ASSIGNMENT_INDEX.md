@@ -7774,3 +7774,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 449: CSS BEST PRACTICES POINT TWO
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned the second common CSS best practice: keeping all styles in an external stylesheet.
+
+### Core Course Concepts:
+
+- **Separation of Concerns:** The lesson reinforced the principle of keeping styling separate from HTML structure.
+- **Consistency and Maintainability:** It covered how a single stylesheet facilitates site-wide consistency and makes future style changes easier.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

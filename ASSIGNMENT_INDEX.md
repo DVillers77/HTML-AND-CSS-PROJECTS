@@ -7433,3 +7433,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 431: ASSISTIVE TECHNOLOGIES
+
+### Date Completed: 2025-08-08
+
+### Objective:
+
+- The student learned the definition of assistive technologies and their role in helping people with disabilities access web content.
+
+### Core Course Concepts:
+
+- **Assistive Technologies Defined:** The lesson defined assistive technologies as tools and devices that enable people with disabilities to interact with digital content.
+- **Screen Reader Examples:** It provided screen readers like Narrator (Windows) and VoiceOver (macOS) as common examples of assistive technologies.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

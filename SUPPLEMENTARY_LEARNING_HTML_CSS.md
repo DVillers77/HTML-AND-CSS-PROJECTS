@@ -6606,3 +6606,28 @@ This summary provides a foundational definition of web accessibility and its imp
 - **Keyboard Navigation:** A great way to test a website's accessibility is to try navigating it using only the keyboard. All interactive elements (links, buttons, form fields) should be reachable in a logical order using the `Tab` key and activatable with the `Enter` or `Space` key. This practice reveals many accessibility issues related to focus management and element order.
 
 ---
+
+#### ASSISTIVE TECHNOLOGIES
+
+### Course Step Number: 431
+
+### Date Researched: 2025-08-08
+
+### Robust Summary of Best Practices and Modernization
+
+This summary provides a foundational definition of assistive technologies and their crucial role in modern web development. It expands on the core concepts by adding a UX design perspective.
+
+**Best Practices**
+
+- **Semantic HTML and ARIA:** Assistive technologies rely heavily on semantic HTML to understand a webpage's structure. For elements that are not naturally semantic (e.g., a custom-built button from a `div`), ARIA (Accessible Rich Internet Applications) attributes are used. ARIA provides a way to add extra information to elements so that screen readers can properly identify their roles, states, and properties.
+
+**Modernization**
+
+- **User Testing with Assistive Technologies:** Modern web developers go beyond automated testing by conducting user testing with actual screen readers. This practice provides a real-world perspective on how users with visual impairments experience the website, revealing issues that automated tools might miss. Tools like VoiceOver and Narrator are a quick way to get started with this.
+
+**Enhanced Learning (UX Bias)**
+
+- **Beyond Screen Readers:** As a UX designer, you'll consider a wide range of assistive technologies, not just screen readers. This includes voice recognition software for users with motor impairments, screen magnifiers for low-vision users, and alternative input devices. Designing for these diverse needs leads to a more robust and truly inclusive product.
+- **Designing for the "No-Mouse" Experience:** A key UX practice is to design a user interface that can be fully navigated with a keyboard. This is a fundamental requirement for users who cannot use a mouse. As a UX designer, ensuring a logical tab order and clear focus states is a critical part of the wireframing and design process.
+
+---

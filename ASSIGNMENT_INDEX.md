@@ -7547,3 +7547,23 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 437: ACCESSIBILITY SCREEN READER ASSIGNMENT
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student completed a hands-on assignment to experience the difference between inaccessible and accessible code using a screen reader.
+
+### Core Course Concepts:
+
+- **User Empathy:** The assignment provided direct experience with assistive technology, building empathy for users with disabilities.
+- **Practical Application:** The student applied previous lessons on semantic HTML, ARIA, and form labeling to a real-world test case.
+- **Critical Analysis:** The student critically analyzed the provided "accessible" code and identified a missing `alt` attribute on an image, reinforcing the importance of thorough accessibility checks.
+
+### Relevant Files:
+
+- [index.html](accessibility-assignment/index.html) (This file was modified to create two versions: an inaccessible and an accessible one for screen reader testing).
+
+---

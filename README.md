@@ -361,3 +361,11 @@ This challenge involved adding a new "About" section to the "Simple Recipes" web
 #### 70. HTML AND CSS WEBSITE SUBMISSION ASSIGNMENT
 
 This final assignment marks the completion of the "Simple Recipes" project, a multi-part video series that guided the creation of a responsive one-page website using HTML and CSS. The project covered fundamental concepts, including HTML structure, modern CSS layouts, and the implementation of interactive features like a drop-down navigation menu and a 3D image flip effect. The final submission included the website with a newly created "About" section, reinforcing best practices for project-based learning, version control, and GitHub repository management.
+
+---
+
+#### 71. Accessibility Screen Reader Assignment
+
+This assignment was a practical, hands-on exercise to experience the direct impact of accessibility best practices on a user's experience. The task involved using a screen reader to test a poorly coded webpage and then a corrected, accessible version of the same page. This provided a powerful demonstration of how semantic HTML, ARIA labels, and other accessibility principles create a clear and intuitive experience for users relying on assistive technologies.
+
+---

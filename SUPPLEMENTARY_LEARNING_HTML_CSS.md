@@ -6631,3 +6631,33 @@ This summary provides a foundational definition of assistive technologies and th
 - **Designing for the "No-Mouse" Experience:** A key UX practice is to design a user interface that can be fully navigated with a keyboard. This is a fundamental requirement for users who cannot use a mouse. As a UX designer, ensuring a logical tab order and clear focus states is a critical part of the wireframing and design process.
 
 ---
+
+#### PRIMARY ACCESSIBILITY POINTS
+
+### Course Step Number: 432
+
+### Date Researched: 2025-08-08
+
+### Robust Summary of Best Practices and Modernization
+
+This summary reinforces the primary accessibility points from the lesson and provides a UX-focused perspective on each.
+
+**Best Practices**
+
+- **The Curbside Effect:** This is a key concept that highlights how accessibility features often benefit everyone. For example, a wheelchair ramp is primarily for wheelchair users, but it is also used by parents with strollers, delivery workers with dollies, and people with temporary injuries. Similarly, features like high-contrast text or clear headings, while essential for some, improve the experience for all users, especially those using devices in bright sunlight or in a rush.
+- **Semantic HTML:** Using the correct HTML elements for their intended purpose (e.g., `<nav>` for navigation, `<main>` for main content) is a fundamental best practice. This provides a clear, logical structure that assistive technologies can interpret.
+
+**Modernization**
+
+- **WCAG 2.2 Standards:** Modern web development adheres to the latest Web Content Accessibility Guidelines (WCAG). The most recent version, WCAG 2.2, introduces new success criteria to address accessibility on a wider range of devices and for cognitive disabilities. Adhering to these standards ensures your website is up-to-date and legally compliant.
+- **Automated Accessibility Tools:** Modern tools like Axe and Lighthouse are now integrated directly into popular browsers (like Chrome and Firefox). These tools allow developers to quickly audit their websites for common accessibility issues directly within their development environment, making it easier to catch and fix problems early in the process.
+
+**Enhanced Learning (UX Bias)**
+
+- **A "10-Second" Accessibility Audit:** As a UX designer, you can quickly evaluate a website's accessibility by spending 10 seconds on each of the following checks:
+  1.  **Tab Test:** Can you navigate the entire site using only the `Tab` key?
+  2.  **Color Test:** Is there sufficient color contrast on text and buttons?
+  3.  **Image Test:** Do you see the `alt` text when you hover over an image with a broken link?
+      This quick check helps to identify critical accessibility failures early in the design and development process.
+
+---

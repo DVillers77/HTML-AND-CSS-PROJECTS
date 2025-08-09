@@ -7470,3 +7470,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 433: ARIA
+
+### Date Completed: 2025-08-08
+
+### Objective:
+
+- The student learned the definition of ARIA (Accessible Rich Internet Applications) and its role in making dynamic or custom components accessible.
+
+### Core Course Concepts:
+
+- **ARIA Roles:** The lesson explained how ARIA roles are attributes that help assistive technologies understand the purpose and behavior of HTML elements.
+- **Semantic HTML First:** It reinforced the importance of using clear, meaningful HTML tags before resorting to ARIA.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

@@ -6661,3 +6661,27 @@ This summary reinforces the primary accessibility points from the lesson and pro
       This quick check helps to identify critical accessibility failures early in the design and development process.
 
 ---
+
+#### ARIA
+
+### Course Step Number: 433
+
+### Date Researched: 2025-08-08
+
+### Robust Summary of Best Practices and Modernization
+
+This summary reinforces the primary accessibility points from the lesson and provides a UX-focused perspective on each.
+
+**Best Practices**
+
+- **ARIA's Purpose:** A key best practice is to remember ARIA's golden rule: "If you can use a native HTML element or attribute with the semantics and behavior you require, then do so." ARIA is meant to supplement non-semantic elements, not replace well-supported HTML. For example, use a `<button>` element instead of a `<div>` with `role="button"`.
+
+**Modernization**
+
+- **Semantic HTML First:** The modern approach to web development prioritizes semantic HTML as the foundation for accessibility. Using a `<nav>` tag automatically tells assistive technologies that a section is for navigation. This is simpler and more reliable than manually adding `role="navigation"` to a `<div>` element.
+
+**Enhanced Learning (UX Bias)**
+
+- **Design with ARIA in Mind:** As a UX designer, you can think about ARIA even in the wireframing phase. For a complex custom component like a tabbed interface, you can specify not just the visual design but also the ARIA roles needed to make it accessible (e.g., `role="tablist"`, `role="tab"`, and `role="tabpanel"`). This ensures accessibility is a core part of the design from the very beginning.
+
+---

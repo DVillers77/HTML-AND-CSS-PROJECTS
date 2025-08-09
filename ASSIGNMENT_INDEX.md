@@ -7661,3 +7661,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 443: COMMON MISTAKES TO AVOID WITH HTML POINT FIVE
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned the fifth common HTML mistake to avoid: using HTML for styling instead of CSS.
+
+### Core Course Concepts:
+
+- **Separation of Concerns:** The lesson explained the fundamental principle of using HTML for structure and CSS for presentation.
+- **Maintainability:** It covered how using HTML for styling makes code messy and difficult to maintain or update.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

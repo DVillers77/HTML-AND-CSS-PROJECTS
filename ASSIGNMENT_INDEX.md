@@ -7623,3 +7623,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 441: COMMON MISTAKES TO AVOID WITH HTML POINT THREE
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned the third common HTML mistake to avoid: utilizing outdated syntax.
+
+### Core Course Concepts:
+
+- **Semantic vs. Presentational Tags:** The lesson explained that modern HTML favors semantic tags like `<strong>` over presentational tags like `<b>` to convey meaning to browsers and assistive technologies.
+- **HTML Standard:** The student was provided with a link to the official HTML Standard for up-to-date information on web development practices.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

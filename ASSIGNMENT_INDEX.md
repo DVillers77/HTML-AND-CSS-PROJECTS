@@ -7567,3 +7567,21 @@ Considered the security implications of authorizing extensions and the importanc
 - [index.html](accessibility-assignment/index.html) (This file was modified to create two versions: an inaccessible and an accessible one for screen reader testing).
 
 ---
+
+#### Step 438: SUBSECTION B: MISTAKES TO AVOID
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student is beginning a new subsection focused on "MISTAKES TO AVOID." The following lessons will cover a series of common HTML errors.
+
+### Core Course Concepts:
+
+- Not applicable.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

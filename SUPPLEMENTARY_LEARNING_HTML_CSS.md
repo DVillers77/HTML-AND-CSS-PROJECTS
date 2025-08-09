@@ -6784,3 +6784,15 @@ This summary provides a foundational definition of assistive technologies and th
 - **Building Empathy:** As a UX designer, this assignment is invaluable for building empathy. By actively listening to a screen reader navigate a poorly structured page, you will gain a deep understanding of the cognitive load and frustration a user might face. Conversely, experiencing the logical and clear flow of an accessible page will highlight the profound positive impact that good design and code can have.
 
 ---
+
+#### SUBSECTION B: MISTAKES TO AVOID
+
+### Course Step Number: 438
+
+### Date Researched: 2025-08-09
+
+### Robust Summary of Best Practices and Modernization
+
+This entry marks the beginning of a new subsection focused on identifying and correcting common mistakes in HTML.
+
+---

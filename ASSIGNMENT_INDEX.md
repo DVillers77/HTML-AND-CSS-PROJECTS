@@ -7680,3 +7680,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 444: COMMON MISTAKES TO AVOID WITH HTML POINT SIX
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned the sixth common HTML mistake to avoid: failing to use the `alt` attribute for images.
+
+### Core Course Concepts:
+
+- **Image Accessibility:** The lesson explained that the `alt` attribute is required for every image tag to comply with HTML5 standards.
+- **Descriptive Text:** It covered the importance of providing descriptive text in the `alt` attribute to aid screen readers and improve accessibility.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

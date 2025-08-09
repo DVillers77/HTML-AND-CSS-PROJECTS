@@ -7831,3 +7831,24 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 452: VALIDATOR ASSIGNMENT
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student successfully used the W3C Markup Validation Service to identify and fix errors in an HTML file.
+
+### Core Course Concepts:
+
+- **Code Validation:** The student gained practical experience in using a validator to ensure code is accurate.
+- **Debugging:** The student successfully diagnosed and corrected two key errors: an improper list structure and a duplicate ID.
+- **Impact of Errors:** The student observed that fixing the errors improved the visual rendering of the page, demonstrating the importance of clean code.
+
+### Relevant Files:
+
+- [index.html](simple-recipes/index.html)
+- [css/style.css](simple-recipes/css/style.css)
+
+---

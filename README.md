@@ -362,10 +362,10 @@ This challenge involved adding a new "About" section to the "Simple Recipes" web
 
 This final assignment marks the completion of the "Simple Recipes" project, a multi-part video series that guided the creation of a responsive one-page website using HTML and CSS. The project covered fundamental concepts, including HTML structure, modern CSS layouts, and the implementation of interactive features like a drop-down navigation menu and a 3D image flip effect. The final submission included the website with a newly created "About" section, reinforcing best practices for project-based learning, version control, and GitHub repository management.
 
----
-
 #### 71. Accessibility Screen Reader Assignment
 
 This assignment was a practical, hands-on exercise to experience the direct impact of accessibility best practices on a user's experience. The task involved using a screen reader to test a poorly coded webpage and then a corrected, accessible version of the same page. This provided a powerful demonstration of how semantic HTML, ARIA labels, and other accessibility principles create a clear and intuitive experience for users relying on assistive technologies.
 
----
+#### 72. VALIDATOR ASSIGNMENT
+
+This assignment was a practical exercise in code validation, reinforcing the importance of writing standards-compliant HTML. The task required the student to upload an `index.html` file to the W3C validator to identify and correct errors. The student successfully debugged two critical issues: an improper list structure where `<a>` tags were incorrectly nested within `<ul>`, and a duplicate `id` that violated HTML rules. This process highlighted how validation and a consistent style guide are essential for preventing unexpected rendering issues and for building a reliable, professional-grade website.

@@ -258,10 +258,10 @@ p {
 }
 
 /* Styles the main paragraph text of the featured recipe. */
-#featured-main-text {
+.main-text {
   text-align: justify; /* Aligns text to both the left and right margins. */
   padding-top: 20px;
-  margin-left: 40px;
+  margin: 40px;
 }
 
 /* Sets margin left to 0 because it is not needed on a small screen and centers the text */

@@ -7755,3 +7755,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 448: CSS BEST PRACTICES POINT ONE
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned the first common CSS best practice: using classes and IDs sparingly.
+
+### Core Course Concepts:
+
+- **Selector Specificity:** The lesson explained that overuse of classes and IDs can lead to confusing and difficult-to-maintain code.
+- **CSS Methodologies:** The student was introduced to modern methodologies like BEM and Utility-first CSS as solutions to this problem.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

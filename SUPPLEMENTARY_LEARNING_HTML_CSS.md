@@ -7117,3 +7117,15 @@ This entry concludes the validator assignment, reinforcing the importance of sta
 **Key Learning:** The student noted that the video assignment's code lacked consistency and contained validation errors, highlighting the real-world value of a style guide. Fixing the errors resulted in a more predictable and visually consistent rendering of the page, demonstrating that validated code is the foundation of a reliable user experience.
 
 ---
+
+#### SUBSECTION D: COMMON CSS MISTAKES
+
+### Course Step Number: 453
+
+### Date Researched: 2025-08-09
+
+### Robust Summary of Best Practices and Modernization
+
+This entry serves as an index for the new subsection of the course, "COMMON MISTAKES TO AVOID WITH CSS." This section will cover a series of common pitfalls that developers encounter when writing CSS, providing a structured overview of what to watch out for. The content emphasizes that learning from these mistakes is a key part of becoming a better developer and highlights how modern tools can help in this process.
+
+---

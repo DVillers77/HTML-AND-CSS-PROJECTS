@@ -7489,3 +7489,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 434: ARIA LABELS
+
+### Date Completed: 2025-08-08
+
+### Objective:
+
+- The student learned about ARIA labels and how they provide descriptive information to screen readers for elements that lack visible text.
+
+### Core Course Concepts:
+
+- **ARIA Labels Defined:** The lesson explained that `aria-label` attributes are used to clarify the purpose of interactive elements like buttons and links.
+- **Use Cases:** It provided examples of how `aria-label` can be used on icon-only buttons or navigation links to improve accessibility.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

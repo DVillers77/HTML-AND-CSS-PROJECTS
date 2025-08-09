@@ -6685,3 +6685,28 @@ This summary reinforces the primary accessibility points from the lesson and pro
 - **Design with ARIA in Mind:** As a UX designer, you can think about ARIA even in the wireframing phase. For a complex custom component like a tabbed interface, you can specify not just the visual design but also the ARIA roles needed to make it accessible (e.g., `role="tablist"`, `role="tab"`, and `role="tabpanel"`). This ensures accessibility is a core part of the design from the very beginning.
 
 ---
+
+#### ARIA LABELS
+
+### Course Step Number: 434
+
+### Date Researched: 2025-08-08
+
+### Robust Summary of Best Practices and Modernization
+
+This summary reinforces the importance of ARIA labels and provides a UX-focused perspective on their use.
+
+**Best Practices**
+
+- **Labeling Ambiguous Elements:** A key best practice is to use `aria-label` only when an element doesn't have visible text that already explains its purpose. Using both can create redundancy and be confusing for screen reader users.
+- **Semantic Buttons:** As we discussed, using the native `<button>` element is a best practice. It provides built-in accessibility features like keyboard operability and screen reader recognition, which are difficult and error-prone to replicate with non-semantic elements.
+
+**Modernization**
+
+- **Semantic HTML First:** While `aria-label` is great for icons, a modern best practice is to include visible text within a semantic `<button>` tag and use CSS to visually hide it. This ensures the text is available for all users, including those using assistive technologies, while maintaining the clean visual design.
+
+**Enhanced Learning (UX Bias)**
+
+- **The Invisible User Interface:** As a UX designer, you can think of ARIA labels as designing an "invisible user interface" for screen reader users. This means considering how your design will be experienced by someone who cannot see it. By creating a clear, descriptive, and logical experience through ARIA labels, you are ensuring the design is just as intuitive for a user with a screen reader as it is for a visual user.
+
+---

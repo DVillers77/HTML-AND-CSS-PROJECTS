@@ -7381,3 +7381,19 @@ This entry introduces a new assignment to upgrade an existing single-page HTML w
 This entry documents the first step of a CSS upgrade assignment, which involves setting up a folder named `CSS` and creating a `one-page-website.css` file within it. This step is a foundational exercise in file organization and reinforces the modern best practice of separating HTML content from CSS styling. The use of a `CSS` subfolder promotes a clean, scalable project structure.
 
 ---
+
+#### STEP 1 CSS ASSIGNMENT
+
+### Course Step Number: 475
+
+### Date Researched: 2025-08-09
+
+### Robust Summary of Best Practices and Modernization
+
+This entry documents the completion of a CSS assignment to apply a `font-family` and `font-size` to a single-page website. The student used the `body` selector as a best practice to set a base style that is inherited by other elements, making the styling process efficient and scalable. This approach reinforces the concept of CSS inheritance and promotes cleaner, more manageable code.
+
+##### Insights from Chat Discussion summary
+
+The student questioned the best way to apply a `font-family` and `font-size` to text since it was primarily in `h` and `li` tags. This led to a discussion on the efficiency and best practice of applying general font styles to the `body` element. The student also proactively found and corrected a duplicate `<title>` tag in their HTML file, demonstrating careful attention to detail and a commitment to clean code.
+
+---

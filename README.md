@@ -381,3 +381,7 @@ This assignment was a practical exercise to reinforce the importance of using on
 #### 75. CSS UPGRADE ASSIGNMENT - STEP 0
 
 This assignment involves the student setting up the file structure for a CSS upgrade. The student created a `CSS` folder within the "one-page-website" directory and a new CSS file named `one-page-website.css`. This step reinforces the best practice of separating styling from content.
+
+#### 76. CSS UPGRADE ASSIGNMENT - STEP 1
+
+This assignment involved the student applying a `font-family` and a default `font-size` to their website using a new CSS file. The student successfully implemented the style rules on the `body` element, which is a modern best practice for ensuring consistent styling across the entire page. The student also corrected an error in their HTML file by removing a duplicate `<title>` tag.

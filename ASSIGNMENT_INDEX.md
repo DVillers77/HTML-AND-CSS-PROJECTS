@@ -8278,3 +8278,28 @@ Considered the security implications of authorizing extensions and the importanc
 - [one-page-website.css](one-page-website/css/one-page-website.css)
 
 ---
+
+#### Step 475: STEP 1 CSS ASSIGNMENT
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student applied a `font-family` and `font-size` to their website using CSS.
+
+### Core Course Concepts:
+
+- **CSS Inheritance:** The student utilized the `body` selector to apply a base style that is inherited by most elements.
+- **Separation of Concerns:** This step continues to reinforce the practice of separating HTML content from CSS styling.
+- **Code Validation:** The student demonstrated attention to detail by correcting a duplicate `<title>` tag.
+
+##### Insights from Chat Discussion summary
+
+The student questioned the best way to apply a `font-family` and `font-size` to text since it was primarily in `h` and `li` tags. This led to a discussion on the efficiency and best practice of applying general font styles to the `body` element. The student also proactively found and corrected a duplicate `<title>` tag in their HTML file, demonstrating careful attention to detail and a commitment to clean code.
+
+### Relevant Files:
+
+- [one-page-website.html](one-page-website/one-page-website.html)
+- [one-page-website.css](one-page-website/css/one-page-website.css)
+
+---

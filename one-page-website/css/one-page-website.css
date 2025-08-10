@@ -1,0 +1,18 @@
+body {
+  /* Sets the font-family for all text on the page to Arial, with sans-serif as a fallback. */
+  font-family: Arial, sans-serif;
+  /* Sets the base font-size for all text. Using 'rem' here is a best practice for accessibility. */
+  font-size: 1rem;
+}
+
+/* Optional: Sets a specific font-family for all h tags */
+h1,
+h2,
+h3 {
+  font-family: "Times New Roman", serif;
+}
+
+/* Optional: Sets a specific font-size for list items */
+li {
+  font-size: 1.2rem;
+}

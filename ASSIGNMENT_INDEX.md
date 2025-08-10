@@ -8142,3 +8142,23 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 468: VIEWPORT-RELATIVE SIZING
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned about viewport-relative CSS sizing units.
+
+### Core Course Concepts:
+
+- **Viewport Units:** The lesson covered `vh`, `vw`, `vmin`, and `vmax`.
+- **Dynamic Layouts:** The student learned how these units can be used to create fluid, responsive layouts, especially for full-screen elements.
+- **Relative Sizing:** The entry clarifies that these units are relative to the viewport, not the parent element.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

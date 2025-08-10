@@ -7297,3 +7297,15 @@ This lesson covers parent-relative sizing units, specifically `em` and `%`, expl
 This entry documents a discussion on how to implement breakpoints for sizing. It details the use of `media queries` to adjust the root `<html>` font size at different screen widths. The entry explains that by using `rem` units for all other elements, a developer can create a scalable, predictable, and easy-to-manage responsive design system. The concept of a "mobile-first" approach is also introduced as a best practice.
 
 ---
+
+#### VIEWPORT-RELATIVE SIZING
+
+### Course Step Number: 468
+
+### Date Researched: 2025-08-09
+
+### Robust Summary of Best Practices and Modernization
+
+This lesson introduces viewport-relative sizing units (`vh`, `vw`, `vmin`, and `vmax`). The entry explains how these units are relative to the browser viewport and are useful for creating fluid, dynamic layouts, such as full-screen hero sections and responsive typography. The entry also notes that these units are relative to the viewport itself, not the parent element, which is an important distinction from `em` and `rem`.
+
+---

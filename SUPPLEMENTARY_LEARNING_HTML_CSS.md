@@ -7285,3 +7285,15 @@ This lesson covers absolute CSS sizing units, specifically `pt` (points) and `px
 This lesson covers parent-relative sizing units, specifically `em` and `%`, explaining how they size elements based on the font size of their parent. The entry details the cascading effect of these units and contrasts them with `rem`, explaining why `rem` is often the preferred choice for font sizing in modern CSS. It also notes a modern use case for `em` units in sizing padding and margins.
 
 ---
+
+#### IMPLEMENTING BREAKPOINTS FOR SIZING
+
+### Course Step Number: 467
+
+### Date Researched: 2025-08-09
+
+### Robust Summary of Best Practices and Modernization
+
+This entry documents a discussion on how to implement breakpoints for sizing. It details the use of `media queries` to adjust the root `<html>` font size at different screen widths. The entry explains that by using `rem` units for all other elements, a developer can create a scalable, predictable, and easy-to-manage responsive design system. The concept of a "mobile-first" approach is also introduced as a best practice.
+
+---

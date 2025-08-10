@@ -8121,3 +8121,24 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 467: ROOT-RELATIVE SIZING
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned about root-relative CSS sizing units.
+
+### Core Course Concepts:
+
+- **Relative Sizing:** The lesson covered `rem` and keyword units.
+- **Predictability:** The student learned how `rem` avoids the cascading issues of `em` units.
+- **Accessibility:** The entry reinforces how `rem` units improve accessibility by scaling with a user's browser settings.
+- **Media Queries and Breakpoints:** The supplementary discussion clarified how to use media queries to implement responsive sizing with `rem` units.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

@@ -7985,3 +7985,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 460: QUIZ
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student successfully passed the quiz on common CSS mistakes.
+
+### Core Course Concepts:
+
+- **External Stylesheets:** The student demonstrated knowledge of the benefits of using an external stylesheet for maintainability and consistency.
+- **CSS Best Practices:** The student's responses showed an understanding of core concepts like the DRY principle and the proper use of classes and IDs.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

@@ -7369,3 +7369,15 @@ This entry marks the beginning of a new subsection focused on single-page websit
 This entry introduces a new assignment to upgrade an existing single-page HTML website with CSS. The assignment is designed as a rapid exercise to practice applying CSS concepts. It reinforces the importance of using a separate CSS file for styling and highlights the value of iterative development. The entry also notes that the original HTML file should be preserved for a later course.
 
 ---
+
+#### STEP 0 CSS ASSIGNMENT
+
+### Course Step Number: 474
+
+### Date Researched: 2025-08-09
+
+### Robust Summary of Best Practices and Modernization
+
+This entry documents the first step of a CSS upgrade assignment, which involves setting up a folder named `CSS` and creating a `one-page-website.css` file within it. This step is a foundational exercise in file organization and reinforces the modern best practice of separating HTML content from CSS styling. The use of a `CSS` subfolder promotes a clean, scalable project structure.
+
+---

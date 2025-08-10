@@ -377,3 +377,7 @@ This assignment involved debugging a provided HTML document. The student success
 #### 74. W3SCHOOLS ASSIGNMENT
 
 This assignment was a practical exercise to reinforce the importance of using online resources. The student was tasked with using `w3schools.com` to learn and implement new concepts in both HTML and CSS. The student successfully completed the assignment, demonstrating an understanding of how to find and apply new coding knowledge.
+
+#### 75. CSS UPGRADE ASSIGNMENT - STEP 0
+
+This assignment involves the student setting up the file structure for a CSS upgrade. The student created a `CSS` folder within the "one-page-website" directory and a new CSS file named `one-page-website.css`. This step reinforces the best practice of separating styling from content.

@@ -8258,3 +8258,23 @@ Considered the security implications of authorizing extensions and the importanc
 - [one-page-website.html](one-page-website/one-page-website.html)
 
 ---
+
+#### Step 474: STEP 0 CSS ASSIGNMENT
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student will create a new folder and a CSS file to begin the website upgrade.
+
+### Core Course Concepts:
+
+- **File Structure:** The student practiced creating a logical and organized file structure.
+- **Separation of Concerns:** This step reinforces the principle of keeping HTML and CSS files separate.
+
+### Relevant Files:
+
+- [one-page-website.html](one-page-website/one-page-website.html)
+- [one-page-website.css](one-page-website/css/one-page-website.css)
+
+---

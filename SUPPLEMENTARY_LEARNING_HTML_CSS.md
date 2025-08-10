@@ -7189,3 +7189,15 @@ This entry covers the fourth common CSS mistake: conflicting styles. It introduc
 This entry covers the fifth common CSS mistake: repeating code and violating the DRY (Don't Repeat Yourself) principle. It introduces the best practice of creating reusable classes to consolidate common properties. The content also explains how modern tools like CSS preprocessors and variables extend this principle, leading to more maintainable and scalable codebases and a more consistent user experience.
 
 ---
+
+#### COMMON MISTAKES TO AVOID WITH CSS POINT SIX
+
+### Course Step Number: 459
+
+### Date Researched: 2025-08-09
+
+### Robust Summary of Best Practices and Modernization
+
+This entry addresses the sixth common CSS mistake: looking for errors in the CSS when they are actually in the HTML. It highlights the importance of a systematic debugging workflow using browser Developer Tools. The content also introduces the concept of pre-commit hooks, using the "gatekeeper" analogy, as a modern solution for preventing broken code from being committed.
+
+---

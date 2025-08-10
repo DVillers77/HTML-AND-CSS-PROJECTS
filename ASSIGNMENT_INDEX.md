@@ -7966,3 +7966,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 459: COMMON MISTAKES TO AVOID WITH CSS POINT SIX
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned the sixth common mistake to avoid with CSS: misdiagnosing CSS display issues as HTML errors.
+
+### Core Course Concepts:
+
+- **Systematic Debugging:** The lesson emphasized the importance of checking HTML for errors before debugging CSS.
+- **Interconnectedness:** The student learned that CSS and HTML are tightly coupled and that errors in one can cause issues in the other.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

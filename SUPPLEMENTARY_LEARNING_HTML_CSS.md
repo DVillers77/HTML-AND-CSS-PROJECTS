@@ -7273,3 +7273,15 @@ A discussion was initiated by the student to clarify the 'rem' unit. The student
 This lesson covers absolute CSS sizing units, specifically `pt` (points) and `px` (pixels). The summary explains that `pt` is a legacy unit from print media and that `px` is a fixed-size unit. The entry expands on this by outlining the disadvantages of `px` in modern web development, particularly concerning responsiveness and accessibility, reinforcing the preference for relative units in most cases.
 
 ---
+
+#### PARENT-RELATIVE SIZING
+
+### Course Step Number: 466
+
+### Date Researched: 2025-08-09
+
+### Robust Summary of Best Practices and Modernization
+
+This lesson covers parent-relative sizing units, specifically `em` and `%`, explaining how they size elements based on the font size of their parent. The entry details the cascading effect of these units and contrasts them with `rem`, explaining why `rem` is often the preferred choice for font sizing in modern CSS. It also notes a modern use case for `em` units in sizing padding and margins.
+
+---

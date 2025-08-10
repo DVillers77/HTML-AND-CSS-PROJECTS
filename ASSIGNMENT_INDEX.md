@@ -8101,3 +8101,23 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 466: PARENT-RELATIVE SIZING
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned about parent-relative CSS sizing units.
+
+### Core Course Concepts:
+
+- **Relative Sizing:** The lesson covered `em` and `%` units.
+- **Cascading Effects:** The student learned how parent-relative units can have a cascading effect when elements are nested.
+- **Best Practices:** The entry reinforces the modern preference for `rem` units to avoid the complexities of parent-relative sizing.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

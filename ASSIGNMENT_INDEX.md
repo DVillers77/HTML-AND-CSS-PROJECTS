@@ -7928,3 +7928,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 457: COMMON MISTAKES TO AVOID WITH CSS POINT FOUR
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned the fourth common mistake to avoid with CSS: using conflicting styles.
+
+### Core Course Concepts:
+
+- **CSS Specificity:** The lesson introduced the concept of specificity and how it determines which CSS rules are applied.
+- **Debugging:** The student learned that conflicting styles can be difficult to debug and can lead to unintended display issues.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

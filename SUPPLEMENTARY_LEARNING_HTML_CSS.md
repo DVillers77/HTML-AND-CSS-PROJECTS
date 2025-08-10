@@ -7165,3 +7165,15 @@ This entry covers the second common CSS mistake: the failure to include comments
 This entry covers the third common CSS mistake: using inline styles within an HTML file. It reinforces the core principle of "separation of concerns" for a cleaner and more maintainable codebase. The content also expands on this concept by introducing the role of build tools in modern development and linking the practice to significant performance and caching benefits for the end-user.
 
 ---
+
+#### COMMON MISTAKES TO AVOID WITH CSS POINT FOUR
+
+### Course Step Number: 457
+
+### Date Researched: 2025-08-09
+
+### Robust Summary of Best Practices and Modernization
+
+This entry covers the fourth common CSS mistake: conflicting styles. It introduces the concept of CSS Specificity and explains how the browser's algorithm determines which styles to apply. The content also highlights modern solutions like the BEM methodology to prevent conflicting styles and emphasizes the importance of visual consistency for a positive user experience.
+
+---

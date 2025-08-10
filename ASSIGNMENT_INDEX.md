@@ -7871,3 +7871,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 454: COMMON MISTAKES TO AVOID WITH CSS POINT ONE
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned the first common mistake to avoid with CSS: neglecting browser compatibility.
+
+### Core Course Concepts:
+
+- **Cross-Browser Testing:** The lesson emphasized the need to test code in major browsers to ensure a consistent user experience.
+- **Vendor Prefixes:** The student was introduced to the concept of browser-specific code and its role in handling rendering differences.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

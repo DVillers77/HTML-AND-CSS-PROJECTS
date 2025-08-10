@@ -7129,3 +7129,15 @@ This entry concludes the validator assignment, reinforcing the importance of sta
 This entry serves as an index for the new subsection of the course, "COMMON MISTAKES TO AVOID WITH CSS." This section will cover a series of common pitfalls that developers encounter when writing CSS, providing a structured overview of what to watch out for. The content emphasizes that learning from these mistakes is a key part of becoming a better developer and highlights how modern tools can help in this process.
 
 ---
+
+#### COMMON MISTAKES TO AVOID WITH CSS POINT ONE
+
+### Course Step Number: 454
+
+### Date Researched: 2025-08-09
+
+### Robust Summary of Best Practices and Modernization
+
+This entry covers the first common CSS mistake: forgetting that not all browsers render code the same way. It reinforces the importance of cross-browser testing and introduces modern concepts like Progressive Enhancement and Graceful Degradation. The content also highlights how tools like Autoprefixer automate the process of adding vendor prefixes to ensure code compatibility.
+
+---

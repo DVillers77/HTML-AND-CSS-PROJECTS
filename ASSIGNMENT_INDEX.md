@@ -8162,3 +8162,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 469: HOW TO CHOOSE CSS FONT UNIT
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned the best practices for choosing the correct CSS font unit.
+
+### Core Course Concepts:
+
+- **Unit Selection:** The lesson provided recommendations on when to use each type of sizing unit, including `em`, `rem`, `px`, and viewport units.
+- **Responsiveness and Accessibility:** The entry reinforces the importance of choosing relative units to create responsive and accessible web pages.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

@@ -7309,3 +7309,15 @@ This entry documents a discussion on how to implement breakpoints for sizing. It
 This lesson introduces viewport-relative sizing units (`vh`, `vw`, `vmin`, and `vmax`). The entry explains how these units are relative to the browser viewport and are useful for creating fluid, dynamic layouts, such as full-screen hero sections and responsive typography. The entry also notes that these units are relative to the viewport itself, not the parent element, which is an important distinction from `em` and `rem`.
 
 ---
+
+#### HOW TO CHOOSE CSS FONT UNIT
+
+### Course Step Number: 469
+
+### Date Researched: 2025-08-09
+
+### Robust Summary of Best Practices and Modernization
+
+This lesson provides a comprehensive guide on selecting the appropriate CSS font unit for different scenarios. It reinforces the importance of using relative units (`em`, `rem`, `%`) for accessibility and responsiveness. The entry also details the specific use cases for absolute units (`px`, `pt`), viewport units (`vh`, `vw`), and keyword sizes, concluding that the best practice is to choose the unit that fits the specific design goal.
+
+---

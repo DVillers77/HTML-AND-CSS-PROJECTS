@@ -7261,3 +7261,15 @@ This entry marks the beginning of a new subsection focused on CSS sizing. It wil
 A discussion was initiated by the student to clarify the 'rem' unit. The student correctly questioned what 'rem' units are relative to if only relative units are used. This discussion clarified that 'rem' units are relative to the font size of the root `<html>` element, which has a browser-default value (typically 16px) even if not explicitly set. The entry explains how this makes `rem` a powerful, predictable, and accessible unit for scaling all fonts on a webpage by only changing one CSS value.
 
 ---
+
+#### ABSOLUTE SIZING
+
+### Course Step Number: 465
+
+### Date Researched: 2025-08-09
+
+### Robust Summary of Best Practices and Modernization
+
+This lesson covers absolute CSS sizing units, specifically `pt` (points) and `px` (pixels). The summary explains that `pt` is a legacy unit from print media and that `px` is a fixed-size unit. The entry expands on this by outlining the disadvantages of `px` in modern web development, particularly concerning responsiveness and accessibility, reinforcing the preference for relative units in most cases.
+
+---

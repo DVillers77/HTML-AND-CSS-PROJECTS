@@ -8082,3 +8082,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 465: ABSOLUTE SIZING
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned about absolute CSS sizing units.
+
+### Core Course Concepts:
+
+- **Absolute Sizing:** The lesson covered `pt` (points) and `px` (pixels).
+- **Modern Best Practices:** The student was introduced to the reasons why absolute units are often not the best choice for modern, responsive websites.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

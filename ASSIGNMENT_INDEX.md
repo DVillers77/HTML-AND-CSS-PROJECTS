@@ -8220,3 +8220,21 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 472: SUBSECTION G: SINGLE-PAGE WEBSITE UPGRADES
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- To introduce the next course subsection on single-page website upgrades.
+
+### Core Course Concepts:
+
+- **Web Development Upgrades:** The student is being introduced to a section that will cover more advanced techniques for enhancing a single-page site.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

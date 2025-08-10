@@ -7249,3 +7249,15 @@ The student successfully debugged and corrected all code errors to match the vis
 This entry marks the beginning of a new subsection focused on CSS sizing. It will introduce key topics like font units, absolute and relative sizing, and responsive design practices.
 
 ---
+
+#### CSS FONT UNITS - FURTHER DISCUSSION ON 'REM'
+
+### Course Step Number: 464
+
+### Date Researched: 2025-08-09
+
+### Robust Summary of Best Practices and Modernization
+
+A discussion was initiated by the student to clarify the 'rem' unit. The student correctly questioned what 'rem' units are relative to if only relative units are used. This discussion clarified that 'rem' units are relative to the font size of the root `<html>` element, which has a browser-default value (typically 16px) even if not explicitly set. The entry explains how this makes `rem` a powerful, predictable, and accessible unit for scaling all fonts on a webpage by only changing one CSS value.
+
+---

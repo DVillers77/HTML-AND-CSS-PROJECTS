@@ -8062,3 +8062,23 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 464: CSS FONT UNITS
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned about CSS font units and their two main categories: absolute and relative sizing.
+
+### Core Course Concepts:
+
+- **Font Units:** The student was introduced to various units like `px`, `em`, `rem`, `vw`, and `vh`.
+- **Absolute vs. Relative Sizing:** The lesson explained the fundamental difference between fixed and scalable sizing methods.
+- **REM Unit Clarification:** A specific discussion clarified that the 'rem' unit is relative to the root `<html>` element's font size, which is a key concept for scalable and accessible design.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

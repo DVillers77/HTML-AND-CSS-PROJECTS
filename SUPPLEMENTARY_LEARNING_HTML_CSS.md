@@ -7237,3 +7237,15 @@ This entry marks the beginning of a new subsection focused on debugging. It intr
 The student successfully debugged and corrected all code errors to match the visual example provided in the lesson. This process required a systematic approach to debugging, using a validator to address issues with HTML structure and syntax. A key discovery was the inconsistency between the lesson's written instructions (e.g., for the logo's border and size) and the visual output, which the student successfully identified and resolved. The student independently implemented a modern solution by using a `div` to group elements for consistent styling.
 
 ---
+
+#### SUBSECTION F: CSS SIZING
+
+### Course Step Number: 463
+
+### Date Researched: 2025-08-09
+
+### Robust Summary of Best Practices and Modernization
+
+This entry marks the beginning of a new subsection focused on CSS sizing. It will introduce key topics like font units, absolute and relative sizing, and responsive design practices.
+
+---

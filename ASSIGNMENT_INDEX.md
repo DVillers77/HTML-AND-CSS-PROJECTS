@@ -8238,3 +8238,23 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 473: UPGRADING YOUR HTML WEBSITE WITH CSS
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student will begin a new assignment to upgrade an existing single-page HTML website using CSS.
+
+### Core Course Concepts:
+
+- **CSS Implementation:** The student will practice applying CSS to a real-world project.
+- **Separation of Concerns:** The assignment reinforces the best practice of separating HTML content from CSS styling.
+- **Iterative Development:** The assignment is structured in a way that models a step-by-step development process.
+
+### Relevant Files:
+
+- [one-page-website.html](one-page-website/one-page-website.html)
+
+---

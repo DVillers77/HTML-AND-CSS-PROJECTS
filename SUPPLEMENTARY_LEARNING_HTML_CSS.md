@@ -7357,3 +7357,15 @@ This entry documents the successful completion of the "W3Schools Assignment." Th
 This entry marks the beginning of a new subsection focused on single-page website upgrades. This section will likely cover more advanced CSS and HTML techniques to enhance the functionality and visual appeal of a single-page website.
 
 ---
+
+#### UPGRADING YOUR HTML WEBSITE WITH CSS
+
+### Course Step Number: 473
+
+### Date Researched: 2025-08-09
+
+### Robust Summary of Best Practices and Modernization
+
+This entry introduces a new assignment to upgrade an existing single-page HTML website with CSS. The assignment is designed as a rapid exercise to practice applying CSS concepts. It reinforces the importance of using a separate CSS file for styling and highlights the value of iterative development. The entry also notes that the original HTML file should be preserved for a later course.
+
+---

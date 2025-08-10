@@ -8200,3 +8200,23 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 471: W3SCHOOLS ASSIGNMENT
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student will use `w3schools.com` to learn and implement new code in both HTML and CSS.
+
+### Core Course Concepts:
+
+- **Online Resources:** The student practiced using online documentation to find solutions.
+- **Problem-Solving:** The assignment reinforced the principle of problem-solving over memorization.
+- **Proactive Learning:** The student demonstrated the ability to seek out and verify new information.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

@@ -373,3 +373,7 @@ This assignment was a practical exercise in code validation, reinforcing the imp
 #### 73. CODE ERRORS SUBMISSION ASSIGNMENT
 
 This assignment involved debugging a provided HTML document. The student successfully identified and corrected multiple errors, including issues with HTML structure, syntax, and obsolete attributes. The student also had to address an inconsistency between the lesson's written instructions and the provided visual example, demonstrating advanced problem-solving skills. The final corrected file, `error461.html`, was submitted as the solution.
+
+#### 74. W3SCHOOLS ASSIGNMENT
+
+This assignment was a practical exercise to reinforce the importance of using online resources. The student was tasked with using `w3schools.com` to learn and implement new concepts in both HTML and CSS. The student successfully completed the assignment, demonstrating an understanding of how to find and apply new coding knowledge.

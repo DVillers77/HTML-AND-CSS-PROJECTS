@@ -7177,3 +7177,15 @@ This entry covers the third common CSS mistake: using inline styles within an HT
 This entry covers the fourth common CSS mistake: conflicting styles. It introduces the concept of CSS Specificity and explains how the browser's algorithm determines which styles to apply. The content also highlights modern solutions like the BEM methodology to prevent conflicting styles and emphasizes the importance of visual consistency for a positive user experience.
 
 ---
+
+#### COMMON MISTAKES TO AVOID WITH CSS POINT FIVE
+
+### Course Step Number: 458
+
+### Date Researched: 2025-08-09
+
+### Robust Summary of Best Practices and Modernization
+
+This entry covers the fifth common CSS mistake: repeating code and violating the DRY (Don't Repeat Yourself) principle. It introduces the best practice of creating reusable classes to consolidate common properties. The content also explains how modern tools like CSS preprocessors and variables extend this principle, leading to more maintainable and scalable codebases and a more consistent user experience.
+
+---

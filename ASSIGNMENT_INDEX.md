@@ -7947,3 +7947,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 458: COMMON MISTAKES TO AVOID WITH CSS POINT FIVE
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned the fifth common mistake to avoid with CSS: repeating code.
+
+### Core Course Concepts:
+
+- **DRY Principle:** The lesson reinforced the "Don't Repeat Yourself" principle by showing how to create reusable CSS classes.
+- **Maintainability:** The student learned that DRY code is easier to maintain and update.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

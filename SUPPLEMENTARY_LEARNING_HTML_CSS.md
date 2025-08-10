@@ -7321,3 +7321,15 @@ This lesson introduces viewport-relative sizing units (`vh`, `vw`, `vmin`, and `
 This lesson provides a comprehensive guide on selecting the appropriate CSS font unit for different scenarios. It reinforces the importance of using relative units (`em`, `rem`, `%`) for accessibility and responsiveness. The entry also details the specific use cases for absolute units (`px`, `pt`), viewport units (`vh`, `vw`), and keyword sizes, concluding that the best practice is to choose the unit that fits the specific design goal.
 
 ---
+
+#### USING ONLINE RESOURCES
+
+### Course Step Number: 470
+
+### Date Researched: 2025-08-09
+
+### Robust Summary of Best Practices and Modernization
+
+This lesson reassures the student that using online resources, particularly Google, is a standard and essential practice for professional developers. It emphasizes that problem-solving skills are more valuable than rote memorization and encourages the use of resources like W3Schools. The entry expands on this by recommending other key resources like MDN Web Docs and Stack Overflow and highlights the importance of learning how to formulate effective search queries.
+
+---

@@ -8181,3 +8181,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 470: USING ONLINE RESOURCES
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned the importance and best practices of using online resources for coding.
+
+### Core Course Concepts:
+
+- **Problem-Solving vs. Memorization:** The lesson emphasized that the ability to solve problems is more important than memorizing every line of code.
+- **Developer Best Practices:** The student was taught that using online search is a standard practice among professional developers.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

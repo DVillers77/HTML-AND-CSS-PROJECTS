@@ -7153,3 +7153,15 @@ This entry covers the first common CSS mistake: forgetting that not all browsers
 This entry covers the second common CSS mistake: the failure to include comments in a stylesheet. It reinforces that effective commenting is about explaining the "why" behind code decisions, not just the "what." The content also introduces the concept of structured DocBlocks and highlights how VS Code extensions can automate their creation, leading to a more efficient workflow.
 
 ---
+
+#### COMMON MISTAKES TO AVOID WITH CSS POINT THREE
+
+### Course Step Number: 456
+
+### Date Researched: 2025-08-09
+
+### Robust Summary of Best Practices and Modernization
+
+This entry covers the third common CSS mistake: using inline styles within an HTML file. It reinforces the core principle of "separation of concerns" for a cleaner and more maintainable codebase. The content also expands on this concept by introducing the role of build tools in modern development and linking the practice to significant performance and caching benefits for the end-user.
+
+---

@@ -7909,3 +7909,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 456: COMMON MISTAKES TO AVOID WITH CSS POINT THREE
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned the third common mistake to avoid with CSS: using inline styles.
+
+### Core Course Concepts:
+
+- **Separation of Concerns:** The lesson reinforced the importance of keeping HTML (structure) and CSS (presentation) in separate files.
+- **Maintainability:** The student learned that external stylesheets are easier to manage and update.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

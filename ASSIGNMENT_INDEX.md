@@ -7890,3 +7890,22 @@ Considered the security implications of authorizing extensions and the importanc
 - Not applicable.
 
 ---
+
+#### Step 455: COMMON MISTAKES TO AVOID WITH CSS POINT TWO
+
+### Date Completed: 2025-08-09
+
+### Objective:
+
+- The student learned the second common mistake to avoid with CSS: neglecting to comment code.
+
+### Core Course Concepts:
+
+- **Code Readability:** The lesson emphasized that commenting is crucial for making code readable and understandable for other developers.
+- **Maintainability:** The student learned that well-commented code is easier to maintain and update in the future.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

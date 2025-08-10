@@ -369,3 +369,7 @@ This assignment was a practical, hands-on exercise to experience the direct impa
 #### 72. VALIDATOR ASSIGNMENT
 
 This assignment was a practical exercise in code validation, reinforcing the importance of writing standards-compliant HTML. The task required the student to upload an `index.html` file to the W3C validator to identify and correct errors. The student successfully debugged two critical issues: an improper list structure where `<a>` tags were incorrectly nested within `<ul>`, and a duplicate `id` that violated HTML rules. This process highlighted how validation and a consistent style guide are essential for preventing unexpected rendering issues and for building a reliable, professional-grade website.
+
+#### 73. CODE ERRORS SUBMISSION ASSIGNMENT
+
+This assignment involved debugging a provided HTML document. The student successfully identified and corrected multiple errors, including issues with HTML structure, syntax, and obsolete attributes. The student also had to address an inconsistency between the lesson's written instructions and the provided visual example, demonstrating advanced problem-solving skills. The final corrected file, `error461.html`, was submitted as the solution.

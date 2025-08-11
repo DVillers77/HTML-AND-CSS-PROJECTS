@@ -1,3 +1,6 @@
+/*==============================================================================
+                            BODY TEXT
+==============================================================================*/
 body {
   /* Sets the font-family for all text on the page to Arial, with sans-serif as a fallback. */
   font-family: Arial, sans-serif;
@@ -15,4 +18,46 @@ h3 {
 /* Optional: Sets a specific font-size for list items */
 li {
   font-size: 1.2rem;
+}
+/*==============================================================================
+                                FORM
+==============================================================================*/
+.form-container {
+  width: 80%; /* The form will take up 80% of its parent's width */
+  max-width: 600px; /* But it will never be wider than 600px */
+  margin: 0 auto; /* This centers the container on the page */
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center; /* Vertically centers the items within the container */
+  justify-content: flex-end; /* This will move the content to the right */
+  margin: 10px 0;
+  white-space: nowrap;
+}
+
+.checkbox-container input {
+  margin: 0; /* Removes any default margin */
+  margin-right: 5px; /* Adds a small space to the right of the checkbox */
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea {
+  width: 100%;
+  margin: 5px 0; /* This adds margin to the top and bottom of the text inputs */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+/* You may want to style the submit button differently */
+input[type="submit"] {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
 }

@@ -8303,3 +8303,29 @@ The student questioned the best way to apply a `font-family` and `font-size` to 
 - [one-page-website.css](one-page-website/css/one-page-website.css)
 
 ---
+
+#### Step 476: STEP 2 CSS ASSIGNMENT
+
+### Date Completed: 2025-08-11
+
+### Objective:
+
+- The student styled the form on their one-page website using CSS.
+
+### Core Course Concepts:
+
+- **CSS Selectors:** The student used attribute selectors (`[type="text"]`) to apply styles with precision.
+- **CSS Layout:** The student used Flexbox to control the position of form elements.
+- **HTML Attributes:** The student learned the purpose of `name`, `id`, and `rows` attributes for form elements.
+- **Debugging:** The student practiced debugging by identifying a typo in an HTML attribute that was preventing a CSS rule from applying.
+
+##### Insights from Chat Discussion summary
+
+The student had a layout issue with the checkbox being positioned incorrectly, which led to a collaborative debugging process. The student questioned how to center elements and adjust spacing, which led to a discussion on Flexbox properties like `justify-content` and the use of CSS margins. The student also discovered a typo in the HTML (`type="tell"` instead of `type="tel"`), demonstrating a strong attention to detail. Additionally, the student questioned the purpose of `name` and `id` attributes and made a great UX improvement by adding the `rows` attribute to the textarea and encapsulating the label and textarea in a new `div`. The student also identified an incorrect code suggestion from the assistant, which was then corrected.
+
+### Relevant Files:
+
+- [one-page-website.html](one-page-website/one-page-website.html)
+- [one-page-website.css](one-page-website/css/one-page-website.css)
+
+---

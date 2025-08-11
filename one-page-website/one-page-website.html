@@ -96,25 +96,29 @@
   <!--footer-->
   <footer>
     <!--FORM-->
-    <section>
+    <section class="form-container">
       <fieldset>
         <h3>Tell us why you love animals</h3>
         <div id="stories">
           <form action="">
             <input type="text" placeholder="First Name" />
-            <input type="text" placeholder="Last Name" /><br />
-            <input type="email" placeholder="Email" /><br />
-            <input type="tell" placeholder="Phone Number" /><br />
-            <input type="checkbox" id="Newsletter" />
-            <label for="Newsletter"
-              >Would you like to receive our monthly newsletter?</label
-            ><br />
-            <textarea
-              name=""
-              id=""
-              placeholder="Type us why you love animals here..."
-            ></textarea
-            ><br />
+            <input type="text" placeholder="Last Name" />
+            <input type="email" placeholder="Email" />
+            <input type="tel" placeholder="Phone Number" />
+            <div class="checkbox-container">
+              <input type="checkbox" id="Newsletter" /><label for="Newsletter"
+                >Would you like to receive our monthly newsletter?</label
+              >
+            </div>
+            <div>
+              <label for="user-story-text">Your Story</label>
+              <textarea
+                name="user-story"
+                id="user-story-text"
+                placeholder="Tell us why you love animals here..."
+                rows="5"
+              ></textarea>
+            </div>
             <input type="submit" value="Submit" />
           </form>
         </div>

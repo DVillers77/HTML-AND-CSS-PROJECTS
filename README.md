@@ -385,3 +385,11 @@ This assignment involves the student setting up the file structure for a CSS upg
 #### 76. CSS UPGRADE ASSIGNMENT - STEP 1
 
 This assignment involved the student applying a `font-family` and a default `font-size` to their website using a new CSS file. The student successfully implemented the style rules on the `body` element, which is a modern best practice for ensuring consistent styling across the entire page. The student also corrected an error in their HTML file by removing a duplicate `<title>` tag.
+
+#### 77. CSS UPGRADE ASSIGNMENT - STEP 2
+
+This assignment involved the student styling the form on their one-page website. The student successfully applied CSS properties to control the form's appearance, debugged a layout issue with the checkbox, and made several user experience improvements, including adding an accessible label for the textarea and using the `rows` attribute.
+
+#### 78. CSS UPGRADE ASSIGNMENT - STEP 3
+
+This assignment was a formal check for the student to ensure their external stylesheet was correctly linked to their HTML document. The student confirmed that this step was already completed, which reinforces the best practice of linking CSS files in the `<head>` of the HTML document.

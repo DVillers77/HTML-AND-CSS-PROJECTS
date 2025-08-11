@@ -7413,3 +7413,15 @@ This entry documents the completion of a CSS assignment to style a form. The stu
 The student had a layout issue with the checkbox being positioned incorrectly, which led to a collaborative debugging process. The student questioned how to center elements and adjust spacing, which led to a discussion on Flexbox properties like `justify-content` and the use of CSS margins. The student also discovered a typo in the HTML (`type="tell"` instead of `type="tel"`), demonstrating a strong attention to detail. Additionally, the student questioned the purpose of `name` and `id` attributes and made a great UX improvement by adding the `rows` attribute to the textarea and encapsulating the label and textarea in a new `div`. The student also identified an incorrect code suggestion from the assistant, which was then corrected.
 
 ---
+
+#### STEP 3 CSS ASSIGNMENT
+
+### Course Step Number: 477
+
+### Date Researched: 2025-08-11
+
+### Robust Summary of Best Practices and Modernization
+
+This entry documents a step to formally link an external CSS stylesheet to an HTML document. The student confirmed that they had already completed this task in a previous step. The lesson serves as a final check and reinforces the best practice of using the `<link>` tag within the `<head>` element to separate content from styling.
+
+---

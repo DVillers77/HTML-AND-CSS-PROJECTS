@@ -8329,3 +8329,26 @@ The student had a layout issue with the checkbox being positioned incorrectly, w
 - [one-page-website.css](one-page-website/css/one-page-website.css)
 
 ---
+
+#### Step 477: STEP 3 CSS ASSIGNMENT
+
+### Date Completed: 2025-08-11
+
+### Objective:
+
+- The student will ensure their CSS file is correctly linked to their HTML document.
+
+### Core Course Concepts:
+
+- **External Stylesheets:** The student reviewed the best practice of linking to an external stylesheet for a clear separation of concerns.
+
+##### Insights from Chat Discussion summary
+
+While this step was technically completed earlier in the lesson, the formal assignment serves as a review of the best practice of linking an external stylesheet.
+
+### Relevant Files:
+
+- [one-page-website.html](one-page-website/one-page-website.html)
+- [one-page-website.css](one-page-website/css/one-page-website.css)
+
+---

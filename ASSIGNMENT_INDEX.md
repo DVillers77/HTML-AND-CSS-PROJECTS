@@ -8500,3 +8500,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 484: BOOTSTRAP CDN
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student will learn what a Bootstrap CDN is and how to use it to access remote CSS, JavaScript, and images.
+
+### Core Course Concepts:
+
+- **Content Delivery Network (CDN):** The student learned that a CDN can be used to load Bootstrap assets remotely, which improves performance and reduces the need for local hosting.
+- **External Assets:** The lesson introduced the concept of using a CDN to access external resources like CSS, JavaScript, and even icon fonts like Font Awesome.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

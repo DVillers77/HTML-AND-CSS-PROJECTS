@@ -7520,3 +7520,19 @@ This entry documents the lesson on the Bootstrap framework. The student learned 
 The discussion provided context on Bootstrap's current standing in the industry. While it remains a popular and useful tool, especially for rapid prototyping and internal dashboards, a modern alternative, Tailwind CSS, has gained significant popularity. The discussion highlighted the difference between Bootstrap's component-based approach and Tailwind's utility-first approach, which allows for greater design flexibility. This insight reinforces that a modern developer should understand the trade-offs between different frameworks and choose the right tool for the job.
 
 ---
+
+#### BOOTSTRAP CDN
+
+### Course Step Number: 484
+
+### Date Researched: 2025-08-13
+
+### Robust Summary of Best Practices and Modernization
+
+This entry documents the lesson on Bootstrap CDN. The student learned that a CDN is a highly efficient way to deliver web assets by providing a remote network of servers. This approach is a best practice for improving website performance and reliability, as it ensures that users are always served the most current version of the framework.
+
+##### Insights from Chat Discussion summary
+
+The discussion introduced the modern best practice of using Subresource Integrity (SRI) with CDNs to enhance security. This is a critical step in protecting users from potential malicious code injection. The discussion also framed the concept of using a CDN from a UX perspective, highlighting how it contributes to "perceived performance," a key factor in user satisfaction.
+
+---

@@ -8559,3 +8559,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 487: PX TO REM CONVERSION
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student will learn how to convert pixel values to `rem` units and understand the importance of `rem` for creating scalable and accessible layouts.
+
+### Core Course Concepts:
+
+- **`rem` Unit:** The lesson provided a practical guide and calculator for converting pixels to `rem`, emphasizing its role as a root-based, scalable unit of measurement.
+- **Accessibility:** The student learned that using `rem` is a key best practice for accessibility, as it allows all elements to scale proportionally when a user adjusts their browser's default font size.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

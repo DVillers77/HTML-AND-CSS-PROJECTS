@@ -8394,3 +8394,35 @@ While this step was technically completed earlier in the lesson, the formal assi
 - The student initiated a discussion on form accessibility, leading to the best-practice solution of using an asterisk and `<span>` tag to clearly label an optional field for all users, including those using screen readers.
 
 ---
+
+#### Step 479: STEP 5 CSS SUBMISSION ASSIGNMENT
+
+### Date Completed: 2025-08-12
+
+### Objective:
+
+- Push the "One-Page Website" folder to the "HTML-AND-CSS-PROJECTS" repository on GitHub.
+- Submit the GitHub URL for instructor review.
+
+### Core Course Concepts:
+
+- **Version Control Systems (Git & GitHub):** The student will use Git to push local changes to a remote repository, demonstrating proficiency with version control.
+- **External CSS:** This submission is a final check to ensure the external CSS file is correctly linked and applied to the HTML document.
+- **CSS Properties:** The assignment requires a review of several key CSS properties, including `font-family`, `font-size`, `width`, `margin`, `border`, and `border-radius` of form inputs.
+
+### Relevant Files:
+
+- [one-page-website.html](one-page-website/one-page-website.html)
+- [one-page-website.css](one-page-website/css/one-page-website.css)
+- [site.webmanifest.txt](one-page-website/images/site.webmanifest.txt)
+- [favicon-paws.ico](one-page-website/images/favicon-paws.ico)
+- [favicon-paws-32x32.png](one-page-website/images/favicon-paws-32x32.png)
+- [favicon-paws-16x16.png](one-page-website/images/favicon-paws-16x16.png)
+- [apple-touch-icon-paws.png](one-page-website/images/apple-touch-icon-paws.png)
+- [android-chrome-paws-192x192.png](one-page-website/images/android-chrome-paws-192x192.png)
+- [android-chrome-paws-512x512.png](one-page-website/images/android-chrome-paws-512x512.png)
+- [ASSIGNMENT_INDEX.md](ASSIGNMENT_INDEX.md)
+- [SUPPLEMENTARY_LEARNING_LOG.md](SUPPLEMENTARY_LEARNING_LOG.md)
+- [README.md](README.md)
+
+---

@@ -378,22 +378,6 @@ This assignment involved debugging a provided HTML document. The student success
 
 This assignment was a practical exercise to reinforce the importance of using online resources. The student was tasked with using `w3schools.com` to learn and implement new concepts in both HTML and CSS. The student successfully completed the assignment, demonstrating an understanding of how to find and apply new coding knowledge.
 
-#### 75. CSS UPGRADE ASSIGNMENT - STEP 0
+#### 75. CSS UPGRADE ASSIGNMENT - Comprehensive Summary
 
-This assignment involves the student setting up the file structure for a CSS upgrade. The student created a `CSS` folder within the "one-page-website" directory and a new CSS file named `one-page-website.css`. This step reinforces the best practice of separating styling from content.
-
-#### 76. CSS UPGRADE ASSIGNMENT - STEP 1
-
-This assignment involved the student applying a `font-family` and a default `font-size` to their website using a new CSS file. The student successfully implemented the style rules on the `body` element, which is a modern best practice for ensuring consistent styling across the entire page. The student also corrected an error in their HTML file by removing a duplicate `<title>` tag.
-
-#### 77. CSS UPGRADE ASSIGNMENT - STEP 2
-
-This assignment involved the student styling the form on their one-page website. The student successfully applied CSS properties to control the form's appearance, debugged a layout issue with the checkbox, and made several user experience improvements, including adding an accessible label for the textarea and using the `rows` attribute.
-
-#### 78. CSS UPGRADE ASSIGNMENT - STEP 3
-
-This assignment was a formal check for the student to ensure their external stylesheet was correctly linked to their HTML document. The student confirmed that this step was already completed, which reinforces the best practice of linking CSS files in the `<head>` of the HTML document.
-
-#### 79. CSS UPGRADE ASSIGNMENT - STEP 4
-
-This assignment involved a comprehensive review and debugging of the `one-page-website` project. The student demonstrated strong problem-solving skills by identifying and correcting several critical errors in both the HTML and CSS, including misplaced curly brackets and incorrect HTML nesting. The student also refactored the pet image CSS to use a more efficient `.pet-card` class instead of multiple ID selectors. Finally, the student improved the accessibility of the form's phone number field by moving the "optional" text out of the placeholder and correctly marking it with an asterisk. This practical exercise was a strong demonstration of debugging, refactoring, and a commitment to modern web development best practices.
+This assignment involved a multi-step project to upgrade a one-page website using CSS. The student began by setting up the correct file structure, creating a dedicated `CSS` folder and file, and linking the external stylesheet to the HTML document. They then applied a `font-family` and `font-size` to the `body` element for consistent styling across the page. The project progressed with the student styling the form, where they applied various properties to control the appearance of inputs, debugged a layout issue, and made several user experience improvements. A comprehensive review and debugging session was performed where the student demonstrated strong problem-solving skills by identifying and correcting critical errors in both the HTML and CSS, including misplaced curly brackets and incorrect HTML nesting. The student also refactored the pet image CSS to use a more efficient `.pet-card` class instead of multiple ID selectors and improved the accessibility of the phone number field. The project concluded with the student pushing the completed "One-Page Website" folder to a GitHub repository, demonstrating their ability to use version control and formally submit a project for review.

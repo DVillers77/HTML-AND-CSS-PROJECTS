@@ -7615,3 +7615,19 @@ This entry documents the lesson on package managers. The student learned that pa
 The discussion highlighted the importance of package managers in creating reproducible build environments, a critical best practice for team collaboration and project stability. It also introduced how modern package managers contribute to security by auditing dependencies for known vulnerabilities, a key modernization step. Finally, the discussion framed package managers from a UX perspective, emphasizing their role in improving the Developer Experience (DX) by allowing developers to focus on building features rather than managing dependencies.
 
 ---
+
+#### JSDELIVR
+
+### Course Step Number: 490
+
+### Date Researched: 2025-08-13
+
+### Robust Summary of Best Practices and Modernization
+
+This entry documents the lesson on JsDelivr, a content delivery network for open-source projects. The student learned that JsDelivr is a best practice for a number of reasons, including its ability to provide a centralized and secure source for popular libraries, which improves performance through caching and ensures developers are using official, untampered code.
+
+##### Insights from Chat Discussion summary
+
+The discussion reinforced that JsDelivr contributes directly to a better user experience by optimizing for speed and accessibility. By delivering assets from a global network of servers, it reduces latency and load times, making the website feel faster and more responsive for all users, regardless of their location or internet speed.
+
+---

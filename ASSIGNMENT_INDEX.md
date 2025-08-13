@@ -8615,3 +8615,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 490: JSDELIVR
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student will learn what JsDelivr is and how it functions as a free CDN for open-source projects.
+
+### Core Course Concepts:
+
+- **Content Delivery Network (CDN):** The student learned that JsDelivr is a CDN that delivers web files from a registry (like NPM or GitHub) to users.
+- **Open-Source Integration:** The lesson highlighted the use of JsDelivr for safely and securely accessing open-source projects.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

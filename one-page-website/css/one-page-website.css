@@ -239,8 +239,8 @@ nav ul li a::before {
   text-decoration: none;
   /* Sets the color of the link text */
   color: #333;
-  /* Shifts the link to the left by just over half the width of the icon */
-  transform: translateX(-10px);
+  /* Shifts the link to the left by half the width of the icon */
+  transform: translateX(-8px);
   /* Sets the font size to match the navigation links */
   font-size: 1.2rem;
 }

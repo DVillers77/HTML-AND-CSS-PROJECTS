@@ -393,3 +393,7 @@ This assignment involved the student styling the form on their one-page website.
 #### 78. CSS UPGRADE ASSIGNMENT - STEP 3
 
 This assignment was a formal check for the student to ensure their external stylesheet was correctly linked to their HTML document. The student confirmed that this step was already completed, which reinforces the best practice of linking CSS files in the `<head>` of the HTML document.
+
+#### 79. CSS UPGRADE ASSIGNMENT - STEP 4
+
+This assignment involved a comprehensive review and debugging of the `one-page-website` project. The student demonstrated strong problem-solving skills by identifying and correcting several critical errors in both the HTML and CSS, including misplaced curly brackets and incorrect HTML nesting. The student also refactored the pet image CSS to use a more efficient `.pet-card` class instead of multiple ID selectors. Finally, the student improved the accessibility of the form's phone number field by moving the "optional" text out of the placeholder and correctly marking it with an asterisk. This practical exercise was a strong demonstration of debugging, refactoring, and a commitment to modern web development best practices.

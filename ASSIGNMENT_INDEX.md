@@ -8352,3 +8352,45 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [one-page-website.css](one-page-website/css/one-page-website.css)
 
 ---
+
+#### Step 478: STEP 4 CSS ASSIGNMENT
+
+### Date Completed: 2025-08-12
+
+### Objective:
+
+- The student successfully performed a comprehensive code review and debugging session to refactor their HTML and CSS for improved structure, responsiveness, and accessibility.
+- The student corrected syntax errors and structural issues that were preventing the website from rendering correctly.
+
+### Core Course Concepts:
+
+- **Debugging and Syntax Correction:** The student practiced identifying and fixing critical errors in both HTML and CSS, including improper `<div>` nesting and missing CSS curly brackets.
+- **HTML Semantics and Structure:** The student refactored the pet images and video sections by adding meaningful `<div>` and `<section>` tags to improve the semantic structure and readability of the document.
+- **CSS Modularity and Specificity:** The student refactored the CSS to use a single, reusable `.pet-card` class instead of individual ID selectors for each image, demonstrating a strong understanding of modular code design.
+- **Accessibility and User Experience:** The student improved form accessibility by moving the `(Optional)*` text out of the phone number input's placeholder and into a separate `<span>` tag, ensuring it is always visible to screen readers.
+- **Responsive Web Design:** The student's work confirmed the correct implementation of a CSS media query to ensure the website layout adapts to different screen sizes.
+
+### Relevant Files:
+
+- [one-page-website.html](one-page-website/one-page-website.html)
+- [one-page-website-step-3.html](one-page-website/one-page-website-step-3.html)
+- [one-page-website.css](one-page-website/css/one-page-website.css)
+- [one-page-website-step-3.css](one-page-website/css/one-page-website-step-3.css)
+- [site.webmanifest.txt](one-page-website/images/site.webmanifest.txt)
+- [favicon-paws.ico](one-page-website/images/favicon-paws.ico)
+- [favicon-paws-32x32.png](one-page-website/images/favicon-paws-32x32.png)
+- [favicon-paws-16x16.png](one-page-website/images/favicon-paws-16x16.png)
+- [apple-touch-icon-paws.png](one-page-website/images/apple-touch-icon-paws.png)
+- [android-chrome-paws-192x192.png](one-page-website/images/android-chrome-paws-192x192.png)
+- [android-chrome-paws-512x512.png](one-page-website/images/android-chrome-paws-512x512.png)
+- [ASSIGNMENT_INDEX.md](ASSIGNMENT_INDEX.md)
+- [SUPPLEMENTARY_LEARNING_LOG.md](SUPPLEMENTARY_LEARNING_LOG.md)
+- [README.md](README.md)
+
+### Insights from Chat Discussion summary
+
+- The student demonstrated exceptional debugging skills by identifying a misplaced closing curly bracket in the CSS, an extra `</div>` in the HTML, and a missing curly bracket in a media query that the assistant had failed to correct.
+- The student and assistant collaborated to refactor the CSS and HTML, moving from overly specific ID selectors for images to a single, efficient class, and correctly addressing HTML structural issues.
+- The student initiated a discussion on form accessibility, leading to the best-practice solution of using an asterisk and `<span>` tag to clearly label an optional field for all users, including those using screen readers.
+
+---

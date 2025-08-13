@@ -8519,3 +8519,23 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 485: OPTIONAL BOOTSTRAP ASSIGNMENT
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student will evaluate the pros and cons of using a Bootstrap CDN versus downloading the framework locally.
+- The student will make a choice on how to proceed with the Bootstrap lessons based on their specific needs.
+
+### Core Course Concepts:
+
+- **Dependency Management:** The student learned that paying attention to framework versions is critical for project consistency.
+- **Performance vs. Customization:** The lesson highlighted the trade-offs between using a CDN (better performance) and a local download (greater customization and offline capability).
+
+### Relevant Files:
+
+- Not applicable.
+
+---

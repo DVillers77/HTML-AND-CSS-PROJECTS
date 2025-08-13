@@ -7536,3 +7536,19 @@ This entry documents the lesson on Bootstrap CDN. The student learned that a CDN
 The discussion introduced the modern best practice of using Subresource Integrity (SRI) with CDNs to enhance security. This is a critical step in protecting users from potential malicious code injection. The discussion also framed the concept of using a CDN from a UX perspective, highlighting how it contributes to "perceived performance," a key factor in user satisfaction.
 
 ---
+
+#### OPTIONAL BOOTSTRAP ASSIGNMENT
+
+### Course Step Number: 485
+
+### Date Researched: 2025-08-13
+
+### Robust Summary of Best Practices and Modernization
+
+This entry documents the optional assignment to choose between using a Bootstrap CDN or a local download. The student learned about the importance of version control and the trade-offs between performance, customization, and offline access.
+
+##### Insights from Chat Discussion summary
+
+The student made a decision to use the CDN, which is a modern best practice for performance and ease of use, especially given their reliable internet connection. The discussion reinforced that a CDN is an effective choice for ensuring access to the latest version of the framework without the burden of manual updates or local hosting.
+
+---

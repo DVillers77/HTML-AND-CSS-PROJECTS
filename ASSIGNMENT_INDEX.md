@@ -8906,3 +8906,21 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 505: QUIZ
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student demonstrated comprehension of the preceding lessons by successfully completing a quiz on the core purpose of Bootstrap's Subresource Integrity (SRI) and the advantages of using a CDN.
+
+### Core Course Concepts:
+
+- **Quiz Questions:** The student correctly answered questions on the purpose of SRI and the primary advantage of using a CDN link for Bootstrap.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

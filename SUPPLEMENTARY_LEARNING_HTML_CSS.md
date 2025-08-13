@@ -7847,3 +7847,15 @@ This entry documents the second video tutorial on Bootstrap, where the student l
 The discussion provided a practical, real-world debugging scenario where the student encountered a persistent caching issue with the CDN link. Through collaborative troubleshooting, the student learned how to use network tools to inspect file requests and confirmed that the problem was an environmental issue, not a coding error. This experience reinforced the importance of understanding the browser's role in serving web content and the value of having a local file-linking option as a reliable backup.
 
 ---
+
+#### QUIZ
+
+### Course Step Number: 505
+
+### Date Researched: 2025-08-13
+
+### Robust Summary of Best Practices and Modernization
+
+This entry documents the completion of a quiz on Bootstrap's CDN integration. The student demonstrated a solid understanding of two key concepts: the role of Subresource Integrity (SRI) in verifying file security and the primary advantage of a CDN link, which is to allow all Bootstrap files to be accessed with a single, performant link. This confirms a grasp of modern web development security and performance best practices.
+
+---

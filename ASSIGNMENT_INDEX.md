@@ -8426,3 +8426,21 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [README.md](README.md)
 
 ---
+
+#### Step 480: SECTION 11: BOOTSTRAP
+
+### Date Completed: 2025-08-12
+
+### Objective:
+
+- The student is beginning a new section on "BOOTSTRAP." This step outlines the upcoming topics to be covered in this section.
+
+### Core Course Concepts:
+
+- **Upcoming Topics:** The student is preparing to learn about the Bootstrap framework, including accessing it via CDN, using the container, and understanding the relationship between pixels and rem units.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

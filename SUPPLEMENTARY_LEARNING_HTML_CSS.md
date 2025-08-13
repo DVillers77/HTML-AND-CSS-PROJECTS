@@ -7457,3 +7457,19 @@ This entry documents the final step of the CSS Upgrade Assignment, which is to s
 The student confirmed that the website files were ready for submission and that they only needed to provide the GitHub URL. The discussion validated that all of the previous steps and requirements, including linking the CSS file and modifying the specified properties, were completed as part of the overall assignment.
 
 ---
+
+#### SECTION 11: BOOTSTRAP
+
+### Course Step Number: 480
+
+### Date Researched: 2025-08-12
+
+### Robust Summary of Best Practices and Modernization
+
+This entry marks the beginning of a new section focused on the Bootstrap framework. The student will be introduced to a foundational tool in modern web development that accelerates the process of creating responsive and mobile-first websites.
+
+- **Frameworks vs. Custom CSS:** The lessons will introduce the concept of using a pre-built framework like Bootstrap to handle common styling and layout challenges, contrasting this with writing custom CSS from scratch. This highlights a key efficiency trade-off in professional development.
+- **CDN (Content Delivery Network):** The student will learn the best practice of accessing Bootstrap via a CDN, which improves website performance and reduces server load by serving assets from geographically distributed servers.
+- **Mobile-First Design:** Bootstrap is built on a mobile-first philosophy, a critical concept in modern UX/UI design. The student will learn how a component-based system is designed to work on small screens first, then scales up to larger ones.
+
+---

@@ -8676,3 +8676,23 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 493: MOBILE FIRST
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student will learn the definition of "mobile first" as a design and development strategy.
+- The student will understand how a mobile-first approach contributes to creating a responsive website.
+
+### Core Course Concepts:
+
+- **Mobile First:** The student learned that "mobile first" is the practice of designing and developing for mobile devices as a priority.
+- **Responsive vs. Adaptive Design:** The lesson introduced the concepts of responsive design (single, flexible layout) and adaptive design (multiple, specific layouts).
+
+### Relevant Files:
+
+- Not applicable.
+
+---

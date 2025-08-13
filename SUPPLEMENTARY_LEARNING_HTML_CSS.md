@@ -7695,3 +7695,19 @@ This entry documents the lesson on minification. The student learned that minifi
 The discussion clarified the modern workflow for minification: code should be written in a readable, developer-friendly format and then automatically minified by a build tool before deployment. This approach allows for a good Developer Experience (DX) during the development cycle while still benefiting from the performance gains of minification in production. From a UX perspective, the student learned how minification directly impacts "perceived performance," which is a key factor in user satisfaction.
 
 ---
+
+#### SOURCE MAP
+
+### Course Step Number: 495
+
+### Date Researched: 2025-08-13
+
+### Robust Summary of Best Practices and Modernization
+
+This entry documents the lesson on source maps. The student learned that a source map is a vital part of the modern development workflow, as it enables developers to debug production code using the original, human-readable source. The concept is accurate and is a standard practice for maintaining a healthy codebase.
+
+##### Insights from Chat Discussion summary
+
+The discussion highlighted that source maps are a foundational part of the modern development ecosystem, seamlessly integrated with build tools and browser developer tools. From a UX perspective, the student learned how source maps contribute to a more reliable user experience by enabling developers to quickly identify and fix bugs that occur in the live environment.
+
+---

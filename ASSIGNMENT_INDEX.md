@@ -8715,3 +8715,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 495: SOURCE MAP
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student will learn what a source map is and how it is used for debugging.
+
+### Core Course Concepts:
+
+- **Source Map:** The student learned that a source map is a file that links a minified code file back to its original source.
+- **Debugging:** The lesson explained that a source map is a crucial tool for developers to debug errors in a browser's developer tools.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

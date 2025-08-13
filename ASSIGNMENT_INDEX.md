@@ -8696,3 +8696,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 494: MINIFIED
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student will learn what a minified code file is and its purpose in improving website performance.
+
+### Core Course Concepts:
+
+- **Minification:** The student learned that minification is the process of removing unnecessary characters from code to reduce file size.
+- **File Naming Convention:** The lesson introduced the `.min` file extension as the standard way to denote a minified file.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

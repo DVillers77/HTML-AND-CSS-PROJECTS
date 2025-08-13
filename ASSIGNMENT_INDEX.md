@@ -8734,3 +8734,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 496: SECURE HASHING ALGORITHM (SHA)
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student will learn what a Secure Hashing Algorithm (SHA) is and its purpose in ensuring data security and integrity.
+
+### Core Course Concepts:
+
+- **Hashing:** The student learned that hashing is the process of using an algorithm to transform data into a unique, fixed-size string (a hash value).
+- **SHA:** The lesson defined SHA as a cryptographic hash function that verifies that a file has not been tampered with.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

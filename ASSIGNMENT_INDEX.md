@@ -8828,3 +8828,25 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 501: INTRODUCTION TO BOOTSTRAP PART 1 VIDEO
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student will learn the fundamentals of the Bootstrap framework, including its purpose, file structure, and how to link it to an HTML file.
+- The student will perform a hands-on tutorial to download Bootstrap v5.1.3 and create a responsive webpage.
+
+### Core Course Concepts:
+
+- **Bootstrap Fundamentals:** The student learned that Bootstrap is a responsive, mobile-first CSS and JavaScript framework.
+- **File Structure:** The student practiced downloading and navigating the compiled Bootstrap files, including the `dist` folder and the `css` files.
+- **Linking to HTML:** The student learned how to link a local Bootstrap CSS file to an HTML document using the `<link>` tag.
+- **CSS Variables and Responsiveness:** The video provided an in-depth look at how Bootstrap uses `rem`, `vw`, and CSS variables to achieve responsive sizing and font styling.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

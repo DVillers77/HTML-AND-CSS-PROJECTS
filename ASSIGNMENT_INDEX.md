@@ -8539,3 +8539,23 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 486: THE BOOTSTRAP CONTAINER
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student will learn the purpose of the Bootstrap "Container" class and its 12-column responsive grid system.
+- The student will be introduced to the `rem` unit as a scalable measurement for font size.
+
+### Core Course Concepts:
+
+- **Bootstrap Layout:** The student learned that the "Container" class is the fundamental layout component and how the 12-column grid system enables responsive design.
+- **`rem` Unit:** The lesson introduced `rem` (root em) as a unit of measurement that scales typography based on the page's base font size, promoting accessibility and visual consistency.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

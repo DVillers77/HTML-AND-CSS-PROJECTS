@@ -8634,3 +8634,24 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 491: SASS
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student will learn what Sass is, its purpose as a CSS preprocessor, and how to use key features like variables and mixins.
+- The student will understand the difference between Sass and SCSS syntax.
+
+### Core Course Concepts:
+
+- **Sass (Syntactically Awesome Style Sheets):** The student learned that Sass is a CSS preprocessor that compiles to CSS.
+- **Variables and Mixins:** The lesson introduced Sass variables (using `$`) for code reuse and mixins (using `@mixin` and `@include`) to group multiple CSS declarations.
+- **Syntax:** The student learned about the two syntaxes: indented syntax (`.sass`) and the more common SCSS (`.scss`).
+
+### Relevant Files:
+
+- Not applicable.
+
+---

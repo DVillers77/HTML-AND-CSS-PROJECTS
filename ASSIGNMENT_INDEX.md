@@ -8850,3 +8850,21 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 502: QUIZ
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student demonstrated comprehension of the preceding lessons by successfully completing a quiz on the core purpose of the Bootstrap framework.
+
+### Core Course Concepts:
+
+- **Quiz Questions:** The student correctly answered a question on what Bootstrap is primarily used for in web development.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

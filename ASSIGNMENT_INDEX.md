@@ -8655,3 +8655,24 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 492: CSS VARIABLES
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student will learn what CSS variables (custom properties) are and how to use them to create reusable values.
+- The student will understand the difference between global and local CSS variables and how to call them with the `var()` function.
+
+### Core Course Concepts:
+
+- **CSS Variables:** The student learned that CSS variables are custom properties, denoted by a double hyphen (`--`), that store reusable values.
+- **Scope:** The lesson explained the difference between global variables, declared in `:root`, and local variables, declared in a specific ruleset.
+- **`var()` function:** The student learned how to use the `var()` function to access and apply the value of a CSS variable.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

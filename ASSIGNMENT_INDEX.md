@@ -8772,3 +8772,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 498: CROSS-ORIGIN
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student will learn the definition of "cross-origin" and how to use the `crossorigin` attribute to manage requests to different domains.
+
+### Core Course Concepts:
+
+- **Cross-Origin:** The student learned that a cross-origin request is one made to a domain different from the one a webpage is hosted on.
+- **`crossorigin` Attribute:** The lesson explained that this attribute controls how credentials like cookies are sent with cross-origin requests, with `"anonymous"` being the standard setting to prevent user information from being sent.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

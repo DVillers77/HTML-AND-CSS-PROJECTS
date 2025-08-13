@@ -7743,3 +7743,19 @@ This entry documents the lesson on Subresource Integrity (SRI). The student lear
 The discussion reinforced that SRI is a modern best practice that shifts the trust model of the web by providing a verifiable method to confirm the integrity of resources. From a UX perspective, the student learned how SRI contributes directly to user safety and confidence by ensuring they are not exposed to compromised resources, which builds a foundation of trust in the product.
 
 ---
+
+#### CROSS-ORIGIN
+
+### Course Step Number: 498
+
+### Date Researched: 2025-08-13
+
+### Robust Summary of Best Practices and Modernization
+
+This entry documents the lesson on cross-origin requests and the `crossorigin` attribute. The student learned that this is a fundamental concept in modern web security, as it helps prevent the unintentional sharing of user data with third-party domains. The content is accurate and highly relevant, as it is a core component of security features like Subresource Integrity.
+
+##### Insights from Chat Discussion summary
+
+The discussion clarified the nuance of the `crossorigin` attribute, explaining that using `"anonymous"` is an explicit confirmation of the browser's secure default behavior. This is a key part of a modern web security model where developers make conscious, secure choices. From a UX perspective, the student learned how this small technical detail contributes to building user trust by demonstrating a clear commitment to user privacy.
+
+---

@@ -7584,3 +7584,18 @@ This entry documents the lesson on converting pixels to `rem` units. The student
 The discussion highlighted the UX benefits of using `rem`, specifically how it empowers the user by allowing them to customize their Browse experience. By designing a system that respects and responds to a user's browser settings, the student learned how to build a product that is more flexible and inclusive, which is a core tenet of modern, user-centric design.
 
 ---
+
+#### SUBSECTION B: INTRO TO BOOTSTRAP 1
+
+### Course Step Number: 488
+
+### Date Researched: 2025-08-13
+
+### Robust Summary of Best Practices and Modernization
+
+This entry marks the beginning of a new subsection focused on a more in-depth introduction to Bootstrap. The upcoming lessons will go beyond basic usage and explore key concepts that are central to modern front-end development, such as build tools and security.
+
+- **Developer Tooling:** The lessons will introduce concepts like package managers and Sass, which are essential tools for managing dependencies and writing more efficient, maintainable CSS.
+- **Performance and Security:** The student will learn about minified files, source maps, and security features like Subresource Integrity (SRI) and Secure Hashing Algorithm (SHA). This is a critical modernization step that highlights the importance of not just writing code, but also deploying it securely and efficiently.
+
+---

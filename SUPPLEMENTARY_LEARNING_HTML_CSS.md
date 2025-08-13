@@ -7727,3 +7727,19 @@ This entry documents the lesson on the Secure Hashing Algorithm (SHA). The stude
 The discussion highlighted the role of SHA in building user trust by protecting them from potential attacks. The student learned that while users may not be aware of the technical details, the implementation of such security measures is an ethical and foundational part of providing a safe and reliable user experience.
 
 ---
+
+#### SUBRESOURCE INTEGRITY(SRI)
+
+### Course Step Number: 497
+
+### Date Researched: 2025-08-13
+
+### Robust Summary of Best Practices and Modernization
+
+This entry documents the lesson on Subresource Integrity (SRI). The student learned that SRI is a vital security feature that protects web applications from "supply chain attacks" by verifying the integrity of third-party resources. The lesson is accurate and the concept is a critical component of modern web security.
+
+##### Insights from Chat Discussion summary
+
+The discussion reinforced that SRI is a modern best practice that shifts the trust model of the web by providing a verifiable method to confirm the integrity of resources. From a UX perspective, the student learned how SRI contributes directly to user safety and confidence by ensuring they are not exposed to compromised resources, which builds a foundation of trust in the product.
+
+---

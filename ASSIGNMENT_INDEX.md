@@ -8753,3 +8753,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 497: SUBRESOURCE INTEGRITY(SRI)
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student will learn what Subresource Integrity (SRI) is and how it is used to ensure the security of third-party resources.
+
+### Core Course Concepts:
+
+- **Subresource Integrity (SRI):** The student learned that SRI is a security feature that verifies files retrieved from a third-party server, such as a CDN.
+- **Security Verification:** The lesson explained that SRI works by matching the file's hash value with a Secure Hashing Algorithm (SHA) key to ensure the content has not been tampered with.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

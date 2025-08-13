@@ -8462,3 +8462,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 482: CDN
+
+### Date Completed: 2025-08-12
+
+### Objective:
+
+- The student will learn the definition and purpose of a Content Delivery Network (CDN) and understand how it improves website performance.
+
+### Core Course Concepts:
+
+- **Content Delivery Network (CDN):** The student learned that a CDN is a network that delivers web content based on user location, server origin, and server proximity.
+- **Performance Optimization:** The lesson highlights that CDNs are effective in speeding up content delivery, especially for websites with high traffic, by reducing latency.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

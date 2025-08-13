@@ -7488,3 +7488,19 @@ This entry marks the beginning of a new subsection focused on accessing the Boot
 - **Dependency Management:** This step is a foundational exercise in managing project dependencies. The student will learn that linking an external stylesheet is a simple form of dependency management, which is a key concept in larger, more complex projects.
 
 ---
+
+#### CDN
+
+### Course Step Number: 482
+
+### Date Researched: 2025-08-12
+
+### Robust Summary of Best Practices and Modernization
+
+This entry documents the lesson on Content Delivery Networks (CDNs). The student learned that CDNs are crucial for optimizing website performance and improving the user experience, particularly for sites with a global audience. The key takeaway is that CDNs serve content from geographically closer servers, which significantly reduces latency.
+
+##### Insights from Chat Discussion summary
+
+The discussion expanded on the core lesson by introducing the concept of "performance as a feature." This highlights a key UX bias where a fast, responsive website is not just a technical detail but a fundamental aspect of a good user experience. The student was also introduced to modern CDN capabilities like edge computing, which allows for dynamic content and code to be run closer to the user.
+
+---

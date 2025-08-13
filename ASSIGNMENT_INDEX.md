@@ -8444,3 +8444,21 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 481: SUBSECTION A: ACCESSING BOOTSTRAP
+
+### Date Completed: 2025-08-12
+
+### Objective:
+
+- The student is beginning a new subsection on "ACCESSING BOOTSTRAP." This step outlines the upcoming topics to be covered in this subsection.
+
+### Core Course Concepts:
+
+- **Upcoming Topics:** The student is preparing to learn about the various methods of accessing and integrating the Bootstrap framework into a web project.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

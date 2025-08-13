@@ -7473,3 +7473,18 @@ This entry marks the beginning of a new section focused on the Bootstrap framewo
 - **Mobile-First Design:** Bootstrap is built on a mobile-first philosophy, a critical concept in modern UX/UI design. The student will learn how a component-based system is designed to work on small screens first, then scales up to larger ones.
 
 ---
+
+#### SUBSECTION A: ACCESSING BOOTSTRAP
+
+### Course Step Number: 481
+
+### Date Researched: 2025-08-12
+
+### Robust Summary of Best Practices and Modernization
+
+This entry marks the beginning of a new subsection focused on accessing the Bootstrap framework. The student will be introduced to the fundamental process of integrating an external CSS framework into their projects, a crucial skill in modern web development.
+
+- **External Libraries:** The lessons will introduce the concept of using external libraries and frameworks to accelerate development, emphasizing the importance of understanding how to correctly link these resources to ensure they function properly.
+- **Dependency Management:** This step is a foundational exercise in managing project dependencies. The student will learn that linking an external stylesheet is a simple form of dependency management, which is a key concept in larger, more complex projects.
+
+---

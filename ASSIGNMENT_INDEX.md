@@ -8886,3 +8886,23 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 504: INTRODUCTION TO BOOTSTRAP PART 2 VIDEO
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student will learn how to use Bootstrap with a Content Delivery Network (CDN) and utilize a browser's developer tools to inspect and debug framework files.
+
+### Core Course Concepts:
+
+- **CDN vs. Local:** The student learned the benefits of using a CDN for performance and security over local file linking.
+- **Minified Files and SRI:** The lesson explained the purpose of minified files, Subresource Integrity (SRI), and the `crossorigin` attribute in a CDN link.
+- **Developer Tools:** The student practiced using the browser's developer tools to navigate and inspect CSS files loaded from a remote server, including tracing CSS variables.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

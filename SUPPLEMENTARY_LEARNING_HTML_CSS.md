@@ -7831,3 +7831,19 @@ This entry documents the completion of a quiz on the Bootstrap framework. The st
 This entry documents a structural step in the course, introducing the student to the second part of the Bootstrap tutorial. It provides an organizational overview of the next lessons, preparing the student to watch a video tutorial on Bootstrap and then complete a quiz to test their knowledge.
 
 ---
+
+#### INTRODUCTION TO BOOTSTRAP PART 2 VIDEO
+
+### Course Step Number: 504
+
+### Date Researched: 2025-08-13
+
+### Robust Summary of Best Practices and Modernization
+
+This entry documents the second video tutorial on Bootstrap, where the student learned to transition from a local file setup to using a Content Delivery Network (CDN). The lesson highlighted modern web development best practices, including minifying files for faster load times and using Subresource Integrity (SRI) for enhanced security. The student also gained valuable experience with browser developer tools, learning how to inspect a remote framework's file structure and debug CSS properties.
+
+##### Insights from Chat Discussion summary
+
+The discussion provided a practical, real-world debugging scenario where the student encountered a persistent caching issue with the CDN link. Through collaborative troubleshooting, the student learned how to use network tools to inspect file requests and confirmed that the problem was an environmental issue, not a coding error. This experience reinforced the importance of understanding the browser's role in serving web content and the value of having a local file-linking option as a reliable backup.
+
+---

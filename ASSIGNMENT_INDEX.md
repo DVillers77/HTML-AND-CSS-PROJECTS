@@ -8809,3 +8809,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 500: IMAGES PREPARATION
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student will download a folder of images from a GitHub repository to prepare for an upcoming Bootstrap tutorial series.
+
+### Core Course Concepts:
+
+- **Asset Preparation:** The student learned the practical step of downloading and preparing necessary assets before starting a coding tutorial.
+- **Version Control:** The lesson highlighted the use of GitHub as a modern platform for hosting and sharing project resources.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

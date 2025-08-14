@@ -8040,6 +8040,8 @@ Here is an example to illustrate the concept:
 </ul>
 ```
 
+**JavaScript**
+
 ```javascript
 <script>
   const listItems = document.querySelectorAll("li");

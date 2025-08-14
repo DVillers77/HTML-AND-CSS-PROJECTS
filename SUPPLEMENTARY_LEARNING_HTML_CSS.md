@@ -7871,3 +7871,15 @@ This entry documents the completion of a quiz on Bootstrap's CDN integration. Th
 This entry documents a structural step in the course, introducing the student to the third part of the Bootstrap tutorial. It provides an organizational overview of the next lessons, preparing the student to watch a video tutorial on Bootstrap and then complete a quiz to test their knowledge.
 
 ---
+
+#### INTRODUCTION TO BOOTSTRAP PART 3 VIDEO
+
+### Course Step Number: 507
+
+### Date Researched: 2025-08-13
+
+### Robust Summary of Best Practices and Modernization
+
+This entry documents the third video tutorial on Bootstrap, where the student learned to use the framework's grid system. The student demonstrated how to create a responsive, three-column image grid using a combination of the `.container`, `.row`, and `.col` classes. The lesson also covered different container classes and how they affect layout at various screen sizes.
+
+---

@@ -393,3 +393,7 @@ This assignment involved a hands-on tutorial to introduce the Bootstrap framewor
 #### 78. INTRODUCTION TO BOOTSTRAP PART 2 VIDEO - hands-on bootstrap with cdn (Step 504)
 
 This assignment provided a hands-on tutorial for integrating the Bootstrap framework using a Content Delivery Network (CDN). The student learned the best practice of using a CDN link, understanding the roles of key attributes like `integrity` (Subresource Integrity) and `crossorigin` in ensuring security and performance. A significant part of the learning process involved using the browser's developer tools to inspect and navigate the remote CSS files, which reinforced modern debugging skills. The student also experienced and resolved a real-world debugging challenge involving a persistent caching issue, which highlighted the complexities of a browser's environment versus the code itself.
+
+#### 79. INTRODUCTION TO BOOTSTRAP PART 3 VIDEO - hands-on bootstrap grid (Step 507)
+
+This assignment provided a hands-on tutorial for using Bootstrap's grid system. The student learned how to create a responsive grid of three images using the `.container`, `.row`, and `.col` classes, which are fundamental to modern web design. The lesson also covered the differences between Bootstrap's various container classes and how they impact a webpage's layout and responsiveness. The student successfully navigated Bootstrap's official documentation to find and implement these features, demonstrating a key skill in modern front-end development.

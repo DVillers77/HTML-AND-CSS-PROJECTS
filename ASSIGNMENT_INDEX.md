@@ -8942,3 +8942,24 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 507: INTRODUCTION TO BOOTSTRAP PART 3 VIDEO
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student will learn how to use Bootstrap's grid system and navigate the framework's documentation to create a responsive layout.
+- The student will practice using Bootstrap's `.container`, `.row`, and `.col` classes to build a responsive grid of images.
+
+### Core Course Concepts:
+
+- **Bootstrap Grid System:** The student learned how to use Bootstrap's grid system, including containers, rows, and columns, to build a responsive layout.
+- **Container Classes:** The lesson explained the different types of container classes (`.container`, `.container-fluid`, etc.) and their impact on layout responsiveness.
+- **Documentation Navigation:** The student practiced using the Bootstrap website's search and documentation to find information on specific features.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

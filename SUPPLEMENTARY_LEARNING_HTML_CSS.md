@@ -8040,9 +8040,9 @@ Here is an example to illustrate the concept:
 </ul>
 ```
 
-**JavaScript**
+**JavaScript:**
 
-```javascript
+```javaScript
 <script>
   const listItems = document.querySelectorAll("li");
 

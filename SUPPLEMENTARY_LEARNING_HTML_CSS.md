@@ -8056,3 +8056,25 @@ Here is an example to illustrate the concept:
 ```
 
 ---
+
+#### ADDITIONAL DATA ABOUT ARIA ATTRIBUTES
+
+### Course Step Number: 516
+
+### Date Researched: 2025-08-14
+
+##### Key Concepts / Summary
+
+This lesson explains ARIA attributes, which are used to make websites more accessible to assistive technologies. ARIA is composed of three parts: `role`, `state`, and `property`. The `role` attribute defines an element's purpose (e.g., `role="navigation"`). The `state` attribute shows an element's current condition (e.g., `aria-checked="false"`). The `property` attribute describes relationships between elements (e.g., `aria-labelledby`). Best practice is to use semantic HTML elements over ARIA roles whenever possible.
+
+##### Expanded Learning
+
+- **Best Practices:** Use semantic HTML (`<button>`, `<nav>`) over ARIA roles on non-semantic elements to ensure native browser and assistive technology understanding.
+- **Modernization:** ARIA is essential in modern web development to maintain accessibility for custom components in frameworks that lack implicit semantic meaning.
+- **Enhanced Learning (UX Bias):** Correct ARIA implementation creates a predictable and navigable experience for users with disabilities, which is a key part of inclusive and empathetic UX design.
+
+##### Insights from Chat Discussion summary
+
+N/A Gemini updated and is being difficult.
+
+---

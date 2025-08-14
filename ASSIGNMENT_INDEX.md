@@ -9113,3 +9113,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 516: ADDITIONAL DATA ABOUT ARIA ATTRIBUTES
+
+### Date Completed: 2025-08-14
+
+### Objective:
+
+- The student will learn the purpose of ARIA attributes and their three main components (`role`, `state`, and `property`) to create more accessible websites.
+
+### Core Course Concepts:
+
+- **ARIA Attributes:** The student learned how to use ARIA attributes to make webpages more accessible to assistive technologies.
+- **Semantic HTML:** The student reinforced the best practice of using semantic HTML over ARIA roles whenever possible.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

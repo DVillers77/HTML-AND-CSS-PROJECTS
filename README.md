@@ -397,3 +397,7 @@ This entry documents a preparatory step for a new, multi-part Bootstrap tutorial
 #### 79. IMAGES PREPARATION - downloading project assets (Step 511)
 
 This entry documents a preparatory step for a new tutorial series. The student correctly identified that the course's original link was invalid and, with a corrected link, successfully downloaded and organized the necessary image assets for the upcoming project. This demonstrated the importance of asset management and file organization in preventing broken links and ensuring a smooth development workflow.
+
+#### 80. BOOTSTRAP PART 1 VIDEO - hands-on project setup and navbar (Step 512)
+
+This entry documents the start of a new, multi-part project to build a website using Bootstrap 5.2. The student set up the project folder, created a custom CSS file to override framework styles, and added a responsive navigation bar, demonstrating a foundational understanding of using Bootstrap's components and utility classes for a clean and efficient workflow.

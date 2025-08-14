@@ -9037,3 +9037,24 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 512: BOOTSTRAP PART 1 VIDEO
+
+### Date Completed: 2025-08-14
+
+### Objective:
+
+- The student will begin a new multi-part project to build a one-page website for "Academy Cinemas" using Bootstrap 5.2.
+- The student will set up the project folder, create a custom CSS file, and add a responsive navigation bar using Bootstrap's pre-built components.
+
+### Core Course Concepts:
+
+- **Project Setup:** The student practiced setting up a new web project, including creating a folder structure for a multi-part series.
+- **Custom CSS:** The student learned the best practice of creating a separate `custom.css` file to override Bootstrap styles.
+- **Bootstrap Components:** The student used a pre-built Bootstrap navbar component and learned how to customize it using utility classes.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

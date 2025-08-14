@@ -7951,3 +7951,25 @@ This entry documents a preparatory step for an upcoming Bootstrap tutorial serie
 The student noted the original course link was invalid and provided a corrected one from their instructor. We discussed the importance of asset management and how it impacts project workflow and user experience.
 
 ---
+
+#### BOOTSTRAP PART 1 VIDEO
+
+### Course Step Number: 512
+
+### Date Researched: 2025-08-14
+
+##### Key Concepts / Summary
+
+This entry documents the first video in a new tutorial series to build a movie theater website using Bootstrap 5.2. The student set up the project, added a background image, and created a responsive navigation bar, learning how to use Bootstrap's utility classes to customize its appearance.
+
+##### Expanded Learning
+
+- **Best Practices:** Using a dedicated `custom.css` file to override framework styles is a key best practice that ensures the core framework files remain untouched, simplifying future updates.
+- **Modernization:** The use of multiple utility classes to style a single element is a modern, efficient approach to CSS that is a core part of frameworks like Bootstrap.
+- **Enhanced Learning (UX Bias):** Customizing the navigation bar's color scheme to ensure high contrast between the text and background improves readability and accessibility, which are foundational principles of good user experience design.
+
+##### Insights from Chat Discussion summary
+
+Not applicable.
+
+---

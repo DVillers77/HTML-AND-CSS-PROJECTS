@@ -8017,3 +8017,37 @@ This entry documents a structural step in the course, introducing the student to
 Not applicable.
 
 ---
+
+#### HTML DATA ATTRIBUTES
+
+### Course Step Number: 515
+
+### Date Researched: 2025-08-14
+
+##### Key Concepts / Summary
+
+This lesson introduces the `data-*` attribute, a feature that allows developers to store custom, private data directly on an HTML element. The lesson correctly explains that these attributes are prefixed with `data-` and can be accessed and manipulated by JavaScript. This allows for increased interactivity and a clean separation of concerns.
+
+Here is an example to illustrate the concept:
+
+**HTML Code:**
+
+```html
+<ul>
+  <li data-universe="Marvel">Spider-Man</li>
+  <li data-universe="DC">Batman</li>
+  <li data-universe="Star Wars">Luke Skywalker</li>
+</ul>
+<script>
+  const listItems = document.querySelectorAll("li");
+
+  listItems.forEach((item) => {
+    item.addEventListener("click", () => {
+      const universe = item.getAttribute("data-universe");
+      alert(`This character is from the ${universe} universe.`);
+    });
+  });
+</script>
+```
+
+---

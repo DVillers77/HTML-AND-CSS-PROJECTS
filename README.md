@@ -401,3 +401,7 @@ This entry documents a preparatory step for a new tutorial series. The student c
 #### 80. BOOTSTRAP PART 1 VIDEO - hands-on project setup and navbar (Step 512)
 
 This entry documents the start of a new, multi-part project to build a website using Bootstrap 5.2. The student set up the project folder, created a custom CSS file to override framework styles, and added a responsive navigation bar, demonstrating a foundational understanding of using Bootstrap's components and utility classes for a clean and efficient workflow.
+
+#### 81. HTML DATA ATTRIBUTES - storing custom data on elements (Step 515)
+
+This entry documents a lesson on `data-*` attributes, a feature that allows developers to store custom, private data directly on an HTML element. The student learned how to use these attributes as a best practice for creating interactive and dynamic web pages, as this approach is preferred over using non-standard attributes or class names for data storage.

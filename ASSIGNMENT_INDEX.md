@@ -9094,3 +9094,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 515: HTML DATA ATTRIBUTES
+
+### Date Completed: 2025-08-14
+
+### Objective:
+
+- The student will learn the purpose of the `data-*` attribute in HTML and how it can be used with JavaScript to store custom data and increase interactivity.
+
+### Core Course Concepts:
+
+- **`data-*` Attributes:** The student learned how to use `data-*` attributes to store custom, private data on an HTML element.
+- **JavaScript Interactivity:** The student was shown how JavaScript can access and manipulate `data-*` attributes to create interactive components.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

@@ -8038,6 +8038,9 @@ Here is an example to illustrate the concept:
   <li data-universe="DC">Batman</li>
   <li data-universe="Star Wars">Luke Skywalker</li>
 </ul>
+```
+
+```javascript
 <script>
   const listItems = document.querySelectorAll("li");
 

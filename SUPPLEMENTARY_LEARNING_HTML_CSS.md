@@ -8078,3 +8078,21 @@ This lesson explains ARIA attributes, which are used to make websites more acces
 N/A Gemini updated and is being difficult.
 
 ---
+
+#### Step 517: QUIZ
+
+### Date Completed: 2025-08-14
+
+### Objective:
+
+- The student demonstrated comprehension of the preceding lessons by successfully completing a quiz on HTML data attributes and ARIA attributes.
+
+### Core Course Concepts:
+
+- **Quiz Questions:** The student correctly answered questions on the main purpose of ARIA attributes and the type of value stored in an HTML data attribute.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

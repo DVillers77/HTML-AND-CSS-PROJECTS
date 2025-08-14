@@ -7907,3 +7907,25 @@ This entry documents the completion of a quiz on Bootstrap's container classes. 
 This entry documents a structural step in the course, introducing the student to the next phase of the Bootstrap tutorial. It provides an organizational overview of the upcoming lessons, preparing the student to watch a video tutorial on Bootstrap and then complete a quiz to test their knowledge.
 
 ---
+
+#### BOOTSTRAP VERSION 5.2
+
+### Course Step Number: 510
+
+### Date Researched: 2025-08-14
+
+##### Key Concepts / Summary
+
+This entry documents a preparatory step for an upcoming Bootstrap tutorial series. The student is instructed to use version 5.2, highlighting the importance of version control for preventing bugs and compatibility issues.
+
+##### Expanded Learning
+
+- **Best Practices:** Using a consistent framework version is a critical best practice to ensure project stability and prevent version-specific bugs.
+- **Modernization:** This lesson introduces the foundational concept of versioning, which is managed in modern development using tools like npm and yarn for greater consistency.
+- **Enhanced Learning (UX Bias):** Version consistency is crucial for a predictable and reliable user experience, as an incompatible framework version can lead to inconsistent styling and broken components.
+
+##### Insights from Chat Discussion summary
+
+The discussion identified a potential curriculum error where the previous lesson used a different Bootstrap version (5.1.3). The student and I discussed the importance of version consistency, and the student decided to uninstall the previous version and install version 5.2 for the new tutorial series to prevent any conflicts.
+
+---

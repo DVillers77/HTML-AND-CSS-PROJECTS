@@ -8999,3 +8999,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 510: BOOTSTRAP VERSION 5.2
+
+### Date Completed: 2025-08-14
+
+### Objective:
+
+- The student will be reminded to use Bootstrap version 5.2 for the upcoming tutorial series to prevent styling issues and maintain consistency with the videos.
+
+### Core Course Concepts:
+
+- **Version Control:** This step emphasized the importance of using a specific version of a framework to avoid compatibility and styling issues. A versioning conflict with a previous lesson was noted and resolved.
+- **Documentation:** The student was guided to the correct section of the Bootstrap website to find the link for version 5.2.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

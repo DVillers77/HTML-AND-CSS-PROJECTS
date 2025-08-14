@@ -8963,3 +8963,21 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 508: QUIZ
+
+### Date Completed: 2025-08-13
+
+### Objective:
+
+- The student demonstrated comprehension of the preceding lessons by successfully completing a quiz on Bootstrap's container classes.
+
+### Core Course Concepts:
+
+- **Quiz Questions:** The student correctly answered questions on the differences between the `.container-fluid` class and the standard `.container` class, as well as the function of the `.container-{breakpoint}` class.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

@@ -9018,3 +9018,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 511: IMAGES PREPARATION
+
+### Date Completed: 2025-08-14
+
+### Objective:
+
+- The student will download a specific image folder from a GitHub link in preparation for the upcoming tutorial series.
+
+### Core Course Concepts:
+
+- **Asset Management:** The student learned how to source and prepare necessary image assets for a project from an external repository.
+- **File Organization:** The student practiced organizing project assets by placing the images in a dedicated `images` folder.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

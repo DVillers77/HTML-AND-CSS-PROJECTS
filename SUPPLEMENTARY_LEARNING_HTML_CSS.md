@@ -7929,3 +7929,25 @@ This entry documents a preparatory step for an upcoming Bootstrap tutorial serie
 The discussion identified a potential curriculum error where the previous lesson used a different Bootstrap version (5.1.3). The student and I discussed the importance of version consistency, and the student decided to uninstall the previous version and install version 5.2 for the new tutorial series to prevent any conflicts.
 
 ---
+
+#### IMAGES PREPARATION
+
+### Course Step Number: 511
+
+### Date Researched: 2025-08-14
+
+##### Key Concepts / Summary
+
+This entry documents a preparatory step for an upcoming Bootstrap tutorial series. The student is instructed to download a specific set of images from a GitHub repository and place them into an `images` folder within their project directory, ensuring all necessary assets are in place for the upcoming tutorials.
+
+##### Expanded Learning
+
+- **Best Practices:** Sourcing and organizing all project assets at the beginning is a critical best practice to prevent broken links and ensure a smooth development process.
+- **Modernization:** The lesson demonstrates a modern workflow by having the student pull assets from a GitHub repository, a common practice in collaborative development.
+- **Enhanced Learning (UX Bias):** A well-organized file structure with a dedicated `images` folder is a foundational step in creating a reliable user interface, as it reduces the likelihood of errors that lead to a poor user experience.
+
+##### Insights from Chat Discussion summary
+
+The student noted the original course link was invalid and provided a corrected one from their instructor. We discussed the importance of asset management and how it impacts project workflow and user experience.
+
+---

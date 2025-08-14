@@ -393,3 +393,7 @@ This multi-part assignment provided a comprehensive introduction to the Bootstra
 #### 78. BOOTSTRAP VERSION 5.2 - preparing for new tutorial (Step 510)
 
 This entry documents a preparatory step for a new, multi-part Bootstrap tutorial series. The student was reminded to use a specific version of the framework, 5.2, to ensure compatibility and prevent bugs. This step highlighted the importance of version control in modern development and prompted a discussion about a curriculum error where a previous lesson used a different version. The student, demonstrating an understanding of best practices, resolved the conflict by uninstalling the older version and preparing to use the correct version for the upcoming lessons.
+
+#### 79. IMAGES PREPARATION - downloading project assets (Step 511)
+
+This entry documents a preparatory step for a new tutorial series. The student correctly identified that the course's original link was invalid and, with a corrected link, successfully downloaded and organized the necessary image assets for the upcoming project. This demonstrated the importance of asset management and file organization in preventing broken links and ensuring a smooth development workflow.

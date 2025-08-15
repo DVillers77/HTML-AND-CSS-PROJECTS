@@ -8272,3 +8272,25 @@ This video tutorial concludes the styling of the Academy Cinemas website's navig
 The student inquired about a discrepancy between the video's instructions and the behavior of their modern browser's developer tools. I explained that recent updates to browser dev tools have changed how CSS variables are edited. I provided a step-by-step guide on how to use the `Computed` tab to find and edit the variable declaration, which allowed the student to successfully complete the task.
 
 ---
+
+#### QUIZ
+
+### Course Step Number: 526
+
+### Date Researched: 2025-08-14
+
+##### Key Concepts / Summary
+
+This entry documents the completion of a quiz on core concepts from the previous lessons. The student demonstrated an understanding of the `img-fluid` class, which makes images responsive by scaling them with their parent container, and the `container-fluid` class, which provides a full-width container.
+
+##### Expanded Learning
+
+- **Best Practices:** Quizzes are a best practice in instructional design, serving as a formative assessment to reinforce learning and identify knowledge gaps.
+- **Modernization:** Online quizzes with instant feedback are a modern and efficient method for self-assessment, providing immediate confirmation of understanding.
+- **Enhanced Learning (UX Bias):** A well-placed quiz provides a "check-in" for the user, helping them to feel a sense of accomplishment and ensuring they are prepared for subsequent material, which improves the overall learning experience.
+
+##### Insights from Chat Discussion summary
+
+Not applicable.
+
+---

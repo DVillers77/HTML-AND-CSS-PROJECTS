@@ -8184,3 +8184,25 @@ This lesson introduces Data URLs, which allow developers to embed small files di
 Not applicable.
 
 ---
+
+#### SVG
+
+### Course Step Number: 522
+
+### Date Researched: 2025-08-14
+
+##### Key Concepts / Summary
+
+This lesson defines SVG as a vector graphic file format that stands for Scalable Vector Graphics. It explains that because these images are based on mathematical equations, they can be scaled to any size without losing quality, unlike pixel-based bitmap images. The lesson also highlights that SVG images are defined in XML text files, making them a popular and versatile choice for web design as they can be searched, indexed, scripted, and compressed.
+
+##### Expanded Learning
+
+- **Best Practices:** Using SVG for logos and icons is a best practice in web design because they are lightweight and can be scaled to any size without becoming blurry or pixelated, ensuring a crisp look on all devices and screen resolutions.
+- **Modernization:** SVG is a modern file format that works well with CSS and JavaScript, allowing for dynamic changes to colors, animations, and other properties. This interactivity makes it a versatile tool for creating engaging user interfaces and visualizations.
+- **Enhanced Learning (UX Bias):** SVG contributes to a better user experience by ensuring that key visual elements like logos and icons are always high-quality, regardless of the user's device or screen size. The ability to scale without quality loss creates a more professional and polished feel for the website.
+
+##### Insights from Chat Discussion summary
+
+Not applicable.
+
+---

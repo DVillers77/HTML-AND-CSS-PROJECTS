@@ -9226,3 +9226,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 522: SVG
+
+### Date Completed: 2025-08-14
+
+### Objective:
+
+- The student will learn the purpose and key characteristics of SVG (Scalable Vector Graphics) as a file format for web design.
+
+### Core Course Concepts:
+
+- **Vector Graphics:** The student learned that SVG images are composed of mathematical paths and shapes, allowing them to be scaled without any loss of quality.
+- **SVG and XML:** The student learned that SVG images are defined in XML text files, which makes them searchable, indexable, and scriptable.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

@@ -8162,3 +8162,25 @@ This entry documents a structural step in the course, introducing the student to
 Not applicable.
 
 ---
+
+#### DATA URL
+
+### Course Step Number: 521
+
+### Date Researched: 2025-08-14
+
+##### Key Concepts / Summary
+
+This lesson introduces Data URLs, which allow developers to embed small files directly into an HTML document. The structure of a Data URL is broken down into four parts: `data:` (the prefix), `[<mediatype>]` (e.g., `image/jpeg`), `[;base64]` (optional encoding), and `<data>` (the file content). The lesson explains how this is an alternative to linking external files, and provides examples for both base64 encoded data and URL-encoded HTML text.
+
+##### Expanded Learning
+
+- **Best Practices:** While Data URLs are useful for small icons or images to reduce HTTP requests, it is a best practice to avoid them for large files, as this can significantly increase the size of the HTML document and slow down page load times.
+- **Modernization:** Data URLs are still used in modern web development for small assets, particularly SVG icons, to improve performance by reducing server requests.
+- **Enhanced Learning (UX Bias):** When used correctly, Data URLs can improve the perceived performance of a website by making small assets appear to load instantly. However, if used incorrectly for large assets, they can lead to a frustratingly slow user experience due to a bloated HTML file.
+
+##### Insights from Chat Discussion summary
+
+Not applicable.
+
+---

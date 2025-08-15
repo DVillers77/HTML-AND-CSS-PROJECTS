@@ -9207,3 +9207,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 521: DATA URL
+
+### Date Completed: 2025-08-14
+
+### Objective:
+
+- The student will learn about the purpose and structure of a Data URL and how it can be used to embed small files directly into HTML documents.
+
+### Core Course Concepts:
+
+- **Data URL Structure:** The student learned the four main components of a Data URL: the `data:` prefix, the Mediatype (MIME type), the optional `base64` encoding, and the data itself.
+- **Inline Embedding:** The student learned how Data URLs provide a method for embedding assets directly into a webpage, eliminating the need for external file requests.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

@@ -405,3 +405,7 @@ This entry documents the start of a new, multi-part project to build a website u
 #### 81. BOOTSTRAP PART 2 VIDEO - customizing and styling the navbar (Step 518)
 
 This entry documents a video lesson on using Bootstrap to customize a website's navigation bar. The student learned about the functionality of a mobile "hamburger" menu, the use of CSS global variables, and the importance of CSS specificity in overriding default framework styles.
+
+#### 82. BOOTSTRAP PART 3 VIDEO - styling the navigation bar (Step 525)
+
+This entry documents a video lesson where the student completed the styling of a website's navigation bar. They learned to use pseudo-classes for interactive effects and to override Bootstrap's default styles with custom CSS.

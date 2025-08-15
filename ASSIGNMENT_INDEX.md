@@ -9282,3 +9282,24 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 525: BOOTSTRAP PART 3 VIDEO
+
+### Date Completed: 2025-08-14
+
+### Objective:
+
+- The student will complete the styling of the Academy Cinemas navigation bar, learning to apply custom CSS to override Bootstrap defaults and use CSS pseudo-classes for interactive effects.
+
+### Core Course Concepts:
+
+- **CSS Pseudo-classes:** The student learned how to use `:hover` and `:focus` pseudo-classes to create interactive visual feedback for navigation links.
+- **Overriding Framework CSS:** The student practiced creating custom CSS rule sets to override Bootstrap's default styles for various elements, including the `nav-link` and `dropdown-menu` classes.
+- **Developer Tools:** The student further utilized browser developer tools to inspect, test, and understand how to find and edit CSS variable declarations.
+
+### Relevant Files:
+
+- `index.html`
+- `custom.css`
+
+---

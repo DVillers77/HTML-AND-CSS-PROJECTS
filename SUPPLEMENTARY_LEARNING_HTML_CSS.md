@@ -8250,3 +8250,25 @@ This entry documents the completion of a quiz on core concepts from the previous
 Not applicable.
 
 ---
+
+#### BOOTSTRAP PART 3 VIDEO - finishing the navbar
+
+### Course Step Number: 525
+
+### Date Researched: 2025-08-14
+
+##### Key Concepts / Summary
+
+This video tutorial concludes the styling of the Academy Cinemas website's navigation bar. The student styled the navbar links, adding new font, color, and size, and used the `:hover` and `:focus` pseudo-classes to create interactive visual effects. They also customized the dropdown menu and its items, overriding Bootstrap's default styles for the border, background, and padding. This step reinforced the importance of understanding CSS specificity and the use of the `:root` pseudo-class for global CSS variables.
+
+##### Expanded Learning
+
+- **Best Practices:** This lesson reinforces the best practice of creating consistent styling across a website and using pseudo-classes to provide clear visual feedback to the user on interactive elements.
+- **Modernization:** The use of CSS pseudo-classes to provide dynamic styling is a fundamental technique in modern web development. Overriding framework styles also allows for a more customized and unique brand experience.
+- **Enhanced Learning (UX Bias):** Providing visual cues for interactive elements, such as a change in color on hover or focus, significantly improves the user experience. This feedback helps users understand that an element is clickable and provides a more engaging and predictable interaction.
+
+##### Insights from Chat Discussion summary
+
+The student inquired about a discrepancy between the video's instructions and the behavior of their modern browser's developer tools. I explained that recent updates to browser dev tools have changed how CSS variables are edited. I provided a step-by-step guide on how to use the `Computed` tab to find and edit the variable declaration, which allowed the student to successfully complete the task.
+
+---

@@ -409,3 +409,7 @@ This entry documents a video lesson on using Bootstrap to customize a website's 
 #### 82. BOOTSTRAP PART 3 VIDEO - styling the navigation bar (Step 525)
 
 This entry documents a video lesson where the student completed the styling of a website's navigation bar. They learned to use pseudo-classes for interactive effects and to override Bootstrap's default styles with custom CSS.
+
+#### 83. BOOTSTRAP PART 4 VIDEO - styling the mobile menu (Step 528)
+
+This entry documents a video lesson where the student finished styling the navigation bar. The student learned how to create a mobile-friendly navigation menu by using a new CSS file for media queries to apply specific styles based on screen size.

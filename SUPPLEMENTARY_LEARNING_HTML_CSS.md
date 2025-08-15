@@ -8316,3 +8316,25 @@ This entry documents a structural step in the course, introducing the student to
 Not applicable.
 
 ---
+
+#### BOOTSTRAP PART 4 VIDEO - styling the mobile menu
+
+### Course Step Number: 528
+
+### Date Researched: 2025-08-14
+
+##### Key Concepts / Summary
+
+This video tutorial focuses on making the navigation bar responsive and mobile-friendly. The student learned how to remove the border from the `navbar-toggler` button and how to change the color of the hamburger menu icon by editing a `data:` URL. The lesson also introduced creating a separate `custom-css-media.css` file with a `@media` query to apply specific styles for screens with a maximum width of 990px. This included adding a background color to the mobile dropdown, adjusting its margins, and left-aligning the menu links.
+
+##### Expanded Learning
+
+- **Best Practices:** Creating a separate file for media queries is a best practice for keeping a project organized and making it easier to manage mobile-specific styles.
+- **Modernization:** Responsive design is a core principle of modern web development. The use of media queries and flexible design patterns ensures that a website is accessible and looks good on any device.
+- **Enhanced Learning (UX Bias):** A well-designed and functional mobile menu is crucial for a positive user experience. By styling the menu icon and its links to match the overall website design, the student ensures visual consistency and usability across different platforms.
+
+##### Insights from Chat Discussion summary
+
+The student inquired about a discrepancy between the video's instructions and the behavior of their modern browser's developer tools. I explained that recent updates to browser dev tools have changed how CSS variables are edited. I provided a step-by-step guide on how to use the `Computed` tab to find and edit the variable declaration, which allowed the student to successfully complete the task.
+
+---

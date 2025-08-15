@@ -9339,3 +9339,25 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 528: BOOTSTRAP PART 4 VIDEO
+
+### Date Completed: 2025-08-14
+
+### Objective:
+
+- The student will make the navigation bar more user-friendly for mobile devices and add additional custom styling, including a new media query file.
+
+### Core Course Concepts:
+
+- **Responsive Design:** The student learned how to make the navigation bar mobile-friendly by styling the "hamburger" menu and its dropdown links for smaller screen sizes.
+- **Media Queries:** The student learned how to create and use a new CSS file for media queries to apply styles based on screen size.
+- **Data URLs and SVG:** The student learned how to edit and use a data URL to change the color of the SVG image used for the hamburger menu icon.
+
+### Relevant Files:
+
+- `index.html`
+- `custom.css`
+- `custom-css-media.css`
+
+---

@@ -9150,3 +9150,24 @@ While this step was technically completed earlier in the lesson, the formal assi
 - Not applicable.
 
 ---
+
+#### Step 518: BOOTSTRAP PART 2 VIDEO
+
+### Date Completed: 2025-08-14
+
+### Objective:
+
+- The student will continue building a one-page website using Bootstrap, focusing on styling and customizing the navigation bar with custom CSS and understanding data and ARIA attributes.
+
+### Core Course Concepts:
+
+- **Bootstrap Functionality:** The student learned how to utilize Bootstrap's data attributes (`data-bs-toggle` and `data-bs-target`) to add functionality to a mobile menu button.
+- **CSS Specificity:** The student learned about levels of specificity and how the order of linked CSS files affects which styles are applied to a page, a lesson demonstrated by placing the custom CSS file last.
+- **Custom CSS with Variables:** The student was introduced to creating a color palette using the `:root` pseudo-class and CSS global variables to manage and apply styles consistently.
+
+### Relevant Files:
+
+- `index.html`
+- `custom.css`
+
+---

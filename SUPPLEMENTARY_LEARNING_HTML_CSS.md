@@ -8096,3 +8096,25 @@ N/A Gemini updated and is being difficult.
 - Not applicable.
 
 ---
+
+#### BOOTSTRAP PART 2 VIDEO - styling the navbar
+
+### Course Step Number: 518
+
+### Date Researched: 2025-08-14
+
+##### Key Concepts / Summary
+
+This video tutorial continues the one-page website project using Bootstrap. The student focused on customizing and styling the navigation bar. Key changes included replacing the static "Home" link with a dynamic "Now Playing" dropdown menu, and updating the "Features" and "Pricing" links to "Tickets" and "Contact" respectively. The lesson explained how Bootstrap's `data-bs-toggle` and `data-bs-target` attributes are used to create the functionality of a mobile "hamburger" menu. In `custom.css`, the student was introduced to the `:root` pseudo-class to create reusable CSS variables for a color palette. The video also provided a practical demonstration of CSS specificity, showing how the order of linked CSS files (placing `custom.css` last) is crucial for overriding Bootstrap's default styles. The student also corrected a minor typo in the `index.html` file.
+
+##### Expanded Learning
+
+- **Best Practices:** The video reinforces the best practice of using CSS variables for a color palette, which makes a site's styling more manageable and easier to update globally. The lesson on CSS file order and specificity is also a fundamental best practice for avoiding style conflicts.
+- **Modernization:** The use of CSS custom properties (variables) with the `:root` pseudo-class is a modern approach to managing styles that is more flexible and powerful than pre-processor variables.
+- **Enhanced Learning (UX Bias):** Creating a mobile-first responsive design, as demonstrated by the hamburger menu, is a core aspect of modern UX. The use of ARIA attributes also ensures the navigation is accessible to a wider range of users, improving the overall user experience.
+
+##### Insights from Chat Discussion summary
+
+The student requested a file check to ensure all code changes from the video were correctly implemented. I identified a small typo where "Tickets" was misspelled as "Ticktes", which the student has since corrected.
+
+---

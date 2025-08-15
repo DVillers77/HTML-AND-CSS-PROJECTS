@@ -9171,3 +9171,21 @@ While this step was technically completed earlier in the lesson, the formal assi
 - `custom.css`
 
 ---
+
+#### Step 519: QUIZ
+
+### Date Completed: 2025-08-14
+
+### Objective:
+
+- The student demonstrated comprehension of the preceding lesson by successfully completing a quiz on Bootstrap attributes and CSS specificity.
+
+### Core Course Concepts:
+
+- **Quiz Questions:** The student correctly answered questions on the purpose of the `data-bs-toggle` attribute, the `navbar-brand` class, and how to manage CSS specificity with Bootstrap.
+
+### Relevant Files:
+
+- Not applicable.
+
+---

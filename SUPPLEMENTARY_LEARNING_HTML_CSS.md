@@ -8118,3 +8118,25 @@ This video tutorial continues the one-page website project using Bootstrap. The 
 The student requested a file check to ensure all code changes from the video were correctly implemented. I identified a small typo where "Tickets" was misspelled as "Ticktes", which the student has since corrected.
 
 ---
+
+#### QUIZ
+
+### Course Step Number: 519
+
+### Date Researched: 2025-08-14
+
+##### Key Concepts / Summary
+
+This entry documents the completion of a quiz on core concepts from the previous lesson, "BOOTSTRAP PART 2 VIDEO". The student demonstrated an understanding of the purpose of the `data-bs-toggle` attribute (to trigger the visibility of content), how to ensure custom CSS overrides Bootstrap's (by placing the custom CSS file after the Bootstrap link), and the function of the `navbar-brand` class (to style the logo or brand name).
+
+##### Expanded Learning
+
+- **Best Practices:** Quizzes are a best practice in instructional design, serving as a formative assessment to reinforce learning and identify knowledge gaps.
+- **Modernization:** Online quizzes with instant feedback are a modern and efficient method for self-assessment, providing immediate confirmation of understanding.
+- **Enhanced Learning (UX Bias):** A well-placed quiz provides a "check-in" for the user, helping them to feel a sense of accomplishment and ensuring they are prepared for subsequent material, which improves the overall learning experience.
+
+##### Insights from Chat Discussion summary
+
+Not applicable.
+
+---

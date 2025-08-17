@@ -9406,3 +9406,24 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [custom-css-media.css](HTML-AND-CSS-PROJECTS/academy-cinemas/css/custom-css-media.css)
 
 ---
+
+#### Step 532: QUIZ
+
+### Date Completed: 2025-08-17
+
+### Objective:
+
+- To demonstrate an understanding of core Bootstrap concepts, including flexbox, spacing utilities, and the grid system.
+
+### Core Course Concepts:
+
+- Bootstrap classes: `d-flex`, `m-0`, `row`, and `col`.
+- Flexbox containers and alignment.
+- Spacing utilities for margins.
+- The foundational structure of the Bootstrap grid system.
+
+### Relevant Files:
+
+- No new files were created for this quiz.
+
+---

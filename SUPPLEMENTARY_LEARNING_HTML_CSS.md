@@ -8378,3 +8378,25 @@ This lesson introduced several key Bootstrap concepts for building responsive la
 The `calc()` function for responsive typography caused an unexpected scaling issue, leading to the discovery that the `clamp()` function is a more reliable and modern alternative. The discussion highlighted the importance of clear communication to troubleshoot and resolve coding issues and the value of updating course concepts with modern best practices.
 
 ---
+
+#### QUIZ - Bootstrap Core Concepts
+
+### Course Step Number: 532
+
+### Date Researched: 2025-08-17
+
+##### Key Concepts / Summary
+
+This quiz covered several fundamental Bootstrap concepts. The `d-flex` class is used to create a flex container, enabling powerful alignment and distribution of elements. The `m-0` class is part of the spacing utility API, and it specifically removes the default margins from an element. Finally, a responsive grid is created by using the combination of `.row` and `.col` classes to define columns and their parent rows.
+
+##### Independent Research / Notable Discoveries
+
+**Best Practices**: Bootstrap's utility classes like `d-flex` and `m-0` are the preferred method for quick styling and layout manipulation as they provide a clear, semantic way to apply styles without writing custom CSS.
+**Modernization**: Modern versions of Bootstrap are built on a flexbox foundation, making classes like `d-flex` central to the framework's layout system.
+**Enhanced Learning (UX Bias)**: Proper use of Bootstrap's grid and spacing classes is critical for creating a clean, professional, and readable layout that provides an excellent user experience.
+
+##### Insights from Chat Discussion summary
+
+The user successfully answered all questions correctly, demonstrating a solid understanding of the Bootstrap concepts covered in the previous video lessons, including how to use `d-flex` for flexible layouts, `m-0` for margin control, and the `row` and `col` classes for building responsive grids.
+
+---

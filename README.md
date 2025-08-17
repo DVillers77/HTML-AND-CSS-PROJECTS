@@ -413,3 +413,7 @@ This entry documents a video lesson where the student completed the styling of a
 #### 83. BOOTSTRAP PART 4 VIDEO - styling the mobile menu (Step 528)
 
 This entry documents a video lesson where the student finished styling the navigation bar. The student learned how to create a mobile-friendly navigation menu by using a new CSS file for media queries to apply specific styles based on screen size.
+
+#### 84. BOOTSTRAP PART 5 VIDEO - containers, grid & flexbox (Step 531)
+
+This entry documents a video lesson on using Bootstrap's grid system, containers, and flexbox utilities to build a responsive website. The student learned how to add a responsive logo, center it, and set up the "Now Playing" section with a responsive header and horizontal movie cards.

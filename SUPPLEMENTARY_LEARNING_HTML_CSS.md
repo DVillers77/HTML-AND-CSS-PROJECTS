@@ -8355,30 +8355,26 @@ This entry documents the completion of a quiz on core concepts from the previous
 - **Modernization:** Online quizzes with instant feedback are a modern and efficient method for self-assessment, providing immediate confirmation of understanding.
 - **Enhanced Learning (UX Bias):** A well-placed quiz provides a "check-in" for the user, helping them to feel a sense of accomplishment and ensuring they are prepared for subsequent material, which improves the overall learning experience.
 
-##### Insights from Chat Discussion summary
-
-Not applicable.
-
 ---
 
-#### SUBSECTION I: BOOTSTRAP PART 5
+#### BOOTSTRAP PART 5 VIDEO - Containers, Grid & Flexbox
 
-### Course Step Number: 530
+### Course Step Number: 531
 
-### Date Researched: 2025-08-14
+### Date Researched: 2025-08-17
 
 ##### Key Concepts / Summary
 
-This entry documents a structural step in the course, introducing the student to the next phase of the Bootstrap tutorial series. It provides an organizational overview of the upcoming lessons, which include a video tutorial and a quiz.
+This lesson introduced several key Bootstrap concepts for building responsive layouts. We covered how to use the `.img-fluid` class for responsive images, the `.row` and `.col-lg-6` classes for the grid system, and `.justify-content-center` for horizontal alignment. We also learned how to make text responsive using a `calc()` function within a media query and used the `.container` class for adding padding. Finally, we began working with Bootstrap's flexbox utilities, like `.d-flex` and `.flex-row`, to create horizontal layouts for the movie cards.
 
-##### Expanded Learning
+##### Independent Research / Notable Discoveries
 
-- **Best Practices:** A well-structured curriculum, like the one outlined here, is a best practice in education. It provides a clear roadmap for the student, managing expectations and preparing them for the topics ahead.
-- **Modernization:** The use of quizzes and video tutorials in a learning path is a modern, blended learning approach that caters to different learning styles and reinforces knowledge through different mediums.
-- **Enhanced Learning (UX Bias):** A clear and predictable course structure, as shown in this new subsection, is a fundamental part of the learning experience. It reduces cognitive load for the student by showing them what's coming next, allowing them to focus on the content rather than the course logistics.
+**Best Practices**: The use of Bootstrap's classes for layout and responsiveness is standard in modern web development. The separation of concerns, with custom styles in `custom.css` and responsive rules in `custom-css-media.css`, is a good way to organize your stylesheet.
+**Modernization**: The `calc()` function for fluid typography is an older method. The `clamp()` function is a modern and more efficient alternative. It simplifies the code and prevents potential scaling issues by explicitly setting minimum, fluid, and maximum values.
+**Enhanced Learning (UX Bias)**: The application of responsive design principles in this lesson directly impacts the user experience. By ensuring the logo, headings, and images scale appropriately, the website remains readable and functional on all devices, from mobile phones to large desktop monitors. This is crucial for accessibility and user satisfaction.
 
 ##### Insights from Chat Discussion summary
 
-Not applicable.
+The `calc()` function for responsive typography caused an unexpected scaling issue, leading to the discovery that the `clamp()` function is a more reliable and modern alternative. The discussion highlighted the importance of clear communication to troubleshoot and resolve coding issues and the value of updating course concepts with modern best practices.
 
 ---

@@ -9380,20 +9380,29 @@ While this step was technically completed earlier in the lesson, the formal assi
 
 ---
 
-#### Step 530: SUBSECTION I: BOOTSTRAP PART 5
+#### Step 531: BOOTSTRAP PART 5 VIDEO
 
-### Date Completed: 2025-08-14
+### Date Completed: 2025-08-17
 
 ### Objective:
 
-- The student will transition to a new subsection of the course, which outlines the next steps for the Bootstrap tutorial series.
+- Add a responsive logo to the Academy Cinemas website.
+- Use Bootstrap's grid system and `justify-content-center` to style and center the logo.
+- Create a responsive `h1` header for the "Now Playing" section using a CSS `calc()` function.
+- Implement Bootstrap's `container` class for section padding.
+- Utilize Bootstrap's flexbox utilities (`d-flex`, `flex-row`) to arrange movie cards.
 
 ### Core Course Concepts:
 
-- **Course Structure:** This step introduced the student to the next set of lessons in the Bootstrap tutorial series.
+- Bootstrap classes: `img-fluid`, `col-lg-6`, `row`, `justify-content-center`, `container`, `d-flex`, `flex-row`.
+- Bootstrap's grid system and breakpoints.
+- CSS `calc()` function for responsive typography.
+- Creating CSS IDs and using HTML comments.
 
 ### Relevant Files:
 
-- Not applicable.
+- [index.html](HTML-AND-CSS-PROJECTS/academy-cinemas/index.html)
+- [custom.css](HTML-AND-CSS-PROJECTS/academy-cinemas/css/custom.css)
+- [custom-css-media.css](HTML-AND-CSS-PROJECTS/academy-cinemas/css/custom-css-media.css)
 
 ---

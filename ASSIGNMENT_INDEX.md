@@ -9445,3 +9445,27 @@ While this step was technically completed earlier in the lesson, the formal assi
 - No new files were created for this step.
 
 ---
+
+#### Step 534: BOOTSTRAP PART 6 VIDEO - Styling and now playing section
+
+### Date Completed: 2025-08-19
+
+### Objective:
+
+- Apply Bootstrap to make the navbar sticky
+- Change the background image to remain fixed on the screen and not repeat
+- Remove the horizontal scrollbar
+- Add a movie description using a Bootstrap card
+- Use Bootstrap spacing classes to add space between the movie poster and the description
+- Use Bootstrap flexbox to wrap the description under the movie poster on small screen sizes
+- Style the font size and font weight and change the cursor icon
+
+### Core Course Concepts:
+
+- **Bootstrap Components:** Cards for content containers.
+- **Bootstrap Utilities:** Sticky-top for fixed navigation, margin and gutter classes for spacing, and flexbox classes for responsive wrapping.
+- **CSS Properties:** `background-attachment`, `overflow-x`, and `cursor`.
+- **Responsive Design:** Using `flex-wrap` and the `clamp()` CSS function.
+- **Semantic HTML:** Using `<dl>`, `<dt>`, and `<dd>` for definition lists.
+
+---

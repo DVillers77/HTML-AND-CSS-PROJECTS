@@ -417,3 +417,7 @@ This entry documents a video lesson where the student finished styling the navig
 #### 84. BOOTSTRAP PART 5 VIDEO - containers, grid & flexbox (Step 531)
 
 This entry documents a video lesson on using Bootstrap's grid system, containers, and flexbox utilities to build a responsive website. The student learned how to add a responsive logo, center it, and set up the "Now Playing" section with a responsive header and horizontal movie cards.
+
+#### 85. BOOTSTRAP PART 6 VIDEO - adding styling and now playing section (Step 534)
+
+This entry documents a video lesson where the student continued to build the Academy Cinemas website. They learned how to use Bootstrap classes for a sticky navbar and responsive card layout, applied custom CSS for background and cursor styling, and successfully adapted to version differences by using a modern `clamp()` function for responsive font sizing. The student also improved the code's accessibility by using semantic tags for the movie description.

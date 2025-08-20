@@ -8457,3 +8457,23 @@ The instructor's video used an older version of Bootstrap, causing layout and sp
 #### BOOTSTRAP PART 7 VIDEO
 
 ---
+
+#### BOOTSTRAP PART 7 VIDEO - Adding Showtimes and Customizing Buttons
+
+### Course Step Number: 537
+
+### Date Researched: 2025-08-20
+
+##### Key Concepts / Summary
+
+- **Bootstrap Grid (`.col`):** The `col` class without a number automatically distributes content evenly within a row, making elements take up 100% of the available width.
+- **Bootstrap Buttons (`.btn`):** The `btn` class provides a base for button styling, which can be customized or overridden with custom CSS.
+- **CSS Font Imports:** Fonts from services like Google Fonts can be imported using an `@import` rule at the top of a CSS file.
+- **Responsive Typography:** The `clamp()` CSS function is a modern and effective way to create fluid font sizes that scale with the viewport, providing a more reliable alternative to the `calc()` function.
+- **CSS Pseudo-classes:** The `:focus` and `:hover` pseudo-classes allow for styling elements based on their state, such as when a user clicks on or hovers over a button.
+
+##### Insights from Chat Discussion summary
+
+The instructor's video used the `calc()` function to create responsive font sizing, which was found to be less predictable than a modern `clamp()` function. Additionally, while the video used anchor tags (`<a>`) to create buttons, the file was correctly implemented using `<button>` elements, which is a more semantically correct choice for clickable actions. A pseudo-class was also added to a button to remove its border when clicked, a common challenge when overriding framework styling.
+
+---

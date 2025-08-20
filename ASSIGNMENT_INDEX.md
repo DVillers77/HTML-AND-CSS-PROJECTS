@@ -9493,3 +9493,25 @@ While this step was technically completed earlier in the lesson, the formal assi
 #### Step 538. QUIZ
 
 ---
+
+#### Step 537: BOOTSTRAP PART 7 VIDEO
+
+### Date Completed: 2025-08-20
+
+### Objective:
+
+- Add and style the movie showtimes section for the "Ben-Hur" card.
+- Apply a custom Google Font (`Yesteryear`) to the showtimes heading.
+- Use Bootstrap's `col` class without a specified size to make elements fill the available row width.
+- Use Bootstrap's `btn` class to create styled buttons.
+- Override Bootstrap's default button styling and focus effects using custom CSS.
+
+### Core Course Concepts:
+
+- **Bootstrap Grid:** Using the `col` class without a number.
+- **Bootstrap Components:** Button styling with the `btn` class.
+- **CSS Properties:** `@import` for custom fonts, `font-family`, `font-size`, `border-color`.
+- **CSS Selectors:** Global variables (`:root`), type selectors (`h4`), and pseudo-classes (`:focus`, `:hover`).
+- **Responsive Design:** Using the `clamp()` function for fluid typography.
+
+---

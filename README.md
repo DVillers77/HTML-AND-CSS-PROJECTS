@@ -421,3 +421,7 @@ This entry documents a video lesson on using Bootstrap's grid system, containers
 #### 85. BOOTSTRAP PART 6 VIDEO - adding styling and now playing section (Step 534)
 
 This entry documents a video lesson where the student continued to build the Academy Cinemas website. They learned how to use Bootstrap classes for a sticky navbar and responsive card layout, applied custom CSS for background and cursor styling, and successfully adapted to version differences by using a modern `clamp()` function for responsive font sizing. The student also improved the code's accessibility by using semantic tags for the movie description.
+
+#### 86. BOOTSTRAP PART 7 VIDEO - adding showtimes and styling buttons (Step 537)
+
+This entry documents a video lesson where the student added a "Showtimes" section to the movie cards. They implemented showtime buttons using Bootstrap's `btn` class, styled them with custom CSS, and applied a new Google font to the heading. The student also adapted to a Bootstrap version difference by using the `clamp()` function for responsive font sizing and improved code accessibility by using a more semantically correct `<button>` element.

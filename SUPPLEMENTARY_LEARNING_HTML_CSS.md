@@ -8490,3 +8490,9 @@ The instructor's video used the `calc()` function to create responsive font sizi
 - **Bootstrap Card Components:** The `card-body` class provides essential padding and internal structure for the content within a Bootstrap card.
 
 ---
+
+### SUBSECTION L: BOOTSTRAP PART 8
+
+#### BOOTSTRAP PART 8 VIDEO
+
+---

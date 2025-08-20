@@ -9531,3 +9531,11 @@ While this step was technically completed earlier in the lesson, the formal assi
 - **Bootstrap Components:** `card-body`.
 
 ---
+
+### SUBSECTION L: BOOTSTRAP PART 8
+
+#### Step 540. BOOTSTRAP PART 8 VIDEO
+
+#### Step 541. QUIZ
+
+---

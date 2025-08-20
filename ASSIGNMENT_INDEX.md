@@ -9515,3 +9515,19 @@ While this step was technically completed earlier in the lesson, the formal assi
 - **Responsive Design:** Using the `clamp()` function for fluid typography.
 
 ---
+
+#### Step 538: QUIZ - Bootstrap and CSS Review
+
+### Date Completed: 2025-08-20
+
+### Objective:
+
+- Demonstrate an understanding of Bootstrap classes used to control element stacking.
+- Demonstrate an understanding of Bootstrap classes used for card content.
+
+### Core Course Concepts:
+
+- **Bootstrap Utilities:** `flex-column`.
+- **Bootstrap Components:** `card-body`.
+
+---

@@ -8477,3 +8477,16 @@ The instructor's video used an older version of Bootstrap, causing layout and sp
 The instructor's video used the `calc()` function to create responsive font sizing, which was found to be less predictable than a modern `clamp()` function. Additionally, while the video used anchor tags (`<a>`) to create buttons, the file was correctly implemented using `<button>` elements, which is a more semantically correct choice for clickable actions. A pseudo-class was also added to a button to remove its border when clicked, a common challenge when overriding framework styling.
 
 ---
+
+#### QUIZ - Bootstrap and CSS Review
+
+### Course Step Number: 538
+
+### Date Researched: 2025-08-20
+
+##### Key Concepts / Summary
+
+- **Bootstrap Flex Utilities:** The `flex-column` class is used to stack elements vertically within a flex container.
+- **Bootstrap Card Components:** The `card-body` class provides essential padding and internal structure for the content within a Bootstrap card.
+
+---

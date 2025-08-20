@@ -9469,3 +9469,19 @@ While this step was technically completed earlier in the lesson, the formal assi
 - **Semantic HTML:** Using `<dl>`, `<dt>`, and `<dd>` for definition lists.
 
 ---
+
+#### Step 535: QUIZ - Bootstrap and CSS Review
+
+### Date Completed: 2025-08-20
+
+### Objective:
+
+- Demonstrate an understanding of key CSS properties like `background-repeat`.
+- Demonstrate an understanding of Bootstrap classes used for container width (`w-100`).
+
+### Core Course Concepts:
+
+- **CSS Properties:** `background-repeat`.
+- **Bootstrap Utilities:** `w-100`.
+
+---

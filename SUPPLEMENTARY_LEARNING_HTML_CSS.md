@@ -8438,3 +8438,16 @@ The instructor's video used an older version of Bootstrap, causing layout and sp
 - [custom-css-media.css](css/custom-css-media.css)
 
 ---
+
+#### QUIZ - CSS and Bootstrap Review
+
+### Course Step Number: 535
+
+### Date Researched: 2025-08-20
+
+##### Key Concepts / Summary
+
+- **CSS `background-repeat`:** The `background-repeat: no-repeat;` property is used in CSS to prevent a background image from tiling and repeating itself.
+- **Bootstrap Width Utility:** The `w-100` Bootstrap class is a utility class that sets an element's width to 100% of its parent's width. This is an efficient way to make an element take up the full available space horizontally.
+
+---

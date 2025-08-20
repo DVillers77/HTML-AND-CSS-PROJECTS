@@ -9485,3 +9485,11 @@ While this step was technically completed earlier in the lesson, the formal assi
 - **Bootstrap Utilities:** `w-100`.
 
 ---
+
+### SUBSECTION K: BOOTSTRAP PART 7
+
+#### Step 537. BOOTSTRAP PART 7 VIDEO
+
+#### Step 538. QUIZ
+
+---

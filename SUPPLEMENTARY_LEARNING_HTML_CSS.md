@@ -8451,3 +8451,9 @@ The instructor's video used an older version of Bootstrap, causing layout and sp
 - **Bootstrap Width Utility:** The `w-100` Bootstrap class is a utility class that sets an element's width to 100% of its parent's width. This is an efficient way to make an element take up the full available space horizontally.
 
 ---
+
+### SUBSECTION K: BOOTSTRAP PART 7
+
+#### BOOTSTRAP PART 7 VIDEO
+
+---

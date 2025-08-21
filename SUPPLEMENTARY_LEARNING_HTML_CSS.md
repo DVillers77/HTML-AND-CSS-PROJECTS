@@ -8535,3 +8535,9 @@ The student's code includes `gy-5` and `justify-content-center` classes on the m
 - **Bootstrap `card-body`:** This class provides padding and a structured container for the content within a Bootstrap card.
 
 ---
+
+### SUBSECTION M: BOOTSTRAP PART 9
+
+#### BOOTSTRAP PART 9 VIDEO
+
+---

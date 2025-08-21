@@ -425,3 +425,7 @@ This entry documents a video lesson where the student continued to build the Aca
 #### 86. BOOTSTRAP PART 7 VIDEO - adding showtimes and styling buttons (Step 537)
 
 This entry documents a video lesson where the student added a "Showtimes" section to the movie cards. They implemented showtime buttons using Bootstrap's `btn` class, styled them with custom CSS, and applied a new Google font to the heading. The student also adapted to a Bootstrap version difference by using the `clamp()` function for responsive font sizing and improved code accessibility by using a more semantically correct `<button>` element.
+
+#### 87. BOOTSTRAP PART 8 VIDEO - finishing movie cards and responsive layouts (Step 540)
+
+This entry documents a video lesson where the student finished building the "Now Playing" section by adding and styling the remaining movie cards. They successfully used Bootstrap's `flex-wrap-reverse` class to fix a responsive layout issue, and implemented `scroll-padding-top` to prevent the fixed navigation bar from covering content. The student also improved the semantic structure of the HTML with `<section>` and `<dl>` tags, demonstrating an advanced understanding of web best practices.

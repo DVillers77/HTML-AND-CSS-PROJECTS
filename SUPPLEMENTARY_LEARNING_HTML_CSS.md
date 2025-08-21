@@ -8496,3 +8496,27 @@ The instructor's video used the `calc()` function to create responsive font sizi
 #### BOOTSTRAP PART 8 VIDEO
 
 ---
+
+#### BOOTSTRAP PART 8 VIDEO - Finishing Movie Cards and Responsive Layouts
+
+### Course Step Number: 540
+
+### Date Researched: 2025-08-20
+
+##### Key Concepts / Summary
+
+- **Card Styling:** The `card` and `card-body` classes were styled to add borders, padding, and a semi-transparent background to the movie description cards.
+- **Responsive Layout with Flexbox:** The `flex-wrap-reverse` class was used to ensure the image and description card maintain the correct display order on smaller screens when their placement is reversed.
+- **Scroll Behavior:** The `scroll-padding-top` CSS property was used to prevent the fixed navigation bar from covering content when the user clicks on an internal jump link.
+
+##### Insights from Chat Discussion summary
+
+The student's code includes `gy-5` and `justify-content-center` classes on the main row container, which were not part of the instructor's lesson. These were added to resolve version-related alignment and sizing issues, demonstrating strong problem-solving skills. Furthermore, the student implemented more semantically correct tags, such as `<section>` and a `<dl>` list for the movie details, which improves accessibility and code structure beyond the instructor's original example.
+
+##### Relevant Files:
+
+- [index.html](index.html)
+- [custom.css](css/custom.css)
+- [custom-css-media.css](css/custom-css-media.css)
+
+---

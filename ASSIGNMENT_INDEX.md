@@ -9539,3 +9539,23 @@ While this step was technically completed earlier in the lesson, the formal assi
 #### Step 541. QUIZ
 
 ---
+
+#### Step 540: BOOTSTRAP PART 8 VIDEO
+
+### Date Completed: 2025-08-20
+
+### Objective:
+
+- Finish styling the movie cards by adding borders, padding, and background color to the description cards.
+- Add space between the "Now Playing" header and the movie cards.
+- Create and style the remaining "The Day the Earth Stood Still" and "Vertigo" movie cards.
+- Adapt the layout for smaller screens using `flex-wrap-reverse`.
+- Use `scroll-padding-top` to prevent the navigation menu from obscuring content after a jump link is clicked.
+
+### Core Course Concepts:
+
+- **Bootstrap Components:** `card` and `card-body` for styling.
+- **Bootstrap Utilities:** `flex-wrap-reverse` for responsive layout control.
+- **CSS Properties:** `border`, `background-color`, `border-radius`, `padding`, `margin`, `scroll-padding-top`.
+
+---

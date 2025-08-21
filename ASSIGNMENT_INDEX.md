@@ -9559,3 +9559,20 @@ While this step was technically completed earlier in the lesson, the formal assi
 - **CSS Properties:** `border`, `background-color`, `border-radius`, `padding`, `margin`, `scroll-padding-top`.
 
 ---
+
+#### Step 541: QUIZ - Bootstrap Review
+
+### Date Completed: 2025-08-20
+
+### Objective:
+
+- Demonstrate an understanding of Bootstrap classes used for horizontal alignment and vertical stacking.
+- Demonstrate an understanding of Bootstrap classes used for text transformation.
+- Demonstrate an understanding of Bootstrap classes for card component styling.
+
+### Core Course Concepts:
+
+- **Bootstrap Utilities:** `mx-auto`, `flex-column`, `text-uppercase`.
+- **Bootstrap Components:** `card-body`.
+
+---

@@ -8520,3 +8520,18 @@ The student's code includes `gy-5` and `justify-content-center` classes on the m
 - [custom-css-media.css](css/custom-css-media.css)
 
 ---
+
+#### QUIZ - Bootstrap Review
+
+### Course Step Number: 541
+
+### Date Researched: 2025-08-20
+
+##### Key Concepts / Summary
+
+- **Bootstrap `mx-auto`:** This utility class is used to horizontally center an element by setting its left and right margins to auto.
+- **Bootstrap `flex-column`:** This class is used in a flex container to stack its items vertically.
+- **Bootstrap `text-uppercase`:** This utility class is used to transform the text of an element to all uppercase letters.
+- **Bootstrap `card-body`:** This class provides padding and a structured container for the content within a Bootstrap card.
+
+---

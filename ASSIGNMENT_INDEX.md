@@ -9644,3 +9644,17 @@ While this step was technically completed earlier in the lesson, the formal assi
 - **Bootstrap Utilities:** `text-center`, `justify-content-center`, `col-auto`.
 
 ---
+
+#### Step 547: QUIZ - Bootstrap Review
+
+### Date Completed: 2025-08-20
+
+### Objective:
+
+- Demonstrate an understanding of Bootstrap classes used to control text overflow and scrolling within components.
+
+### Core Course Concepts:
+
+- **Bootstrap Utilities:** `text-truncate`, `overflow-auto`.
+
+---

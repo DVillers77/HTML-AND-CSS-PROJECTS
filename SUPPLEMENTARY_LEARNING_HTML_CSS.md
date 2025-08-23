@@ -8616,3 +8616,16 @@ This discussion also reinforced the superiority of using Bootstrap's `flex-row-r
 - [custom-css-media.css](css/custom-css-media.css)
 
 ---
+
+#### QUIZ - Bootstrap Review
+
+### Course Step Number: 547
+
+### Date Researched: 2025-08-20
+
+##### Key Concepts / Summary
+
+- **Bootstrap `text-truncate`:** This utility class is used to truncate long lines of text with an ellipsis (...), which is useful for preventing text from overflowing its container.
+- **Bootstrap `overflow-auto`:** This class enables a scrollbar on an element's content when the content exceeds the element's height, making it scrollable.
+
+---

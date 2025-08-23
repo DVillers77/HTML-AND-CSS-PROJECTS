@@ -8659,3 +8659,16 @@ This discussion also reinforced the superiority of using Bootstrap's `flex-row-r
 - [custom-css-media.css](custom-css-media.css)
 
 ---
+
+#### QUIZ - Bootstrap Review
+
+### Course Step Number: 550
+
+### Date Researched: 2025-08-23
+
+##### Key Concepts / Summary
+
+- **Bootstrap `flex-grow-1`:** This utility class is part of the Flexbox system. When applied to a flex item, it allows the item to grow to fill any available space within its flex container. This is useful for distributing space among elements.
+- **Bootstrap `text-start`:** This utility class aligns text to the start (left side for left-to-right languages) of an element. It is the modern, language-agnostic replacement for the older `text-left` class.
+
+---

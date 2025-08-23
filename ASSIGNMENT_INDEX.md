@@ -9686,3 +9686,17 @@ While this step was technically completed earlier in the lesson, the formal assi
 - **CSS Pseudo-classes:** `:focus`.
 
 ---
+
+#### Step 550: QUIZ - Bootstrap Review
+
+### Date Completed: 2025-08-23
+
+### Objective:
+
+- Demonstrate an understanding of Bootstrap classes used for element sizing and text alignment.
+
+### Core Course Concepts:
+
+- **Bootstrap Utilities:** `flex-grow-1`, `text-start`.
+
+---

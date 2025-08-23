@@ -9714,3 +9714,21 @@ While this step was technically completed earlier in the lesson, the formal assi
 #### Step 556. BOOTSTRAP GITHUB SUBMISSION ASSIGNMENT
 
 ---
+
+#### Step 552: BOOTSTRAP PART 12 VIDEO
+
+### Date Completed: 2025-08-23
+
+### Objective:
+
+- Learn how to use and customize pre-built Bootstrap examples.
+- Add a styled footer with navigation links, a copyright, and a logo to the `Academy Cinemas` website.
+- Understand how custom CSS can be used to override default Bootstrap styling.
+
+### Core Course Concepts:
+
+- **Bootstrap Classes:** `d-flex`, `flex-wrap`, `justify-content-center`, `align-items-center`, `col-md-4`, `nav`.
+- **CSS Properties:** `border-top`, `background-color`, `margin`, `padding`, `width`, `height`.
+- **HTML Elements:** `<footer>`, `<section>`, `<a>`, `<img>`, `<ul>`, `<li>`.
+
+---

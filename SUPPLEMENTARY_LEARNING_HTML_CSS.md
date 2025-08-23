@@ -8684,3 +8684,18 @@ This discussion also reinforced the superiority of using Bootstrap's `flex-row-r
 #### BOOTSTRAP GITHUB SUBMISSION ASSIGNMENT
 
 ---
+
+#### BOOTSTRAP PART 12 VIDEO
+
+### Course Step Number: 552
+
+### Date Researched: 2025-08-23
+
+##### Key Concepts / Summary
+
+- **Using Bootstrap Examples:** The video demonstrates how to find and use pre-built code examples from the Bootstrap website. However, the user discovered that the version used in the video was outdated, requiring them to use developer tools to copy a more modern, compatible example directly from the website.
+- **Modern Layout with Flexbox:** Instead of using a `div` with a `container` class, the student implemented a superior approach by applying `d-flex`, `flex-wrap`, `justify-content-center`, and `align-items-center` classes directly to the `<footer>` element itself. This creates a more streamlined and efficient Flexbox container.
+- **Customizing Bootstrap:** The student created new custom CSS rules in `custom.css` to override the Bootstrap defaults for the footer. This included setting a custom background and border, as well as creating classes for the footer text and image to control their appearance, demonstrating a strong understanding of CSS specificity and best practices.
+- **Accessibility and Validation:** The student made several key improvements, including removing the `href` attribute from `div` tags and converting a `h1` header to an `a` tag to fix validation errors and improve accessibility. The student also noted that a validator suggested only one `h1` tag per page.
+
+---

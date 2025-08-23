@@ -441,3 +441,9 @@ This entry documents a video lesson where the student finished styling the "Tick
 #### 90. BOOTSTRAP PART 11 VIDEO - adding and styling a contact form (Step 549)
 
 This entry documents a video lesson where the student built and styled a non-functional contact form for the website. The form was created using Bootstrap's grid system, `form-control` class, and `gy-4` gutter class for spacing. The student also learned how to override Bootstrap's default focus styles and used a modern Flexbox solution to position the submit button, all while implementing semantically correct and accessible HTML with `<form>`, `<label>`, and `aria-labelledby` attributes.
+
+### Learning Journey & Progress
+
+#### 91. BOOTSTRAP PART 12 VIDEO - adding and styling a footer (Step 552)
+
+This entry documents the final video lesson on the Academy Cinemas website, where a new, styled footer was added. The student demonstrated strong problem-solving skills by adapting the lesson's instructions to a more modern and semantic approach. They used a compatible Bootstrap example copied via developer tools, implemented a clean Flexbox layout directly on the `<footer>` tag, and made additional changes to improve code validation and accessibility.

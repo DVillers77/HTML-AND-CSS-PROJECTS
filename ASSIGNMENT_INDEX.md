@@ -9617,3 +9617,11 @@ While this step was technically completed earlier in the lesson, the formal assi
 - **Bootstrap Utilities:** `d-none`, `align-self-center`, `d-lg-block`.
 
 ---
+
+### SUBSECTION N: BOOTSTRAP PART 10
+
+#### Step 546. BOOTSTRAP PART 10 VIDEO
+
+#### Step 547. QUIZ
+
+---

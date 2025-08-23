@@ -8583,3 +8583,9 @@ This discussion also reinforced the superiority of using Bootstrap's `flex-row-r
 - **Bootstrap `d-lg-block`:** A responsive utility class that makes an element display as a block (`display: block;`) on large screens (`lg`) and up, effectively hiding it on smaller screens.
 
 ---
+
+### SUBSECTION N: BOOTSTRAP PART 10
+
+#### BOOTSTRAP PART 10 VIDEO
+
+---

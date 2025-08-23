@@ -9666,3 +9666,23 @@ While this step was technically completed earlier in the lesson, the formal assi
 #### Step 550. QUIZ
 
 ---
+
+#### Step 549: BOOTSTRAP PART 11 VIDEO
+
+### Date Completed: 2025-08-23
+
+### Objective:
+
+- Add a semantically correct and accessible contact form using Bootstrap classes.
+- Override default Bootstrap form styling with custom CSS.
+- Use Bootstrap's gutter classes to add spacing between form elements.
+
+### Core Course Concepts:
+
+- **HTML Elements:** `<form>`, `<section>`, `<div>`, `<fieldset>`, `<legend>`, `<label>`, `<input>`, `<textarea>`, `<button>`.
+- **HTML Attributes:** `aria-labelledby`, `for`, `id`, `type`, `placeholder`, `rows`, `class`.
+- **Bootstrap Classes:** `container`, `row`, `col`, `gy-4`, `form-control`, `d-flex`, `justify-content-end`, `btn`.
+- **CSS Properties:** `float`, `border`, `box-shadow`, `transition`.
+- **CSS Pseudo-classes:** `:focus`.
+
+---

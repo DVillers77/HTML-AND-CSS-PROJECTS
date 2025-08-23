@@ -8635,3 +8635,27 @@ This discussion also reinforced the superiority of using Bootstrap's `flex-row-r
 #### BOOTSTRAP PART 11 VIDEO
 
 ---
+
+#### BOOTSTRAP PART 11 VIDEO - Creating a Contact Form
+
+### Course Step Number: 549
+
+### Date Researched: 2025-08-23
+
+##### Key Concepts / Summary
+
+- **Form Structure:** A new `<form>` element was added, wrapped in a `<section>` with a `container` div and an `id` of `contact`, to house the contact form. The use of `<fieldset>` and `<legend>` was introduced to group related form controls for better semantic structure and accessibility.
+- **Form Inputs and Layout:** Bootstrap's grid system (`row` and `col`) was used to create a two-column layout for the first and last name inputs. The omission of the `col` class in subsequent divs within the same row was used to place the email and message fields on new lines.
+- **Styling with `form-control`:** The `form-control` class was applied to `input` and `textarea` elements to give them standard Bootstrap styling, including a full width and a focus effect.
+- **Overriding Default Styles:** Custom CSS was added to the `.form-control` class and its `:focus` pseudo-class to override Bootstrap's default styles, changing the border color and removing the box shadow to match the website's theme.
+- **Vertical Spacing with `gy-4`:** The vertical gutter class `gy-4` was applied to the form's `row` to add consistent vertical spacing between all form fields.
+- **Accessibility and Semantics:** `aria-labelledby`, `for`, and `id` attributes were correctly implemented on the form, labels, and inputs to ensure a fully accessible and semantically correct form structure.
+- **Button Placement:** The legacy `float: right` property was replaced with a modern Flexbox solution (`<div class="d-flex justify-content-end">...</div>`) to position the submit button. This is a more robust and scalable approach.
+
+##### Relevant Files:
+
+- [index.html](index.html)
+- [custom.css](custom.css)
+- [custom-css-media.css](custom-css-media.css)
+
+---

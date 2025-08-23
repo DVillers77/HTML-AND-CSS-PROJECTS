@@ -9700,3 +9700,17 @@ While this step was technically completed earlier in the lesson, the formal assi
 - **Bootstrap Utilities:** `flex-grow-1`, `text-start`.
 
 ---
+
+### SUBSECTION P: BOOTSTRAP PART 12
+
+#### Step 552. BOOTSTRAP PART 12 VIDEO
+
+#### Step 553. QUIZ
+
+#### Step 554. BOOTSTRAP GRIDS
+
+#### Step 555. BOOTSTRAP FOOTER CHALLENGE
+
+#### Step 556. BOOTSTRAP GITHUB SUBMISSION ASSIGNMENT
+
+---

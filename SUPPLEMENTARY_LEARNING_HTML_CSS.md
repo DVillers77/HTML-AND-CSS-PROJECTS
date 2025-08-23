@@ -8672,3 +8672,15 @@ This discussion also reinforced the superiority of using Bootstrap's `flex-row-r
 - **Bootstrap `text-start`:** This utility class aligns text to the start (left side for left-to-right languages) of an element. It is the modern, language-agnostic replacement for the older `text-left` class.
 
 ---
+
+### SUBSECTION P: BOOTSTRAP PART 12
+
+#### BOOTSTRAP PART 12 VIDEO
+
+#### BOOTSTRAP GRIDS
+
+#### BOOTSTRAP FOOTER CHALLENGE
+
+#### BOOTSTRAP GITHUB SUBMISSION ASSIGNMENT
+
+---

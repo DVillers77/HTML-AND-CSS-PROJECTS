@@ -8511,7 +8511,9 @@ The instructor's video used the `calc()` function to create responsive font sizi
 
 ##### Insights from Chat Discussion summary
 
-The student's code includes `gy-5` and `justify-content-center` classes on the main row container, which were not part of the instructor's lesson. These were added to resolve version-related alignment and sizing issues, demonstrating strong problem-solving skills. Furthermore, the student implemented more semantically correct tags, such as `<section>` and a `<dl>` list for the movie details, which improves accessibility and code structure beyond the instructor's original example.
+The student's code includes `gy-5` and `justify-content-center` classes on the main row container, which were not part of the instructor's lesson. These were added to resolve version-related alignment and sizing issues, demonstrating strong problem-solving skills. The student also improved the semantic structure of the HTML with `<section>` and a `<dl>` list for the movie details, which improves accessibility and code structure beyond the instructor's original example. A persistent shrinking poster issue on "The Day the Earth Stood Still" was solved with a new media query, a custom class, and `align-self: flex-start`, while the "Vertigo" poster issue was noted to be a different behavior due to the `flex-row-reverse` class.
+
+A new discovery was the ability to remove escape characters for the parenthesis in the SVG data URL and replace them with literal parenthesis for a more robust solution. This is considered a best practice for handling such URLs.
 
 ##### Relevant Files:
 

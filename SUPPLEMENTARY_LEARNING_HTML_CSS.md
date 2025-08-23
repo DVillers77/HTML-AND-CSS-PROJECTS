@@ -8569,3 +8569,17 @@ This discussion also reinforced the superiority of using Bootstrap's `flex-row-r
 - [custom-css-media.css](css/custom-css-media.css)
 
 ---
+
+#### QUIZ - Bootstrap Review
+
+### Course Step Number: 544
+
+### Date Researched: 2025-08-20
+
+##### Key Concepts / Summary
+
+- **Bootstrap `d-none`:** This utility class is used to hide an element completely by setting its display property to `none`.
+- **Bootstrap `align-self-center`:** This utility class is used to align a single flex item to the center along the cross-axis, overriding the container's default alignment.
+- **Bootstrap `d-lg-block`:** A responsive utility class that makes an element display as a block (`display: block;`) on large screens (`lg`) and up, effectively hiding it on smaller screens.
+
+---

@@ -9603,3 +9603,17 @@ While this step was technically completed earlier in the lesson, the formal assi
 - **CSS Properties:** `flex-row`, `flex-wrap`, `container`, `spacer`, `col`, `card-title`, `card-body`.
 
 ---
+
+#### Step 544: QUIZ - Bootstrap Review
+
+### Date Completed: 2025-08-20
+
+### Objective:
+
+- Demonstrate an understanding of Bootstrap classes used to control element visibility and alignment.
+
+### Core Course Concepts:
+
+- **Bootstrap Utilities:** `d-none`, `align-self-center`, `d-lg-block`.
+
+---

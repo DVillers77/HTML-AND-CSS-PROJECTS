@@ -9658,3 +9658,11 @@ While this step was technically completed earlier in the lesson, the formal assi
 - **Bootstrap Utilities:** `text-truncate`, `overflow-auto`.
 
 ---
+
+### SUBSECTION O: BOOTSTRAP PART 11
+
+#### Step 549. BOOTSTRAP PART 11 VIDEO
+
+#### Step 550. QUIZ
+
+---

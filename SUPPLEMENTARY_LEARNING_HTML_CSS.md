@@ -8699,3 +8699,16 @@ This discussion also reinforced the superiority of using Bootstrap's `flex-row-r
 - **Accessibility and Validation:** The student made several key improvements, including removing the `href` attribute from `div` tags and converting a `h1` header to an `a` tag to fix validation errors and improve accessibility. The student also noted that a validator suggested only one `h1` tag per page.
 
 ---
+
+#### QUIZ - Bootstrap Review
+
+### Course Step Number: 553
+
+### Date Researched: 2025-08-23
+
+##### Key Concepts / Summary
+
+- **Bootstrap `text-bg-*`:** This utility class is used to apply a contextual background color while simultaneously setting the text color to a contrasting color for optimal readability. This is the correct class to use for text background colors in modern Bootstrap.
+- **Bootstrap `vh-100`:** This utility class sets the height of an element to 100% of the viewport height, making the element fill the entire screen vertically.
+
+---

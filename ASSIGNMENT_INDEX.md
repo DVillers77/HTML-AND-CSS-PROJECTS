@@ -9732,3 +9732,17 @@ While this step was technically completed earlier in the lesson, the formal assi
 - **HTML Elements:** `<footer>`, `<section>`, `<a>`, `<img>`, `<ul>`, `<li>`.
 
 ---
+
+#### Step 553: QUIZ - Bootstrap Review
+
+### Date Completed: 2025-08-23
+
+### Objective:
+
+- Demonstrate an understanding of Bootstrap classes for text background color and viewport height.
+
+### Core Course Concepts:
+
+- **Bootstrap Utilities:** `text-bg-*`, `vh-100`.
+
+---

@@ -8589,3 +8589,30 @@ This discussion also reinforced the superiority of using Bootstrap's `flex-row-r
 #### BOOTSTRAP PART 10 VIDEO
 
 ---
+
+#### BOOTSTRAP PART 10 VIDEO - Building the Tickets Section
+
+### Course Step Number: 546
+
+### Date Researched: 2025-08-20
+
+##### Key Concepts / Summary
+
+- **Targeted Styling:** Unique styling was applied to the `card` elements in the tickets section using a specific `#tickets .card` selector.
+- **Form Styling:** The lesson demonstrated how to override Bootstrap's default focus styles on form elements (`.form-select:focus`, `input[type="number"]:focus`) to remove the box shadow and default outline, creating a custom and consistent visual effect.
+- **Responsive Fluid Typography:** The `clamp()` CSS function was used to create a responsive font size on the "Buy Tickets" button. This function sets a minimum, preferred, and maximum font size, allowing the font to scale smoothly with the viewport.
+- **Centering Content:** The `col-auto` Bootstrap class was combined with `justify-content-center` to ensure the "Buy Tickets" button is properly centered on the page.
+
+##### Insights from Chat Discussion summary
+
+The student's HTML was run through a validator, which produced an error for placing an `href` attribute on a `<div>` element. The instructor's lesson had a similar approach of using `href` attributes for jump links in a way that caused a validation error. The student's solution of placing the `href` on the parent `div` to resolve this was an insightful step, but it was noted that the best practice is to place `href` attributes only on `<a>` (anchor) tags, typically within the navigation menu.
+
+This discussion also reinforced the superiority of using Bootstrap's `flex-row-reverse` class over manually reordering HTML elements to create an alternating pattern, as it is a more scalable, maintainable, and semantically correct solution. Additionally, the student resolved a persistent issue with a shrinking movie poster on smaller screens by creating a new media query and using a combination of a custom class and `align-self: flex-start`. Another notable discovery was that the behavior of the `flex-row-reverse` class prevented this same fix from working on the "Vertigo" poster. The student also noted a new best practice for handling SVG data URLs by using literal parentheses instead of escape characters, which is a more robust solution.
+
+##### Relevant Files:
+
+- [index.html](index.html)
+- [custom.css](css/custom.css)
+- [custom-css-media.css](css/custom-css-media.css)
+
+---

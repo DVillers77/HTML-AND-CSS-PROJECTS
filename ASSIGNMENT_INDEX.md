@@ -9625,3 +9625,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 #### Step 547. QUIZ
 
 ---
+
+#### Step 546: BOOTSTRAP PART 10 VIDEO
+
+### Date Completed: 2025-08-20
+
+### Objective:
+
+- Style the "Tickets" section with custom CSS rules to create a cohesive look.
+- Override Bootstrap's default focus styles on form elements.
+- Add and style a "Buy Tickets" button that is responsive and centered.
+
+### Core Course Concepts:
+
+- **CSS Specificity:** Using a combination of ID and class selectors (`#tickets .card`).
+- **CSS Properties:** `outline: none`, `box-shadow: none`, `transition`.
+- **CSS Functions:** `clamp()` for responsive fluid typography.
+- **Bootstrap Utilities:** `text-center`, `justify-content-center`, `col-auto`.
+
+---

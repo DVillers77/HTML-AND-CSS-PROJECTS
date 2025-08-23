@@ -433,3 +433,7 @@ This entry documents a video lesson where the student finished building the "Now
 #### 88. BOOTSTRAP PART 9 VIDEO - building the tickets section (Step 543)
 
 This entry documents a video lesson where the student built the "Tickets" section of the website. They implemented Bootstrap cards to create a clean layout for the form, utilized `<select>` and `<option>` tags for movie and showtime dropdown menus, and used the `<input>` tag with `type="number"` for ticket quantity selection. They also documented how to use literal parenthesis in SVG data URL and how to fix a bug of a shrinking movie poster with `align-self`.
+
+#### 89. BOOTSTRAP PART 10 VIDEO - styling the tickets section and button (Step 546)
+
+This entry documents a video lesson where the student finished styling the "Tickets" section of the website. They implemented a button that is responsively centered using `col-auto` and `justify-content-center`. They also used the `clamp()` CSS function to create fluid typography for the button's font size. Additionally, the student documented how to use literal parentheses in SVG data URLs and how to fix a bug of a shrinking movie poster with `align-self`.

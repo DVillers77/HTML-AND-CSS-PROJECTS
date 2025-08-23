@@ -8543,3 +8543,29 @@ A new discovery was the ability to remove escape characters for the parenthesis 
 #### BOOTSTRAP PART 9 VIDEO
 
 ---
+
+#### BOOTSTRAP PART 9 VIDEO - Building the Tickets Section
+
+### Course Step Number: 543
+
+### Date Researched: 2025-08-20
+
+##### Key Concepts / Summary
+
+- **Form Creation:** The lesson focuses on building a form for ticket selection using Bootstrap's `card` and `form-select` components.
+- **Dropdown Menus:** Dropdown menus for movie and showtime selection were created using the `<select>` and `<option>` HTML tags. The `aria-label` attribute was used for accessibility.
+- **Number Input:** An `<input>` element with `type="number"` was used to create a field for selecting the number of tickets, with the `step` attribute set to `1`.
+
+##### Insights from Chat Discussion summary
+
+The student's HTML was run through a validator, which produced an error for placing an `href` attribute on a `<div>` element. The instructor's lesson had a similar approach of using `href` attributes for jump links in a way that caused a validation error. The student's solution of placing the `href` on the parent `div` to resolve this was an insightful step, but it was noted that the best practice is to place `href` attributes only on `<a>` (anchor) tags, typically within the navigation menu.
+
+This discussion also reinforced the superiority of using Bootstrap's `flex-row-reverse` class over manually reordering HTML elements to create an alternating pattern, as it is a more scalable, maintainable, and semantically correct solution. Additionally, the student resolved a persistent issue with a shrinking movie poster on smaller screens by creating a new media query and using a combination of a custom class and `align-self: flex-start`. Another notable discovery was that the behavior of the `flex-row-reverse` class prevented this same fix from working on the "Vertigo" poster. The student also noted a new best practice for handling SVG data URLs by using literal parentheses instead of escape characters, which is a more robust solution.
+
+##### Relevant Files:
+
+- [index.html](index.html)
+- [custom.css](css/custom.css)
+- [custom-css-media.css](css/custom-css-media.css)
+
+---

@@ -9584,3 +9584,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 #### Step 544. QUIZ
 
 ---
+
+#### Step 543: BOOTSTRAP PART 9 VIDEO
+
+### Date Completed: 2025-08-20
+
+### Objective:
+
+- Build the "Tickets" section of the website using Bootstrap's grid and form components.
+- Create a card-based layout for movie, showtime, and ticket selection.
+- Implement drop-down menus using the `<select>` and `<option>` tags with the `form-select` class.
+- Use the `<input>` tag with `type="number"` to create a quantity selection field.
+
+### Core Course Concepts:
+
+- **Bootstrap Components:** `card`, `form-select`.
+- **HTML Elements:** `<section>`, `<select>`, `<option>`, `<input>`.
+- **CSS Properties:** `flex-row`, `flex-wrap`, `container`, `spacer`, `col`, `card-title`, `card-body`.
+
+---

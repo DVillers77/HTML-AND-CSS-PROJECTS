@@ -8755,3 +8755,11 @@ This discussion also reinforced the superiority of using Bootstrap's `flex-row-r
 - **Final Project:** The submitted project demonstrates a comprehensive understanding of HTML, CSS, and Bootstrap, including the responsive grid system, utility classes, and custom styling. The project meets all the minimum requirements of the assignment.
 
 ---
+
+### SUBSECTION Q: ADDITIONAL BOOTSTRAP FEATURES
+
+#### BOOTSTRAP TEMPLATES ASSIGNMENT
+
+#### BOOTSTRAP ALBUMS CHALLENGE
+
+---

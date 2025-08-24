@@ -9795,3 +9795,11 @@ While this step was technically completed earlier in the lesson, the formal assi
 - **Project Management:** Finalizing and submitting a project for review.
 
 ---
+
+### SUBSECTION Q: ADDITIONAL BOOTSTRAP FEATURES
+
+#### Step 558. BOOTSTRAP TEMPLATES ASSIGNMENT
+
+#### Step 559. BOOTSTRAP ALBUMS CHALLENGE
+
+---

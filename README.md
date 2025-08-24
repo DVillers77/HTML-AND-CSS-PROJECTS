@@ -442,14 +442,14 @@ This entry documents a video lesson where the student finished styling the "Tick
 
 This entry documents a video lesson where the student built and styled a non-functional contact form for the website. The form was created using Bootstrap's grid system, `form-control` class, and `gy-4` gutter class for spacing. The student also learned how to override Bootstrap's default focus styles and used a modern Flexbox solution to position the submit button, all while implementing semantically correct and accessible HTML with `<form>`, `<label>`, and `aria-labelledby` attributes.
 
-### Learning Journey & Progress
-
 #### 91. BOOTSTRAP PART 12 VIDEO - adding and styling a footer (Step 552)
 
 This entry documents the final video lesson on the Academy Cinemas website, where a new, styled footer was added. The student demonstrated strong problem-solving skills by adapting the lesson's instructions to a more modern and semantic approach. They used a compatible Bootstrap example copied via developer tools, implemented a clean Flexbox layout directly on the `<footer>` tag, and made additional changes to improve code validation and accessibility.
 
-### Learning Journey & Progress
-
 #### 92. BOOTSTRAP FOOTER CHALLENGE (Step 555)
 
 This entry documents the completion of the Bootstrap Footer Challenge. The student successfully used the Bootstrap grid system to create a multi-section footer. Key accomplishments include implementing a responsive layout with `col-md-4` classes, fixing a critical on-page navigation issue for the contact form, and using Bootstrap utility classes like `text-warning` to maintain a consistent color scheme throughout the site.
+
+#### 93. BOOTSTRAP GITHUB SUBMISSION ASSIGNMENT (Step 556)
+
+This entry documents the final step of the Bootstrap project, the submission to GitHub. The student successfully pushed the completed `Academy-Cinemas` project to their repository. This action serves as both a backup of the final work and a demonstration of proficiency in using version control and finalizing a coding project.

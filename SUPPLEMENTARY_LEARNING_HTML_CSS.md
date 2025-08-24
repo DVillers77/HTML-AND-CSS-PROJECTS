@@ -8741,3 +8741,17 @@ This discussion also reinforced the superiority of using Bootstrap's `flex-row-r
 - **Custom Styling and Overrides:** The student applied the `text-warning` class to the contact form labels to ensure they matched the color palette of the rest of the website, demonstrating an understanding of how to use Bootstrap utility classes to maintain a consistent design.
 
 ---
+
+#### BOOTSTRAP GITHUB SUBMISSION ASSIGNMENT
+
+### Course Step Number: 556
+
+### Date Researched: 2025-08-23
+
+##### Key Concepts / Summary
+
+- **GitHub Submission:** This step marks the completion of the `Academy-Cinemas` project. The student successfully pushed the final code, including all HTML, CSS, and image files, to a GitHub repository.
+- **`.gitignore` Modification:** A key part of the process involved modifying the `.gitignore` file to ensure the `academy-cinemas` folder was no longer ignored, thereby allowing all project files to be committed and uploaded to the remote repository.
+- **Final Project:** The submitted project demonstrates a comprehensive understanding of HTML, CSS, and Bootstrap, including the responsive grid system, utility classes, and custom styling. The project meets all the minimum requirements of the assignment.
+
+---

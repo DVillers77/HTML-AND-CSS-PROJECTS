@@ -8712,3 +8712,18 @@ This discussion also reinforced the superiority of using Bootstrap's `flex-row-r
 - **Bootstrap `vh-100`:** This utility class sets the height of an element to 100% of the viewport height, making the element fill the entire screen vertically.
 
 ---
+
+#### BOOTSTRAP GRIDS
+
+### Course Step Number: 554
+
+### Date Researched: 2025-08-23
+
+##### Key Concepts / Summary
+
+- **Bootstrap Grid System:** Bootstrap's grid system is a powerful tool for creating responsive web page layouts. It is built on a series of containers, rows, and columns.
+- **`row` Class:** This class is applied to a `div` element to create a horizontal row. It serves as a Flexbox container for the columns within it.
+- **`col` Class:** This class is applied to a `div` inside a `row`. By default, it will take up an equal share of the available space.
+- **`w-auto` Class:** This utility class sets the width of the element to `auto`. When used in a Flexbox container (like a `row`), it tells the column to take up only as much space as its content requires, overriding the default equal distribution. This is a crucial distinction to the lesson's description.
+
+---

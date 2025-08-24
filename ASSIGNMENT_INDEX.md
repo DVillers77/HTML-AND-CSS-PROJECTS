@@ -9746,3 +9746,19 @@ While this step was technically completed earlier in the lesson, the formal assi
 - **Bootstrap Utilities:** `text-bg-*`, `vh-100`.
 
 ---
+
+#### Step 554: BOOTSTRAP GRIDS
+
+### Date Completed: 2025-08-23
+
+### Objective:
+
+- Understand the basic structure of the Bootstrap grid system.
+- Learn how to use the `row`, `col`, and `w-auto` classes to create a basic two-column layout.
+
+### Core Course Concepts:
+
+- **Bootstrap Classes:** `row`, `col`, `w-auto`.
+- **HTML Elements:** `<div>`.
+
+---

@@ -8727,3 +8727,17 @@ This discussion also reinforced the superiority of using Bootstrap's `flex-row-r
 - **`w-auto` Class:** This utility class sets the width of the element to `auto`. When used in a Flexbox container (like a `row`), it tells the column to take up only as much space as its content requires, overriding the default equal distribution. This is a crucial distinction to the lesson's description.
 
 ---
+
+#### BOOTSTRAP FOOTER CHALLENGE
+
+### Course Step Number: 555
+
+### Date Researched: 2025-08-23
+
+##### Key Concepts / Summary
+
+- **Grid-Based Layout:** The challenge required creating a footer using Bootstrap's grid system, which allows for responsive, column-based layouts. The `row` and `col-md-4` classes were used to divide the footer into three equal-width columns on medium-sized screens and larger, ensuring a clean and organized layout.
+- **On-Page Navigation (Anchor Links):** A crucial part of the challenge was fixing the linking issue for the "Contact" navigation link. This was solved by adding an `id` attribute (`id="contact"`) to the contact form section and updating the corresponding `<a>` tag's `href` attribute to point to this ID (`href="#contact"`). This practice creates a smooth, on-page scroll-to effect.
+- **Custom Styling and Overrides:** The student applied the `text-warning` class to the contact form labels to ensure they matched the color palette of the rest of the website, demonstrating an understanding of how to use Bootstrap utility classes to maintain a consistent design.
+
+---

@@ -457,3 +457,9 @@ This entry documents the final step of the Bootstrap project, the submission to 
 #### 94. BOOTSTRAP TEMPLATES ASSIGNMENT - downloading and viewing html templates (Step 558)
 
 #### 95. BOOTSTRAP ALBUMS CHALLENGE - modifying a bootstrap template (Step 559)
+
+This entry documents a challenge where the student modified a Bootstrap "Album" template. The student successfully added custom images, descriptions, and implemented correct linking for thumbnails and a "View" button. The primary learning outcome involved troubleshooting several issues, including CSS specificity to control image size, correcting relative file paths to resolve 404 errors, and correctly converting a `<button>` to an `<a>` tag for a functional link.
+
+#### 96. CHALLENGE - mastering FTP concepts (Step 567)
+
+This entry documents a challenge where the student was required to demonstrate an understanding of core FTP concepts. The student's ability to identify and describe terms such as FTP, ports, firewalls, and configuration within the context of web development was evaluated. The student's clear and concise responses confirm a solid grasp of these foundational networking topics.

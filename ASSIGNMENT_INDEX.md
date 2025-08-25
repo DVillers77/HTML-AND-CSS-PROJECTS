@@ -10004,3 +10004,26 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
+
+### SUBSECTION A: FUNDAMENTALS OF FTP
+
+#### Step 567: CHALLENGE
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- The user's goal is to demonstrate a clear and concise understanding of the core concepts presented in the FTP lesson.
+
+### Core Course Concepts:
+
+- **FTP:** A protocol for transferring files between a client and a remote server.
+- **Ports:** Network endpoints identified by numbers (e.g., port 21 for FTP).
+- **Firewall:** A security program that filters network traffic.
+- **Configure:** To set up a system to function in a specific way.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---

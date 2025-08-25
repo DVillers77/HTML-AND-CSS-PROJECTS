@@ -8937,3 +8937,21 @@ This step defines a firewall as a program that controls and secures network traf
 - A misconfigured firewall can lead to a poor developer experience (UX) by preventing file uploads or site access, making clear error messages and logs essential for troubleshooting.
 
 ---
+
+#### CHALLENGE - applying FTP knowledge
+
+### Course Step Number: 567
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This challenge requires the application of the foundational FTP concepts learned in the previous steps. The objective is to demonstrate understanding of key terms such as FTP, ports, firewalls, and configuration within a practical context.
+
+##### Insights from Chat Discussion summary
+
+- The learner correctly identified that this step is a challenge, which requires a `README.md` entry, correcting the AI's previous documentation error.
+- The learner also identified an error in the README sequential numbering, ensuring the correct number `96` was used for this entry.
+- The learner provided examples of correct `README.md` entries, clarifying that they should include both a heading and a detailed paragraph summary.
+
+---

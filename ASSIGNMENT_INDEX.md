@@ -10027,3 +10027,25 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
+
+### SUBSECTION A: FUNDAMENTALS OF FTP
+
+#### Step 568: TEAM FOUNDATION SERVER
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Understand the purpose and function of Team Foundation Server (TFS) and its role in version control.
+
+### Core Course Concepts:
+
+- **Team Foundation Server (TFS):** A version control system developed by Microsoft.
+- **Purpose:** To help developers manage code versions, especially in a team environment.
+- **Deprecation:** TFS has been replaced by Azure DevOps Server but is still in use by many companies.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---

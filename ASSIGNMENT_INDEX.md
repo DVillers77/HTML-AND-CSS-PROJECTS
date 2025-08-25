@@ -10070,3 +10070,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
+
+#### Step 571: TLS PROTOCOL
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Understand the purpose and function of the TLS Protocol and its relationship to SSL.
+
+### Core Course Concepts:
+
+- **TLS Protocol:** Used to encrypt data sent between applications over the internet.
+- **Successor to SSL:** TLS is a more secure, modern protocol that has replaced SSL.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---

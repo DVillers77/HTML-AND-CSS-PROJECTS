@@ -9007,3 +9007,21 @@ This step introduces cPanel, a popular web hosting control panel that provides a
 - The user experience (UX) of cPanel's interface can be overwhelming for beginners due to the large number of options and icons.
 
 ---
+
+#### TLS PROTOCOL - secure communication on the web
+
+### Course Step Number: 571
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This step defines the Transport Layer Security (TLS) protocol, explaining that it is used to encrypt data on the internet and is the more secure successor to SSL. The lesson provides an example of TLS protecting sensitive information like credit card data during an online purchase.
+
+##### Insights from Chat Discussion summary
+
+- A key best practice for modern websites is to use HTTPS (HTTP over TLS) to ensure data is encrypted in transit, which also improves SEO and user trust.
+- Modern hosting providers and CDNs often manage TLS automatically, ensuring the latest, most secure version is used.
+- The user experience (UX) of TLS is significant, as a lack of a secure connection can lead to browser warnings that discourage users and erode trust.
+
+---

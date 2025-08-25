@@ -9894,3 +9894,26 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
+
+### SUBSECTION A: FUNDAMENTALS OF FTP
+
+#### Step 562: FILE TRANSFER PROTOCOL
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Understand the purpose and function of the File Transfer Protocol (FTP) in web development.
+
+### Core Course Concepts:
+
+- **File Transfer Protocol (FTP):** A protocol used to transfer files between a client PC and a remote server.
+- **Web Host:** A company that maintains web servers for hosting content.
+- **FTP Manager:** Software like FileZilla used by developers to manage FTP transfers.
+- **URL, IP Address, and Port:** The address and port number required to connect to a host's server.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---

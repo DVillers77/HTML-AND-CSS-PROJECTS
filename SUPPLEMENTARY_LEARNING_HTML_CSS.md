@@ -8845,3 +8845,22 @@ This entry marks the start of a new subsection, "FUNDAMENTALS OF FTP." The upcom
 - Learner noted this step serves as an index for a new subsection.
 
 ---
+
+#### FILE TRANSFER PROTOCOL - concepts and use cases
+
+### Course Step Number: 562
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This step introduces the File Transfer Protocol (FTP) as a common protocol for transferring files between a local computer (client) and a remote server. It explains the role of a web host in providing server space and the use of FTP manager software like FileZilla to facilitate the process. The lesson also touches on Uniform Resource Locators (URLs), Internet Protocol (IP) addresses, and port numbers as key components of a server's address.
+
+##### Insights from Chat Discussion summary
+
+- Learner completed a content-based lesson on the fundamentals of FTP.
+- The original course material on FTP is considered outdated, as more secure alternatives like SFTP (SSH File Transfer Protocol) and FTPS (FTP over SSL/TLS) are now standard practice.
+- Automated deployment pipelines using tools like Git are also a modern alternative to manual FTP transfers for managing codebases.
+- The reliability of the FTP process has a direct impact on the user experience (UX), as it ensures that all website assets are correctly transferred and displayed to the public.
+
+---

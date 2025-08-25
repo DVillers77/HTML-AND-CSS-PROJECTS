@@ -9874,3 +9874,23 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
+
+### SUBSECTION A: FUNDAMENTALS OF FTP
+
+#### Step 561: SUBSECTION A: FUNDAMENTALS OF FTP
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Mark the beginning of a new course subsection focused on the fundamentals of File Transfer Protocol (FTP).
+
+### Core Course Concepts:
+
+- This step introduces a new subsection of the course material.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---

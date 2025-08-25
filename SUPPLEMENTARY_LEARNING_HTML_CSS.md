@@ -8828,8 +8828,20 @@ This entry marks the start of a new section in the course material, "FILE TRANSF
 
 - Learner noted this step serves as an index for a new section and a new subsection.
 
-##### Relevant Files:
+---
 
-- [No new files were created for this step]
+#### SUBSECTION A: FUNDAMENTALS OF FTP - New Subsection
+
+### Course Step Number: 561
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This entry marks the start of a new subsection, "FUNDAMENTALS OF FTP." The upcoming steps will focus on the foundational concepts of File Transfer Protocol.
+
+##### Insights from Chat Discussion summary
+
+- Learner noted this step serves as an index for a new subsection.
 
 ---

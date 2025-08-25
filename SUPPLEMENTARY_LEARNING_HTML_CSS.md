@@ -8763,3 +8763,29 @@ This discussion also reinforced the superiority of using Bootstrap's `flex-row-r
 #### BOOTSTRAP ALBUMS CHALLENGE
 
 ---
+
+#### BOOTSTRAP TEMPLATES ASSIGNMENT - input tags and attributes
+
+### Course Step Number: 558
+
+### Date Researched: 2025-08-24
+
+##### Key Concepts / Summary
+
+This step involved downloading, decompressing, and exploring the official Bootstrap 5 templates. The assignment required viewing the templates both live in a browser and as source code in VS Code to understand how they are structured.
+
+##### Independent Research / Notable Discoveries
+
+I learned that using a code formatter like Prettier is essential for making source code readable, especially when indentation is missing.
+
+##### Insights from Chat Discussion summary
+
+- The learner found that using the "Shift + Alt + F" shortcut to format code in VS Code made it much easier to understand nesting and element hierarchy, particularly in the Bootstrap templates.
+- The learner asked for definitions for several interesting terms found in the code: Jumbotron, Breadcrumbs, Toaster message, and Modal.
+- The learner liked the hero section and custom card elements.
+
+##### Relevant Files:
+
+- [No new files were created for this step]
+
+---

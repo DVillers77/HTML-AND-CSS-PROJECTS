@@ -453,3 +453,5 @@ This entry documents the completion of the Bootstrap Footer Challenge. The stude
 #### 93. BOOTSTRAP GITHUB SUBMISSION ASSIGNMENT (Step 556)
 
 This entry documents the final step of the Bootstrap project, the submission to GitHub. The student successfully pushed the completed `Academy-Cinemas` project to their repository. This action serves as both a backup of the final work and a demonstration of proficiency in using version control and finalizing a coding project.
+
+#### 94. BOOTSTRAP TEMPLATES ASSIGNMENT - downloading and viewing html templates (Step 558)

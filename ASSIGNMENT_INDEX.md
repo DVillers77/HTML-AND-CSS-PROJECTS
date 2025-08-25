@@ -9803,3 +9803,26 @@ While this step was technically completed earlier in the lesson, the formal assi
 #### Step 559. BOOTSTRAP ALBUMS CHALLENGE
 
 ---
+
+#### Step 558: BOOTSTRAP TEMPLATES ASSIGNMENT
+
+### Date Completed: 2025-08-24
+
+### Objective:
+
+- Download and decompress Bootstrap example templates.
+- View at least five templates in a browser and in VS Code.
+- Define and understand any unfamiliar terms found in the source code.
+
+### Core Course Concepts:
+
+- Decompressing zipped files.
+- Viewing live web pages from local files.
+- Reading and analyzing source code for web layouts.
+- Understanding and defining new web development terms.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---

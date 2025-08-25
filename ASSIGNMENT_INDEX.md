@@ -9940,3 +9940,26 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
+
+### SUBSECTION A: FUNDAMENTALS OF FTP
+
+#### Step 564: PORT
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Understand the concept of a network port and how it is used in client-server communication.
+
+### Core Course Concepts:
+
+- **Port:** A virtual endpoint on a server for network communication, identified by a unique number.
+- **Port Numbers:** Specific numbers represent different services (e.g., FTP on port 21, web servers on port 80).
+- **Client Connection:** A connection requires both an IP address and a port number.
+- **FTP Port Usage:** FTP uses a control port (21) and a separate data port.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---

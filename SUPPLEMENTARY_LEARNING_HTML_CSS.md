@@ -8883,3 +8883,21 @@ This step explains the components of an FTP diagram. It defines the User Interfa
 - The complexity of troubleshooting separate connections can negatively impact the developer's experience (UX).
 
 ---
+
+#### PORT - a fundamental networking concept
+
+### Course Step Number: 564
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This step defines a network port as a virtual endpoint for communication, explaining that each server service is assigned a unique port number. It provides examples for FTP (port 21) and web servers (port 80), and explains that a client connects using both an IP address and a port number.
+
+##### Insights from Chat Discussion summary
+
+- While the lesson correctly identifies FTP's use of port 21, it is a best practice to use a more secure, single-port protocol like **SFTP (port 22)** to avoid firewall issues associated with FTP's dynamic data ports.
+- The concept of a port remains fundamental in web development, but modern tools often abstract this detail away from the developer.
+- A practical application of this knowledge is in troubleshooting, as a "Connection Refused" error can often be diagnosed by checking if the correct port is open.
+
+---

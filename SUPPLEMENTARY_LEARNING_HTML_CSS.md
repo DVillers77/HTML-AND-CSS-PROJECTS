@@ -9025,3 +9025,21 @@ This step defines the Transport Layer Security (TLS) protocol, explaining that i
 - The user experience (UX) of TLS is significant, as a lack of a secure connection can lead to browser warnings that discourage users and erode trust.
 
 ---
+
+#### SECURE SHELL (SSH) - a secure remote protocol
+
+### Course Step Number: 572
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This step defines the Secure Shell (SSH) protocol as a secure way to remotely access and control a computer over an unsecured network. It highlights that SSH encrypts data, ensuring privacy and data integrity.
+
+##### Insights from Chat Discussion summary
+
+- A best practice for modern file transfers is to use SFTP (SSH File Transfer Protocol), which uses SSH for a single, secure connection, avoiding the complexities of FTP's separate data and control ports.
+- SSH keys are a modern security best practice for authentication, providing a more secure and automated way to connect to a server than passwords.
+- While the command-line interface of SSH can have a steep learning curve, its power and automation capabilities offer a superior developer experience (UX) for complex server tasks.
+
+---

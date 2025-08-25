@@ -10089,3 +10089,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
+
+#### Step 572: SECURE SHELL (SSH)
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Understand the purpose and function of the Secure Shell (SSH) protocol.
+
+### Core Course Concepts:
+
+- **Secure Shell (SSH):** A network protocol for secure remote access and control of computers.
+- **Function:** Encrypts data to ensure privacy and data integrity.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---

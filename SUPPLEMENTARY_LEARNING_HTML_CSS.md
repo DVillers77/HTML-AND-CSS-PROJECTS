@@ -8864,3 +8864,22 @@ This step introduces the File Transfer Protocol (FTP) as a common protocol for t
 - The reliability of the FTP process has a direct impact on the user experience (UX), as it ensures that all website assets are correctly transferred and displayed to the public.
 
 ---
+
+#### FTP DIAGRAM - understanding the flow
+
+### Course Step Number: 563
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This step explains the components of an FTP diagram. It defines the User Interface, Control Process, and Data Transfer Process, and distinguishes between the persistent Control Connection and the temporary Data Connection. It also clarifies the role of TCP/IP as the foundation for the entire process.
+
+##### Insights from Chat Discussion summary
+
+- The lesson's diagram focuses on a technically sound but potentially problematic feature of FTP: the separate control and data connections.
+- This separation can cause issues with modern firewalls, as the dynamic ports used for data transfers may be blocked, leading to transfer failures.
+- Modern deployment methods often abstract this process away entirely, using single-port, secure protocols like SFTP or automated CI/CD pipelines.
+- The complexity of troubleshooting separate connections can negatively impact the developer's experience (UX).
+
+---

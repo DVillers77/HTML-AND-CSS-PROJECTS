@@ -9917,3 +9917,26 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
+
+### SUBSECTION A: FUNDAMENTALS OF FTP
+
+#### Step 563: FTP DIAGRAM
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Understand the components and flow of the File Transfer Protocol (FTP) as shown in a diagram.
+
+### Core Course Concepts:
+
+- **User Interface:** The part of the FTP software for user interaction.
+- **Control and Data Connections:** The two separate channels used by FTP for commands/responses and the actual file transfer, respectively.
+- **TCP/IP:** The underlying protocols that enable reliable communication and data transfer.
+- **FTP Manager:** Software like FileZilla used to facilitate the process.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---

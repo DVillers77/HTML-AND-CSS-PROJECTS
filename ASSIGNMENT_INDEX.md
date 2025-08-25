@@ -9875,8 +9875,6 @@ While this step was technically completed earlier in the lesson, the formal assi
 
 ---
 
-### SUBSECTION A: FUNDAMENTALS OF FTP
-
 #### Step 561: SUBSECTION A: FUNDAMENTALS OF FTP
 
 ### Date Completed: 2025-08-25
@@ -9894,8 +9892,6 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
-
-### SUBSECTION A: FUNDAMENTALS OF FTP
 
 #### Step 562: FILE TRANSFER PROTOCOL
 
@@ -9918,8 +9914,6 @@ While this step was technically completed earlier in the lesson, the formal assi
 
 ---
 
-### SUBSECTION A: FUNDAMENTALS OF FTP
-
 #### Step 563: FTP DIAGRAM
 
 ### Date Completed: 2025-08-25
@@ -9940,8 +9934,6 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
-
-### SUBSECTION A: FUNDAMENTALS OF FTP
 
 #### Step 564: PORT
 
@@ -9964,8 +9956,6 @@ While this step was technically completed earlier in the lesson, the formal assi
 
 ---
 
-### SUBSECTION A: FUNDAMENTALS OF FTP
-
 #### Step 565: CONFIGURE
 
 ### Date Completed: 2025-08-25
@@ -9985,8 +9975,6 @@ While this step was technically completed earlier in the lesson, the formal assi
 
 ---
 
-### SUBSECTION A: FUNDAMENTALS OF FTP
-
 #### Step 566: FIREWALL
 
 ### Date Completed: 2025-08-25
@@ -10004,8 +9992,6 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
-
-### SUBSECTION A: FUNDAMENTALS OF FTP
 
 #### Step 567: CHALLENGE
 
@@ -10028,8 +10014,6 @@ While this step was technically completed earlier in the lesson, the formal assi
 
 ---
 
-### SUBSECTION A: FUNDAMENTALS OF FTP
-
 #### Step 568: TEAM FOUNDATION SERVER
 
 ### Date Completed: 2025-08-25
@@ -10050,8 +10034,6 @@ While this step was technically completed earlier in the lesson, the formal assi
 
 ---
 
-### SUBSECTION B: FILEZILLA
-
 #### Step 569: SUBSECTION B: FILEZILLA
 
 ### Date Completed: 2025-08-25
@@ -10063,6 +10045,25 @@ While this step was technically completed earlier in the lesson, the formal assi
 ### Core Course Concepts:
 
 - This step introduces a new subsection of the course material.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---
+
+#### Step 570: CPANEL
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Understand the purpose and function of cPanel as a web hosting control panel.
+
+### Core Course Concepts:
+
+- **cPanel:** A graphical web hosting control panel software.
+- **Function:** Provides a user-friendly interface for managing a website's hosting environment, including files, databases, and domains.
 
 ### Relevant Files:
 

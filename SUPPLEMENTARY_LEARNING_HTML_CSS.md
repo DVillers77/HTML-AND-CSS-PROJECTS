@@ -8989,3 +8989,21 @@ This entry marks the start of a new subsection, "FILEZILLA," which will cover to
 - Learner noted this step serves as an index for a new subsection.
 
 ---
+
+#### CPANEL - a web hosting control panel
+
+### Course Step Number: 570
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This step introduces cPanel, a popular web hosting control panel that provides a graphical user interface for managing a website's hosting environment. It is used to publish websites, organize files, and manage domains and databases.
+
+##### Insights from Chat Discussion summary
+
+- While cPanel is widely used, best practices often favor managing a server via the command-line interface for greater control.
+- cPanel represents a more traditional hosting model, with modern alternatives like managed hosting platforms and serverless architectures offering a different approach to server management.
+- The user experience (UX) of cPanel's interface can be overwhelming for beginners due to the large number of options and icons.
+
+---

@@ -9984,3 +9984,23 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files was created for this step]
 
 ---
+
+### SUBSECTION A: FUNDAMENTALS OF FTP
+
+#### Step 566: FIREWALL
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Define and understand the role of a firewall in a network.
+
+### Core Course Concepts:
+
+- **Firewall:** A program that controls and protects a computer from unauthorized access by filtering network traffic.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---

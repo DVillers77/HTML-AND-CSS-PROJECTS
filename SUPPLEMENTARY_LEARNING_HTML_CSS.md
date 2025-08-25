@@ -8919,3 +8919,21 @@ This step defines the term "configure" as the process of setting up or adjusting
 - The user experience (UX) of a configuration process is a significant consideration, as a poorly designed interface can lead to frustration and errors.
 
 ---
+
+#### FIREWALL - a key network security component
+
+### Course Step Number: 566
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This step defines a firewall as a program that controls and secures network traffic to and from a computer, acting as a barrier against unauthorized access. It explains that firewalls inspect data flow and can block threats.
+
+##### Insights from Chat Discussion summary
+
+- A key best practice for web developers is to configure firewalls on both local and remote servers to ensure traffic for services like FTP, SFTP, and web traffic is allowed.
+- Modern web hosting often includes sophisticated, managed firewalls (like Web Application Firewalls or WAFs) to provide an additional layer of security.
+- A misconfigured firewall can lead to a poor developer experience (UX) by preventing file uploads or site access, making clear error messages and logs essential for troubleshooting.
+
+---

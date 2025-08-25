@@ -8813,3 +8813,23 @@ I noticed the official example documentation was for Bootstrap 4.0, but my downl
 - The learner made the conscious decision to wait on making the "Edit" button functional until the class covers JavaScript, demonstrating a good understanding of project scope and dependencies.
 
 ---
+
+## SECTION 12: FILE TRANSFER PROTOCOL (FTP) - New Section
+
+### Course Step Number: 560
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This entry marks the start of a new section in the course material, "FILE TRANSFER PROTOCOL (FTP)," and its first subsection, "FUNDAMENTALS OF FTP." The upcoming steps will cover various aspects of FTP.
+
+##### Insights from Chat Discussion summary
+
+- Learner noted this step serves as an index for a new section and a new subsection.
+
+##### Relevant Files:
+
+- [No new files were created for this step]
+
+---

@@ -9852,3 +9852,25 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [style.css](style.css)
 
 ---
+
+## SECTION 12: FILE TRANSFER PROTOCOL (FTP)
+
+### SUBSECTION A: FUNDAMENTALS OF FTP
+
+#### Step 560: SECTION 12: FILE TRANSFER PROTOCOL (FTP)
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Mark the beginning of a new major course section and a new subsection, introducing the topic of File Transfer Protocol (FTP).
+
+### Core Course Concepts:
+
+- This step introduces the next major section and subsection of the course material.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---

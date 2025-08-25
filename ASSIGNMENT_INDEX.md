@@ -9826,3 +9826,29 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
+
+#### Step 559: BOOTSTRAP ALBUMS CHALLENGE
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Study the Bootstrap “Album” example webpage.
+- Create a new HTML file and copy the “Album” template code into it.
+- Modify the album cards by adding your own images and descriptions.
+- Save and successfully execute the file in the browser.
+
+### Core Course Concepts:
+
+- Copying and pasting code templates.
+- Modifying existing HTML code.
+- Working with image tags (`<img>`) to display local images.
+- Customizing Bootstrap components.
+- Troubleshooting styling and linking issues.
+
+### Relevant Files:
+
+- [index-2.html](index-2.html)
+- [style.css](style.css)
+
+---

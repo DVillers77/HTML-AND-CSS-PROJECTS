@@ -8789,3 +8789,27 @@ I learned that using a code formatter like Prettier is essential for making sour
 - [No new files were created for this step]
 
 ---
+
+#### BOOTSTRAP ALBUMS CHALLENGE - modifying a template
+
+### Course Step Number: 559
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This challenge involved applying the concepts from the previous step by creating a new HTML file and customizing a Bootstrap “Album” template. I added my own images and descriptive text to the pre-built card components and debugged issues related to styling and file linking.
+
+##### Independent Research / Notable Discoveries
+
+I noticed the official example documentation was for Bootstrap 4.0, but my downloaded templates were for Bootstrap 5.3.7. I learned that while some specifics like Jumbotron and jQuery have changed, the core principles of the grid system and cards are still applicable. I also learned about best practices for separating CSS from HTML.
+
+##### Insights from Chat Discussion summary
+
+- The learner found the course instructions to be unclear and had to seek external resources for changing the images.
+- The learner successfully moved the styles to an external stylesheet but encountered a broken layout. This was debugged to be a missing `<link>` tag in the HTML.
+- The learner attempted to link the thumbnails to a full-size image, which led to a CSS issue where the image expanded unintentionally. This was debugged by creating a more specific CSS selector (`.card a img`).
+- The learner also debugged a 404 error related to the image links, learning how relative file paths work and correcting the `href` attribute.
+- The learner made the conscious decision to wait on making the "Edit" button functional until the class covers JavaScript, demonstrating a good understanding of project scope and dependencies.
+
+---

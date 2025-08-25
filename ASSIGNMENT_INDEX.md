@@ -10049,3 +10049,23 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
+
+### SUBSECTION B: FILEZILLA
+
+#### Step 569: SUBSECTION B: FILEZILLA
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Mark the beginning of a new course subsection focused on the FTP client software, FileZilla.
+
+### Core Course Concepts:
+
+- This step introduces a new subsection of the course material.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---

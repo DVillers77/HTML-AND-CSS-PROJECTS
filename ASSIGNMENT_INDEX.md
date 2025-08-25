@@ -9963,3 +9963,24 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
+
+### SUBSECTION A: FUNDAMENTALS OF FTP
+
+#### Step 565: CONFIGURE
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Define and understand the term "configure" in a technical context.
+
+### Core Course Concepts:
+
+- **Configure:** The process of setting up or adjusting a machine or software to behave in a specific, desired way.
+- **Example:** The lesson provides an example of configuring a game's display settings to match a monitor's capabilities.
+
+### Relevant Files:
+
+- [No new files was created for this step]
+
+---

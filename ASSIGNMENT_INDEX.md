@@ -10348,3 +10348,28 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
+
+#### Step 584: FIRST CHALLENGE
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Center an image on the page using CSS.
+- Apply a CSS filter to the image.
+- Give the image rounded edges using CSS.
+
+### Core Course Concepts:
+
+- **`display: flex`:** A CSS property used to create flexible layouts.
+- **`justify-content` and `align-items`:** Properties used in a flex container to align items horizontally and vertically.
+- **`filter`:** A CSS property for applying visual effects like sepia to an image.
+- **`border-radius`:** A CSS property for giving an element rounded corners.
+
+### Relevant Files:
+
+- [index.html](index.html)
+- [stylesheet.css](css/stylesheet.css)
+- [xolo_art_01.jpg](images/xolo_art_01.jpg)
+
+---

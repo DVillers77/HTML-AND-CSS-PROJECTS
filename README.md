@@ -479,3 +479,7 @@ This entry documents an implied assignment where the student followed along with
 #### 101. FILEZILLA SUBMISSION ASSIGNMENT - file transfer verification (Step 579)
 
 This entry documents a submission assignment where the student was required to verify the successful file transfer from the previous video drill. The student correctly provided the name of the file they uploaded to the remote server, confirming their ability to use FileZilla to transfer files.
+
+#### 102. FIRST CHALLENGE - image styling (Step 584)
+
+This entry documents the first challenge, in which the student was tasked with applying new CSS properties to an image. The student successfully used online resources to center the image, apply a sepia filter, and give it rounded edges, demonstrating their ability to independently research and implement new code.

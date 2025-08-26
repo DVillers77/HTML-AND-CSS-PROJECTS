@@ -487,3 +487,7 @@ This entry documents the first challenge, in which the student was tasked with a
 #### 103. SECOND CHALLENGE - footer creation (Step 585)
 
 This entry documents the second challenge, in which the student was tasked with creating a footer in HTML and applying CSS to style the text. The student successfully used a `<footer>` tag to create the element and used CSS to center and bold the text, demonstrating an understanding of both semantic HTML and fundamental styling properties.
+
+#### 104. THIRD CHALLENGE - table creation and styling (Step 586)
+
+This entry documents the third challenge, in which the student was tasked with creating and styling a table. The student successfully used HTML to create a table structure and applied CSS to add a border, padding, and a background color to the header row. Through a series of troubleshooting discussions, the student also learned how to use `overflow-x` to handle table responsiveness and the `margin: auto` shorthand to correctly center the table while maintaining its top margin.

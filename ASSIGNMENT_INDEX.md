@@ -10396,3 +10396,28 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [stylesheet.css](css/stylesheet.css)
 
 ---
+
+#### Step 586: THIRD CHALLENGE
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Create a table using HTML.
+- Apply a border, padding, and a background color to the table using CSS.
+- Ensure the table is responsive on smaller screen sizes without overflowing the page.
+
+### Core Course Concepts:
+
+- **`<table>`:** A semantic HTML tag used to create a table.
+- **`<tr>`, `<th>`, `<td>`:** HTML tags for creating table rows, headers, and cells.
+- **`border` and `padding`:** Fundamental CSS properties for styling spacing and borders.
+- **`overflow-x`:** A CSS property that adds a horizontal scrollbar when content is wider than its container.
+- **`margin: auto`:** A CSS shorthand for horizontally centering a block-level element.
+
+### Relevant Files:
+
+- [index.html](index.html)
+- [stylesheet.css](css/stylesheet.css)
+
+---

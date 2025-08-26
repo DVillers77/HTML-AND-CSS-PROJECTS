@@ -9267,3 +9267,20 @@ This challenge required the student to create a `<footer>` tag in HTML and use C
 - The challenge reinforced the use of semantic HTML and basic CSS properties, providing a practical application of foundational knowledge.
 
 ---
+
+#### THIRD CHALLENGE - creating and styling a table
+
+### Course Step Number: 586
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This challenge required the student to create and style an HTML table. The student successfully used HTML to build the table structure and CSS to add a border, padding, and a background color. This exercise also provided a practical lesson in debugging complex CSS issues.
+
+##### Insights from Chat Discussion summary
+
+- The learner correctly identified that a standard table would not be responsive on smaller screens and worked through a solution to make it responsive.
+- The troubleshooting process led to a deeper understanding of CSS properties like `overflow-x` and the `margin: auto` shorthand, as well as how to avoid common pitfalls with negative margins.
+
+---

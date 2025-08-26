@@ -475,3 +475,7 @@ This entry documents an implied assignment where the student followed along with
 #### 100. FILEZILLA DRILL VIDEO - uploading files to a remote server (Step 578)
 
 This entry documents an implied assignment where the student followed along with a video tutorial to create and upload a text file to the Tech Academy's remote server using FileZilla. The student successfully set up a new site in the Site Manager with the provided credentials, navigated a connection security pop-up, and transferred the file. The student also correctly noted their dissatisfaction with the video's suggestion to turn off the firewall, demonstrating an advanced understanding of security best practices.
+
+#### 101. FILEZILLA SUBMISSION ASSIGNMENT - file transfer verification (Step 579)
+
+This entry documents a submission assignment where the student was required to verify the successful file transfer from the previous video drill. The student correctly provided the name of the file they uploaded to the remote server, confirming their ability to use FileZilla to transfer files.

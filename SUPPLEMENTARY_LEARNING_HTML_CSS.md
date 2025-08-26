@@ -9149,3 +9149,19 @@ This video provided a hands-on exercise for uploading a text file to a remote se
 - The learner successfully connected and transferred the file to the remote server.
 
 ---
+
+#### FILEZILLA SUBMISSION ASSIGNMENT - confirming file upload
+
+### Course Step Number: 579
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This step was a final submission assignment to confirm the successful upload of the text file created in the previous video. The student's correct response confirms their ability to perform the file transfer.
+
+##### Insights from Chat Discussion summary
+
+- The learner successfully completed the assignment by providing the correct file name, confirming the successful file transfer from the FileZilla drill.
+
+---

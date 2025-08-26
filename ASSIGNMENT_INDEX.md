@@ -10108,3 +10108,41 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
+
+#### Step 573: FTPS
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Understand the distinction between FTPS and SFTP.
+
+### Core Course Concepts:
+
+- **FTPS:** An extension of FTP that uses a layer of protection via TLS/SSL.
+- **SFTP:** A separate protocol built on SSH for secure file transfer.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---
+
+#### Step 573: FTPS
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Understand the distinction between FTPS and SFTP.
+
+### Core Course Concepts:
+
+- **FTPS:** An extension of FTP that uses a layer of protection via TLS/SSL.
+- **SFTP:** A separate protocol built on SSH for secure file transfer.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---

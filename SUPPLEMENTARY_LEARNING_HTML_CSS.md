@@ -9043,3 +9043,21 @@ This step defines the Secure Shell (SSH) protocol as a secure way to remotely ac
 - While the command-line interface of SSH can have a steep learning curve, its power and automation capabilities offer a superior developer experience (UX) for complex server tasks.
 
 ---
+
+#### FTPS AND SFTP - understanding the difference
+
+### Course Step Number: 573
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This step differentiates between FTPS and SFTP, two protocols for secure file transfer. FTPS is a version of FTP with an added layer of TLS/SSL encryption, while SFTP is a completely separate protocol built on SSH.
+
+##### Insights from Chat Discussion summary
+
+- The key best practice is to use SFTP over FTPS due to its single-port simplicity (port 22) and superior compatibility with modern firewalls.
+- Modern web development often uses automated, Git-based workflows that deploy code using SFTP, bypassing the need for manual transfers with a client like FileZilla.
+- The choice of protocol impacts the developer's experience (UX), as SFTP can save significant troubleshooting time by avoiding the connection issues associated with FTPS's dynamic data ports.
+
+---

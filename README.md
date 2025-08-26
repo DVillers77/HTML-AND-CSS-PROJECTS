@@ -471,3 +471,7 @@ This entry documents an implied assignment where the student followed along with
 #### 99. FTP AND FILEZILLA PART 1 VIDEO - downloading and configuring FileZilla (Step 574)
 
 This entry documents an implied assignment where the student followed along with a video tutorial to download and install the FileZilla client. The student learned about FileZilla's features, explored the file structure of a cPanel-hosted website, and learned the process for creating an FTP account. The student successfully completed the steps that did not require a paid hosting service, demonstrating a foundational understanding of the software and its purpose.
+
+#### 100. FILEZILLA DRILL VIDEO - uploading files to a remote server (Step 578)
+
+This entry documents an implied assignment where the student followed along with a video tutorial to create and upload a text file to the Tech Academy's remote server using FileZilla. The student successfully set up a new site in the Site Manager with the provided credentials, navigated a connection security pop-up, and transferred the file. The student also correctly noted their dissatisfaction with the video's suggestion to turn off the firewall, demonstrating an advanced understanding of security best practices.

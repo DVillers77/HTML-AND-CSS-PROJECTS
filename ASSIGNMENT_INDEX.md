@@ -10229,3 +10229,26 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
+
+#### Step 578: FILEZILLA DRILL VIDEO
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Learn how to use FileZilla to upload a file to a remote server.
+- Understand how to troubleshoot common connection issues with FileZilla.
+- Practice setting up a new site in FileZilla's Site Manager.
+
+### Core Course Concepts:
+
+- **FileZilla Site Manager:** A tool to save connection credentials.
+- **Local vs. Remote Site:** Panels in FileZilla displaying files on the local computer and the remote server.
+- **File Transfer:** The process of moving files from a local machine to a remote server.
+- **Troubleshooting:** Methods for resolving connection errors, including checking transfer settings and firewall rules.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---

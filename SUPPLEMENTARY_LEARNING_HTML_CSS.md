@@ -9131,3 +9131,21 @@ This quiz validated the understanding of two key concepts from the preceding vid
 - The learner successfully passed the quiz by correctly identifying that the `public_ftp` folder stores anonymously uploaded files and that "FTP over TLS" is used for secure data transmission.
 
 ---
+
+#### FILEZILLA DRILL VIDEO - a practical file transfer exercise
+
+### Course Step Number: 578
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This video provided a hands-on exercise for uploading a text file to a remote server using FileZilla. It covered creating a new site in Site Manager with the provided credentials, navigating the local and remote file systems, and transferring a file.
+
+##### Insights from Chat Discussion summary
+
+- The learner encountered a "server certificate is unknown" pop-up and was able to connect by correctly trusting the certificate for this instance without making a permanent, insecure change.
+- The learner expressed dissatisfaction with the video's recommendation to turn off the firewall as a troubleshooting step, identifying it as a poor security practice.
+- The learner successfully connected and transferred the file to the remote server.
+
+---

@@ -9216,3 +9216,20 @@ This step introduces a series of challenges that will require the use of online 
 - This instructional design promotes independent problem-solving and prepares students for the self-directed nature of a career in web development.
 
 ---
+
+#### IMPORTANT NOTE - best practices for learning code
+
+### Course Step Number: 583
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This step provides crucial guidance on how to approach the upcoming challenges. It emphasizes that students should type out the code themselves and customize it rather than simply copying and pasting from online resources, which is a vital practice for building foundational developer skills.
+
+##### Insights from Chat Discussion summary
+
+- The lesson's advice is a timeless best practice that builds muscle memory for syntax and improves debugging skills.
+- The instructional design anticipates the user's temptation to copy and paste and provides a clear rationale for why they should not, creating a more effective learning experience.
+
+---

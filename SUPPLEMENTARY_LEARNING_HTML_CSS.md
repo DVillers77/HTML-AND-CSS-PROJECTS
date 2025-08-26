@@ -9080,3 +9080,19 @@ This video demonstrates how to download and install the FileZilla client and how
 - The instructional approach of having the student watch without participating if they lack a hosting service can create a UX bias and a sense of incomplete learning.
 
 ---
+
+#### QUIZ - validating FTP knowledge
+
+### Course Step Number: 575
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This step was a quiz designed to validate the understanding of FileZilla's purpose. The correct answer identified it as an application that handles file transfer protocol.
+
+##### Insights from Chat Discussion summary
+
+- The learner successfully passed the quiz, confirming their grasp of the foundational concepts presented in the preceding video lesson.
+
+---

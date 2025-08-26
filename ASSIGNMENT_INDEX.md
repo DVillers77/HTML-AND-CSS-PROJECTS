@@ -10169,3 +10169,21 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
+
+#### Step 575: QUIZ
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Validate a clear understanding of the purpose of FileZilla.
+
+### Core Course Concepts:
+
+- **FileZilla:** An application that handles file transfer protocol.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---

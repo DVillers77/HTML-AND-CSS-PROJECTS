@@ -10146,3 +10146,26 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
+
+#### Step 574: FTP AND FILEZILLA PART 1 VIDEO
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Learn how to download and install the FileZilla client.
+- Understand the basic file structure of a cPanel hosted website.
+- Learn the process of creating an FTP account.
+
+### Core Course Concepts:
+
+- **FileZilla Client:** Software for transferring files to a server.
+- **cPanel:** A web hosting control panel with a graphical interface.
+- **public_html:** The root directory for a website's files on a server.
+- **FTP Account:** A user account created to access a specific directory on a server.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---

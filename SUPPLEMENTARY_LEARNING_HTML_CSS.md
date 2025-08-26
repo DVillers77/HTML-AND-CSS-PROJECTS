@@ -9165,3 +9165,21 @@ This step was a final submission assignment to confirm the successful upload of 
 - The learner successfully completed the assignment by providing the correct file name, confirming the successful file transfer from the FileZilla drill.
 
 ---
+
+## SECTION 13: WEBSITE DEVELOPMENT
+
+### SUBSECTION A: CHALLENGES - New Subsection
+
+### Course Step Number: 580
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This entry marks the start of a new major course section, "WEBSITE DEVELOPMENT," and its first subsection, "CHALLENGES." The following steps will cover various challenges related to HTML and CSS.
+
+##### Insights from Chat Discussion summary
+
+- Learner noted this step serves as an index for a new section and subsection.
+
+---

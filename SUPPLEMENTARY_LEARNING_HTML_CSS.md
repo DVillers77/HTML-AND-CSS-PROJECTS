@@ -9096,3 +9096,22 @@ This step was a quiz designed to validate the understanding of FileZilla's purpo
 - The learner successfully passed the quiz, confirming their grasp of the foundational concepts presented in the preceding video lesson.
 
 ---
+
+#### FTP AND FILEZILLA PART 1 VIDEO - downloading and configuring
+
+### Course Step Number: 574
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This video demonstrates how to download and install the FileZilla client and how to create an FTP account within a cPanel hosting environment. It also provides an overview of a hosted website's file structure, highlighting the purpose of key directories like `public_html`.
+
+##### Insights from Chat Discussion summary
+
+- The learner skipped the parts of the video requiring a hosting service, as per instructions.
+- A key best practice is to always use secure methods for authentication and to store credentials in a secure password manager.
+- The lesson's reliance on cPanel represents a traditional hosting model, with modern alternatives favoring automated, Git-based workflows.
+- The instructional approach of having the student watch without participating if they lack a hosting service can create a UX bias and a sense of incomplete learning.
+
+---

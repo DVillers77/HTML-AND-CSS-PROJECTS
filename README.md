@@ -463,3 +463,11 @@ This entry documents a challenge where the student modified a Bootstrap "Album" 
 #### 96. CHALLENGE - mastering FTP concepts (Step 567)
 
 This entry documents a challenge where the student was required to demonstrate an understanding of core FTP concepts. The student's ability to identify and describe terms such as FTP, ports, firewalls, and configuration within the context of web development was evaluated. The student's clear and concise responses confirm a solid grasp of these foundational networking topics.
+
+#### 98. FTP AND FILEZILLA PART 1 VIDEO - downloading and configuring FileZilla (Step 574)
+
+This entry documents an implied assignment where the student followed along with a video tutorial to download and install the FileZilla client. The student learned about FileZilla's features, explored the file structure of a cPanel-hosted website, and learned the process for creating an FTP account. The student successfully completed the steps that did not require a paid hosting service, demonstrating a foundational understanding of the software and its purpose.
+
+#### 99. FTP AND FILEZILLA PART 1 VIDEO - downloading and configuring FileZilla (Step 574)
+
+This entry documents an implied assignment where the student followed along with a video tutorial to download and install the FileZilla client. The student learned about FileZilla's features, explored the file structure of a cPanel-hosted website, and learned the process for creating an FTP account. The student successfully completed the steps that did not require a paid hosting service, demonstrating a foundational understanding of the software and its purpose.

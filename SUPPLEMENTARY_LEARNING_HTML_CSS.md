@@ -9115,3 +9115,19 @@ This video demonstrates how to download and install the FileZilla client and how
 - The instructional approach of having the student watch without participating if they lack a hosting service can create a UX bias and a sense of incomplete learning.
 
 ---
+
+#### QUIZ - validating video lesson knowledge
+
+### Course Step Number: 577
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This quiz validated the understanding of two key concepts from the preceding video lesson: the role of the `public_ftp` folder and the purpose of "FTP over TLS" in providing a secure connection.
+
+##### Insights from Chat Discussion summary
+
+- The learner successfully passed the quiz by correctly identifying that the `public_ftp` folder stores anonymously uploaded files and that "FTP over TLS" is used for secure data transmission.
+
+---

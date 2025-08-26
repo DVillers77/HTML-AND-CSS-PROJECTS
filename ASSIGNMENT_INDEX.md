@@ -10210,3 +10210,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
+
+#### Step 577: QUIZ
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Validate a clear understanding of key concepts from the previous video lesson.
+
+### Core Course Concepts:
+
+- **`public_ftp` folder:** Stores files uploaded anonymously via FTP.
+- **FTP over TLS:** A feature of FTP that allows for secure data transmission.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---

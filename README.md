@@ -483,3 +483,7 @@ This entry documents a submission assignment where the student was required to v
 #### 102. FIRST CHALLENGE - image styling (Step 584)
 
 This entry documents the first challenge, in which the student was tasked with applying new CSS properties to an image. The student successfully used online resources to center the image, apply a sepia filter, and give it rounded edges, demonstrating their ability to independently research and implement new code.
+
+#### 103. SECOND CHALLENGE - footer creation (Step 585)
+
+This entry documents the second challenge, in which the student was tasked with creating a footer in HTML and applying CSS to style the text. The student successfully used a `<footer>` tag to create the element and used CSS to center and bold the text, demonstrating an understanding of both semantic HTML and fundamental styling properties.

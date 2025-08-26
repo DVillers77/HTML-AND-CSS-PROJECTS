@@ -10373,3 +10373,26 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [xolo_art_01.jpg](images/xolo_art_01.jpg)
 
 ---
+
+#### Step 585: SECOND CHALLENGE
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Create a footer using the HTML `<footer>` tag.
+- Center the text within the footer using CSS.
+- Make the footer text bold using CSS.
+
+### Core Course Concepts:
+
+- **`<footer>`:** A semantic HTML5 tag used to define a footer for a document or section.
+- **`text-align`:** A CSS property for centering text.
+- **`font-weight`:** A CSS property for making text bold.
+
+### Relevant Files:
+
+- [index.html](index.html)
+- [stylesheet.css](css/stylesheet.css)
+
+---

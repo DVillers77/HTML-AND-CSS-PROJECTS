@@ -9250,3 +9250,20 @@ This challenge required the student to apply new CSS properties to an image. The
 - This challenge reinforced the best practice of independent research and the separation of HTML (structure) and CSS (presentation).
 
 ---
+
+#### SECOND CHALLENGE - creating and styling a footer
+
+### Course Step Number: 585
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This challenge required the student to create a `<footer>` tag in HTML and use CSS to center and bold the text within it. The student's successful completion demonstrates an understanding of semantic HTML and fundamental styling concepts.
+
+##### Insights from Chat Discussion summary
+
+- The learner successfully completed all three tasks and also added custom styling, such as background color and font size, as advised in a previous lesson.
+- The challenge reinforced the use of semantic HTML and basic CSS properties, providing a practical application of foundational knowledge.
+
+---

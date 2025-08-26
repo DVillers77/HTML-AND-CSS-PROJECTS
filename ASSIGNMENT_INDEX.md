@@ -10421,3 +10421,25 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [stylesheet.css](css/stylesheet.css)
 
 ---
+
+#### Step 587: FOURTH CHALLENGE
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Position text over an image using HTML and CSS.
+
+### Core Course Concepts:
+
+- **`position: relative` and `position: absolute`:** CSS properties used to create a positioning context for layered elements.
+- **`transform: translate()`:** A CSS function used to precisely center an element.
+- **Text Styling:** CSS properties like `font-size`, `text-shadow`, and `background-color` to improve text legibility.
+
+### Relevant Files:
+
+- [index.html](index.html)
+- [stylesheet.css](css/stylesheet.css)
+- [xolo_art_01.jpg](images/xolo_art_01.jpg)
+
+---

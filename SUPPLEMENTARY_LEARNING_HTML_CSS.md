@@ -9284,3 +9284,20 @@ This challenge required the student to create and style an HTML table. The stude
 - The troubleshooting process led to a deeper understanding of CSS properties like `overflow-x` and the `margin: auto` shorthand, as well as how to avoid common pitfalls with negative margins.
 
 ---
+
+#### FOURTH CHALLENGE - positioning text over an image
+
+### Course Step Number: 587
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This challenge required the student to use CSS to layer a text `<span>` over an image. The student's successful use of `position: absolute` demonstrates an understanding of how to control the precise placement of elements, which is a key skill for more advanced layouts.
+
+##### Insights from Chat Discussion summary
+
+- The learner successfully completed the challenge by using `position: absolute` on the child element, and was able to place the text correctly without explicitly setting `position: relative` on the parent `<a>` tag.
+- The learner demonstrated an excellent grasp of UX by adding styling such as `text-shadow` and `background-color` to ensure the text was legible against the image background.
+
+---

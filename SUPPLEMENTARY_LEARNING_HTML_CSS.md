@@ -9183,3 +9183,19 @@ This entry marks the start of a new major course section, "WEBSITE DEVELOPMENT,"
 - Learner noted this step serves as an index for a new section and subsection.
 
 ---
+
+### SUBSECTION A: CHALLENGES - New Subsection
+
+### Course Step Number: 581
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This entry marks the start of a new subsection, "CHALLENGES," within the "WEBSITE DEVELOPMENT" section. The following steps will cover various challenges related to HTML and CSS.
+
+##### Insights from Chat Discussion summary
+
+- Learner noted this step serves as an index for a new subsection.
+
+---

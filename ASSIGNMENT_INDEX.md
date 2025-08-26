@@ -10290,3 +10290,23 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [No new files were created for this step]
 
 ---
+
+### SUBSECTION A: CHALLENGES
+
+#### Step 581: SUBSECTION A: CHALLENGES
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Mark the beginning of a new course subsection focused on challenges.
+
+### Core Course Concepts:
+
+- This step introduces a new subsection of the course material.
+
+### Relevant Files:
+
+- [No new files were created for this step]
+
+---

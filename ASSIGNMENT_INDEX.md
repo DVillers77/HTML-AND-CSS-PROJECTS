@@ -10488,3 +10488,23 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [stylesheet-2.css](stylesheet-2.css)
 
 ---
+
+#### Step 590: SEVENTH CHALLENGE
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Create a paragraph element and add a hover effect to it using CSS.
+
+### Core Course Concepts:
+
+- **`:hover` pseudo-class:** A CSS selector that applies a style when the user's mouse cursor is over an element.
+- **`transition` property:** A CSS property that provides a smooth, gradual change to a property's value over a specified duration.
+
+### Relevant Files:
+
+- [index-2.html](index-2.html)
+- [stylesheet-2.css](stylesheet-2.css)
+
+---

@@ -503,3 +503,7 @@ This entry documents the fifth challenge, in which the student was tasked with c
 #### 107. SIXTH CHALLENGE - two-column layout (Step 589)
 
 This entry documents the sixth challenge, in which the student was tasked with creating a two-column layout. The student successfully used Flexbox in CSS to create a flexible, two-column layout with unequal widths and correctly applied styling to the text and a gap between the columns.
+
+#### 108. SEVENTH CHALLENGE - hover effect on text (Step 590)
+
+This entry documents the seventh challenge, in which the student was tasked with creating a hover effect on a paragraph element. The student successfully used the `:hover` pseudo-class and the `transition` property to create a smooth, interactive effect, demonstrating a fundamental skill in creating engaging user interfaces.

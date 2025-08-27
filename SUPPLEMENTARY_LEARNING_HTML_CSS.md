@@ -9335,3 +9335,20 @@ This challenge required the student to create a two-column layout. The student s
 - This challenge reinforced the best practice of using Flexbox for flexible layouts, a fundamental skill for building modern websites.
 
 ---
+
+#### SEVENTH CHALLENGE - adding a hover effect to a paragraph
+
+### Course Step Number: 590
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This challenge required the student to create a paragraph and add an interactive hover effect. The student successfully used the `:hover` pseudo-class and a smooth `transition` to change the text color upon mouseover, demonstrating an understanding of how to create simple yet effective user interactions with CSS.
+
+##### Insights from Chat Discussion summary
+
+- The learner demonstrated an excellent understanding of how to use CSS properties to create a smooth transition, which is a key skill for creating professional-looking websites.
+- This challenge reinforced the concept of micro-interactions and the importance of providing visual feedback to the user.
+
+---

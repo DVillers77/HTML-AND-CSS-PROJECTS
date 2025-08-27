@@ -495,3 +495,7 @@ This entry documents the third challenge, in which the student was tasked with c
 #### 105. FOURTH CHALLENGE - text over image (Step 587)
 
 This entry documents the fourth challenge, in which the student was tasked with using CSS positioning to place text over an image. The student successfully used `position: absolute` and `transform` to perfectly center the text, demonstrating their ability to create layered content and apply advanced styling properties. The student also correctly implemented the solution without the explicit `position: relative` on the parent container, showcasing an intuitive understanding of CSS context.
+
+#### 106. FIFTH CHALLENGE - fixed navbar (Step 588)
+
+This entry documents the fifth challenge, in which the student was tasked with creating a fixed navigation bar with styled links. The student successfully used semantic HTML tags and CSS properties like `position: fixed` and Flexbox to create a functional and responsive navbar with a hover effect.

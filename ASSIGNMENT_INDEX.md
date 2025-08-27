@@ -10443,3 +10443,26 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [xolo_art_01.jpg](images/xolo_art_01.jpg)
 
 ---
+
+#### Step 588: FIFTH CHALLENGE
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Create a fixed navigation bar using HTML and CSS.
+- Style the navbar with a background color, font color, and a hover effect.
+
+### Core Course Concepts:
+
+- **`position: fixed`:** A CSS property that positions an element relative to the browser window, so it stays in the same place when the page is scrolled.
+- **`z-index`:** A CSS property that specifies the stack order of an element.
+- **Flexbox (`display: flex`):** A CSS layout model used to align items within a container.
+- **`hover` pseudo-class:** A CSS pseudo-class that is triggered when a user mouses over an element.
+
+### Relevant Files:
+
+- [index-2.html](index-2.html)
+- [stylesheet-2.css](stylesheet-2.css)
+
+---

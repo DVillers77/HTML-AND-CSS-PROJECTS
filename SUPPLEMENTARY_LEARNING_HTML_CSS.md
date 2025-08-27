@@ -9318,3 +9318,20 @@ This challenge required the student to create a fixed navigation bar that stays 
 - The challenge provided a practical application of foundational and modern web development concepts, reinforcing skills in both HTML structure and CSS styling.
 
 ---
+
+#### SIXTH CHALLENGE - creating a flexible two-column layout
+
+### Course Step Number: 589
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This challenge required the student to create a two-column layout. The student successfully used Flexbox and the `flex` property to create columns with unequal widths, demonstrating a key skill in modern, responsive web design.
+
+##### Insights from Chat Discussion summary
+
+- The learner demonstrated an excellent understanding of Flexbox by using the `gap` property to add space between the columns, which is a modern and clean approach.
+- This challenge reinforced the best practice of using Flexbox for flexible layouts, a fundamental skill for building modern websites.
+
+---

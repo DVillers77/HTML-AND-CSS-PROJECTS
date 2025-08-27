@@ -10466,3 +10466,25 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [stylesheet-2.css](stylesheet-2.css)
 
 ---
+
+#### Step 589: SIXTH CHALLENGE
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Create a two-column layout using HTML and CSS.
+- Assign a font color, height, and width to the columns.
+
+### Core Course Concepts:
+
+- **Flexbox (`display: flex`):** A modern CSS layout model for aligning items in one dimension (row or column).
+- **`flex` property:** A shorthand CSS property that defines the ability of a flexible item to grow or shrink.
+- **`gap` property:** A CSS property that adds space between columns or rows in a layout.
+
+### Relevant Files:
+
+- [index-2.html](index-2.html)
+- [stylesheet-2.css](stylesheet-2.css)
+
+---

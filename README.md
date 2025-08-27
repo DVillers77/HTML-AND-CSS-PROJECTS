@@ -499,3 +499,7 @@ This entry documents the fourth challenge, in which the student was tasked with 
 #### 106. FIFTH CHALLENGE - fixed navbar (Step 588)
 
 This entry documents the fifth challenge, in which the student was tasked with creating a fixed navigation bar with styled links. The student successfully used semantic HTML tags and CSS properties like `position: fixed` and Flexbox to create a functional and responsive navbar with a hover effect.
+
+#### 107. SIXTH CHALLENGE - two-column layout (Step 589)
+
+This entry documents the sixth challenge, in which the student was tasked with creating a two-column layout. The student successfully used Flexbox in CSS to create a flexible, two-column layout with unequal widths and correctly applied styling to the text and a gap between the columns.

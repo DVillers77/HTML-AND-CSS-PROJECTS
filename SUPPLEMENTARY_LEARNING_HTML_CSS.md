@@ -9387,3 +9387,20 @@ This challenge required the student to embed a video on their webpage. The stude
 - The student also correctly used CSS to style the video containers and ensure the videos were responsive, demonstrating a complete grasp of the task.
 
 ---
+
+#### TENTH CHALLENGE - creating a video with a text overlay
+
+### Course Step Number: 593
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This challenge required the student to add a text overlay to a video. The student successfully leveraged their prior knowledge of positioning to place text on top of the video by using a container with `position: relative` and the overlay text with `position: absolute`.
+
+##### Insights from Chat Discussion summary
+
+- The learner demonstrated an excellent ability to apply a foundational concept to a new problem. The successful transfer of knowledge from image overlays to video overlays shows a deeper understanding of CSS positioning principles.
+- This challenge reinforced the importance of the CSS `z-index` property for controlling the layering of elements.
+
+---

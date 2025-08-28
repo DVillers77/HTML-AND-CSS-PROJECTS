@@ -515,3 +515,7 @@ This entry documents the eighth challenge, in which the student was tasked with 
 #### 110. NINTH CHALLENGE - video embed (Step 592)
 
 This entry documents the ninth challenge, in which the student was tasked with embedding a video that autoplays on mute and on a loop. The student successfully used the `<video>` HTML element with the correct attributes (`autoplay`, `muted`, `loop`) to create a background video effect and a second video with user controls. The student also applied CSS to ensure the videos were responsive and well-contained within the layout.
+
+#### 111. TENTH CHALLENGE - video with text overlay (Step 593)
+
+This entry documents the tenth challenge, in which the student was tasked with creating a text overlay on a video. The student successfully applied the same CSS positioning principles learned from the image overlay challenge, using `position: relative` on the container and `position: absolute` on the text, to create a professional-looking and interactive video element with an overlay.

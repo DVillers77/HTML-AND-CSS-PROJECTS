@@ -10557,3 +10557,27 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [dog-barking.mp4](images/dog-barking.mp4)
 
 ---
+
+#### Step 593: TENTH CHALLENGE
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Create a video with a text overlay using HTML and CSS.
+- Adapt a previously learned technique (text over image) to a new element (video).
+
+### Core Course Concepts:
+
+- **`position: relative`:** A CSS property used on a parent element to create a positioning context for its children.
+- **`position: absolute`:** A CSS property used on a child element to position it precisely relative to its nearest positioned ancestor.
+- **`transform: translate()`:** A CSS function used for precise centering and positioning.
+- **`z-index`:** A CSS property that controls the stacking order of elements.
+
+### Relevant Files:
+
+- [index.html](index.html)
+- [stylesheet.css](stylesheet.css)
+- [dog-barking.mp4](images/dog-barking.mp4)
+
+---

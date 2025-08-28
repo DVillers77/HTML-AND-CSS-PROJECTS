@@ -10581,3 +10581,24 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [dog-barking.mp4](images/dog-barking.mp4)
 
 ---
+
+#### Step 594: MEDIA QUERIES
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Understand the concept and syntax of CSS media queries.
+- Learn how media queries enable responsive web design.
+
+### Core Course Concepts:
+
+- **`@media` rule:** A CSS rule used to apply different styles to different media types.
+- **Media queries:** A feature of CSS3 that allows for conditional styling based on device characteristics like screen width, height, and orientation.
+- **Viewport meta tag:** An HTML tag essential for ensuring a page's width is rendered correctly on mobile devices.
+
+### Relevant Files:
+
+- This step was a lesson, so no new files were created. The concepts apply to all CSS files in the project.
+
+---

@@ -10644,3 +10644,22 @@ While this step was technically completed earlier in the lesson, the formal assi
 - This step was an introduction, so no new files were created.
 
 ---
+
+#### Step 597: FORMSPREE.IO - Introduction to HTML Forms
+
+### Date Completed: 2025-08-28
+
+### Objective:
+
+- Learn how Formspree.io simplifies the process of creating functional HTML forms without the need for a backend.
+
+### Core Course Concepts:
+
+- **Formspree.io:** A third-party service for handling form submissions.
+- **Backend Simplification:** Using an API to handle data collection and email notifications.
+
+### Relevant Files:
+
+- No new files were created in this step. The contact form will be created in a subsequent step.
+
+---

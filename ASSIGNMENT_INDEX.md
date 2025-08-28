@@ -10508,3 +10508,26 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [stylesheet-2.css](stylesheet-2.css)
 
 ---
+
+#### Step 591: EIGHTH CHALLENGE
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Create an image overlay fade effect using HTML and CSS.
+
+### Core Course Concepts:
+
+- **`opacity`:** A CSS property that controls the transparency of an element.
+- **`position: absolute`:** Used to precisely position the overlay text within its container.
+- **`transition`:** A CSS property that adds a smooth animation effect to the opacity change.
+- **`:hover` pseudo-class:** A CSS selector that triggers the effect when a user mouses over the image.
+
+### Relevant Files:
+
+- [index.html](index.html)
+- [stylesheet.css](stylesheet.css)
+- [xolo_art_01.jpg](images/xolo_art_01.jpg)
+
+---

@@ -9352,3 +9352,20 @@ This challenge required the student to create a paragraph and add an interactive
 - This challenge reinforced the concept of micro-interactions and the importance of providing visual feedback to the user.
 
 ---
+
+#### EIGHTH CHALLENGE - creating an image overlay fade
+
+### Course Step Number: 591
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This challenge required the student to create an interactive image overlay. The student successfully used a combination of HTML structure and CSS properties, including `opacity`, `position`, and `transition`, to create a professional-looking effect where a hidden element fades into view on hover.
+
+##### Insights from Chat Discussion summary
+
+- The learner successfully implemented a complex effect using a combination of foundational CSS properties, demonstrating a strong grasp of how different properties work together.
+- This challenge reinforced the concept of creating layered content and adding user interactions, which are crucial skills for front-end development.
+
+---

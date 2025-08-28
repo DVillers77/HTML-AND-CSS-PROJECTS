@@ -507,3 +507,7 @@ This entry documents the sixth challenge, in which the student was tasked with c
 #### 108. SEVENTH CHALLENGE - hover effect on text (Step 590)
 
 This entry documents the seventh challenge, in which the student was tasked with creating a hover effect on a paragraph element. The student successfully used the `:hover` pseudo-class and the `transition` property to create a smooth, interactive effect, demonstrating a fundamental skill in creating engaging user interfaces.
+
+#### 109. EIGHTH CHALLENGE - image overlay fade (Step 591)
+
+This entry documents the eighth challenge, in which the student was tasked with creating an image overlay fade effect. The student successfully used CSS properties such as `opacity`, `position: absolute`, and `transition` to create a smooth, interactive effect where text appears on a semi-transparent background when the user hovers over the image.

@@ -10531,3 +10531,29 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [xolo_art_01.jpg](images/xolo_art_01.jpg)
 
 ---
+
+#### Step 592: NINTH CHALLENGE
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Embed a video on a webpage using HTML.
+- Ensure the video autoplays, is muted, and loops.
+- Style the video to be responsive within the page layout.
+
+### Core Course Concepts:
+
+- **`<video>`:** The HTML element used to embed a video player on a webpage.
+- **`autoplay` attribute:** A boolean attribute that specifies that the video will start playing as soon as it is loaded.
+- **`muted` attribute:** A boolean attribute that specifies that the video's audio output should be muted.
+- **`loop` attribute:** A boolean attribute that specifies that the video will start over again every time it is finished.
+- **`controls` attribute:** A boolean attribute that adds video controls (like play/pause) to the video element.
+
+### Relevant Files:
+
+- [index.html](index.html)
+- [stylesheet.css](stylesheet.css)
+- [dog-barking.mp4](images/dog-barking.mp4)
+
+---

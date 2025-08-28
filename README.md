@@ -511,3 +511,7 @@ This entry documents the seventh challenge, in which the student was tasked with
 #### 109. EIGHTH CHALLENGE - image overlay fade (Step 591)
 
 This entry documents the eighth challenge, in which the student was tasked with creating an image overlay fade effect. The student successfully used CSS properties such as `opacity`, `position: absolute`, and `transition` to create a smooth, interactive effect where text appears on a semi-transparent background when the user hovers over the image.
+
+#### 110. NINTH CHALLENGE - video embed (Step 592)
+
+This entry documents the ninth challenge, in which the student was tasked with embedding a video that autoplays on mute and on a loop. The student successfully used the `<video>` HTML element with the correct attributes (`autoplay`, `muted`, `loop`) to create a background video effect and a second video with user controls. The student also applied CSS to ensure the videos were responsive and well-contained within the layout.

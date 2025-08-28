@@ -9369,3 +9369,21 @@ This challenge required the student to create an interactive image overlay. The 
 - This challenge reinforced the concept of creating layered content and adding user interactions, which are crucial skills for front-end development.
 
 ---
+
+#### NINTH CHALLENGE - embedding a video
+
+### Course Step Number: 592
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This challenge required the student to embed a video on their webpage. The student successfully used the `<video>` element and its attributes (`autoplay`, `muted`, and `loop`) to create a simple and effective background video. The student also demonstrated the use of the `controls` attribute for a second video, which is essential for user-controlled playback.
+
+##### Insights from Chat Discussion summary
+
+- The learner demonstrated an excellent understanding of how to use video attributes in combination to create a specific user experience (e.g., an autoplaying, muted background video).
+- This challenge reinforced the importance of the `muted` attribute for enabling `autoplay` in modern browsers, which is a key technical consideration for video on the web.
+- The student also correctly used CSS to style the video containers and ensure the videos were responsive, demonstrating a complete grasp of the task.
+
+---

@@ -519,3 +519,7 @@ This entry documents the ninth challenge, in which the student was tasked with e
 #### 111. TENTH CHALLENGE - video with text overlay (Step 593)
 
 This entry documents the tenth challenge, in which the student was tasked with creating a text overlay on a video. The student successfully applied the same CSS positioning principles learned from the image overlay challenge, using `position: relative` on the container and `position: absolute` on the text, to create a professional-looking and interactive video element with an overlay.
+
+#### 112. MEDIA QUERY CHALLENGE - responsive styling (Step 595)
+
+This entry documents the media query challenge, in which the student applied responsive styling to a webpage. The student successfully used a media query with a `max-width` of 600px to change the font color of a paragraph element to blue, demonstrating their ability to create a basic responsive design.

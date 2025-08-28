@@ -9421,3 +9421,20 @@ This lesson introduced the student to CSS media queries, a cornerstone of respon
 - The discussion reinforced the importance of responsive design for a modern, user-friendly website.
 
 ---
+
+#### MEDIA QUERY CHALLENGE - responsive styling
+
+### Course Step Number: 595
+
+### Date Researched: 2025-08-25
+
+##### Key Concepts / Summary
+
+This challenge provided a practical application of the media query lesson. The student successfully used a media query to conditionally change the font color of a paragraph element, confirming their understanding of how to apply different styles based on screen size.
+
+##### Insights from Chat Discussion summary
+
+- The learner demonstrated a clear understanding of the media query syntax and its application.
+- The successful completion of this challenge is a foundational step toward building more complex, fully responsive web layouts.
+
+---

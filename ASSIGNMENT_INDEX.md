@@ -10602,3 +10602,25 @@ While this step was technically completed earlier in the lesson, the formal assi
 - This step was a lesson, so no new files were created. The concepts apply to all CSS files in the project.
 
 ---
+
+#### Step 595: MEDIA QUERY CHALLENGE
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Create a basic HTML webpage with a paragraph element.
+- Utilize the viewport meta tag.
+- Use a CSS media query to change the font color of the paragraph element to blue on screens smaller than 600px.
+
+### Core Course Concepts:
+
+- **Media queries:** The core tool for creating responsive websites that adapt to different screen sizes.
+- **`max-width`:** A media query expression that applies styles when the viewport is equal to or narrower than a specified width.
+- **Viewport meta tag:** Essential for ensuring a page scales correctly on mobile devices.
+
+### Relevant Files:
+
+- This step involved creating a basic HTML webpage and a CSS file (custom-media.css).
+
+---

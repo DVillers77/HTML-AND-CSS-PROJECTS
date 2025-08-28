@@ -10624,3 +10624,23 @@ While this step was technically completed earlier in the lesson, the formal assi
 - This step involved creating a basic HTML webpage and a CSS file (custom-media.css).
 
 ---
+
+#### Step 596: SUBSECTION B: CONTACT FORMS
+
+### Date Completed: 2025-08-25
+
+### Objective:
+
+- Introduce the new subsection on creating contact forms.
+- Identify the key tools and concepts to be covered in this section.
+
+### Core Course Concepts:
+
+- **Forms:** An essential part of web development for user input.
+- **FORMSPREE.IO:** A third-party service that simplifies the process of handling form submissions.
+
+### Relevant Files:
+
+- This step was an introduction, so no new files were created.
+
+---

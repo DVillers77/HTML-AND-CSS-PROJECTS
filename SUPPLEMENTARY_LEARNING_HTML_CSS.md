@@ -9511,3 +9511,31 @@ This entry marks the beginning of a new section on contact forms and the use of 
 - This step involved watching a video; no new files were created.
 
 ---
+
+#### THE TECH ACADEMY’S CO-FOUNDER BUILDS A WEBSITE - a real-time coding demonstration
+
+### Course Step Number: 600
+
+### Date Researched: 2025-08-29
+
+##### Key Concepts / Summary
+
+This lesson provides a unique, unedited, three-hour video where the instructor builds a basic website with HTML and CSS in real-time. The video's purpose is to show what real coding looks like, including the mistakes and the thought process behind finding solutions, which is a key skill for technology workers. The student is instructed to not just watch, but to actively follow along and write the code themselves to get hands-on experience.
+
+##### Independent Research / Notable Discoveries
+
+- **Embracing Mistakes**: The video format normalizes the reality of coding, where mistakes are part of the process. This is a crucial lesson that builds resilience.
+- **Problem-Solving**: This approach highlights that coding isn't about memorizing syntax but about understanding how to research and solve problems as they arise.
+- **Modern Tooling**: The lesson can be enhanced by considering modern tools like CodePen or VS Code Live Share for real-time collaboration.
+- **Version Control**: Real-world application of this lesson would include using Git to manage and track the changes made during the coding process.
+
+##### Insights from Chat Discussion summary
+
+- Learner noted the lesson's unique format and its value in demonstrating real-world coding.
+- Learner questioned how the iterative nature of this coding process connects to the design principles of UX.
+
+##### Relevant Files:
+
+- No files were created for this lesson.
+
+---

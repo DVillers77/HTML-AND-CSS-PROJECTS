@@ -10689,3 +10689,24 @@ While this step was technically completed earlier in the lesson, the formal assi
 #### Step 599: NEXT VIDEO & LIVE HTML AND CSS CODING VIDEO
 
 ---
+
+#### Step 600: THE TECH ACADEMY’S CO-FOUNDER BUILDS A WEBSITE
+
+### Date Completed: 2025-08-29
+
+### Objective:
+
+- Watch and follow along as The Tech Academy’s Co-Founder, Erik Gross, builds a basic website from scratch using HTML and CSS.
+- Gain hands-on experience by performing the same actions as the instructor in a real-time coding demonstration.
+- Learn what real-life coding looks like, including mistakes, and understand the importance of research and problem-solving.
+
+### Core Course Concepts:
+
+- Real-time coding and problem-solving.
+- The iterative process of building a website with HTML and CSS.
+
+### Relevant Files:
+
+- No specific files created as part of this lesson.
+
+---

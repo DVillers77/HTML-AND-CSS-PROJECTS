@@ -10663,3 +10663,23 @@ While this step was technically completed earlier in the lesson, the formal assi
 - No new files were created in this step. The contact form will be created in a subsequent step.
 
 ---
+
+#### Step 598: FORMSPREE.IO ASSIGNMENT
+
+### Date Completed: 2025-08-28
+
+### Objective:
+
+- Create a Formspree account and a contact form endpoint for use in the final project.
+
+### Core Course Concepts:
+
+- **Formspree.io:** The practical application of creating a project and a functional form.
+- **API Endpoints:** Understanding the use and importance of a form's unique endpoint for submissions.
+
+### Relevant Files:
+
+- This step was a practical assignment for setting up a third-party service; no new files were created.
+- [SUPPLEMENTARY_LEARNING_HTML_CSS.md](SUPPLEMENTARY_LEARNING_HTML_CSS.md)
+
+---

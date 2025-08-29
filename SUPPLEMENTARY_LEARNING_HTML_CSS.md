@@ -9475,3 +9475,20 @@ This entry marks the beginning of a new section on contact forms and the use of 
 - No new files were created in this step.
 
 ---
+
+#### FORMSPREE.IO ASSIGNMENT
+
+### Course Step Number: 598
+
+### Date Researched: 2025-08-28
+
+##### Key Concepts / Summary
+
+- This assignment involved the practical application of the previous lesson by creating a Formspree account, setting up a new project, and creating a contact form.
+- The main deliverable was obtaining a unique form endpoint to be used for handling contact form submissions in the final portfolio website project.
+
+##### Relevant Files:
+
+- This step was an assignment for setting up a third-party service; no new files were created.
+
+---

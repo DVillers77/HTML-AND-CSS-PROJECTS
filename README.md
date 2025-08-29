@@ -523,3 +523,7 @@ This entry documents the tenth challenge, in which the student was tasked with c
 #### 112. MEDIA QUERY CHALLENGE - responsive styling (Step 595)
 
 This entry documents the media query challenge, in which the student applied responsive styling to a webpage. The student successfully used a media query with a `max-width` of 600px to change the font color of a paragraph element to blue, demonstrating their ability to create a basic responsive design.
+
+#### 113. FORMSPREE.IO ASSIGNMENT - creating a form endpoint (Step 598)
+
+This assignment involved creating an account on Formspree.io and setting up a new project named "Portfolio Website" with a form called "Contact." The key deliverable was to copy and save the unique form endpoint, which will be used in a later project to enable form submissions without the need for a server-side backend.

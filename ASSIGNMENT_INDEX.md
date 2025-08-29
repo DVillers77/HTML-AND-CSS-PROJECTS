@@ -10683,3 +10683,9 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [SUPPLEMENTARY_LEARNING_HTML_CSS.md](SUPPLEMENTARY_LEARNING_HTML_CSS.md)
 
 ---
+
+### SUBSECTION C: LIVE HTML AND CSS CODING
+
+#### Step 599: NEXT VIDEO & LIVE HTML AND CSS CODING VIDEO
+
+---

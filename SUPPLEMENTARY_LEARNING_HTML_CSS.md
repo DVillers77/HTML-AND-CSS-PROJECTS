@@ -9702,3 +9702,34 @@ This lesson provides a practical, hands-on approach to understanding a website's
 - [portfolio.css](portfolio.css)
 
 ---
+
+#### IMAGES ASSIGNMENT - sourcing and creating images
+
+### Course Step Number: 607
+
+### Date Researched: 2025-09-16
+
+##### Key Concepts / Summary
+
+This lesson addresses the crucial task of sourcing and preparing images for a web project, moving beyond placeholder content. The learner not only found and sized images but also engaged with modern tools and ethical considerations by using AI to create visuals and by respecting non-commercial use licenses. The assignment highlights the importance of visual assets in conveying a personal brand and enhancing the user's journey through a portfolio website.
+
+##### Independent Research / Notable Discoveries
+
+- **AI as a Design Tool**: The use of AI to create custom images demonstrates a forward-looking approach to web design. This method can generate unique content quickly and efficiently, a valuable skill in modern development.
+- **Image Licensing**: The careful consideration of licensing (e.g., "free for non-commercial use") is a professional habit that prevents legal issues down the line.
+- **Visual Storytelling**: The choice to visually represent UX quotes shows an understanding of using imagery to communicate complex concepts and a professional philosophy, making the portfolio a more compelling narrative.
+
+##### Insights from Chat Discussion summary
+
+- No discussion points were raised for this step.
+
+##### Relevant Files:
+
+- [dain-miller-sadle-reigns-quote-md.jpg](dain-miller-sadle-reigns-quote-md.jpg)
+- [designing-for-people-md.jpg](designing-for-people-md.jpg)
+- [flying-steam-engine-md.jpg](flying-steam-engine-md.jpg)
+- [profilepic01-md.jpg](profilepic01-md.jpg)
+- [sketchplanations-the-curb-cut-effect-md.png](sketchplanations-the-curb-cut-effect-md.png)
+- [under-construction-magic-md.jpg](under-construction-magic-md.jpg)
+
+---

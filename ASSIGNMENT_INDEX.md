@@ -10842,3 +10842,25 @@ While this step was technically completed earlier in the lesson, the formal assi
 - No files were created for this lesson.
 
 ---
+
+#### Step 607: IMAGES ASSIGNMENT
+
+### Date Completed: 2025-09-16
+
+### Objective:
+
+- Source and prepare personal images for the portfolio website.
+- Ensure images are correctly sized and formatted for web use.
+- Use a variety of image sourcing methods, including personal photos, AI-generated art, and royalty-free stock images.
+
+### Core Course Concepts:
+
+- Image optimization for web performance.
+- Ethical and legal considerations of using digital assets.
+- The role of images in enhancing a website's user experience and branding.
+
+### Relevant Files:
+
+- No files were created for this lesson.
+
+---

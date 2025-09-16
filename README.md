@@ -573,3 +573,16 @@ This assignment involved creating an account on Formspree.io and setting up a ne
 - **Relevant Files:**
   - `index.html`
   - `portfolio.css`
+
+#### 117. IMAGES ASSIGNMENT - sourcing and creating images (Step 607)
+
+- **Objective:** To find, prepare, and replace the template's placeholder images with a personal set of images for the portfolio website.
+- **Project Description:** The assignment required sourcing and scaling images, which was accomplished by using an AI tool to create visual representations of UX quotes, and finding a profile picture, all with proper licensing in mind.
+- **Key Learning:** This step goes beyond simply finding assets, focusing on the importance of image optimization for web performance, and the legal and ethical considerations of using online content.
+- **Relevant Files:**
+  - `dain-miller-sadle-reigns-quote-md.jpg`
+  - `designing-for-people-md.jpg`
+  - `flying-steam-engine-md.jpg`
+  - `profilepic01-md.jpg`
+  - `sketchplanations-the-curb-cut-effect-md.png`
+  - `under-construction-magic-md.jpg`

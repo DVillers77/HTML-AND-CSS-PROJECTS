@@ -9593,3 +9593,29 @@ This step marks the beginning of "SUBSECTION D: PORTFOLIO WEBSITE" in the course
 - No files were created for this lesson.
 
 ---
+
+#### FINAL ASSIGNMENT - creating a portfolio website
+
+### Course Step Number: 603
+
+### Date Researched: 2025-09-16
+
+##### Key Concepts / Summary
+
+This step outlines the final and most significant assignment of the course: building and deploying a portfolio website. The project is a culmination of all the HTML and CSS skills learned, focusing on creating a practical, career-oriented asset. It also introduces the crucial concept of pushing a website from a local machine to a live public URL, a key step in professional web development.
+
+##### Independent Research / Notable Discoveries
+
+- **User-Centric Approach**: The portfolio site should be approached as a UX project itself, with the "user" being a potential employer or client. The design should prioritize clear information hierarchy and user flow to highlight key skills and work.
+- **Iterative Development**: The assignment's note that this will be a basic version to be upgraded later reinforces the industry practice of iterative development and continuous improvement.
+- **Modern Deployment**: Contemporary tools like GitHub Pages, Vercel, or Netlify offer streamlined and often free methods for deploying websites, making the process much easier than in the past.
+
+##### Insights from Chat Discussion summary
+
+- No discussion points were raised for this step.
+
+##### Relevant Files:
+
+- No files were created for this lesson.
+
+---

@@ -10754,3 +10754,25 @@ While this step was technically completed earlier in the lesson, the formal assi
 - No specific files created as part of this lesson.
 
 ---
+
+#### Step 603: FINAL ASSIGNMENT
+
+### Date Completed: 2025-09-16
+
+### Objective:
+
+- Create a full, single-page portfolio website from scratch using HTML and CSS.
+- Deploy the completed website to a public URL, making it live on the internet.
+- Design a career asset that links to a personal GitHub account and showcases past projects.
+
+### Core Course Concepts:
+
+- End-to-end website development and live deployment.
+- Project-based learning and asset creation for career purposes.
+- Integration of HTML and CSS to create a professional-looking site.
+
+### Relevant Files:
+
+- No files were created for this lesson.
+
+---

@@ -537,3 +537,12 @@ This assignment involved creating an account on Formspree.io and setting up a ne
   - `index.html`
   - `style.css`
   - `readme.md`
+
+#### 113. FINAL ASSIGNMENT - creating a portfolio website (Step 603)
+
+- **Objective:** To build a full portfolio website using HTML and CSS and deploy it live to a public URL.
+- **Project Description:** This is a basic portfolio site that will serve as a career asset to showcase skills and projects, with plans for future upgrades on subsequent courses.
+- **Key Learning:** The assignment focuses on the end-to-end development process, including project planning, coding from scratch, and live website deployment.
+- **Relevant Files:**
+  - `index.html`
+  - `style.css`

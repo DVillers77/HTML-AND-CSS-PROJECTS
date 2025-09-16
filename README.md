@@ -564,3 +564,12 @@ This assignment involved creating an account on Formspree.io and setting up a ne
 - **Relevant Files:**
   - `index.html`
   - `portfolio.css`
+
+#### 116. ALTERING CODE ASSIGNMENT - debugging and experimentation (Step 606)
+
+- **Objective:** To understand the cause-and-effect relationship between lines of code and the website's functionality by purposefully deleting code and observing the changes.
+- **Project Description:** The assignment requires deleting single lines of code from `index.html` and `portfolio.css` and then viewing the site in the browser to see the outcome.
+- **Key Learning:** This hands-on exercise is a practical introduction to debugging techniques and reinforces the importance of each line of code in a project.
+- **Relevant Files:**
+  - `index.html`
+  - `portfolio.css`

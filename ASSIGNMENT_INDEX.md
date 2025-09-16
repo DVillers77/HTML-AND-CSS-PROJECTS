@@ -10820,3 +10820,25 @@ While this step was technically completed earlier in the lesson, the formal assi
 - No files were created for this lesson.
 
 ---
+
+#### Step 606: ALTERING CODE ASSIGNMENT
+
+### Date Completed: 2025-09-16
+
+### Objective:
+
+- Practice debugging by intentionally altering code in both `index.html` and `portfolio.css`.
+- Observe the changes that occur on the live webpage to connect specific lines of code to their visual or functional results.
+- Note the deleted lines and revert the files to their original state to ensure the project remains functional.
+
+### Core Course Concepts:
+
+- Hands-on debugging and problem-solving.
+- Understanding the impact of small code changes on the overall project.
+- The importance of a "revert" function in project development.
+
+### Relevant Files:
+
+- No files were created for this lesson.
+
+---

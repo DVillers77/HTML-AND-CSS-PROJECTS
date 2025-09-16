@@ -9676,3 +9676,29 @@ This lesson focuses on a crucial skill for any developer: reverse-engineering an
 - [portfolio.css](portfolio.css)
 
 ---
+
+#### ALTERING CODE ASSIGNMENT - debugging and experimentation
+
+### Course Step Number: 606
+
+### Date Researched: 2025-09-16
+
+##### Key Concepts / Summary
+
+This lesson provides a practical, hands-on approach to understanding a website's code by teaching a fundamental debugging technique: deliberately breaking it. By deleting a single line of code from `index.html` and `portfolio.css` and observing the outcome, the learner can directly see the cause-and-effect relationship between the code and the live website. This exercise not only builds problem-solving skills but also reinforces the purpose of specific HTML tags and CSS properties.
+
+##### Independent Research / Notable Discoveries
+
+- **The "Scientific Method" of Debugging**: This assignment mimics the scientific method by requiring you to form a hypothesis (what a line of code does), test it (delete the line), observe the result, and draw a conclusion.
+- **Developer Tools**: This process is made much more efficient by using browser-based Developer Tools, which can pinpoint the exact line of code responsible for a particular visual element or behavior.
+
+##### Insights from Chat Discussion summary
+
+- No discussion points were raised for this step.
+
+##### Relevant Files:
+
+- [index.html](index.html)
+- [portfolio.css](portfolio.css)
+
+---

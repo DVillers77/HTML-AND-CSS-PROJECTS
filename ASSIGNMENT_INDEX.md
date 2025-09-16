@@ -10864,3 +10864,28 @@ While this step was technically completed earlier in the lesson, the formal assi
 - No files were created for this lesson.
 
 ---
+
+#### Step 608: CREATING YOUR PORTFOLIO WEBSITE ASSIGNMENT
+
+### Date Completed: 2025-09-16
+
+### Objective:
+
+- Build a personal portfolio website from scratch, customizing the layout and content based on a review of other UX designer portfolios.
+- Create a multi-page site instead of the provided single-page template, with pages for Home, About, Projects, and Contact.
+- Ensure the website is fully responsive for different screen sizes using modern CSS techniques and JavaScript.
+- Use a unique, custom-made visual journey on the home page with quotes and images to establish a personal brand.
+
+### Core Course Concepts:
+
+- Multi-page website architecture and navigation.
+- Modern CSS layout with Flexbox.
+- Responsive web design using media queries.
+- Debugging and problem-solving through iterative development.
+- The application of UX principles to a personal project.
+
+### Relevant Files:
+
+- No files were created for this lesson.
+
+---

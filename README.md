@@ -586,3 +586,16 @@ This assignment involved creating an account on Formspree.io and setting up a ne
   - `profilepic01-md.jpg`
   - `sketchplanations-the-curb-cut-effect-md.png`
   - `under-construction-magic-md.jpg`
+
+#### 118. CREATING YOUR PORTFOLIO WEBSITE ASSIGNMENT - custom build (Step 608)
+
+- **Objective:** To build a full, multi-page portfolio website from scratch using HTML, CSS, and JavaScript, going beyond the provided template to create a unique and personal design.
+- **Project Description:** This project is a multi-page, responsive portfolio with a unique "zigzag" layout. It includes `index.html`, `about.html`, `projects.html`, and `contact.html`, and features custom imagery and content to reflect the creator's personal brand and design philosophy.
+- **Key Learning:** The assignment demonstrates a strong grasp of HTML structure, modern CSS layout techniques (Flexbox), responsive design with media queries, and the use of JavaScript for interactivity (mobile menu). It also showcases an understanding of information architecture and content strategy for UX.
+- **Relevant Files:**
+  - `index.html`
+  - `about.html`
+  - `projects.html`
+  - `contact.html`
+  - `stylesheet.css`
+  - `script.js`

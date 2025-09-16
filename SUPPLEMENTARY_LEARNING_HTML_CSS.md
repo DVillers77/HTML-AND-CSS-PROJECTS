@@ -9733,3 +9733,35 @@ This lesson addresses the crucial task of sourcing and preparing images for a we
 - [under-construction-magic-md.jpg](under-construction-magic-md.jpg)
 
 ---
+
+#### CREATING YOUR PORTFOLIO WEBSITE ASSIGNMENT - custom build
+
+### Course Step Number: 608
+
+### Date Researched: 2025-09-16
+
+##### Key Concepts / Summary
+
+This final assignment was a self-directed project to build a complete portfolio website from scratch. The learner went beyond the provided template, creating a multi-page, responsive site with a "zigzag" layout to showcase their projects and professional philosophy. The project demonstrates mastery of core HTML and CSS concepts, including modern layout techniques (Flexbox), responsive design, and the use of a separate JavaScript file for enhanced functionality.
+
+##### Independent Research / Notable Discoveries
+
+- **User-Driven Design**: The learner's process of researching other UX portfolios and incorporating their own unique design ideas demonstrates a strong understanding of user-centered design principles.
+- **Effective Visual Storytelling**: The choice to use a visual journey with meaningful quotes on the homepage is an excellent way to capture a user's attention and communicate a personal brand from the outset.
+- **Accessibility**: The use of `aria-label` attributes on navigation elements is a key best practice for building accessible websites.
+
+##### Insights from Chat Discussion summary
+
+- The learner questioned the effectiveness of their chosen design approach (a visual journey with quotes) versus a more standard layout.
+- The discussion confirmed that this creative approach is a highly effective way to grab attention, tell a personal story, and demonstrate an understanding of UX principles.
+
+##### Relevant Files:
+
+- [index.html](index.html)
+- [about.html](about.html)
+- [projects.html](projects.html)
+- [contact.html](contact.html)
+- [stylesheet.css](stylesheet.css)
+- [script.js](script.js)
+
+---

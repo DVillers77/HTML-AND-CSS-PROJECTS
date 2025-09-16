@@ -9765,3 +9765,27 @@ This final assignment was a self-directed project to build a complete portfolio 
 - [script.js](script.js)
 
 ---
+
+#### FREE OR PAID - a choice for the next step
+
+### Course Step Number: 609
+
+### Date Researched: 2025-09-16
+
+##### Key Concepts / Summary
+
+This lesson, titled "FREE OR PAID," is a preparatory step for the next assignment. It presents two acceptable options to move forward in the project, forcing a decision based on the user's specific circumstances. This mirrors real-world development, where choices often need to be made between free, open-source solutions and paid, professionally supported services.
+
+##### Independent Research / Notable Discoveries
+
+- **Strategic Decision-Making**: This step highlights the importance of making strategic decisions based on factors beyond just technical feasibility, such as budget, support, and long-term scalability.
+
+##### Insights from Chat Discussion summary
+
+- The AI assistant initially misunderstood the title of the step as a question, leading to a clarification from the learner. This incident highlights the need for precise communication in technical contexts.
+
+##### Relevant Files:
+
+- No files were created for this lesson.
+
+---

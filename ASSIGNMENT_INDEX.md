@@ -10710,3 +10710,27 @@ While this step was technically completed earlier in the lesson, the formal assi
 - No specific files created as part of this lesson.
 
 ---
+
+#### Step 601: LIVE HTML AND CSS CODING VIDEO
+
+### Date Completed: 2025-09-16
+
+### Objective:
+
+- Watch and follow along with a video tutorial to build a responsive website using HTML and CSS.
+- Replicate the coding actions from the video on the local machine to gain hands-on experience.
+- Create a single-page dedication website for Grace Hopper with a navigation bar and embedded content.
+
+### Core Course Concepts:
+
+- Building a full website from scratch using only HTML and CSS.
+- Using internal anchors for single-page navigation.
+- Applying basic CSS styling for layout, fonts, and colors.
+- Embedding external content, specifically YouTube videos, using `<iframe>`.
+
+### Relevant Files:
+
+- [index.html](index.html)
+- [style.css](style.css)
+
+---

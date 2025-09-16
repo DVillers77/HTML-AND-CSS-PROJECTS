@@ -527,3 +527,13 @@ This entry documents the media query challenge, in which the student applied res
 #### 113. FORMSPREE.IO ASSIGNMENT - creating a form endpoint (Step 598)
 
 This assignment involved creating an account on Formspree.io and setting up a new project named "Portfolio Website" with a form called "Contact." The key deliverable was to copy and save the unique form endpoint, which will be used in a later project to enable form submissions without the need for a server-side backend.
+
+#### 112. LIVE HTML AND CSS CODING VIDEO - building a responsive website (Step 601)
+
+- **Objective:** To build a single-page responsive website from scratch using HTML and CSS by following a video tutorial.
+- **Project Description:** The project is a dedication page to Grace Hopper, featuring a biography, career highlights, and embedded videos.
+- **Key Learning:** The lesson emphasizes learning by doing and building a project from scratch to reinforce core HTML and CSS concepts.
+- **Relevant Files:**
+  - `index.html`
+  - `style.css`
+  - `readme.md`

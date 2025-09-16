@@ -9539,3 +9539,32 @@ This lesson provides a unique, unedited, three-hour video where the instructor b
 - No files were created for this lesson.
 
 ---
+
+#### LIVE HTML AND CSS CODING VIDEO - building a responsive website
+
+### Course Step Number: 601
+
+### Date Researched: 2025-09-16
+
+##### Key Concepts / Summary
+
+This lesson involves a hands-on, video-guided tutorial to build a complete, single-page website using HTML and CSS. The project, a dedication page for Grace Hopper, serves as a practical application of core concepts like HTML structure, CSS styling, internal linking for on-page navigation, and embedding external media. The goal is for the learner to actively code along and gain a deeper understanding of the entire process from a blank page to a functional site.
+
+##### Independent Research / Notable Discoveries
+
+- **Responsive Design**: The project introduces the concept of responsive design, though it uses older methods like fixed margins, which do not fully adapt to modern screen sizes. Modern best practices for truly responsive layouts include CSS Flexbox and Grid.
+- **Legacy vs. Modern Techniques**: The use of `float` and `clearfix` for layout is a legacy practice that has been superseded by more efficient and powerful modern CSS layout modules.
+- **CSS Variables**: Using CSS variables would improve the maintainability of the stylesheet by centralizing style values that are used throughout the document.
+- **Semantic HTML5**: The code uses some semantic HTML tags like `<div>` and headings, which is a good practice for accessibility and search engine optimization.
+
+##### Insights from Chat Discussion summary
+
+- The learner observed that the site produced was "very basic" and "looked bad."
+- The learner correctly questioned whether the site could truly be considered responsive, noting the limitations of the provided code's approach.
+
+##### Relevant Files:
+
+- [index.html](index.html)
+- [style.css](style.css)
+
+---

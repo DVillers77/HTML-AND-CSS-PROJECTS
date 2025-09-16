@@ -10909,3 +10909,30 @@ While this step was technically completed earlier in the lesson, the formal assi
 - No files were created for this lesson.
 
 ---
+
+#### Step 610: LIVE WEBSITE OPTIONS ASSIGNMENT
+
+### Date Completed: 2025-09-16
+
+### Objective:
+
+- Successfully deploy a finished multi-page portfolio website to a live URL.
+- Gain experience with GitHub Pages as a free hosting platform.
+- Confirm website functionality on various devices via the live URL.
+
+### Core Course Concepts:
+
+- Website deployment and publishing.
+- The functions of GitHub Pages as a static site host.
+- The practical difference between paid hosting and free GitHub hosting.
+
+### Relevant Files:
+
+- `index.html`
+- `about.html`
+- `projects.html`
+- `contact.html`
+- `css/stylesheet.css`
+- `script.js`
+
+---

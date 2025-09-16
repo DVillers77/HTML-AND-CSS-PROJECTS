@@ -599,3 +599,10 @@ This assignment involved creating an account on Formspree.io and setting up a ne
   - `contact.html`
   - `stylesheet.css`
   - `script.js`
+
+#### 119. LIVE WEBSITE OPTIONS ASSIGNMENT - deploying the website with GitHub Pages (Step 610)
+
+- **Objective:** To publish the completed multi-page, responsive portfolio website to a live URL on the internet.
+- **Project Description:** The website was successfully deployed using GitHub Pages, providing a free hosting solution and a shareable URL in the `https://username.github.io` format. This was chosen to gain practical experience with GitHub's hosting capabilities.
+- **Key Learning:** This step demonstrates the final stage of the web development process—deployment. It provides hands-on experience with a modern, version-controlled hosting method and highlights the professional satisfaction of seeing a project go live and be viewable on any device.
+- **Relevant Files:** `index.html`, `about.html`, `projects.html`, `contact.html`, `css/stylesheet.css`, `script.js`, `images/`, `video/`.

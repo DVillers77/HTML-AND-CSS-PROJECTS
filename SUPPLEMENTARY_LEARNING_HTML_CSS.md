@@ -9789,3 +9789,25 @@ This lesson, titled "FREE OR PAID," is a preparatory step for the next assignmen
 - No files were created for this lesson.
 
 ---
+
+#### LIVE WEBSITE OPTIONS ASSIGNMENT - choosing a deployment method
+
+### Course Step Number: 610
+
+### Date Researched: 2025-09-16
+
+##### Key Concepts / Summary
+
+This step marked the final stage of the project: moving the completed portfolio website from a local machine to a live, public URL. The chosen method was GitHub Pages, which provided a free and straightforward way to host the static website. This decision was made to gain a different kind of hosting experience compared to traditional paid services.
+
+##### Independent Research / Notable Discoveries
+
+- **GitHub Pages Workflow:** The process is highly integrated with Git. Pushing code to a designated branch (e.g., `main` or `gh-pages`) automatically triggers the deployment process, making updates seamless.
+- **Static Site Hosting:** GitHub Pages is ideal for websites built with HTML, CSS, and JavaScript, as it doesn't require a back-end server. It's a perfect solution for portfolio sites, project landing pages, and documentation.
+- **User Experience (UX) Impact:** Seeing the live site function on different devices and being able to share a direct link is a powerful and validating experience that solidifies the value of responsive design.
+
+##### Insights from Chat Discussion summary
+
+- No discussion points were raised for this step.
+
+---

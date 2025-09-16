@@ -9568,3 +9568,28 @@ This lesson involves a hands-on, video-guided tutorial to build a complete, sing
 - [style.css](style.css)
 
 ---
+
+#### SUBSECTION D: PORTFOLIO WEBSITE - a new project begins
+
+### Course Step Number: 602
+
+### Date Researched: 2025-09-16
+
+##### Key Concepts / Summary
+
+This step marks the beginning of "SUBSECTION D: PORTFOLIO WEBSITE" in the course material. It serves as a placeholder page to introduce the next major project, which will be the creation of a portfolio website. This transition signifies a move from smaller, focused lessons to a larger, more comprehensive coding project.
+
+##### Independent Research / Notable Discoveries
+
+- **Project Structure**: A new project in a professional setting would begin by establishing a clear folder structure and setting up a new Git repository or branch to track changes from this point forward.
+- **Agile Planning**: The start of a new project is an excellent time to outline a high-level plan or "roadmap," which is a key part of the Agile methodology.
+
+##### Insights from Chat Discussion summary
+
+- No discussion points were raised for this step.
+
+##### Relevant Files:
+
+- No files were created for this lesson.
+
+---

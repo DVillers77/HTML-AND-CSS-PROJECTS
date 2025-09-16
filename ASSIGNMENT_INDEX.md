@@ -10734,3 +10734,23 @@ While this step was technically completed earlier in the lesson, the formal assi
 - [style.css](style.css)
 
 ---
+
+#### Step 602: SUBSECTION D: PORTFOLIO WEBSITE
+
+### Date Completed: 2025-09-16
+
+### Objective:
+
+- Acknowledge the beginning of a new course subsection: "PORTFOLIO WEBSITE".
+- Prepare to begin a new project, focusing on the creation of a portfolio website.
+
+### Core Course Concepts:
+
+- Project management and organization.
+- The transition from a small-scale assignment to a larger, multi-step project.
+
+### Relevant Files:
+
+- No specific files created as part of this lesson.
+
+---

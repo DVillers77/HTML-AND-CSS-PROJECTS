@@ -546,3 +546,12 @@ This assignment involved creating an account on Formspree.io and setting up a ne
 - **Relevant Files:**
   - `index.html`
   - `style.css`
+
+#### 114. REVIEW ASSIGNMENT - reviewing a template (Step 604)
+
+- **Objective:** To review a live website template to understand the final project's structure, features, and functionality.
+- **Project Description:** The template is a single-page portfolio site with a fixed navigation bar, background video, and sections for personal information, projects, and a contact form.
+- **Key Learning:** This step focuses on analyzing a completed product from a user's perspective, observing its responsiveness, hover effects, and animations to learn from an existing design.
+- **Relevant Files:**
+  - `index.html`
+  - `portfolio.css`

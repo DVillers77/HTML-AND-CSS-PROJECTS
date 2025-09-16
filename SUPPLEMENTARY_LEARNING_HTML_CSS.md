@@ -9619,3 +9619,34 @@ This step outlines the final and most significant assignment of the course: buil
 - No files were created for this lesson.
 
 ---
+
+#### REVIEW ASSIGNMENT - reviewing a template
+
+### Course Step Number: 604
+
+### Date Researched: 2025-09-16
+
+##### Key Concepts / Summary
+
+This lesson serves as a prelude to the final assignment by providing a template for a portfolio website. The objective is to reverse-engineer the site's functionality by reviewing the provided code and interacting with the live template. The site includes a static navigation bar, a background video, basic responsive design via a media query, and dynamic hover effects and animations using CSS properties. This review highlights the practical application of the concepts learned so far, while also introducing more advanced visual techniques.
+
+##### Independent Research / Notable Discoveries
+
+- **Modern vs. Legacy CSS**: The template uses a blend of older `float`-based layouts and modern techniques like `transform` and `transition` for animations. A modernized approach would use CSS Flexbox or Grid for the entire layout.
+- **Micro-interactions**: The subtle animations on hover and page load are a form of micro-interaction, which enhances the user experience by providing clear feedback.
+- **The Importance of Comments**: The provided `portfolio.css` file is well-commented, which is a professional best practice that makes the code easier to read and maintain.
+
+##### Insights from Chat Discussion summary
+
+- The AI assistant was unable to access the live website template, but was able to perform a complete code audit based on the provided files.
+- The audit identified both the strengths (animations, use of media queries) and the weaknesses (legacy layout techniques) of the provided template code.
+
+##### Relevant Files:
+
+- [index.html](index.html)
+- [portfolio.css](portfolio.css)
+- [github.png](github.png)
+- [html-custom.png](html-custom.png)
+- [typing.mp4](typing.mp4)
+
+---

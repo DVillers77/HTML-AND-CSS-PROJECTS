@@ -9650,3 +9650,29 @@ This lesson serves as a prelude to the final assignment by providing a template 
 - [typing.mp4](typing.mp4)
 
 ---
+
+#### CREATING THE SITE ASSIGNMENT - analyzing template code
+
+### Course Step Number: 605
+
+### Date Researched: 2025-09-16
+
+##### Key Concepts / Summary
+
+This lesson focuses on a crucial skill for any developer: reverse-engineering an existing project. By reading the heavily commented `index.html` and `portfolio.css` files, the learner gains a direct understanding of how the visual design and interactive elements they observed in the previous step are created with code. This bridges the gap between seeing a finished product and understanding the underlying process of building it from scratch.
+
+##### Independent Research / Notable Discoveries
+
+- **Code Documentation**: The extensive commenting in the template code serves as a powerful example of good documentation. This practice is essential for collaboration and for making code easy to understand for future developers (or your future self!).
+- **Code as a Blueprint**: By comparing the code to the live site, the learner can see how HTML provides the blueprint (structure), and CSS applies the styling (aesthetics), reinforcing the principle of **separation of concerns**.
+
+##### Insights from Chat Discussion summary
+
+- No discussion points were raised for this step.
+
+##### Relevant Files:
+
+- [index.html](index.html)
+- [portfolio.css](portfolio.css)
+
+---

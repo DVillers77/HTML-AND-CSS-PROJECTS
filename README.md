@@ -555,3 +555,12 @@ This assignment involved creating an account on Formspree.io and setting up a ne
 - **Relevant Files:**
   - `index.html`
   - `portfolio.css`
+
+#### 115. CREATING THE SITE ASSIGNMENT - analyzing template code (Step 605)
+
+- **Objective:** To learn how the provided template website was created by reading and analyzing its HTML and CSS files.
+- **Project Description:** The assignment requires a line-by-line comparison of the `index.html` and `portfolio.css` files against the live site's appearance and functionality.
+- **Key Learning:** This step focuses on understanding the relationship between HTML structure and CSS styling, as well as the importance of code comments for clarity and maintainability.
+- **Relevant Files:**
+  - `index.html`
+  - `portfolio.css`

@@ -10798,3 +10798,25 @@ While this step was technically completed earlier in the lesson, the formal assi
 - No files were created for this lesson.
 
 ---
+
+#### Step 605: CREATING THE SITE ASSIGNMENT
+
+### Date Completed: 2025-09-16
+
+### Objective:
+
+- Download and review the `index.html` and `portfolio.css` files for the portfolio website template.
+- Compare the code in both files with the visual output of the live website.
+- Understand the purpose of each section of the code, utilizing the provided comments for guidance.
+
+### Core Course Concepts:
+
+- Deconstructing a complete website to understand how its different parts work together.
+- Reading and comprehending an existing codebase.
+- The role of comments in improving code readability and maintainability.
+
+### Relevant Files:
+
+- No files were created for this lesson.
+
+---

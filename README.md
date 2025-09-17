@@ -74,14 +74,6 @@ This challenge involved implementing the `<blockquote>` element and embedding a 
 
 This assignment marked the submission of all completed HTML and JavaScript files for review.
 
-## Section 3: WEB DEVELOPMENT FUNDAMENTALS
-
----
-
-## Subsection B: INTRODUCTION TO JAVASCRIPT AND OBJECT-ORIENTED PROGRAMMING
-
----
-
 #### 11. BASIC HTML AND JAVASCRIPT ASSIGNMENT - Simple Alert Box
 
 This assignment covered creating an HTML file that uses JavaScript to display an alert box.
@@ -98,10 +90,6 @@ This independent exercise involved implementing a basic JavaScript function trig
 
 This assignment involved separating a JavaScript function into an external file and linking it to a new HTML file.
 
-## Subsection C: THE DOM AND DEVELOPER TOOLS
-
----
-
 #### 15. CHALLENGE - DevTools Familiarization
 
 This challenge focused on becoming familiar with Google Chrome's Developer Tools by performing foundational inspection and navigation tasks.
@@ -113,14 +101,6 @@ This activity involved understanding browser caching and gaining further practic
 #### 17. WEB BROWSER TOOLS ASSIGNMENT - Website Inspection
 
 This assignment involved applying Developer Tools skills to inspect the HTML structure of a live website of choice.
-
-## Section 4: WRITING CODE IN HTML
-
----
-
-## Subsection A: STYLING WITH HTML
-
----
 
 #### 18. COLOR ASSIGNMENT - Font Color with Deprecated Tags
 
@@ -146,31 +126,13 @@ This assignment involved pushing the completed `Basic_HTML_and_JavaScript_1` fol
 
 This assignment involved creating a `basic-html-3.html` file within a new `basic-html-and-css` folder, demonstrating the use of the **`div` element** and internal `style` tags with chosen font colors. It served as a practical exercise in applying basic HTML structuring and CSS styling, with a focus on understanding how `div` acts as a generic container.
 
-## Subsection B: A PREVIEW OF CASCADING STYLE SHEETS (CSS)
-
-This subsection introduces the foundational concepts of CSS, explaining its role in styling web pages and how it interacts with HTML. It provides a high-level overview of styling principles.
-
----
-
 #### 24. CSS COLOR AND ALIGNMENT ASSIGNMENT
 
 This assignment involved modifying `basic-html-3.html` to apply CSS for text color and alignment, using internal style tags and demonstrating different color formats.
 
-## Subsection C: Linking HTML and CSS Files
-
-This subsection focuses on the practical methods and best practices for connecting HTML documents with external CSS stylesheets, emphasizing the 'separation of concerns' in web development.
-
----
-
 #### 24. LINKING CSS ASSIGNMENT
 
 This assignment involved creating an external CSS file (`basic-css-1.css`) with specific styling for `body` and `div` elements, and then linking it to `Basic_HTML_3.html` after removing all internal CSS. The goal was to verify that styles were correctly applied in the browser.
-
-## SUBSECTION D: STYLING HTML PAGES WITH THE CLASS ATTRIBUTE
-
-This subsection will focus on styling HTML pages using the `class` attribute, encompassing fundamental concepts and practical application.
-
----
 
 #### 25. CLASS ATTRIBUTE ASSIGNMENT
 
@@ -191,12 +153,6 @@ This assignment involved creating an external CSS document (`basic-css-2.css`) t
 #### 29. COMMENTS ASSIGNMENT
 
 This assignment involved visiting `https://www.learncodinganywhere.com/` and using Chrome's developer tools to view comments embedded in the website's HTML source code.
-
-## SUBSECTION E: LISTS AND TABLES WITH HTML AND CSS
-
-This subsection will focus on creating and styling lists and tables using HTML and CSS.
-
----
 
 #### 30. TABLE ASSIGNMENT
 
@@ -533,76 +489,45 @@ This assignment involved creating an account on Formspree.io and setting up a ne
 - **Objective:** To build a single-page responsive website from scratch using HTML and CSS by following a video tutorial.
 - **Project Description:** The project is a dedication page to Grace Hopper, featuring a biography, career highlights, and embedded videos.
 - **Key Learning:** The lesson emphasizes learning by doing and building a project from scratch to reinforce core HTML and CSS concepts.
-- **Relevant Files:**
-  - `index.html`
-  - `style.css`
-  - `readme.md`
 
 #### 113. FINAL ASSIGNMENT - creating a portfolio website (Step 603)
 
 - **Objective:** To build a full portfolio website using HTML and CSS and deploy it live to a public URL.
 - **Project Description:** This is a basic portfolio site that will serve as a career asset to showcase skills and projects, with plans for future upgrades on subsequent courses.
 - **Key Learning:** The assignment focuses on the end-to-end development process, including project planning, coding from scratch, and live website deployment.
-- **Relevant Files:**
-  - `index.html`
-  - `style.css`
 
 #### 114. REVIEW ASSIGNMENT - reviewing a template (Step 604)
 
 - **Objective:** To review a live website template to understand the final project's structure, features, and functionality.
 - **Project Description:** The template is a single-page portfolio site with a fixed navigation bar, background video, and sections for personal information, projects, and a contact form.
 - **Key Learning:** This step focuses on analyzing a completed product from a user's perspective, observing its responsiveness, hover effects, and animations to learn from an existing design.
-- **Relevant Files:**
-  - `index.html`
-  - `portfolio.css`
 
 #### 115. CREATING THE SITE ASSIGNMENT - analyzing template code (Step 605)
 
 - **Objective:** To learn how the provided template website was created by reading and analyzing its HTML and CSS files.
 - **Project Description:** The assignment requires a line-by-line comparison of the `index.html` and `portfolio.css` files against the live site's appearance and functionality.
 - **Key Learning:** This step focuses on understanding the relationship between HTML structure and CSS styling, as well as the importance of code comments for clarity and maintainability.
-- **Relevant Files:**
-  - `index.html`
-  - `portfolio.css`
 
 #### 116. ALTERING CODE ASSIGNMENT - debugging and experimentation (Step 606)
 
 - **Objective:** To understand the cause-and-effect relationship between lines of code and the website's functionality by purposefully deleting code and observing the changes.
 - **Project Description:** The assignment requires deleting single lines of code from `index.html` and `portfolio.css` and then viewing the site in the browser to see the outcome.
 - **Key Learning:** This hands-on exercise is a practical introduction to debugging techniques and reinforces the importance of each line of code in a project.
-- **Relevant Files:**
-  - `index.html`
-  - `portfolio.css`
 
 #### 117. IMAGES ASSIGNMENT - sourcing and creating images (Step 607)
 
 - **Objective:** To find, prepare, and replace the template's placeholder images with a personal set of images for the portfolio website.
 - **Project Description:** The assignment required sourcing and scaling images, which was accomplished by using an AI tool to create visual representations of UX quotes, and finding a profile picture, all with proper licensing in mind.
 - **Key Learning:** This step goes beyond simply finding assets, focusing on the importance of image optimization for web performance, and the legal and ethical considerations of using online content.
-- **Relevant Files:**
-  - `dain-miller-sadle-reigns-quote-md.jpg`
-  - `designing-for-people-md.jpg`
-  - `flying-steam-engine-md.jpg`
-  - `profilepic01-md.jpg`
-  - `sketchplanations-the-curb-cut-effect-md.png`
-  - `under-construction-magic-md.jpg`
 
 #### 118. CREATING YOUR PORTFOLIO WEBSITE ASSIGNMENT - custom build (Step 608)
 
 - **Objective:** To build a full, multi-page portfolio website from scratch using HTML, CSS, and JavaScript, going beyond the provided template to create a unique and personal design.
 - **Project Description:** This project is a multi-page, responsive portfolio with a unique "zigzag" layout. It includes `index.html`, `about.html`, `projects.html`, and `contact.html`, and features custom imagery and content to reflect the creator's personal brand and design philosophy.
 - **Key Learning:** The assignment demonstrates a strong grasp of HTML structure, modern CSS layout techniques (Flexbox), responsive design with media queries, and the use of JavaScript for interactivity (mobile menu). It also showcases an understanding of information architecture and content strategy for UX.
-- **Relevant Files:**
-  - `index.html`
-  - `about.html`
-  - `projects.html`
-  - `contact.html`
-  - `stylesheet.css`
-  - `script.js`
 
 #### 119. LIVE WEBSITE OPTIONS ASSIGNMENT - deploying the website with GitHub Pages (Step 610)
 
 - **Objective:** To publish the completed multi-page, responsive portfolio website to a live URL on the internet.
 - **Project Description:** The website was successfully deployed using GitHub Pages, providing a free hosting solution and a shareable URL in the `https://username.github.io` format. This was chosen to gain practical experience with GitHub's hosting capabilities.
 - **Key Learning:** This step demonstrates the final stage of the web development process—deployment. It provides hands-on experience with a modern, version-controlled hosting method and highlights the professional satisfaction of seeing a project go live and be viewable on any device.
-- **Relevant Files:** `index.html`, `about.html`, `projects.html`, `contact.html`, `css/stylesheet.css`, `script.js`, `images/`, `video/`.

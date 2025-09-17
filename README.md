@@ -14,25 +14,9 @@ This `README.md` provides a high-level overview of the major assignments complet
 
 ---
 
-## Section 1: INTRODUCTION TO HTML
-
----
-
-## Subsection B: UNDERSTANDING HTML ELEMENTS
-
----
-
 #### 1. NOTEPAD++ ASSIGNMENT - Basic HTML Setup
 
 This assignment covered setting up Notepad++ and creating a basic "hello, world!" HTML page.
-
-## Section 2: HTML FUNDAMENTALS
-
----
-
-## Subsection B: THE HTML TEMPLATE
-
----
 
 #### 2. HTML TEMPLATE ASSIGNMENT - Create Reusable Boilerplate
 
@@ -41,10 +25,6 @@ This assignment focused on creating a reusable HTML boilerplate file.
 #### 3. BASIC WEBPAGE ASSIGNMENT - Add Structural Elements
 
 This assignment involved updating the `assignment.html` template with basic structural elements and a page title.
-
-## Subsection C: HTML Attributes
-
----
 
 #### 4. FOOTER, MAIN AND IMAGE ASSIGNMENT - Add Semantic Tags
 
